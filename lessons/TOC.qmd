@@ -1,0 +1,17 @@
+---
+sidebar: false
+toc: false
+---
+
+#  Deutsch for English-speakers
+
+The lessons are structured in such an order as they should be taken in order. However, with some basic ideas in fluency, you should be able to skip around and reference them as needed.
+
+## Lessons
+
+1. [Nominative pronouns](01_Nominative_pronouns.qmd)
+2. [Present tense verb conjugation - Regular verbs](02_Present_verb_conjugation_regular.qmd)
+
+***
+
+*These materials have been developed by Will Gammerdinger. These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*

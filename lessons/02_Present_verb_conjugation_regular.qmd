@@ -1,0 +1,61 @@
+---
+title: "Present Tense Verb Conjugation"
+author: "Will Gammerdinger"
+date: Saturday, October 25th, 2025
+---
+
+Approximate time: 30 minutes
+
+# Learning Objectives
+
+In this lesson, the learner will:
+
+* Conjugate regular verbs in the present tense
+
+# Conjugating verbs in the Present tense
+
+Conjugation is how a verb changes based upon the doer of the action. In English, this looks like:
+
+> I jump
+>
+> She jumps
+
+The first-person singular version of "to jump" is *jump*, while the third-person singular version is *jumps*. In English, conjugation is usually pretty straightforward in many tenses. So much so, that we forget that we do it. However, many languages, including German, have more complexity in their conjugation and different subjects have different conjugations. 
+
+Let's demonstrate conjugation of a regular verb in German, *gehen*, which means "to go":
+
+|||
+|:---:|:---:|
+| ich geh**e** | wir geh**en** |
+| du geh**st**<br>Sie geh**st** | ihr geh**t**<br>Sie geh**t** |
+| er geh**t**<br>sie geh**t**<br>es geh**t** | sie geh**en** |
+
+For regular verbs the rule is to remove the *-en* ending from the infinitive version of the verb and add these endings for a given subject:
+
+|||
+|:---:|:---:|
+| **-e** | **-en** |
+| **-st** | **-t** |
+| **-t** | **-en** |
+
+::: {.callout-tip title="**Exercise**"}
+Let's introduce a few more common regular verbs in the present tense.
+
+| Deutsch | English |
+|:---:|:---:|
+| machen | to do or to make |
+| spielen | to play |
+| lernen | to learn |
+| arbeiten | to work |
+| fragen | to ask |
+| sagen | to say |
+| kaufen | to buy |
+
+1. Create flashcards to learn these common verbs
+
+2. Conjugate each of the verbs
+
+[Answer Key](02_Present_verb_conjugation_regular-Answer_key.qmd)
+:::
+
+

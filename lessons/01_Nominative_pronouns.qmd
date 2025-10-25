@@ -1,0 +1,82 @@
+---
+title: "Nominative Pronouns"
+author: "Will Gammerdinger"
+date: Saturday, October 25th, 2025
+---
+
+Approximate time: 30 minutes
+
+# Learning Objectives
+
+In this lesson, the learner will:
+
+- Recall and use nominative pronouns
+- Differentiate between the formal and informal second-person nominative pronouns
+
+# What are nominative pronouns?
+
+Nominative pronouns are pronouns that are the subject of the sentence. In English, we might think of them as *I*, *you*, *he/she/it*, *we* and *they*. So a sentence like:
+
+> *He eats.*
+
+*He* represents a nominative pronoun, while *eats* represents a verb.
+
+## Aren't these just pronouns?
+
+While reading this you might be asking yourself, "Aren't these just pronouns?" and "What does it mean to specifically be a *nominative* pronoun?" These are great questions and it is a distinction that we will be making early in these lessons. Let's consider this sentence in English:
+
+> *He eats her.*
+
+*He* and *her* are both pronouns in the above sentence, but *He* is the subject of the sentence while *her* is the thing that the verb is acting upon. We don't say in English:
+
+> *He eats she.*
+
+As you can see in English, our pronouns sometimes change based upon whether we are the doer of the action or the receiver of the action. This difference exists in German as well and is more nuanced. We will discuss this much more in later sections, but this is just to acknowledge that this difference exists so that we can demonstrate that not all pronouns are nominative, even in English.
+
+# Nominative Pronouns
+
+Let's translate our nominative using the table below:
+
+|  | Singular  | Plural |
+|:---:|:---:|:---:|
+| 1^st^ person | ich | wir |
+| 2^nd^ person | du (informal)<br>Sie (formal) | ihr (informal)<br>Sie (formal) |
+| 3^rd^ person | er/sie/es\* | sie |
+ 
+\* *er* is *he*, *sie* is *she* and *es* is *it*
+
+## What do we mean by formal and informal?
+
+In German, when you are addressing certain people, you will use the formal version of *you* and other times you will use the informal version. Times you would consider using the formal version of *you* would be:
+
+- Speaking to someone you've never meet before
+- Speaking to someone of authority (police, teachers, etc.)
+- Speaking to someone significantly older than you as a sign of respect
+
+The general rule that I use is:
+
+::: {.callout-note title="When to use the formal version of *You*"}
+If a Southerner would use *Sir* or *Ma'am* to address this person, you're probably using the formal version.
+:::
+
+### Moving from formal to informal
+
+Some people, like police officers, you will always address with the formal version of *You*. However, like using *Sir* or *Ma'am*, someone may say something like "You don't need to use *Sir*/*Ma'am* with me" and Germans have this same concept, but it is a bit more subtle. The person that commands respect will use the informal *du* to address you. At which point, you are now in a **informal** *you* relationship with this person for the rest of your life. The general rule for this is:
+
+::: {.callout-note title="When to transition from formal to informal"}
+Once they use the informal version to address you, then you are now on an informal basis with this person for the rest of your life.
+:::
+
+### Differentiating between *Sie* and *sie*
+
+You might notice from the above table that *Sie* (formal version of *you* (singular and plural)) is spelled the same as *sie* (third-person singular *she* and plural *they*). The pronunciation of these is the exact same and requires context to differentiate when speaking. The conjugation of the verb that follows can help with this context. 
+
+In written form the major distinction is that the the capitalized *Sie* refers to the formal version while the lowercase *sie* refers to either *she* or *they*. However, words at the start of a sentence are capitalized like in English and given that these are nominative pronouns, they are usually the subject of the sentence. As a result, it is common to see *sie* referring to *she* or *they* capitalized, but only because they start a sentence and not because they refer to the formal *you*.
+
+### Formal usage moving forward
+
+We will limit the use of the formal *you* for simplicity moving forward in these lessons, but I will note it were applicable. This decision is to try to streamline examples and because, from my experience, learners oftentimes get a fair bit of latitude on this distinction. German speakers are generally excited to see you trying to speak German and not as focused on these social nuances. That being said, if I ran into a problem and needed help from the police or was meeting my partner's parents/grandparents for the first time, I would try to give extra special attention toward using the formal version.
+
+::: {.callout-tip title="**Exercise**"}
+Make flashcards for these nominative pronouns and practice them until you feel confident with them.
+:::

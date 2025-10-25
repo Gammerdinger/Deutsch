@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - img/
+    - css/
+    - slides/
+
+
+website:
+  title: "Deutsch for English-speakers"
+  page-footer: >
+      This lesson has been developed by Will Gammerdinger. <br>
+      These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. <br>
+  
+  navbar:
+    left:
+      - text: "Table of Contents"
+        href: lessons/TOC.qmd
+    right:
+      - text: "GitHub"
+        href: https://github.com/Gammerdinger/Deutsch
+  
+  
+  sidebar:
+    title: "Lessons"      # Optional title above the sidebar
+    style: "docked"       # Sidebar is docked to the left
+    collapse-level: 1     # At what header level to start collapsing
+    # contents: auto      # Creates automatic TOC from page headers (no sections)
+    contents:
+      - section: "Basic Syntax"
+        contents:
+        - lessons/01_Nominative_pronouns.qmd
+        - lessons/02_Present_verb_conjugation_regular.qmd
+
+
+format:
+  html:
+    theme: simplex
+    css: css/styles.css
+    fig-align: "center"
+    toc: true
+    number-sections: false
+    code-block-bg: true
+    code-copy: true      # enables copy button (default in most themes)
+    code-tools: true     # enables the copy button!
+    code-line-wrap: wrap
+    prompt: true
+
+# Global Execution Defaults
+execute:
+  echo: true               # show code
+  eval: true               # run code
+  warning: false           # show warnings
+  error: false             # show errors
+  message: false           # show messages
+  prompt: true

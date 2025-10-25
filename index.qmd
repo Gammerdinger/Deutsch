@@ -1,0 +1,32 @@
+---
+sidebar: false
+toc: false
+---
+
+# Deutsch for English-speakers
+
+## Description
+
+The goal of these materials are to provide a basic understanding of the German language for English-speakers where the explanations for the concepts and sentence structure will be provided in English. I should be clear from the start that my grasp of the German language is incomplete, but I am trying to write up lessons as my knowledge grows.
+
+A major concept for language learning is vocabulary acquisition. In these materials, we are going to attempt to limit the vocabulary and rather focus on how the language itself works. At some points vocabulary will be necessary to progress, but I will be making attempts to minimize this as much as possible.
+
+## Learning Objectives
+
+In these lessons, the learner will:
+
+- Describe grammar concepts from German
+- Assemble German sentences
+
+## A Note about General Rules
+
+Throughout the materials we will be using "General Rules". These are rules that hold in many, if not all, circumstances. We will denote them but putting them in a special block like:
+
+::: {.callout-note title="How \"General Rules\" will look"}
+"General Rules" will be in special blocks like this.
+:::
+
+## Lessons
+* [Table of Contents](lessons/TOC.qmd)
+
+---
