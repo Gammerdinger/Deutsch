@@ -32,7 +32,7 @@ Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z* has only uses *-t*
 ||schließen (to close) || sitzen (to sit) |
 || grüßen (to greet) || besitzen (to own) |
 
-This is probably a good place to point out that *-s* and *-ß* related. The *-ß* is sometimes replaced with *-ss*. As such rules that apply to *-ß*, will also apply to *-s*.
+This is probably a good place to point out that *-s* and *-ß* related. The *-ß* is sometimes replaced with *-ss*. As such, rules that apply to *-ß*, will also apply to *-s*.
 
 Let's see an example of one of these conjugations:
 
@@ -48,7 +48,7 @@ handeln (to trade)
 erinnern (to remember)
 ändern (to change)
 
-# Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by and *l* or an *r*
+# Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by an *l* or an *r*
 
 Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by and *l* or an *r* have a rather hard sound at the end of the infinitive stem, so we need to have an *e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. A table of common verbs that fall into this category are below:
 
@@ -64,6 +64,7 @@ Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is n
 Just to prove the rule, let's look at a few infinitive stems that either end in *-m* or *-n* and are preceded by and *l* or an *r*.
 
 lernen (to learn)
+
 |||
 |:---:|:---:|
 | ich lern**e** | wir lern**en** |
@@ -71,6 +72,7 @@ lernen (to learn)
 | er lern**t**<br>sie lern**t**<br>es lern**t** | Sie lern**en**<br>sie lern**en** |
 
 wärmen (to warm)
+
 |||
 |:---:|:---:|
 | ich wärm**e** | wir wärm**en** |
