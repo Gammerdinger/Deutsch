@@ -1,5 +1,5 @@
 ---
-title: "Present Tense Verb Conjugation"
+title: "Present Tense Verb Conjugation - Regular"
 author: "Will Gammerdinger"
 date: Saturday, October 25th, 2025
 ---

@@ -11,6 +11,7 @@ The lessons are structured in such an order as they should be taken in order. Ho
 
 1. [Nominative pronouns](01_Nominative_pronouns.qmd)
 2. [Present tense verb conjugation - Regular verbs](02_Present_verb_conjugation_regular.qmd)
+3. [Present tense verb conjugation - Irregular verbs](03_Present_verb_conjugation_irregular.qmd)
 
 ***
 

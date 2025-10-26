@@ -1,63 +1,97 @@
 ---
-title: "Present Tense Verb Conjugation"
+title: "Present Tense Verb Conjugation - Irregular"
 author: "Will Gammerdinger"
 date: Saturday, October 25th, 2025
 ---
 
-Approximate time: 30 minutes
+Approximate time: 45 minutes
 
 # Learning Objectives
 
 In this lesson, the learner will:
 
-* Conjugate regular verbs in the present tense
+* Conjugate irregular verbs in the present tense
 
-# Conjugating verbs in the Present tense
+# Sein
 
-Conjugation is how a verb changes based upon the doer of the action. In English, this looks like:
-
-> I jump
->
-> She jumps
-
-The first-person singular version of "to jump" is *jump*, while the third-person singular version is *jumps*. In English, conjugation is usually pretty straightforward in many tenses. So much so, that we forget that we do it. However, many languages, including German, have more complexity in their conjugation and different subjects have different conjugations. 
-
-Let's demonstrate conjugation of a regular verb in German, *gehen*, which means "to go":
+*Sein* mean "to be" and it is probably the most difficult verb to conjugate in the present tense because it doesn't follow any particular rules and you need to just memorize its conjugation. The good news is that you will you use it so frequently that it will become second-nature rather quickly. Below is the conjugation table for *Sein*:
 
 |||
 |:---:|:---:|
-| ich geh**e** | wir geh**en** |
-| du geh**st** | ihr geh**t** |
-| er geh**t**<br>sie geh**t**<br>es geh**t** | Sie\* geh**en**<br>sie geh**en** |
+| ich **bin** | wir **sind** |
+| du **bist** | ihr **seid** |
+| er **ist**<br>sie **ist**<br>es **ist** | Sie **sind**<br>sie **sind** |
 
-\* Note that the formal *Sie* follows the conjugation of the third-person, plural, even though it refers to the second-person singular or plural. This will be true in all tenses.
+# Infinitive stems ending in *-s*, *-ß*, *-x* or *-z*
 
-For regular verbs the rule is to remove the *-en* ending from the infinitive version of the verb and add these endings for a given subject:
+Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z* has only uses *-t* in the for the second-person singular. The rationale I use for this is that these infinitive stems already have either an *-s* sound at the end of the stem or a sound that is similar to *-s*. As a result adding an *-st* ending wouldn't be heard any different than *-t*. Some common words that fall into this category are:
+
+| *-s* |*-ß* |*-x* |*-z* |
+|:---:|:---:|:---:|:---:|
+| reisen (to travel) | heißen (to be named) | faxen (to fax) | tanzen (to dance) |
+||schließen (to close) || sitzen (to sit) |
+|| grüßen (to greet) || besitzen (to own) |
+
+This is probably a good place to point out that *-s* and *-ß* related. The *-ß* is sometimes replaced with *-ss*. As such rules that apply to *-ß*, will also apply to *-s*.
+
+Let's see an example of one of these conjugations:
 
 |||
 |:---:|:---:|
-| **-e** | **-en** |
-| **-st** | **-t** |
-| **-t** | **-en** |
+| ich heiß**e** | wir heiß**en** |
+| du heiß**t** | ihr heiß**t** |
+| er heiß**t**<br>sie heiß**t**<br>es heiß**t** | Sie heiß**en**<br>sie heiß**en** |
+
+# Infinitive stems ending in *-n* rather than *-en*
+
+handeln (to trade)
+erinnern (to remember)
+ändern (to change)
+
+# Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by and *l* or an *r*
+
+Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by and *l* or an *r* have a rather hard sound at the end of the infinitive stem, so we need to have an *e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. A table of common verbs that fall into this category are below:
+
+| *-d* |*-t* |*-m* not preceded by *l* or *r* |*-n* not preceded by *l* or *r* |
+|:---:|:---:|:---:|:---:|
+| baden (to bathe) | arbeiten (to work) | atmen (to breathe) | öffnen (to open) |
+| schneiden (to cut) | antworten (to answer) || rechnen (to calculate) |
+| laden (to load or to charge) | retten (to rescue) || zeichnen (to draw) |
+|| beten (to pray) || regnen (to rain) |
+
+## Infinitive stems ending in an *-m* or *-n* that is preceded by and *l* or an *r* are regular verbs
+
+Just to prove the rule, let's look at a few infinitive stems that either end in *-m* or *-n* and are preceded by and *l* or an *r*.
+
+lernen (to learn)
+|||
+|:---:|:---:|
+| ich lern**e** | wir lern**en** |
+| du lern**t** | ihr lern**t** |
+| er lern**t**<br>sie lern**t**<br>es lern**t** | Sie lern**en**<br>sie lern**en** |
+
+wärmen (to warm)
+|||
+|:---:|:---:|
+| ich wärm**e** | wir wärm**en** |
+| du wärm**t** | ihr wärm**t** |
+| er wärm**t**<br>sie wärm**t**<br>es wärm**t** | Sie wärm**en**<br>sie wärm**en** |
+
+
+# Stem-changing verbs
+
+# Other strange conjugations
+
+nehmen
+haben
+wissen
+werden
+
 
 ::: {.callout-tip title="**Exercise**"}
-Let's introduce a few more common regular verbs in the present tense.
 
-| Deutsch | English |
-|:---:|:---:|
-| machen | to do or to make |
-| spielen | to play |
-| lernen | to learn |
-| arbeiten | to work |
-| fragen | to ask |
-| sagen | to say |
-| kaufen | to buy |
 
-1. Create flashcards to learn these common verbs
-
-2. Conjugate each of the verbs
-
-[Answer Key](02_Present_verb_conjugation_regular-Answer_key.qmd)
+[Answer Key](03_Present_verb_conjugation_irregular-Answer_key.qmd)
 :::
 
 
