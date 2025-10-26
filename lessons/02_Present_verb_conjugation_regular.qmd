@@ -27,8 +27,10 @@ Let's demonstrate conjugation of a regular verb in German, *gehen*, which means 
 |||
 |:---:|:---:|
 | ich geh**e** | wir geh**en** |
-| du geh**st**<br>Sie geh**st** | ihr geh**t**<br>Sie geh**t** |
-| er geh**t**<br>sie geh**t**<br>es geh**t** | sie geh**en** |
+| du geh**st** | ihr geh**t** |
+| er geh**t**<br>sie geh**t**<br>es geh**t** | Sie\* geh**en**<br>sie geh**en** |
+
+\* Note that the formal *Sie* follows the conjugation of the third-person, plural, even though it refers to the second-person singular or plural. This will be true in all tenses.
 
 For regular verbs the rule is to remove the *-en* ending from the infinitive version of the verb and add these endings for a given subject:
 

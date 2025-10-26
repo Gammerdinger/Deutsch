@@ -11,53 +11,53 @@ date: Saturday, October 25th, 2025
 |||
 |:---:|:---:|
 | ich mach**e** | wir mach**en** |
-| du mach**st**<br>Sie mach**st** | ihr mach**t**<br>Sie mach**t** |
-| er mach**t**<br>sie mach**t**<br>es mach**t** | sie mach**en** |
+| du mach**st** | ihr mach**t** |
+| er mach**t**<br>sie mach**t**<br>es mach**t** | Sie mach**en**<br>sie mach**en** |
 
 ## spielen
 
 |||
 |:---:|:---:|
 | ich spiel**e** | wir spiel**en** |
-| du spiel**st**<br>Sie spiel**st** | ihr spiel**t**<br>Sie spiel**t** |
-| er spiel**t**<br>sie spiel**t**<br>es spiel**t** | sie spiel**en** |
+| du spiel**st** | ihr spiel**t** |
+| er spiel**t**<br>sie spiel**t**<br>es spiel**t** | Sie spiel**en**<br>sie spiel**en** |
 
 ## lernen
 
 |||
 |:---:|:---:|
 | ich lern**e** | wir lern**en** |
-| du lern**st**<br>Sie lern**st** | ihr lern**t**<br>Sie lern**t** |
-| er lern**t**<br>sie lern**t**<br>es lern**t** | sie lern**en** |
+| du lern**st** | ihr lern**t** |
+| er lern**t**<br>sie lern**t**<br>es lern**t** | Sie lern**en**<br>sie lern**en** |
 
 ## arbeiten
 
 |||
 |:---:|:---:|
 | ich arbeit**e** | wir arbeit**en** |
-| du arbeit**st**<br>Sie arbeit**st** | ihr arbeit**t**<br>Sie arbeit**t** |
-| er arbeit**t**<br>sie arbeit**t**<br>es arbeit**t** | sie arbeit**en** |
+| du arbeit**st** | ihr arbeit**t** |
+| er arbeit**t**<br>sie arbeit**t**<br>es arbeit**t** | Sie arbeit**en**<br>sie arbeit**en** |
 
 ## fragen
 
 |||
 |:---:|:---:|
 | ich frag**e** | wir frag**en** |
-| du frag**st**<br>Sie frag**st** | ihr frag**t**<br>Sie frag**t** |
-| er frag**t**<br>sie frag**t**<br>es frag**t** | sie frag**en** |
+| du frag**st** | ihr frag**t** |
+| er frag**t**<br>sie frag**t**<br>es frag**t** | Sie frag**en**<br>sie frag**en** |
 
 ## sagen
 
 |||
 |:---:|:---:|
 | ich sag**e** | wir sag**en** |
-| du sag**st**<br>Sie sag**st** | ihr sag**t**<br>Sie sag**t** |
-| er sag**t**<br>sie sag**t**<br>es sag**t** | sie sag**en** |
+| du sag**st** | ihr sag**t** |
+| er sag**t**<br>sie sag**t**<br>es sag**t** | Sie sag**en**<br>sie sag**en** |
 
 ## kaufen
 
 |||
 |:---:|:---:|
 | ich kauf**e** | wir kauf**en** |
-| du kauf**st**<br>Sie kauf**st** | ihr kauf**t**<br>Sie kauf**t** |
-| er kauf**t**<br>sie kauf**t**<br>es kauf**t** | sie kauf**en** |
+| du kauf**st** | ihr kauf**t** |
+| er kauf**t**<br>sie kauf**t**<br>es kauf**t** | Sie kauf**en**<br>sie kauf**en** |
