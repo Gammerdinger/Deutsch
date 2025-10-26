@@ -1,5 +1,5 @@
 ---
-title: "Present Tense Verb Conjugation - Regular"
+title: "Present Tense Verb Conjugation"
 author: "Will Gammerdinger"
 date: Saturday, October 25th, 2025
 ---
@@ -48,6 +48,7 @@ Let's introduce a few more common regular verbs in the present tense.
 | machen | to do or to make |
 | spielen | to play |
 | lernen | to learn |
+| arbeiten | to work |
 | fragen | to ask |
 | sagen | to say |
 | kaufen | to buy |

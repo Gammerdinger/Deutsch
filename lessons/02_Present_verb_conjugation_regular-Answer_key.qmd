@@ -30,14 +30,6 @@ date: Saturday, October 25th, 2025
 | du lern**st** | ihr lern**t** |
 | er lern**t**<br>sie lern**t**<br>es lern**t** | Sie lern**en**<br>sie lern**en** |
 
-## arbeiten
-
-|||
-|:---:|:---:|
-| ich arbeit**e** | wir arbeit**en** |
-| du arbeit**st** | ihr arbeit**t** |
-| er arbeit**t**<br>sie arbeit**t**<br>es arbeit**t** | Sie arbeit**en**<br>sie arbeit**en** |
-
 ## fragen
 
 |||
