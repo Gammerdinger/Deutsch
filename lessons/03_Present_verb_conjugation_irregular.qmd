@@ -47,19 +47,24 @@ Let's see an example of one of these conjugations:
 handeln (to trade)
 erinnern (to remember)
 ändern (to change)
+sammeln (to collect)
+lächeln (to smile)
+segeln (to sail)
+wechseln (to change or to exchange)
 
-# Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by an *l* or an *r*
+# Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by an *r*
 
-Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by and *l* or an *r* have a rather hard sound at the end of the infinitive stem, so we need to have an *e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. A table of common verbs that fall into this category are below:
+Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by an *r* have a rather hard sound at the end of the infinitive stem, so we need to have an *e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. A table of common verbs that fall into this category are below:
 
-| *-d* |*-t* |*-m* not preceded by *l* or *r* |*-n* not preceded by *l* or *r* |
+| *-d* |*-t* |*-m* not preceded by *r* |*-n* not preceded by *r* |
 |:---:|:---:|:---:|:---:|
 | baden (to bathe) | arbeiten (to work) | atmen (to breathe) | öffnen (to open) |
 | schneiden (to cut) | antworten (to answer) || rechnen (to calculate) |
 | laden (to load or to charge) | retten (to rescue) || zeichnen (to draw) |
 || beten (to pray) || regnen (to rain) |
 
-## Infinitive stems ending in an *-m* or *-n* that is preceded by and *l* or an *r* are regular verbs
+
+:::{.callout-tip title="Infinitive stems ending in an *-m* or *-n* that is preceded by an *r* are regular verbs"}
 
 Just to prove the rule, let's look at a few infinitive stems that either end in *-m* or *-n* and are preceded by and *l* or an *r*.
 
@@ -79,8 +84,40 @@ wärmen (to warm)
 | du wärm**t** | ihr wärm**t** |
 | er wärm**t**<br>sie wärm**t**<br>es wärm**t** | Sie wärm**en**<br>sie wärm**en** |
 
+:::
 
 # Stem-changing verbs
+
+## a → ä
+laufen (to walk or to run)
+schlafen (to sleep)
+fahren (to drive or to travel)
+tragen (to wear)
+waschen (to wash)
+lassen (to let or to leave)
+schlagen (to hit)
+fallen (to fall)
+halten (to stop)
+
+## e → i
+
+essen (to eat)
+geben (to give)
+sprechen (to speak)
+helfen (to help)
+treffen (to meet someone you are familiar with)
+
+## e → ie
+
+sehen (to see)
+lesen (to read)
+empfehlen (to recommend)
+stehlen (to steal)
+
+## au → äu
+
+laufen (to walk or to run)
+saufen (to drink like an animal)
 
 # Other strange conjugations
 
