@@ -73,7 +73,7 @@ lernen (to learn)
 |||
 |:---:|:---:|
 | ich lern**e** | wir lern**en** |
-| du lern**t** | ihr lern**t** |
+| du lern**st** | ihr lern**t** |
 | er lern**t**<br>sie lern**t**<br>es lern**t** | Sie lern**en**<br>sie lern**en** |
 
 wärmen (to warm)
@@ -81,7 +81,7 @@ wärmen (to warm)
 |||
 |:---:|:---:|
 | ich wärm**e** | wir wärm**en** |
-| du wärm**t** | ihr wärm**t** |
+| du wärm**st** | ihr wärm**t** |
 | er wärm**t**<br>sie wärm**t**<br>es wärm**t** | Sie wärm**en**<br>sie wärm**en** |
 
 :::
