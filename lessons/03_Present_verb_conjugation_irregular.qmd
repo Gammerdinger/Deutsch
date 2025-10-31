@@ -89,35 +89,32 @@ wärmen (to warm)
 # Stem-changing verbs
 
 ## a → ä
-laufen (to walk or to run)
-schlafen (to sleep)
-fahren (to drive or to travel)
-tragen (to wear)
-waschen (to wash)
-lassen (to let or to leave)
-schlagen (to hit)
-fallen (to fall)
-halten (to stop)
+
+- laufen (to walk or to run)
+- schlafen (to sleep)
+- fahren (to drive or to travel)
+- tragen (to wear)
+- waschen (to wash)
+- lassen (to let or to leave)
+- schlagen (to hit)
+- fallen (to fall)
+- halten (to stop)
 
 ## e → i
 
-essen (to eat)
-geben (to give)
-sprechen (to speak)
-helfen (to help)
-treffen (to meet someone you are familiar with)
+- essen (to eat)
+- geben (to give)
+- sprechen (to speak)
+- helfen (to help)
+- treffen (to meet someone you are familiar with)
 
 ## e → ie
 
-sehen (to see)
-lesen (to read)
-empfehlen (to recommend)
-stehlen (to steal)
+- sehen (to see)
+- lesen (to read)
+- empfehlen (to recommend)
+- stehlen (to steal)
 
-## au → äu
-
-laufen (to walk or to run)
-saufen (to drink like an animal)
 
 # Other strange conjugations
 
