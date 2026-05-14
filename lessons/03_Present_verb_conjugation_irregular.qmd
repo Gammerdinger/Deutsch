@@ -123,6 +123,35 @@ haben
 wissen
 werden
 
+# Verbs that only occur in the third person
+
+There are a handful of verbs that really only exist in the the third-person. All of them deal with events that occur and can't be produced or done by people. They mostly exist in the singular, but can be used more rarely in the plural. Some examples are:
+
+- regnen (to rain)
+- schneien (to snow)
+- stattfinden (to happen/to take place)
+
+As you can see, these are verbs that people can't "do". *I* can't rain, *you* can't snow and *we* can't happen. But *it* can rain, snow or happen. You might ask how some of these verbs can occur in the third-person plural, and for **regnan** and **schneien**, it is oftentimes referring to the things that are raining or snowing, the raindrops or snowflakes, respectively. You can find **stattfinden** used more often than **regnan** and **schneien** in the third-person plural as it can refer to multiple things taking place.
+
+For example:
+
+- **Flocken schneien vom Himmel.** - *The snowflakes snow from the sky.*
+- **Regenschauer regnen auf die Stadt nieder.** - *Rain showers rain down on the city.*
+- **Die Spiele finden im Mai statt.** - *The games are taking place in May.*
+
+However, in many instances you'll run into these verbs in the third-person singular:
+
+- **Es schneit.** - *It is snowing.*
+- **Es regnet** - *It is raining*
+- **Es findet statt.** - *It is happening.*
+
+::: {.callout-note}
+
+A small note that there are prefixes that can be added to schneien (rein‑ / herein‑ / vorbei‑), which change the meaning from "to snow" to "to stop by (casually/unexpectedly)". As a result, these can exist in first- and second-person and you may seen them in a sentence like:
+
+- **Ich schneie später rein.** - *I am stopping by later.*
+
+:::
 
 ::: {.callout-tip title="**Exercise**"}
 
