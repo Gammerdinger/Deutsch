@@ -125,7 +125,7 @@ werden
 
 # Verbs that only occur in the third person
 
-There are a handful of verbs that really only exist in the the third-person. All of them deal with events that occur, usually through weather, and can't be produced or done by people. They mostly exist in the singular, but can be used more rarely in the plural. Some examples are:
+There are a handful of verbs that really only exist in the third-person. All of them deal with events that occur, usually through weather, and can't be produced or done by people. They mostly exist in the singular, but can be used more rarely in the plural. Some examples are:
 
 - hageln (to hail)
 - regnen (to rain)
