@@ -125,13 +125,14 @@ werden
 
 # Verbs that only occur in the third person
 
-There are a handful of verbs that really only exist in the the third-person. All of them deal with events that occur and can't be produced or done by people. They mostly exist in the singular, but can be used more rarely in the plural. Some examples are:
+There are a handful of verbs that really only exist in the the third-person. All of them deal with events that occur, usually through weather, and can't be produced or done by people. They mostly exist in the singular, but can be used more rarely in the plural. Some examples are:
 
+- hageln (to hail)
 - regnen (to rain)
 - schneien (to snow)
 - stattfinden (to happen/to take place)
 
-As you can see, these are verbs that people can't "do". *I* can't rain, *you* can't snow and *we* can't happen. But *it* can rain, snow or happen. You might ask how some of these verbs can occur in the third-person plural, and for **regnan** and **schneien**, it is oftentimes referring to the things that are raining or snowing, the raindrops or snowflakes, respectively. You can find **stattfinden** used more often than **regnan** and **schneien** in the third-person plural as it can refer to multiple things taking place.
+As you can see, these are verbs that people can't "do". *You* can't rain, *I* can't snow and *we* can't happen. But *it* can rain, snow or happen. You might ask how some of these verbs can occur in the third-person plural, and for **regnan** and **schneien**, it is oftentimes referring to the things that are raining or snowing, the raindrops or snowflakes, respectively. You can find **stattfinden** used more often than **regnan** and **schneien** in the third-person plural as it can refer to multiple things taking place.
 
 For example:
 
@@ -151,6 +152,10 @@ A small note that there are prefixes that can be added to schneien (rein‑ / he
 
 - **Ich schneie später rein.** - *I am stopping by later.*
 
+:::
+
+:::{.callout-note}
+Also, **blitzen** (to lightning) and **donnern** (to thunder) are also weather-related verbs, so you may be tempted to lump them into this category, but can be used in the first- and second-person without any prefix. For **blitzen**, it can refer to flashing one's eyes. For **donnern**, like English, it can also mean to make loud noises. The takeaway message is that *not all* weather-related verbs fail to have first- and second-person conjugations.
 :::
 
 ::: {.callout-tip title="**Exercise**"}
