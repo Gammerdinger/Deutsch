@@ -32,7 +32,7 @@ Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z* has only uses *-t*
 ||schließen (to close) || sitzen (to sit) |
 || grüßen (to greet) || besitzen (to own) |
 
-This is probably a good place to point out that *-s* and *-ß* related. The *-ß* is sometimes replaced with *-ss*. As such, rules that apply to *-ß*, will also apply to *-s*.
+This is probably a good place to point out that *-s* and *-ß* related. The *-ß* is sometimes replaced with *-ss*. As such, rules that apply to *-s*, will also apply to *-ß*.
 
 Let's see an example of one of these conjugations:
 
@@ -88,33 +88,75 @@ wärmen (to warm)
 
 # Stem-changing verbs
 
+Some verbs change their stem in the second-person singular and the third-person singular. Unfortunately, there aren't any tricks or mnemonics for recognizing which ones do stem change, which ones don't. However, the good news is that many are used frequently enough that you will likely learn the most common offenders quickly. There are three classes of stem-changing verbs:
+
+- a → ä
+- e → i
+- e → ie
+
+Each of the tabsets below provides an example for how each class of these stem-changing verbs is conjugated:
+
+:::{.panel-tabset}
+## a → ä
+**laufen** (to walk or to run)
+
+|||
+|:---:|:---:|
+| ich lauf**e** | wir lauf**en** |
+| du l**ä**uf**st** | ihr lauf**t** |
+| er l**ä**uf**t**<br>sie l**ä**uf**t**<br>es l**ä**uf**t** | Sie lauf**en**<br>sie lauf**en** |
+
+## e → i
+**geben** (to give)
+
+|||
+|:---:|:---:|
+| ich geb**e** | wir geb**en** |
+| du g**i**b**st** | ihr geb**t** |
+| er g**i**b**t**<br>sie g**i**b**t**<br>es g**i**b**t** | Sie geb**en**<br>sie geb**en** |
+
+## e → ie
+**sehen** (to see)
+
+|||
+|:---:|:---:|
+| ich seh**e** | wir seh**en** |
+| du s**ie**h**st** | ihr seh**t** |
+| er s**ie**h**t**<br>sie s**ie**h**t**<br>es s**ie**h**t** | Sie seh**en**<br>sie seh**en** |
+
+:::
+
+More examples of stem-changing verbs from each class can be found in the tabset below: 
+
+:::{.panel-tabset}
 ## a → ä
 
-- laufen (to walk or to run)
-- schlafen (to sleep)
-- fahren (to drive or to travel)
-- tragen (to wear)
-- waschen (to wash)
-- lassen (to let or to leave)
-- schlagen (to hit)
-- fallen (to fall)
-- halten (to stop)
+- **laufen** (to walk or to run)
+- **schlafen** (to sleep)
+- **fahren** (to drive or to travel)
+- **tragen** (to wear)
+- **waschen** (to wash)
+- **lassen** (to let or to leave)
+- **schlagen** (to hit)
+- **fallen** (to fall)
+- **halten** (to stop)
 
 ## e → i
 
-- essen (to eat)
-- geben (to give)
-- sprechen (to speak)
-- helfen (to help)
-- treffen (to meet someone you are familiar with)
+- **essen** (to eat)
+- **geben** (to give)
+- **sprechen** (to speak)
+- **helfen** (to help)
+- **treffen** (to meet someone you are familiar with)
 
 ## e → ie
 
-- sehen (to see)
-- lesen (to read)
-- empfehlen (to recommend)
-- stehlen (to steal)
+- **sehen** (to see)
+- **lesen** (to read)
+- **empfehlen** (to recommend)
+- **stehlen** (to steal)
 
+:::
 
 # Other strange conjugations
 
@@ -123,39 +165,64 @@ haben
 wissen
 werden
 
-# Verbs that only occur in the third person
+# Impersonal Verbs
 
-There are a handful of verbs that really only exist in the third-person. All of them deal with events that occur, usually through weather, and can't be produced or done by people. They mostly exist in the singular, but can be used more rarely in the plural. Some examples are:
+There are a handful of verbs that really only exist in the third-person. All of them deal either defining the state of something or are weather-related. People are unable to *do* these verbs and, therefore, they are referred to as ***impersonal verbs***. Some examples are in the tabset below:
 
-- hageln (to hail)
-- regnen (to rain)
-- schneien (to snow)
-- stattfinden (to happen/to take place)
+:::{.panel-tabset}
+## Define the state of something
 
-As you can see, these are verbs that people can't "do". *You* can't rain, *I* can't snow and *we* can't happen. But *it* can rain, snow or happen. You might ask how some of these verbs can occur in the third-person plural, and for **regnan** and **schneien**, it is oftentimes referring to the things that are raining or snowing, the raindrops or snowflakes, respectively. You can find **stattfinden** used more often than **regnan** and **schneien** in the third-person plural as it can refer to multiple things taking place.
+Some impersonal verbs which define the status of a thing or an event are:
 
-For example:
+- **stattfinden** (to happen/to take place)
+- **passiern** (to happen)
+- **eilen** (to be urgent)
+- **stimmen** (to be true)
+- **sich lohnen** (to be worth it)
 
-- **Flocken schneien vom Himmel.** - *The snowflakes snow from the sky.*
-- **Regenschauer regnen auf die Stadt nieder.** - *Rain showers rain down on the city.*
-- **Die Spiele finden im Mai statt.** - *The games are taking place in May.*
+## Weather-related verbs
 
-However, in many instances you'll run into these verbs in the third-person singular:
+Other impersonal verbs fall within the category of being weather-related, such as:
 
+- **hageln** (to hail)
+- **regnen** (to rain)
+- **schneien** (to snow)
+- **blitzen\*** (to lightning)
+- **donnern\*** (to thunder)
+
+\* *Note that these verbs in the context of weather, only have third-person conjugations, but they do have alternative meanings that can be conjugated in the first- and second- person. See the collapsible discussion below for more information.*
+
+:::
+
+As you can see, these are all verbs that people can't "do". *You* can't rain, *I* can't be true and *we* can't happen, but *it* can hail, be true or happen. These impersonal verbs exist in third-person singular and plural.
+
+
+You might wonder how the weather-related impersonal verbs can occur in the third-person plural. When they are used in the weather-related context, they are usually referring to the things that are coming from the sky, the hailstones, raindrops, snowflakes, etcetera. For example:
+
+- **Die Hagelkörner hageln gegen das Fenster.** - *The hailstones are hailing against the window.*
+- **Flocken schneien vom Himmel.** - *The snowflakes are snowing from the sky.*
+- **Regenschauer regnen auf die Stadt nieder.** - *Rain showers are raining down on the city.*
+
+However, in most instances you'll run into these weather-related impersonal verbs in the third-person singular:
+
+- **Es hagelt.** - *It is hailing.*
 - **Es schneit.** - *It is snowing.*
 - **Es regnet** - *It is raining*
-- **Es findet statt.** - *It is happening.*
 
-::: {.callout-note}
+::: {.callout-note collapse="true"}
+## Prefixes with *schneien*, which change the meaning
 
-A small note that there are prefixes that can be added to schneien (rein‑ / herein‑ / vorbei‑), which change the meaning from "to snow" to "to stop by (casually/unexpectedly)". As a result, these can exist in first- and second-person and you may seen them in a sentence like:
+There are separable prefixes that can be added to **schneien** (rein‑ / herein‑ / vorbei‑), which change the meaning from "to snow" to "to stop by (casually/unexpectedly)". As a result, these can exist in first- and second-person and you may seen them in a sentence like:
 
 - **Ich schneie später rein.** - *I am stopping by later.*
 
 :::
 
-:::{.callout-note}
-Also, **blitzen** (to lightning) and **donnern** (to thunder) are also weather-related verbs, so you may be tempted to lump them into this category, but can be used in the first- and second-person without any prefix. For **blitzen**, it can refer to flashing one's eyes. For **donnern**, like English, it can also mean to make loud noises. The takeaway message is that *not all* weather-related verbs fail to have first- and second-person conjugations.
+:::{.callout-note collapse="true"}
+## Additional definitions for *blitzen* and *donnern*
+
+Since **blitzen** (to lightning) and **donnern** (to thunder) are weather-related verbs, you may be tempted to not concern yourself with them in the first- and second-person. And in the context of weather-related events, they do act as impersonal verbs since *we* can't lightning or *you* can't thunder (in the weather sense). However, each of these verbs have a secondary definition that can be used in the first- and second-person without any prefixes (unlike schneien; *see the collapsible discussion above*). For **blitzen**, it can refer to flashing one's eyes. For **donnern**, like English, it can also mean to make loud noises. The takeaway message is that *not all* weather-related verbs fail to have first- and second-person conjugations. But it is true that these weather-related verbs act as impersonal verbs when discussing weather. However, they aren't impersonal verbs for other definitions. 
+
 :::
 
 ::: {.callout-tip title="**Exercise**"}
