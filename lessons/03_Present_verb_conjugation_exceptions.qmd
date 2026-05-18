@@ -1,5 +1,5 @@
 ---
-title: "Present Tense Verb Conjugation - Irregular"
+title: "Present Tense Verb Conjugation - Exceptions"
 author: "Will Gammerdinger"
 date: Saturday, October 25th, 2025
 ---
@@ -42,19 +42,9 @@ Let's see an example of one of these conjugations:
 | du heiß**t** | ihr heiß**t** |
 | er heiß**t**<br>sie heiß**t**<br>es heiß**t** | Sie heiß**en**<br>sie heiß**en** |
 
-# Infinitive stems ending in *-n* rather than *-en*
+# Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by a consonant other than *l* or *r*
 
-handeln (to trade)
-erinnern (to remember)
-ändern (to change)
-sammeln (to collect)
-lächeln (to smile)
-segeln (to sail)
-wechseln (to change or to exchange)
-
-# Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by an *r*
-
-Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by an *r* have a rather hard sound at the end of the infinitive stem, so we need to have an *e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. A table of common verbs that fall into this category are below:
+Infinitive stems ending in *-d* or *-t* need to have an *e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. However, if it ends in an *-m* or *-n* that is not preceded by a consonant other than *l* or an *r* then we add an *e* as well.  A table of common verbs that fall into this category are below:
 
 | *-d* |*-t* |*-m* not preceded by *r* |*-n* not preceded by *r* |
 |:---:|:---:|:---:|:---:|
@@ -68,7 +58,7 @@ Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is n
 
 Just to prove the rule, let's look at a few infinitive stems that either end in *-m* or *-n* and are preceded by and *l* or an *r*.
 
-lernen (to learn)
+**lernen** (to learn)
 
 |||
 |:---:|:---:|
@@ -76,7 +66,7 @@ lernen (to learn)
 | du lern**st** | ihr lern**t** |
 | er lern**t**<br>sie lern**t**<br>es lern**t** | Sie lern**en**<br>sie lern**en** |
 
-wärmen (to warm)
+**wärmen** (to warm)
 
 |||
 |:---:|:---:|
@@ -84,6 +74,51 @@ wärmen (to warm)
 | du wärm**st** | ihr wärm**t** |
 | er wärm**t**<br>sie wärm**t**<br>es wärm**t** | Sie wärm**en**<br>sie wärm**en** |
 
+:::
+
+- bedienen
+- beginnen
+- sich besinnen
+- brennen
+- dienen
+- entfernen
+- erwähnen
+- sich gewöhnen
+- kennenlernen
+- kommen
+- lernen
+- sich lohnen
+- meinen
+
+# Infinitive stems ending in *-n* rather than *-en*
+
+Most verbs in German end in *-en*, but there are a handful that rather just end with an *-n*. In order to conjugate these verbs, treat the *-n* as if it were *-en*, by removing it and adding the normal endings. Some examples from this group of verbs are:
+
+- **handeln** (to trade)
+- **sammeln** (to collect)
+- **lächeln** (to smile)
+- **segeln** (to sail)
+- **wechseln** (to change or to exchange)
+- **erinnern** (to remember)
+- **ändern** (to change)
+- **tun** (to do)
+
+We can use **segeln** as an example to see how to conjugate these verbs:
+
+|||
+|:---:|:---:|
+| ich segel**e** | wir segel**en** |
+| du segel**t** | ihr segel**t** |
+| er segel**t**<br>sie segel**t**<br>es segel**t** | Sie segel**en**<br>sie segel**en** |
+
+:::{.callout-tip}
+## Consequences of most of these verbs end in *-eln* and *-ern*
+One small thing to note about these verbs is they almost end in *-ern* or *-eln* (with the exception of **tun** (to do)), so you don't need to worry about the above circumstances where the verb has a stem that ends in *-d*, *-m*, *-n*, *-s*, *-t*, *-ß*, *-x* or *-z* once you remove the *-n*.
+:::
+
+:::{.callout-tip}
+## Excluding **sein** from this category
+One could argue that **sein** (to be) also ends in *-n* rather than *-en*, but since it is different from every other verb in German and doesn't follow these patterns, we are going to categorize it on its own elsewhere.
 :::
 
 # Stem-changing verbs
@@ -158,12 +193,26 @@ More examples of stem-changing verbs from each class can be found in the tabset 
 
 :::
 
-# Other strange conjugations
+# Irregular conjugations
 
-nehmen
-haben
-wissen
-werden
+In addition to **sein**, there are a handful of irregular verbs that don't fall neatly into any of the above categories. Many of these are used frequently, so you will likely learn that they are different rather quickly. A brief list of the most common ones are: 
+
+- **dürfen** (to allow/to permit/may)
+- **gebären** (to give birth to)
+- **gelten** (to be valid/to be regarded)
+- **geraten** (to get into/to fall into) and related **raten** (to advise)
+- **haben** (to have)
+- **halten** (to hold/to maintain a state/to stop)
+- **können** (to be able to/can)
+- **mögen** (to like)
+- **müssen** (to have to/must)
+- **nehmen** (to take)
+- **sein** (to be)
+- **sollen** (is supposed to be/is allegedly)
+- **werden** (to become)
+- **wissen** (to know, as in facts)
+
+Below, we have conjugation tables for each of these verbs in the tabsets below.
 
 # Impersonal Verbs
 
@@ -228,7 +277,7 @@ Since **blitzen** (to lightning) and **donnern** (to thunder) are weather-relate
 ::: {.callout-tip title="**Exercise**"}
 
 
-[Answer Key](03_Present_verb_conjugation_irregular-Answer_key.qmd)
+[Answer Key](03_Present_verb_conjugation_exceptions-Answer_key.qmd)
 :::
 
 
