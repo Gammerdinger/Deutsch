@@ -108,7 +108,7 @@ We can use **segeln** as an example to see how to conjugate these verbs:
 |||
 |:---:|:---:|
 | ich segel**e** | wir segel**en** |
-| du segel**t** | ihr segel**t** |
+| du segel**st** | ihr segel**t** |
 | er segel**t**<br>sie segel**t**<br>es segel**t** | Sie segel**en**<br>sie segel**en** |
 
 :::{.callout-tip}
