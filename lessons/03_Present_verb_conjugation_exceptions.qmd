@@ -22,9 +22,13 @@ In this lesson, the learner will:
 | du **bist** | ihr **seid** |
 | er **ist**<br>sie **ist**<br>es **ist** | Sie **sind**<br>sie **sind** |
 
-# Infinitive stems ending in *-s*, *-ß*, *-x* or *-z*
+# Infinitive stem endings that couse issues
 
-Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z* has only uses *-t* in the for the second-person singular. The rationale I use for this is that these infinitive stems already have either an *-s* sound at the end of the stem or a sound that is similar to *-s*. As a result adding an *-st* ending wouldn't be heard any different than *-t*. Some common words that fall into this category are:
+There are some sets of verbs where the verb stem (the verb after removing *-en*) ends in letters that require special care. We will talk about these in the sections below.
+
+## Infinitive stems ending in *-s*, *-ß*, *-x* or *-z*
+
+Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z* has only uses *-t* in the for the second-person singular. The rationale I use for this is that these infinitive stems already have either an *-s* sound at the end of the stem or a sound that is similar to *-s*. As a result, adding an *-st* ending wouldn't be heard any different than *-t*. Some common words that fall into this category are:
 
 | *-s* |*-ß* |*-x* |*-z* |
 |:---:|:---:|:---:|:---:|
@@ -32,7 +36,10 @@ Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z* has only uses *-t*
 ||schließen (to close) || sitzen (to sit) |
 || grüßen (to greet) || besitzen (to own) |
 
-This is probably a good place to point out that *-s* and *-ß* related. The *-ß* is sometimes replaced with *-ss*. As such, rules that apply to *-s*, will also apply to *-ß*.
+:::{.callout-note}
+# Relation betwen *-ß* and *-ss*
+This is probably a good place to point out that *-s* and *-ß* related. The *-ß* is sometimes replaced with *-ss*. As such, rules that apply to *-s* will also apply to *-ß*.
+:::
 
 Let's see an example of one of these conjugations:
 
@@ -42,16 +49,37 @@ Let's see an example of one of these conjugations:
 | du heiß**t** | ihr heiß**t** |
 | er heiß**t**<br>sie heiß**t**<br>es heiß**t** | Sie heiß**en**<br>sie heiß**en** |
 
-# Infinitive stems ending in *-d*, *-t* or if it ends in an *-m* or *-n* that is not preceded by a consonant other than *l* or *r*
+## Infinitive stems ending in *-d* or *-t* or end in *-m* or *-n* preceded by a consonant sound other than *l* or *r*
 
-Infinitive stems ending in *-d* or *-t* need to have an *e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. However, if it ends in an *-m* or *-n* that is not preceded by a consonant other than *l* or an *r* then we add an *e* as well.  A table of common verbs that fall into this category are below:
+Infinitive stems ending in *-d* or *-t* need to have an *e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. Some common words that fall into this category are:
 
-| *-d* |*-t* |*-m* not preceded by *r* |*-n* not preceded by *r* |
-|:---:|:---:|:---:|:---:|
-| baden (to bathe) | arbeiten (to work) | atmen (to breathe) | öffnen (to open) |
-| schneiden (to cut) | antworten (to answer) || rechnen (to calculate) |
-| laden (to load or to charge) | retten (to rescue) || zeichnen (to draw) |
-|| beten (to pray) || regnen (to rain) |
+| *-d* |*-t* |
+|:---:|:---:|
+| baden (to bathe) | arbeiten (to work) |
+| schneiden (to cut) | antworten (to answer) |
+| laden (to load or to charge) | retten (to rescue) |
+|| beten (to pray) |
+
+:::{.callout-note}
+This rule is a pretty consistent rule, but there are a handful of exceptions. Some of these exceptions included:
+
+- **geraten** - to get into/to fall into
+- **raten** - to advise
+- **treten** - to tread/to kick
+
+These verbs aren't super common for beginners to come across, so you can think of this rule as pretty steadfast at this moment, but if you want to have it in the back of your mind that a few odd exceptions exist, then that is probably more than good enough.
+:::
+
+Additionally, if the verb stem ends in an *-m* or *-n* that is preceded by a *consonant sound* other than *l* or an *r* then we need to add an *e* as well. This rule can be a bit unclear because it matters how one defines a "*consonant sound*". Is the sound before the *-m* or *-n* sound like a vowel, *-l* or *r*? If so, it is treated normally. Otherwise, we need to add an *-e*. Let's look at some common usages of it, then look at some cases where we need to think about this "*consonant sound*" idea.
+
+A table of common verbs that fall into the category of requiring an *-e* to be added are below:
+
+| *-m* preceded by a consonant sound, *l* or *r* | *-n* preceded by a consonant sound, *l* or *r* |
+|:---:|:---:|
+| atmen (to breathe) | öffnen (to open) |
+|| rechnen (to calculate) |
+|| zeichnen (to draw) |
+|| regnen (to rain) |
 
 
 :::{.callout-tip title="Infinitive stems ending in an *-m* or *-n* that is preceded by an *r* are regular verbs"}
@@ -90,7 +118,7 @@ Just to prove the rule, let's look at a few infinitive stems that either end in 
 - sich lohnen
 - meinen
 
-# Infinitive stems ending in *-n* rather than *-en*
+# Infinitives ending in *-n* rather than *-en*
 
 Most verbs in German end in *-en*, but there are a handful that rather just end with an *-n*. In order to conjugate these verbs, treat the *-n* as if it were *-en*, by removing it and adding the normal endings. Some examples from this group of verbs are:
 
