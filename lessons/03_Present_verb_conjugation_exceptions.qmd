@@ -10,11 +10,11 @@ Approximate time: 45 minutes
 
 In this lesson, the learner will:
 
-* Conjugate irregular verbs in the present tense
+- Categorize exceptions to the "normal" way of conjugating verbs in the present tense
 
 # Sein
 
-*Sein* mean "to be" and it is probably the most difficult verb to conjugate in the present tense because it doesn't follow any particular rules and you need to just memorize its conjugation. The good news is that you will you use it so frequently that it will become second-nature rather quickly. Below is the conjugation table for *Sein*:
+*Sein* (to be) is probably the most difficult verb to conjugate in the present tense because it doesn't follow any particular rules and you need to just memorize its conjugation. The good news is that you will you use it so frequently that it will become second-nature rather quickly. Below is the conjugation table for *sein*:
 
 |||
 |:---:|:---:|
@@ -22,13 +22,13 @@ In this lesson, the learner will:
 | du **bist** | ihr **seid** |
 | er **ist**<br>sie **ist**<br>es **ist** | Sie **sind**<br>sie **sind** |
 
-# Infinitive stem endings that couse issues
+# Infinitive stem endings that cause issues
 
 There are some sets of verbs where the verb stem (the verb after removing *-en*) ends in letters that require special care. We will talk about these in the sections below.
 
 ## Infinitive stems ending in *-s*, *-ß*, *-x* or *-z*
 
-Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z* has only uses *-t* in the for the second-person singular. The rationale I use for this is that these infinitive stems already have either an *-s* sound at the end of the stem or a sound that is similar to *-s*. As a result, adding an *-st* ending wouldn't be heard any different than *-t*. Some common words that fall into this category are:
+Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z*  only add a *-t* in the second-person singular. The rationale for this is that these infinitive stems already have either an *-s* sound at the end of the stem or a sound that is somewhat similar to *-s*. As a result, adding an *-st* ending wouldn't be heard any different than *-t*. Some common words that fall into this category are:
 
 | *-s* |*-ß* |*-x* |*-z* |
 |:---:|:---:|:---:|:---:|
@@ -37,7 +37,7 @@ Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z* has only uses *-t*
 || grüßen (to greet) || besitzen (to own) |
 
 :::{.callout-note}
-# Relation betwen *-ß* and *-ss*
+# Relation between *-ß* and *-ss*
 This is probably a good place to point out that *-s* and *-ß* related. The *-ß* is sometimes replaced with *-ss*. As such, rules that apply to *-s* will also apply to *-ß*.
 :::
 
@@ -49,16 +49,16 @@ Let's see an example of one of these conjugations:
 | du heiß**t** | ihr heiß**t** |
 | er heiß**t**<br>sie heiß**t**<br>es heiß**t** | Sie heiß**en**<br>sie heiß**en** |
 
-## Infinitive stems ending in *-d* or *-t* or end in *-m* or *-n* preceded by a consonant sound other than *l* or *r*
+## Infinitive stems ending in *-d* or *-t*
 
-Infinitive stems ending in *-d* or *-t* need to have an *e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. Some common words that fall into this category are:
+Infinitive stems ending in *-d* or *-t* need to have an *-e* added after the infinitive stem but prior to the *-st* or *-t* in order to be able to pronounce it. Some common words that fall into this category are:
 
 | *-d* |*-t* |
 |:---:|:---:|
-| baden (to bathe) | arbeiten (to work) |
-| schneiden (to cut) | antworten (to answer) |
-| laden (to load or to charge) | retten (to rescue) |
-|| beten (to pray) |
+| **baden** (to bathe) | **arbeiten** (to work) |
+| **schneiden** (to cut) | **antworten** (to answer) |
+| **laden** (to load or to charge) | **retten** (to rescue) |
+|| **beten** (to pray) |
 
 :::{.callout-note}
 This rule is a pretty consistent rule, but there are a handful of exceptions. Some of these exceptions included:
@@ -70,21 +70,48 @@ This rule is a pretty consistent rule, but there are a handful of exceptions. So
 These verbs aren't super common for beginners to come across, so you can think of this rule as pretty steadfast at this moment, but if you want to have it in the back of your mind that a few odd exceptions exist, then that is probably more than good enough.
 :::
 
-Additionally, if the verb stem ends in an *-m* or *-n* that is preceded by a *consonant sound* other than *l* or an *r* then we need to add an *e* as well. This rule can be a bit unclear because it matters how one defines a "*consonant sound*". Is the sound before the *-m* or *-n* sound like a vowel, *-l* or *r*? If so, it is treated normally. Otherwise, we need to add an *-e*. Let's look at some common usages of it, then look at some cases where we need to think about this "*consonant sound*" idea.
+## Infinitive stems ending in *-m* or *-n* preceded by a consonant sound other than *-l* or *-r*
+
+Additionally, if the verb stem ends in an *-m* or *-n* that is preceded by a *consonant sound* other than *-l* or *-r* then we need to add an *-e*, just like the circumstances of infinitive stems ending with *-d* or *-t* above. 
+
+This rule can be a bit difficult for learners because it matters how one defines a "*consonant sound*". Does the sound before the *-m* or *-n* sound like a vowel, *-l* or *r*? If so, it is treated normally. Otherwise, we need to add an *-e*. Let's look at common application of this rule, then look at examples where we need to think about this "*consonant sound*" idea.
+
+**atmen** (to breathe)
+
+|||
+|:---:|:---:|
+| ich atm**e** | wir atm**en** |
+| du atm**est** | ihr atm**et** |
+| er atm**et**<br>sie atm**et**<br>es atm**et** | Sie atm**en**<br>sie atm**en** |
+
+**öffnen** (to open)
+
+|||
+|:---:|:---:|
+| ich öffn**e** | wir öffn**en** |
+| du öffn**est** | ihr öffn**et** |
+| er öffn**et**<br>sie öffn**et**<br>es öffn**et** | Sie öffn**en**<br>sie öffn**en** |
 
 A table of common verbs that fall into the category of requiring an *-e* to be added are below:
 
-| *-m* preceded by a consonant sound, *l* or *r* | *-n* preceded by a consonant sound, *l* or *r* |
+| *-m* preceded by a consonant sound other than *-l* or *-r* | *-n* preceded by a consonant sound other than *-l* or *-r* |
 |:---:|:---:|
-| atmen (to breathe) | öffnen (to open) |
-|| rechnen (to calculate) |
-|| zeichnen (to draw) |
-|| regnen (to rain) |
+| **atmen** (to breathe) | **öffnen** (to open) |
+|| **rechnen** (to calculate) |
+|| **zeichnen** (to draw) |
+|| **trocknen** (to dry (something)) |
 
+:::{.callout-note}
+# Comment on the frequency of this category of verbs
+There aren't a ton of verbs that fall into this category. In fact, for the category of having an *-m* preceded by a consonant sound other than *-l* or *-r*, **atmen**, and it's derivatives (**einatmen** (to breathe in), **ausatmen** (to breathe out), **durchatmen** (to catch your breath), **aufatmen** (to breathe a sigh of relief), etc.) is the only verb (that I am aware of) that falls into this category.
 
-:::{.callout-tip title="Infinitive stems ending in an *-m* or *-n* that is preceded by an *r* are regular verbs"}
+For infinitive stems with *-n* preceded by a consonant sound other than *-l* or *-r*, it is also quite limited. The table above covers all of the most common ones and a handful of others do exist (**begegnen** (to meet (by chance)), **entgegnen** (to reply (often contradictory)), **segnen** (to bless), etc.), but they are quite infrequent to come across as a beginner.
+:::
 
-Just to prove the rule, let's look at a few infinitive stems that either end in *-m* or *-n* and are preceded by and *l* or an *r*.
+:::{.callout-note}
+# Infinitive stems ending in an *-m* or *-n* that are preceded by vowel sounds, *-l* or *-r* do not add an *-e* to the infinitive stem
+
+To prove the rule, let's look at a few infinitive stems that either end in *-m* or *-n* and are preceded by a vowel sound, *-l* or *-r*. 
 
 **lernen** (to learn)
 
@@ -102,25 +129,34 @@ Just to prove the rule, let's look at a few infinitive stems that either end in 
 | du wärm**st** | ihr wärm**t** |
 | er wärm**t**<br>sie wärm**t**<br>es wärm**t** | Sie wärm**en**<br>sie wärm**en** |
 
+Unlike the infinitive stems ending in *-m* or *-n* preceded by a consonant sound other than *l* or *r*, these are relatively more common. I have provided a list below of some of the more common ones you might come across:
+
+- **beginnen** (to begin)
+- **sich besinnen** (to recollect/to think better of)
+- **brennen** (to burn)
+- **dienen** (to serve (a cause))
+- **entfernen** (to remove (something))
+- **erwähnen** (to mention)
+- **filmen** (to film)
+- **sich gewöhnen**\* (to become accustomed)
+- **kennenlernen** (to get to know/to meet)
+- **kommen**  (to come)
+- **lernen** (to learn)
+- **sich lohnen**\* (to be worth it)
+- **meinen** (to mean)
+- **wärmen** (to warm)
+- **wohnen**\* (to reside (somewhere))
+
+\* *Note in these examples that the -n is preceded by an -h and you may be inclined to think that these are breaking the rule. However, in this context, the sound prior to the -n still has a "vowel-like" sound. This is part of the reason why this rule is the tricky.*
+
+I am also not aware of any circumstances where the infinitive stem has a *-ln* pattern and **filmen** is the only one I know with the *-lm* pattern.
+
 :::
 
-- bedienen
-- beginnen
-- sich besinnen
-- brennen
-- dienen
-- entfernen
-- erwähnen
-- sich gewöhnen
-- kennenlernen
-- kommen
-- lernen
-- sich lohnen
-- meinen
 
 # Infinitives ending in *-n* rather than *-en*
 
-Most verbs in German end in *-en*, but there are a handful that rather just end with an *-n*. In order to conjugate these verbs, treat the *-n* as if it were *-en*, by removing it and adding the normal endings. Some examples from this group of verbs are:
+Most verbs in German end in *-en*, but there are a handful that rather end with just an *-n*. In order to conjugate these verbs, treat the *-n* as if it were *-en*, by removing it and adding the normal endings. Some examples from this group of verbs are:
 
 - **handeln** (to trade)
 - **sammeln** (to collect)
@@ -129,7 +165,6 @@ Most verbs in German end in *-en*, but there are a handful that rather just end 
 - **wechseln** (to change or to exchange)
 - **erinnern** (to remember)
 - **ändern** (to change)
-- **tun** (to do)
 
 We can use **segeln** as an example to see how to conjugate these verbs:
 
@@ -139,14 +174,14 @@ We can use **segeln** as an example to see how to conjugate these verbs:
 | du segel**st** | ihr segel**t** |
 | er segel**t**<br>sie segel**t**<br>es segel**t** | Sie segel**en**<br>sie segel**en** |
 
-:::{.callout-tip}
-## Consequences of most of these verbs end in *-eln* and *-ern*
-One small thing to note about these verbs is they almost end in *-ern* or *-eln* (with the exception of **tun** (to do)), so you don't need to worry about the above circumstances where the verb has a stem that ends in *-d*, *-m*, *-n*, *-s*, *-t*, *-ß*, *-x* or *-z* once you remove the *-n*.
+:::{.callout-note}
+## A consequence of most of these verbs ending in *-eln* and *-ern*
+One small thing to note about these verbs is they all end in *-ern* or *-eln*, so you don't need to worry about the above circumstances where the verb has a stem that ends in *-d*, *-m*, *-n*, *-s*, *-t*, *-ß*, *-x* or *-z* once you remove the *-n*.
 :::
 
-:::{.callout-tip}
-## Excluding **sein** from this category
-One could argue that **sein** (to be) also ends in *-n* rather than *-en*, but since it is different from every other verb in German and doesn't follow these patterns, we are going to categorize it on its own elsewhere.
+:::{.callout-note}
+## Excluding **sein** **tun** from this category
+One could argue that **sein** (to be) **tun** (to do) also end in *-n* rather than *-en*, but since they are both irregular verbs, so we will handle them elsewhere.
 :::
 
 # Stem-changing verbs
@@ -194,29 +229,29 @@ More examples of stem-changing verbs from each class can be found in the tabset 
 :::{.panel-tabset}
 ## a → ä
 
-- **laufen** (to walk or to run)
-- **schlafen** (to sleep)
 - **fahren** (to drive or to travel)
-- **tragen** (to wear)
-- **waschen** (to wash)
-- **lassen** (to let or to leave)
-- **schlagen** (to hit)
 - **fallen** (to fall)
 - **halten** (to stop)
+- **lassen** (to let or to leave)
+- **laufen** (to walk or to run)
+- **schlafen** (to sleep)
+- **schlagen** (to hit)
+- **tragen** (to wear)
+- **waschen** (to wash)
 
 ## e → i
 
 - **essen** (to eat)
 - **geben** (to give)
-- **sprechen** (to speak)
 - **helfen** (to help)
+- **sprechen** (to speak)
 - **treffen** (to meet someone you are familiar with)
 
 ## e → ie
 
-- **sehen** (to see)
-- **lesen** (to read)
 - **empfehlen** (to recommend)
+- **lesen** (to read)
+- **sehen** (to see)
 - **stehlen** (to steal)
 
 :::
@@ -228,19 +263,51 @@ In addition to **sein**, there are a handful of irregular verbs that don't fall 
 - **dürfen** (to allow/to permit/may)
 - **gebären** (to give birth to)
 - **gelten** (to be valid/to be regarded)
-- **geraten** (to get into/to fall into) and related **raten** (to advise)
+- **geraten** (to get into/to fall into)
 - **haben** (to have)
 - **halten** (to hold/to maintain a state/to stop)
 - **können** (to be able to/can)
 - **mögen** (to like)
 - **müssen** (to have to/must)
 - **nehmen** (to take)
+- **raten** (to advise)
 - **sein** (to be)
 - **sollen** (is supposed to be/is allegedly)
+- **tun** (to do)
 - **werden** (to become)
 - **wissen** (to know, as in facts)
+- **wollen** (to want)
 
-Below, we have conjugation tables for each of these verbs in the tabsets below.
+There are conjugation tables for each of these verbs in the tabsets below:
+
+:::{.panel-tabset}
+## dürfen
+**dürfen** (to allow/to permit/may)
+
+|||
+|:---:|:---:|
+| ich d**a**rf | wir dürf**en** |
+| du d**a**rf**st** | ihr dürf**t** |
+| er d**a**rf**t**<br>sie d**a**rf**t**<br>es d**a**rf**t** | Sie dürf**en**<br>sie dürf**en** |
+
+## gebären
+**gebären** (to give birth to)
+
+|||
+|:---:|:---:|
+| ich gebär**e** | wir gebär**en** |
+| du geb**ie**r**st** | ihr gebär**t** |
+| er geb**ie**r**t**<br>sie geb**ie**r**t**<br>es geb**ie**r**t** | Sie gebär**en**<br>sie gebär**en** |
+
+## gelten
+**gelten** (to be valid/to be regarded)
+
+|||
+|:---:|:---:|
+| ich gelt**e** | wir gelt**en** |
+| du g**i**lt**st** | ihr gelt**et** |
+| er g**i**lt<br>sie g**i**lt<br>es g**i**lt | Sie gelt**en**<br>sie gelt**en** |
+:::
 
 # Impersonal Verbs
 
@@ -252,7 +319,7 @@ There are a handful of verbs that really only exist in the third-person. All of 
 Some impersonal verbs which define the status of a thing or an event are:
 
 - **stattfinden** (to happen/to take place)
-- **passiern** (to happen)
+- **passieren** (to happen)
 - **eilen** (to be urgent)
 - **stimmen** (to be true)
 - **sich lohnen** (to be worth it)
