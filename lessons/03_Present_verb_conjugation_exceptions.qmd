@@ -16,6 +16,10 @@ In this lesson, the learner will:
 
 *Sein* (to be) is probably the most difficult verb to conjugate in the present tense because it doesn't follow any particular rules and you need to just memorize its conjugation. The good news is that you will you use it so frequently that it will become second-nature rather quickly. Below is the conjugation table for *sein*:
 
+<div style="text-align: center;">
+**sein** (to be)
+</div>
+
 |||
 |:---:|:---:|
 | ich **bin** | wir **sind** |
@@ -43,6 +47,10 @@ This is probably a good place to point out that *-s* and *-ß* related. The *-ß
 
 Let's see an example of one of these conjugations:
 
+<div style="text-align: center;">
+**heißen** (to be named)
+</div>
+
 |||
 |:---:|:---:|
 | ich heiß**e** | wir heiß**en** |
@@ -61,6 +69,7 @@ Infinitive stems ending in *-d* or *-t* need to have an *-e* added after the inf
 || **beten** (to pray) |
 
 :::{.callout-note}
+# Exceptions to this rule
 This rule is a pretty consistent rule, but there are a handful of exceptions. Some of these exceptions included:
 
 - **geraten** - to get into/to fall into
@@ -76,7 +85,9 @@ Additionally, if the verb stem ends in an *-m* or *-n* that is preceded by a *co
 
 This rule can be a bit difficult for learners because it matters how one defines a "*consonant sound*". Does the sound before the *-m* or *-n* sound like a vowel, *-l* or *r*? If so, it is treated normally. Otherwise, we need to add an *-e*. Let's look at common application of this rule, then look at examples where we need to think about this "*consonant sound*" idea.
 
+<div style="text-align: center;">
 **atmen** (to breathe)
+</div>
 
 |||
 |:---:|:---:|
@@ -84,7 +95,9 @@ This rule can be a bit difficult for learners because it matters how one defines
 | du atm**est** | ihr atm**et** |
 | er atm**et**<br>sie atm**et**<br>es atm**et** | Sie atm**en**<br>sie atm**en** |
 
+<div style="text-align: center;">
 **öffnen** (to open)
+</div>
 
 |||
 |:---:|:---:|
@@ -113,7 +126,9 @@ For infinitive stems with *-n* preceded by a consonant sound other than *-l* or 
 
 To prove the rule, let's look at a few infinitive stems that either end in *-m* or *-n* and are preceded by a vowel sound, *-l* or *-r*. 
 
+<div style="text-align: center;">
 **lernen** (to learn)
+</div>
 
 |||
 |:---:|:---:|
@@ -121,7 +136,9 @@ To prove the rule, let's look at a few infinitive stems that either end in *-m* 
 | du lern**st** | ihr lern**t** |
 | er lern**t**<br>sie lern**t**<br>es lern**t** | Sie lern**en**<br>sie lern**en** |
 
+<div style="text-align: center;">
 **wärmen** (to warm)
+</div>
 
 |||
 |:---:|:---:|
@@ -166,7 +183,11 @@ Most verbs in German end in *-en*, but there are a handful that rather end with 
 - **erinnern** (to remember)
 - **ändern** (to change)
 
-We can use **segeln** as an example to see how to conjugate these verbs:
+We can see an example for how to conjugate these verbs:
+
+<div style="text-align: center;">
+**segeln** (to sail)
+</div>
 
 |||
 |:---:|:---:|
@@ -194,9 +215,11 @@ Some verbs change their stem in the second-person singular and the third-person 
 
 Each of the tabsets below provides an example for how each class of these stem-changing verbs is conjugated:
 
-:::{.panel-tabset}
+:::{.panel-tabset group="stem_changing"}
 ## a → ä
+<div style="text-align: center;">
 **laufen** (to walk or to run)
+</div>
 
 |||
 |:---:|:---:|
@@ -205,7 +228,9 @@ Each of the tabsets below provides an example for how each class of these stem-c
 | er l**ä**uf**t**<br>sie l**ä**uf**t**<br>es l**ä**uf**t** | Sie lauf**en**<br>sie lauf**en** |
 
 ## e → i
+<div style="text-align: center;">
 **geben** (to give)
+</div>
 
 |||
 |:---:|:---:|
@@ -214,7 +239,9 @@ Each of the tabsets below provides an example for how each class of these stem-c
 | er g**i**b**t**<br>sie g**i**b**t**<br>es g**i**b**t** | Sie geb**en**<br>sie geb**en** |
 
 ## e → ie
+<div style="text-align: center;">
 **sehen** (to see)
+</div>
 
 |||
 |:---:|:---:|
@@ -226,7 +253,7 @@ Each of the tabsets below provides an example for how each class of these stem-c
 
 More examples of stem-changing verbs from each class can be found in the tabset below: 
 
-:::{.panel-tabset}
+:::{.panel-tabset group="stem_changing"}
 ## a → ä
 
 - **fahren** (to drive or to travel)
@@ -282,7 +309,9 @@ There are conjugation tables for each of these verbs in the tabsets below:
 
 :::{.panel-tabset}
 ## dürfen
+<div style="text-align: center;">
 **dürfen** (to allow/to permit/may)
+</div>
 
 |||
 |:---:|:---:|
@@ -291,7 +320,9 @@ There are conjugation tables for each of these verbs in the tabsets below:
 | er d**a**rf**t**<br>sie d**a**rf**t**<br>es d**a**rf**t** | Sie dürf**en**<br>sie dürf**en** |
 
 ## gebären
+<div style="text-align: center;">
 **gebären** (to give birth to)
+</div>
 
 |||
 |:---:|:---:|
@@ -300,13 +331,172 @@ There are conjugation tables for each of these verbs in the tabsets below:
 | er geb**ie**r**t**<br>sie geb**ie**r**t**<br>es geb**ie**r**t** | Sie gebär**en**<br>sie gebär**en** |
 
 ## gelten
+<div style="text-align: center;">
 **gelten** (to be valid/to be regarded)
+</div>
 
 |||
 |:---:|:---:|
 | ich gelt**e** | wir gelt**en** |
 | du g**i**lt**st** | ihr gelt**et** |
 | er g**i**lt<br>sie g**i**lt<br>es g**i**lt | Sie gelt**en**<br>sie gelt**en** |
+
+## geraten
+<div style="text-align: center;">
+**geraten** (to get into/to fall into)
+</div>
+
+|||
+|:---:|:---:|
+| ich gerat**e** | wir gerat**en** |
+| du ger**ä**t**st** | ihr gerat**et** |
+| er ger**ä**t<br>sie ger**ä**t<br>es ger**ä**t | Sie gerat**en**<br>sie gerat**en** |
+
+## haben
+<div style="text-align: center;">
+**haben** (to have)
+</div>
+
+|||
+|:---:|:---:|
+| ich hab**e** | wir hab**en** |
+| du ha**st** | ihr hab**t** |
+| er ha**t**<br>sie ha**t**<br>es ha**t** | Sie hab**en**<br>sie hab**en** |
+
+## halten
+<div style="text-align: center;">
+**halten** (to hold/to maintain a state/to stop)
+</div>
+
+|||
+|:---:|:---:|
+| ich halt**e** | wir halt**en** |
+| du h**ä**lt**st** | ihr halt**et** |
+| er h**ä**lt<br>sie h**ä**lt<br>es h**ä**lt | Sie halt**en**<br>sie halt**en** |
+
+## können
+<div style="text-align: center;">
+**können** (to be able to/can)
+</div>
+
+|||
+|:---:|:---:|
+| ich k**a**nn | wir könn**en** |
+| du k**a**nn**st** | ihr könn**t** |
+| er k**a**nn<br>sie k**a**nn<br>es k**a**nn | Sie könn**en**<br>sie könn**en** |
+
+## mögen
+<div style="text-align: center;">
+**mögen** (to like)
+</div>
+
+|||
+|:---:|:---:|
+| ich m**a**g | wir mög**en** |
+| du m**a**g**st** | ihr mög**t** |
+| er m**a**g<br>sie m**a**g<br>es m**a**g | Sie mög**en**<br>sie mög**en** |
+
+## müssen
+<div style="text-align: center;">
+**müssen** (to have to/must)
+</div>
+
+|||
+|:---:|:---:|
+| ich m**u**ss | wir müss**en** |
+| du m**u**ss**t** | ihr müss**t** |
+| er m**u**ss<br>sie m**u**ss<br>es m**u**ss | Sie müss**en**<br>sie müss**en** |
+
+## nehmen
+<div style="text-align: center;">
+**nehmen** (to take)
+</div>
+
+|||
+|:---:|:---:|
+| ich nehm**e** | wir nehm**en** |
+| du n**im**m**st** | ihr nehm**et** |
+| er n**im**m**t**<br>sie n**im**m**t**<br>es n**im**m**t** | Sie nehm**en**<br>sie nehm**en** |
+
+## raten
+<div style="text-align: center;">
+**raten** (to advise)
+</div>
+
+|||
+|:---:|:---:|
+| ich rat**e** | wir rat**en** |
+| du r**ä**t**st** | ihr rat**et** |
+| er r**ä**t<br>sie r**ä**t<br>es r**ä**t | Sie rat**en**<br>sie rat**en** |
+
+## sein
+<div style="text-align: center;">
+**sein** (to be)
+</div>
+
+|||
+|:---:|:---:|
+| ich **bin** | wir **sein** |
+| du **bist** | ihr **seid** |
+| er **ist**<br>sie **ist**<br>es **ist** | Sie **sein**<br>sie **sein** |
+
+## sollen
+<div style="text-align: center;">
+**sollen** (is supposed to be/is allegedly)
+</div>
+
+|||
+|:---:|:---:|
+| ich soll | wir soll**en** |
+| du soll**st** | ihr soll**t** |
+| er soll<br>sie soll<br>es soll | Sie soll**en**<br>sie soll**en** |
+
+## tun
+<div style="text-align: center;">
+**tun** (to do)
+</div>
+
+|||
+|:---:|:---:|
+| ich tu**e** | wir **tun** |
+| du tu**st** | ihr tu**t** |
+| er tu**t**<br>sie tu**t**<br>es tu**t** | Sie **tun**<br>sie **tun** |
+
+## werden
+<div style="text-align: center;">
+**werden** (to become)
+</div>
+
+|||
+|:---:|:---:|
+| ich werd**e** | wir werd**en** |
+| du w**i**r**st** | ihr werd**et** |
+| er w**i**rd<br>sie w**i**rd<br>es w**i**rd | Sie werd**en**<br>sie werd**en** |
+
+## wissen
+<div style="text-align: center;">
+**wissen** (to know, as in facts)
+</div>
+
+|||
+|:---:|:---:|
+| ich w**eiß** | wir wiss**en** |
+| du w**eißt** | ihr wiss**t** |
+| er w**eiß**<br>sie w**eiß**<br>es w**eiß** | Sie wiss**en**<br>sie wiss**en** |
+
+## wollen
+<div style="text-align: center;">
+**wollen** (to want)
+</div>
+
+
+
+|||
+|:---:|:---:|
+| ich w**i**ll | wir woll**en** |
+| du w**i**ll**st** | ihr woll**t** |
+| er w**i**ll<br>sie w**i**ll<br>es w**i**ll | Sie woll**en**<br>sie woll**en** |
+
 :::
 
 # Impersonal Verbs
