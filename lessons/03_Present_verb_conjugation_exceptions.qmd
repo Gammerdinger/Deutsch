@@ -68,17 +68,6 @@ Infinitive stems ending in *-d* or *-t* need to have an *-e* added after the inf
 | **laden** (to load or to charge) | **retten** (to rescue) |
 || **beten** (to pray) |
 
-:::{.callout-note}
-# Exceptions to this rule
-This rule is a pretty consistent rule, but there are a handful of exceptions. Some of these exceptions included:
-
-- **geraten** - to get into/to fall into
-- **raten** - to advise
-- **treten** - to tread/to kick
-
-These verbs aren't super common for beginners to come across, so you can think of this rule as pretty steadfast at this moment, but if you want to have it in the back of your mind that a few odd exceptions exist, then that is probably more than good enough.
-:::
-
 ## Infinitive stems ending in *-m* or *-n* preceded by a consonant sound other than *-l* or *-r*
 
 Additionally, if the verb stem ends in an *-m* or *-n* that is preceded by a *consonant sound* other than *-l* or *-r* then we need to add an *-e*, just like the circumstances of infinitive stems ending with *-d* or *-t* above. 
@@ -283,25 +272,69 @@ More examples of stem-changing verbs from each class can be found in the tabset 
 
 :::
 
+# Stem-changing verbs with *-t* infinitive stem-endings
+
+There a very small group of verbs who have to deal with the interaction between being a stem-changing verb and having an infinitive stem ending in *-t*. This group of verb has a very particular behavior. In the second- and third-person singular, they will undergo their stem-change, but the endings are a bit different. The second-person singular will directly add the *-st* after the infinitive stem, forgoing adding the additional *-e* that we would traditionally add when handling verbs with infinitive stems ending in *-t*. The third person singular just leaves the infinitive stem and adds no ending. 
+
+Since the stem-changing effect doesn't occur in the second-person person plural, we still need to add the *-e* prior to the *-t*.
+
+Let's look at a common example of this in **halten**:
+
+<div style="text-align: center;">
+**halten** (to hold/to maintain a state/to stop)
+</div>
+
+|||
+|:---:|:---:|
+| ich halte | wir halt**en** |
+| du h**ä**lt**st** | ihr halt**et** |
+| er h**ä**lt<br>sie h**ä**lt<br>es h**ä**lt | Sie halt**en**<br>sie halt**en** |
+
+The verbs that fall into this category are in the tabset below:
+
+:::{.panel-tabset}
+## a → ä
+- **braten** (to pan-fry/to grill)
+- **geraten** (to get into/to fall into)
+- **halten** (to hold/to maintain a state/to stop)
+- **raten** (to advise)
+
+## e → i
+- **gelten** (to be valid/to be regarded)
+
+:::
+
+::: {.callout-note}
+## What about e → ie?
+
+You might notice that in the above tabset, we don't have a tab for e → ie stem-changing verbs and that is because e → ie stem changing verbs are rare and those that do exist, don't have a infinitive stem ending of *-t*.
+
+:::
+
+::: {.callout-note}
+## What about *-d* infinitive stem endings?
+
+This rule is limited to the stem-changing verbs with *-t* infinitive stem endings, because I am unaware of any stem-changing verbs that have an infinitive stem ending of *-d*, besides **laden** (to load), which has a strange enough conjugation to warrant placing it in the irregular category.
+
+:::
+
+
 # Irregular conjugations
 
 In addition to **sein**, there are a handful of irregular verbs that don't fall neatly into any of the above categories. Many of these are used frequently, so you will likely learn that they are different rather quickly. A brief list of the most common ones are: 
 
 - **dürfen** (to allow/to permit/may)
 - **gebären** (to give birth to)
-- **gelten** (to be valid/to be regarded)
-- **geraten** (to get into/to fall into)
 - **haben** (to have)
-- **halten** (to hold/to maintain a state/to stop)
 - **können** (to be able to/can)
+- **laden** (to load)
 - **mögen** (to like)
 - **müssen** (to have to/must)
 - **nehmen** (to take)
-- **raten** (to advise)
 - **sein** (to be)
 - **sollen** (is supposed to be/is allegedly)
+- **treten** (to tread/to kick)
 - **tun** (to do)
-- **werden** (to become)
 - **wissen** (to know, as in facts)
 - **wollen** (to want)
 
@@ -330,27 +363,6 @@ There are conjugation tables for each of these verbs in the tabsets below:
 | du geb**ie**r**st** | ihr gebär**t** |
 | er geb**ie**r**t**<br>sie geb**ie**r**t**<br>es geb**ie**r**t** | Sie gebär**en**<br>sie gebär**en** |
 
-## gelten
-<div style="text-align: center;">
-**gelten** (to be valid/to be regarded)
-</div>
-
-|||
-|:---:|:---:|
-| ich gelt**e** | wir gelt**en** |
-| du g**i**lt**st** | ihr gelt**et** |
-| er g**i**lt<br>sie g**i**lt<br>es g**i**lt | Sie gelt**en**<br>sie gelt**en** |
-
-## geraten
-<div style="text-align: center;">
-**geraten** (to get into/to fall into)
-</div>
-
-|||
-|:---:|:---:|
-| ich gerat**e** | wir gerat**en** |
-| du ger**ä**t**st** | ihr gerat**et** |
-| er ger**ä**t<br>sie ger**ä**t<br>es ger**ä**t | Sie gerat**en**<br>sie gerat**en** |
 
 ## haben
 <div style="text-align: center;">
@@ -363,17 +375,6 @@ There are conjugation tables for each of these verbs in the tabsets below:
 | du ha**st** | ihr hab**t** |
 | er ha**t**<br>sie ha**t**<br>es ha**t** | Sie hab**en**<br>sie hab**en** |
 
-## halten
-<div style="text-align: center;">
-**halten** (to hold/to maintain a state/to stop)
-</div>
-
-|||
-|:---:|:---:|
-| ich halt**e** | wir halt**en** |
-| du h**ä**lt**st** | ihr halt**et** |
-| er h**ä**lt<br>sie h**ä**lt<br>es h**ä**lt | Sie halt**en**<br>sie halt**en** |
-
 ## können
 <div style="text-align: center;">
 **können** (to be able to/can)
@@ -384,6 +385,19 @@ There are conjugation tables for each of these verbs in the tabsets below:
 | ich k**a**nn | wir könn**en** |
 | du k**a**nn**st** | ihr könn**t** |
 | er k**a**nn<br>sie k**a**nn<br>es k**a**nn | Sie könn**en**<br>sie könn**en** |
+
+## laden
+<div style="text-align: center;">
+**laden** (to load)
+</div>
+
+|||
+|:---:|:---:|
+| ich lad*e* | wir lad**en** |
+| du l**ä**d**st** | ihr lad**et** |
+| er l**ä**d**t**<br>sie l**ä**d**t**<br>es l**ä**d**t** | Sie lad**en**<br>sie lad**en** |
+
+We can see that **laden** behaves very similarly to the stem-changing verbs ending in *-t*. However, in the third person singular, it adds *-t* to the end, which that set of verbs do not do. As such, I group it with the irregular verbs.
 
 ## mögen
 <div style="text-align: center;">
@@ -418,17 +432,6 @@ There are conjugation tables for each of these verbs in the tabsets below:
 | du n**im**m**st** | ihr nehm**et** |
 | er n**im**m**t**<br>sie n**im**m**t**<br>es n**im**m**t** | Sie nehm**en**<br>sie nehm**en** |
 
-## raten
-<div style="text-align: center;">
-**raten** (to advise)
-</div>
-
-|||
-|:---:|:---:|
-| ich rat**e** | wir rat**en** |
-| du r**ä**t**st** | ihr rat**et** |
-| er r**ä**t<br>sie r**ä**t<br>es r**ä**t | Sie rat**en**<br>sie rat**en** |
-
 ## sein
 <div style="text-align: center;">
 **sein** (to be)
@@ -450,6 +453,19 @@ There are conjugation tables for each of these verbs in the tabsets below:
 | ich soll | wir soll**en** |
 | du soll**st** | ihr soll**t** |
 | er soll<br>sie soll<br>es soll | Sie soll**en**<br>sie soll**en** |
+
+## treten
+<div style="text-align: center;">
+**treten** (to tread/to kick)
+</div>
+
+|||
+|:---:|:---:|
+| ich tret**e** | wir tret**en** |
+| du tr**i**t**tst** | ihr tret**et** |
+| er tr**i**t**t**<br>sie tr**i**t**t**<br>es tr**i**t**t** | Sie tret**en**<br>sie tret**en** |
+
+The verb **treten** is very similar to the stem-changing verbs that end in *-t*, but for some reason it adds an extra *-t* onto the infinitive stem in the second- and third-person singular. As such, I group it with the irregulars.
 
 ## tun
 <div style="text-align: center;">
@@ -488,8 +504,6 @@ There are conjugation tables for each of these verbs in the tabsets below:
 <div style="text-align: center;">
 **wollen** (to want)
 </div>
-
-
 
 |||
 |:---:|:---:|
