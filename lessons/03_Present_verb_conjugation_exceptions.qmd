@@ -185,6 +185,24 @@ We can see an example for how to conjugate these verbs:
 | er segel**t**<br>sie segel**t**<br>es segel**t** | Sie segel**en**<br>sie segel**en** |
 
 :::{.callout-note}
+## Colloquial form in the first-person singular
+You will sometimes see the *-e* preceding the *-ln* at the end of the verb dropped in the first-person singular. In this case, a verb like **segeln** would look like:
+
+<div style="text-align: center;">
+**segeln** (to sail)
+</div>
+
+|||
+|:---:|:---:|
+| ich segl**e** | wir segel**en** |
+| du segel**st** | ihr segel**t** |
+| er segel**t**<br>sie segel**t**<br>es segel**t** | Sie segel**en**<br>sie segel**en** |
+
+[Both spellings](https://www.duden.de/konjugation/segeln) are permitted by Duden, the *de facto* German dictionary.
+
+:::
+
+:::{.callout-note}
 ## A consequence of most of these verbs ending in *-eln* and *-ern*
 One small thing to note about these verbs is they all end in *-ern* or *-eln*, so you don't need to worry about the above circumstances where the verb has a stem that ends in *-d*, *-m*, *-n*, *-s*, *-t*, *-ß*, *-x* or *-z* once you remove the *-n*.
 :::
