@@ -65,7 +65,7 @@ Infinitive stems ending in *-d* or *-t* need to have an *-e* added after the inf
 |:---:|:---:|
 | **baden** (to bathe) | **arbeiten** (to work) |
 | **schneiden** (to cut) | **antworten** (to answer) |
-| **laden** (to load or to charge) | **retten** (to rescue) |
+|| **retten** (to rescue) |
 || **beten** (to pray) |
 
 ## Infinitive stems ending in *-m* or *-n* preceded by a consonant sound other than *-l* or *-r*
@@ -190,7 +190,7 @@ One small thing to note about these verbs is they all end in *-ern* or *-eln*, s
 :::
 
 :::{.callout-note}
-## Excluding **sein** **tun** from this category
+## Excluding **sein** and **tun** from this category
 One could argue that **sein** (to be) **tun** (to do) also end in *-n* rather than *-en*, but since they are both irregular verbs, so we will handle them elsewhere.
 :::
 
@@ -274,7 +274,7 @@ More examples of stem-changing verbs from each class can be found in the tabset 
 
 # Stem-changing verbs with *-t* infinitive stem-endings
 
-There a very small group of verbs who have to deal with the interaction between being a stem-changing verb and having an infinitive stem ending in *-t*. This group of verb has a very particular behavior. In the second- and third-person singular, they will undergo their stem-change, but the endings are a bit different. The second-person singular will directly add the *-st* after the infinitive stem, forgoing adding the additional *-e* that we would traditionally add when handling verbs with infinitive stems ending in *-t*. The third person singular just leaves the infinitive stem and adds no ending. 
+There is a very small group of verbs who have to deal with the interaction between being a stem-changing verb and having an infinitive stem ending in *-t*. This group of verb has a very particular behavior. In the second- and third-person singular, they will undergo their stem-change, but the endings are a bit different. The second-person singular will directly add the *-st* after the infinitive stem, forgoing adding the additional *-e* that we would traditionally add when handling verbs with infinitive stems ending in *-t*. The third person singular just leaves the infinitive stem and adds no ending. 
 
 Since the stem-changing effect doesn't occur in the second-person person plural, we still need to add the *-e* prior to the *-t*.
 
@@ -350,7 +350,7 @@ There are conjugation tables for each of these verbs in the tabsets below:
 |:---:|:---:|
 | ich d**a**rf | wir dürf**en** |
 | du d**a**rf**st** | ihr dürf**t** |
-| er d**a**rf**t**<br>sie d**a**rf**t**<br>es d**a**rf**t** | Sie dürf**en**<br>sie dürf**en** |
+| er d**a**rf<br>sie d**a**rf<br>es d**a**rf | Sie dürf**en**<br>sie dürf**en** |
 
 ## gebären
 <div style="text-align: center;">
@@ -429,7 +429,7 @@ We can see that **laden** behaves very similarly to the stem-changing verbs endi
 |||
 |:---:|:---:|
 | ich nehm**e** | wir nehm**en** |
-| du n**im**m**st** | ihr nehm**et** |
+| du n**im**m**st** | ihr nehm**t** |
 | er n**im**m**t**<br>sie n**im**m**t**<br>es n**im**m**t** | Sie nehm**en**<br>sie nehm**en** |
 
 ## sein
@@ -439,9 +439,9 @@ We can see that **laden** behaves very similarly to the stem-changing verbs endi
 
 |||
 |:---:|:---:|
-| ich **bin** | wir **sein** |
+| ich **bin** | wir **sind** |
 | du **bist** | ihr **seid** |
-| er **ist**<br>sie **ist**<br>es **ist** | Sie **sein**<br>sie **sein** |
+| er **ist**<br>sie **ist**<br>es **ist** | Sie **sind**<br>sie **sind** |
 
 ## sollen
 <div style="text-align: center;">
