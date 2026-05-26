@@ -396,6 +396,8 @@ This rule is limited to the stem-changing verbs with *-t* infinitive stem ending
 
 In addition to **sein**, there are a handful of irregular verbs that don't fall neatly into any of the above categories. Many of these are used frequently, so you will likely learn that they are different rather quickly. A brief list of the most common ones are: 
 
+:::columns
+:::column
 - **dürfen** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span> (to allow/to permit/may)
 - **gebären** <span class="pron" data-src="../audio/verben/gebären/gebären.ogg">🔊</span> (to give birth to)
 - **haben** <span class="pron" data-src="../audio/verben/haben/haben.ogg">🔊</span> (to have)
@@ -404,6 +406,9 @@ In addition to **sein**, there are a handful of irregular verbs that don't fall 
 - **mögen** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span> (to like)
 - **müssen** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span> (to have to/must)
 - **nehmen** <span class="pron" data-src="../audio/verben/nehmen/nehmen.ogg">🔊</span> (to take)
+:::
+
+:::column
 - **sein** <span class="pron" data-src="../audio/verben/sein/sein.ogg">🔊</span> (to be)
 - **sollen** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span> (is supposed to be/is allegedly)
 - **treten** <span class="pron" data-src="../audio/verben/treten/treten.ogg">🔊</span> (to tread/to kick)
@@ -411,6 +416,8 @@ In addition to **sein**, there are a handful of irregular verbs that don't fall 
 - **werden** <span class="pron" data-src="../audio/verben/werden/werden.ogg">🔊</span> (to become)
 - **wissen** <span class="pron" data-src="../audio/verben/wissen/wissen.ogg">🔊</span> (to know, as in facts)
 - **wollen** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span> (to want)
+:::
+:::
 
 There are conjugation tables for each of these verbs in the tabsets below:
 
@@ -596,21 +603,35 @@ There are a handful of verbs that really only exist in the third-person. All of 
 
 Some impersonal verbs which define the status of a thing or an event are:
 
+:::columns
+:::column
 - **stattfinden** <span class="pron" data-src="../audio/verben/stattfinden/stattfinden.ogg">🔊</span> (to happen/to take place)
 - **passieren** <span class="pron" data-src="../audio/verben/passieren/passieren.ogg">🔊</span> (to happen)
 - **eilen** <span class="pron" data-src="../audio/verben/eilen/eilen.ogg">🔊</span> (to be urgent)
+:::
+
+:::column
 - **stimmen** <span class="pron" data-src="../audio/verben/stimmen/stimmen.ogg">🔊</span> (to be true)
 - **sich lohnen**\* <span class="pron" data-src-list="../audio/reflexive/sich.ogg, ../audio/verben/lohnen/lohnen.ogg">🔊</span> (to be worth it)
+:::
+:::
 
 ## Weather-related verbs
 
 Other impersonal verbs fall within the category of being weather-related, such as:
 
+:::columns
+:::column
 - **blitzen\*** <span class="pron" data-src="../audio/verben/blitzen/blitzen.ogg">🔊</span> (to lightning)
 - **donnern\*** <span class="pron" data-src="../audio/verben/donnern/donnern.ogg">🔊</span> (to thunder)
 - **hageln** <span class="pron" data-src="../audio/verben/hageln/hageln.ogg">🔊</span> (to hail)
+:::
+
+:::column
 - **regnen** <span class="pron" data-src="../audio/verben/regnen/regnen.ogg">🔊</span> (to rain)
 - **schneien** <span class="pron" data-src="../audio/verben/schneien/schneien.ogg">🔊</span> (to snow)
+:::
+:::
 
 \* *Note that these verbs in the context of weather, only have third-person conjugations, but they do have alternative meanings that can be conjugated in the first- and second- person. See the collapsible discussion below for more information.*
 
