@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Deutsch for English-speakers</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -71,10 +74,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-67e3698c9357a87fd1a0e9aab97ce577.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-84aaa60ab5db7c70b2768b9d890a0a0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -102,12 +105,75 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
+</head><body class="nav-fixed fullcontent quarto-light"><audio id="global-audio-player"></audio>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("audio-helper: DOMContentLoaded");
+  const player = document.getElementById("global-audio-player");
+  if (!player) {
+    console.error("audio-helper: no #global-audio-player found");
+    return;
+  }
+
+  document.querySelectorAll(".pron").forEach(function (el) {
+    console.log("audio-helper: found .pron", el);
+    el.style.cursor = "pointer";
+    el.setAttribute("title", "Play pronunciation");
+
+    el.addEventListener("click", function (e) {
+      e.preventDefault();
+
+      const listAttr = el.getAttribute("data-src-list");
+      const single = el.getAttribute("data-src");
+
+      let sources = [];
+      if (listAttr) {
+        sources = listAttr.split(",").map(s => s.trim()).filter(Boolean);
+      } else if (single) {
+        sources = [single];
+      }
+
+      console.log("audio-helper: sources to play", sources);
+      if (sources.length === 0) return;
+
+      let idx = 0;
+
+      // Clear any old sequence handler
+      if (player._sequenceHandler) {
+        player.removeEventListener("ended", player._sequenceHandler);
+        player._sequenceHandler = null;
+      }
+
+      const playNext = function () {
+        if (idx >= sources.length) {
+          console.log("audio-helper: sequence finished");
+          player.removeEventListener("ended", playNext);
+          player._sequenceHandler = null;
+          return;
+        }
+        const src = sources[idx++];
+        console.log("audio-helper: playing", src);
+        player.src = src;
+        player.load();  // ensure the new source is loaded
+        player.play().catch(err => console.error("audio-helper: play error", err));
+      };
+
+      // Store and attach the handler *before* we start playing
+      player._sequenceHandler = playNext;
+      player.addEventListener("ended", playNext);
+
+      // Start the sequence (first file)
+      playNext();
+    });
+  });
+});
+</script>
 
 
 <link rel="stylesheet" href="css/styles.css">
-</head>
 
-<body class="nav-fixed fullcontent quarto-light">
+
+
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -167,29 +233,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Assemble German sentences</li>
 </ul>
 </section>
-<section id="a-note-about-general-rules" class="level2">
-<h2 class="anchored" data-anchor-id="a-note-about-general-rules">A Note about General Rules</h2>
-<p>Throughout the materials we will be using “General Rules”. These are rules that hold in many, if not all, circumstances. We will denote them but putting them in a special block like:</p>
-<div class="callout callout-style-default callout-note callout-titled" title="How &quot;General Rules&quot; will look">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-How “General Rules” will look
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>“General Rules” will be in special blocks like this.</p>
-</div>
-</div>
-</section>
 <section id="lessons" class="level2">
 <h2 class="anchored" data-anchor-id="lessons">Lessons</h2>
 <ul>
 <li><a href="./lessons/TOC.html">Table of Contents</a></li>
 </ul>
-<hr>
+</section>
+<section id="pronounciations" class="level2">
+<h2 class="anchored" data-anchor-id="pronounciations">Pronounciations</h2>
+<p>Where pronunciations are provided, they were pulled from <a href="https://en.wiktionary.org/">Wiktionary</a>. These audio files are licensed under the Creative Commons Attribution-Share Alike 4.0 International license.</p>
 
 
 <!-- -->
@@ -249,13 +301,14 @@ How “General Rules” will look
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -648,7 +701,7 @@ How “General Rules” will look
     }
   });
   </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
-<div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">sidebar:</span><span class="co"> false</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">toc:</span><span class="co"> false</span></span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
@@ -668,18 +721,13 @@ How “General Rules” will look
 <span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Describe grammar concepts from German</span>
 <span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Assemble German sentences</span>
 <span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a><span class="fu">## A Note about General Rules</span></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>Throughout the materials we will be using "General Rules". These are rules that hold in many, if not all, circumstances. We will denote them but putting them in a special block like:</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="fu">## Lessons</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span><span class="co">[</span><span class="ot">Table of Contents</span><span class="co">](lessons/TOC.qmd)</span></span>
 <span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>::: {.callout-note title="How \"General Rules\" will look"}</span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>"General Rules" will be in special blocks like this.</span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="fu">## Lessons</span></span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="ss">* </span><span class="co">[</span><span class="ot">Table of Contents</span><span class="co">](lessons/TOC.qmd)</span></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>---</span></code><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></pre></div>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="fu">## Pronounciations</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>Where pronunciations are provided, they were pulled from <span class="co">[</span><span class="ot">Wiktionary</span><span class="co">](https://en.wiktionary.org/)</span>. These audio files are licensed under the Creative Commons Attribution-Share Alike 4.0 International license.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">

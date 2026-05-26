@@ -18,15 +18,10 @@ In these lessons, the learner will:
 - Describe grammar concepts from German
 - Assemble German sentences
 
-## A Note about General Rules
-
-Throughout the materials we will be using "General Rules". These are rules that hold in many, if not all, circumstances. We will denote them but putting them in a special block like:
-
-::: {.callout-note title="How \"General Rules\" will look"}
-"General Rules" will be in special blocks like this.
-:::
 
 ## Lessons
 * [Table of Contents](lessons/TOC.qmd)
 
----
+## Pronounciations
+
+Where pronunciations are provided, they were pulled from [Wiktionary](https://en.wiktionary.org/). These audio files are licensed under the Creative Commons Attribution-Share Alike 4.0 International license.

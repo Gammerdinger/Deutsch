@@ -4,8 +4,7 @@ project:
   resources:
     - img/
     - css/
-    - slides/
-
+    - audio/
 
 website:
   title: "Deutsch for English-speakers"
@@ -47,6 +46,7 @@ format:
     code-tools: true     # enables the copy button!
     code-line-wrap: wrap
     prompt: true
+    include-in-header: audio/audio-helper.html
 
 # Global Execution Defaults
 execute:

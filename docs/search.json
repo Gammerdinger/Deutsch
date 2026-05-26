@@ -1,23 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "Code"
-  },
-  {
-    "objectID": "lessons/02_Present_verb_conjugation_regular.html",
-    "href": "lessons/02_Present_verb_conjugation_regular.html",
-    "title": "Present Tense Verb Conjugation - Regular",
-    "section": "",
-    "text": "Approximate time: 30 minutes\n\nLearning Objectives\nIn this lesson, the learner will:\n\nConjugate regular verbs in the present tense\n\n\n\nConjugating verbs in the Present tense\nConjugation is how a verb changes based upon the doer of the action. In English, this looks like:\n\nI jump\nShe jumps\n\nThe first-person singular version of “to jump” is jump, while the third-person singular version is jumps. In English, conjugation is usually pretty straightforward in many tenses. So much so, that we forget that we do it. However, many languages, including German, have more complexity in their conjugation and different subjects have different conjugations.\nLet’s demonstrate conjugation of a regular verb in German, gehen, which means “to go”:\n\n\n\n\n\n\n\nich gehe\nwir gehen\n\n\ndu gehst\nihr geht\n\n\ner gehtsie gehtes geht\nSie* gehensie gehen\n\n\n\n* Note that the formal Sie follows the conjugation of the third-person, plural, even though it refers to the second-person singular or plural. This will be true in all tenses.\nFor regular verbs the rule is to remove the -en ending from the infinitive version of the verb and add these endings for a given subject:\n\n\n\n-e\n-en\n\n\n-st\n-t\n\n\n-t\n-en\n\n\n\n\n\n\n\n\n\nTipExercise\n\n\n\nLet’s introduce a few more common regular verbs in the present tense.\n\n\n\nDeutsch\nEnglish\n\n\n\n\nmachen\nto do or to make\n\n\nspielen\nto play\n\n\nlernen\nto learn\n\n\nfragen\nto ask\n\n\nsagen\nto say\n\n\nkaufen\nto buy\n\n\n\n\nCreate flashcards to learn these common verbs\nConjugate each of the verbs\n\nAnswer Key",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Regular"
-    ]
-  },
-  {
     "objectID": "lessons/TOC.html",
     "href": "lessons/TOC.html",
     "title": "",
@@ -30,17 +12,6 @@
     "title": "",
     "section": "Lessons",
     "text": "Lessons\n\nNominative pronouns\nPresent tense verb conjugation - Regular verbs\nPresent tense verb conjugation - Exceptions\n\n\nThese materials have been developed by Will Gammerdinger. These are open access materials distributed under the terms of the Creative Commons Attribution license (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
-  },
-  {
-    "objectID": "lessons/01_Nomative_pronouns.html",
-    "href": "lessons/01_Nomative_pronouns.html",
-    "title": "Present Tense Verb Conjugation",
-    "section": "",
-    "text": "Approximate time: minutes\n\nLearning Objectives:\nIn this lesson, the learner will:\n\nConjugate regular verbs in the present tense",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation"
-    ]
   },
   {
     "objectID": "lessons/01_Nominative_pronouns.html",
@@ -76,45 +47,6 @@
     ]
   },
   {
-    "objectID": "lessons/01_Nominative_pronouns.html#formals-absence-from-these-lessons.",
-    "href": "lessons/01_Nominative_pronouns.html#formals-absence-from-these-lessons.",
-    "title": "Nominative Pronouns",
-    "section": "Formals absence from these lessons.",
-    "text": "Formals absence from these lessons.\nGenerally speaking, I will be avoiding",
-    "crumbs": [
-      "Basic Syntax",
-      "Nominative Pronouns"
-    ]
-  },
-  {
-    "objectID": "index.html#description",
-    "href": "index.html#description",
-    "title": "",
-    "section": "Description",
-    "text": "Description\nThe goal of these materials are to provide a basic understanding of the German language for English-speakers where the explanations for the concepts and sentence structure will be provided in English. I should be clear from the start that my grasp of the German language is incomplete, but I am trying to write up lessons as my knowledge grows.\nA major concept for language learning is vocabulary acquisition. In these materials, we are going to attempt to limit the vocabulary and rather focus on how the language itself works. At some points vocabulary will be necessary to progress, but I will be making attempts to minimize this as much as possible."
-  },
-  {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
-    "title": "",
-    "section": "Learning Objectives",
-    "text": "Learning Objectives\nIn these lessons, the learner will:\n\nDescribe grammar concepts from German\nAssemble German sentences"
-  },
-  {
-    "objectID": "index.html#a-note-about-general-rules",
-    "href": "index.html#a-note-about-general-rules",
-    "title": "",
-    "section": "A Note about General Rules",
-    "text": "A Note about General Rules\nThroughout the materials we will be using “General Rules”. These are rules that hold in many, if not all, circumstances. We will denote them but putting them in a special block like:\n\n\n\n\n\n\nHow “General Rules” will look\n\n\n\n“General Rules” will be in special blocks like this."
-  },
-  {
-    "objectID": "index.html#lessons",
-    "href": "index.html#lessons",
-    "title": "",
-    "section": "Lessons",
-    "text": "Lessons\n\nTable of Contents"
-  },
-  {
     "objectID": "lessons/02_Present_verb_conjugation_regular-Answer_key.html",
     "href": "lessons/02_Present_verb_conjugation_regular-Answer_key.html",
     "title": "Present Tense Verb Conjugation - Regular",
@@ -143,13 +75,6 @@
     "text": "ich lerne\nwir lernen\n\n\ndu lernst\nihr lernt\n\n\ner lerntsie lerntes lernt\nSie lernensie lernen"
   },
   {
-    "objectID": "lessons/02_Present_verb_conjugation_regular-Answer_key.html#arbeiten",
-    "href": "lessons/02_Present_verb_conjugation_regular-Answer_key.html#arbeiten",
-    "title": "Present Tense Verb Conjugation",
-    "section": "",
-    "text": "ich arbeite\nwir arbeiten\n\n\ndu arbeitst\nihr arbeitt\n\n\ner arbeittsie arbeittes arbeitt\nSie arbeitensie arbeiten"
-  },
-  {
     "objectID": "lessons/02_Present_verb_conjugation_regular-Answer_key.html#fragen",
     "href": "lessons/02_Present_verb_conjugation_regular-Answer_key.html#fragen",
     "title": "Present Tense Verb Conjugation - Regular",
@@ -171,101 +96,6 @@
     "text": "ich kaufe\nwir kaufen\n\n\ndu kaufst\nihr kauft\n\n\ner kauftsie kauftes kauft\nSie kaufensie kaufen"
   },
   {
-    "objectID": "lessons/03_Present_verb_conjugation_irregular.html",
-    "href": "lessons/03_Present_verb_conjugation_irregular.html",
-    "title": "Present Tense Verb Conjugation - Irregular",
-    "section": "",
-    "text": "Approximate time: 45 minutes\n\nLearning Objectives\nIn this lesson, the learner will:\n\nConjugate irregular verbs in the present tense\n\n\n\nSein\nSein mean “to be” and it is probably the most difficult verb to conjugate in the present tense because it doesn’t follow any particular rules and you need to just memorize its conjugation. The good news is that you will you use it so frequently that it will become second-nature rather quickly. Below is the conjugation table for Sein:\n\n\n\n\n\n\n\nich bin\nwir sind\n\n\ndu bist\nihr seid\n\n\ner istsie istes ist\nSie sindsie sind\n\n\n\n\n\nInfinitive stems ending in -s, -ß, -x or -z\nInfinitive verbs whose stem ends in -s, -ß, -x or -z has only uses -t in the for the second-person singular. The rationale I use for this is that these infinitive stems already have either an -s sound at the end of the stem or a sound that is similar to -s. As a result adding an -st ending wouldn’t be heard any different than -t. Some common words that fall into this category are:\n\n\n\n\n\n\n\n\n\n-s\n-ß\n-x\n-z\n\n\n\n\nreisen (to travel)\nheißen (to be named)\nfaxen (to fax)\ntanzen (to dance)\n\n\n\nschließen (to close)\n\nsitzen (to sit)\n\n\n\ngrüßen (to greet)\n\nbesitzen (to own)\n\n\n\nThis is probably a good place to point out that -s and -ß related. The -ß is sometimes replaced with -ss. As such, rules that apply to -s, will also apply to -ß.\nLet’s see an example of one of these conjugations:\n\n\n\n\n\n\n\nich heiße\nwir heißen\n\n\ndu heißt\nihr heißt\n\n\ner heißtsie heißtes heißt\nSie heißensie heißen\n\n\n\n\n\nInfinitive stems ending in -n rather than -en\nhandeln (to trade) erinnern (to remember) ändern (to change) sammeln (to collect) lächeln (to smile) segeln (to sail) wechseln (to change or to exchange)\n\n\nInfinitive stems ending in -d, -t or if it ends in an -m or -n that is not preceded by an r\nInfinitive stems ending in -d, -t or if it ends in an -m or -n that is not preceded by an r have a rather hard sound at the end of the infinitive stem, so we need to have an e added after the infinitive stem but prior to the -st or -t in order to be able to pronounce it. A table of common verbs that fall into this category are below:\n\n\n\n\n\n\n\n\n\n-d\n-t\n-m not preceded by r\n-n not preceded by r\n\n\n\n\nbaden (to bathe)\narbeiten (to work)\natmen (to breathe)\nöffnen (to open)\n\n\nschneiden (to cut)\nantworten (to answer)\n\nrechnen (to calculate)\n\n\nladen (to load or to charge)\nretten (to rescue)\n\nzeichnen (to draw)\n\n\n\nbeten (to pray)\n\nregnen (to rain)\n\n\n\n\n\n\n\n\n\nTipInfinitive stems ending in an -m or -n that is preceded by an r are regular verbs\n\n\n\nJust to prove the rule, let’s look at a few infinitive stems that either end in -m or -n and are preceded by and l or an r.\nlernen (to learn)\n\n\n\n\n\n\n\nich lerne\nwir lernen\n\n\ndu lernst\nihr lernt\n\n\ner lerntsie lerntes lernt\nSie lernensie lernen\n\n\n\nwärmen (to warm)\n\n\n\n\n\n\n\nich wärme\nwir wärmen\n\n\ndu wärmst\nihr wärmt\n\n\ner wärmtsie wärmtes wärmt\nSie wärmensie wärmen\n\n\n\n\n\n\n\nStem-changing verbs\nSome verbs change their stem in the second-person singular and the third-person singular. Unfortunately, there aren’t any tricks or mnemonics for recognizing which ones do stem change, which ones don’t. However, the good news is that many are used frequently enough that you will likely learn the most common offenders quickly. There are three classes of stem-changing verbs:\n\na → ä\ne → i\ne → ie\n\nEach of the tabsets below provides an example for how each class of these stem-changing verbs is conjugated:\n\na → äe → ie → ie\n\n\nlaufen (to walk or to run)\n\n\n\n\n\n\n\nich laufe\nwir laufen\n\n\ndu läufst\nihr lauft\n\n\ner läuftsie läuftes läuft\nSie laufensie laufen\n\n\n\n\n\ngeben (to give)\n\n\n\n\n\n\n\nich gebe\nwir geben\n\n\ndu gibst\nihr gebt\n\n\ner gibtsie gibtes gibt\nSie gebensie geben\n\n\n\n\n\nsehen (to see)\n\n\n\n\n\n\n\nich sehe\nwir sehen\n\n\ndu siehst\nihr seht\n\n\ner siehtsie siehtes sieht\nSie sehensie sehen\n\n\n\n\n\n\nMore examples of stem-changing verbs from each class can be found in the tabset below:\n\na → äe → ie → ie\n\n\n\nlaufen (to walk or to run)\nschlafen (to sleep)\nfahren (to drive or to travel)\ntragen (to wear)\nwaschen (to wash)\nlassen (to let or to leave)\nschlagen (to hit)\nfallen (to fall)\nhalten (to stop)\n\n\n\n\nessen (to eat)\ngeben (to give)\nsprechen (to speak)\nhelfen (to help)\ntreffen (to meet someone you are familiar with)\n\n\n\n\nsehen (to see)\nlesen (to read)\nempfehlen (to recommend)\nstehlen (to steal)\n\n\n\n\n\n\nOther strange conjugations\nnehmen haben wissen werden\n\n\nImpersonal Verbs\nThere are a handful of verbs that really only exist in the third-person. All of them deal either defining the state of something or are weather-related. People are unable to do these verbs and, therefore, they are referred to as impersonal verbs. Some examples are in the tabset below:\n\nDefine the state of somethingWeather-related verbs\n\n\nSome impersonal verbs which define the status of a thing or an event are:\n\nstattfinden (to happen/to take place)\npassiern (to happen)\neilen (to be urgent)\nstimmen (to be true)\nsich lohnen (to be worth it)\n\n\n\nOther impersonal verbs fall within the category of being weather-related, such as:\n\nhageln (to hail)\nregnen (to rain)\nschneien (to snow)\nblitzen* (to lightning)\ndonnern* (to thunder)\n\n* Note that these verbs in the context of weather, only have third-person conjugations, but they do have alternative meanings that can be conjugated in the first- and second- person. See the collapsible discussion below for more information.\n\n\n\nAs you can see, these are all verbs that people can’t “do”. You can’t rain, I can’t be true and we can’t happen, but it can hail, be true or happen. These impersonal verbs exist in third-person singular and plural.\nYou might wonder how the weather-related impersonal verbs can occur in the third-person plural. When they are used in the weather-related context, they are usually referring to the things that are coming from the sky, the hailstones, raindrops, snowflakes, etcetera. For example:\n\nDie Hagelkörner hageln gegen das Fenster. - The hailstones are hailing against the window.\nFlocken schneien vom Himmel. - The snowflakes are snowing from the sky.\nRegenschauer regnen auf die Stadt nieder. - Rain showers are raining down on the city.\n\nHowever, in most instances you’ll run into these weather-related impersonal verbs in the third-person singular:\n\nEs hagelt. - It is hailing.\nEs schneit. - It is snowing.\nEs regnet - It is raining\n\n\n\n\n\n\n\nNotePrefixes with schneien, which change the meaning\n\n\n\n\n\nThere are separable prefixes that can be added to schneien (rein‑ / herein‑ / vorbei‑), which change the meaning from “to snow” to “to stop by (casually/unexpectedly)”. As a result, these can exist in first- and second-person and you may seen them in a sentence like:\n\nIch schneie später rein. - I am stopping by later.\n\n\n\n\n\n\n\n\n\n\nNoteAdditional definitions for blitzen and donnern\n\n\n\n\n\nSince blitzen (to lightning) and donnern (to thunder) are weather-related verbs, you may be tempted to not concern yourself with them in the first- and second-person. And in the context of weather-related events, they do act as impersonal verbs since we can’t lightning or you can’t thunder (in the weather sense). However, each of these verbs have a secondary definition that can be used in the first- and second-person without any prefixes (unlike schneien; see the collapsible discussion above). For blitzen, it can refer to flashing one’s eyes. For donnern, like English, it can also mean to make loud noises. The takeaway message is that not all weather-related verbs fail to have first- and second-person conjugations. But it is true that these weather-related verbs act as impersonal verbs when discussing weather. However, they aren’t impersonal verbs for other definitions.\n\n\n\n\n\n\n\n\n\nTipExercise\n\n\n\nAnswer Key",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Irregular"
-    ]
-  },
-  {
-    "objectID": "lessons/03_Present_verb_conjugation_irregular-Answer_key.html",
-    "href": "lessons/03_Present_verb_conjugation_irregular-Answer_key.html",
-    "title": "Present Tense Verb Conjugation - Irregular",
-    "section": "",
-    "text": "Exercise"
-  },
-  {
-    "objectID": "lessons/03_Present_verb_conjugation_irregular.html#infinitive-stems-ending-in-an--m-or--n-that-is-preceded-by-and-l-or-an-r-are-regular-verbs",
-    "href": "lessons/03_Present_verb_conjugation_irregular.html#infinitive-stems-ending-in-an--m-or--n-that-is-preceded-by-and-l-or-an-r-are-regular-verbs",
-    "title": "Present Tense Verb Conjugation - Irregular",
-    "section": "Infinitive stems ending in an -m or -n that is preceded by and l or an r are regular verbs",
-    "text": "Infinitive stems ending in an -m or -n that is preceded by and l or an r are regular verbs\nJust to prove the rule, let’s look at a few infinitive stems that either end in -m or -n and are preceded by and l or an r.\nlernen (to learn)\n\n\n\n\n\n\n\nich lerne\nwir lernen\n\n\ndu lernt\nihr lernt\n\n\ner lerntsie lerntes lernt\nSie lernensie lernen\n\n\n\nwärmen (to warm)\n\n\n\n\n\n\n\nich wärme\nwir wärmen\n\n\ndu wärmt\nihr wärmt\n\n\ner wärmtsie wärmtes wärmt\nSie wärmensie wärmen",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Irregular"
-    ]
-  },
-  {
-    "objectID": "lessons/03_Present_verb_conjugation_irregular.html#a-ä",
-    "href": "lessons/03_Present_verb_conjugation_irregular.html#a-ä",
-    "title": "Present Tense Verb Conjugation - Irregular",
-    "section": "a → ä",
-    "text": "a → ä\n\nlaufen (to walk or to run)\nschlafen (to sleep)\nfahren (to drive or to travel)\ntragen (to wear)\nwaschen (to wash)\nlassen (to let or to leave)\nschlagen (to hit)\nfallen (to fall)\nhalten (to stop)",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Irregular"
-    ]
-  },
-  {
-    "objectID": "lessons/03_Present_verb_conjugation_irregular.html#e-i",
-    "href": "lessons/03_Present_verb_conjugation_irregular.html#e-i",
-    "title": "Present Tense Verb Conjugation - Irregular",
-    "section": "e → i",
-    "text": "e → i\n\nessen (to eat)\ngeben (to give)\nsprechen (to speak)\nhelfen (to help)\ntreffen (to meet someone you are familiar with)",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Irregular"
-    ]
-  },
-  {
-    "objectID": "lessons/03_Present_verb_conjugation_irregular.html#e-ie",
-    "href": "lessons/03_Present_verb_conjugation_irregular.html#e-ie",
-    "title": "Present Tense Verb Conjugation - Irregular",
-    "section": "e → ie",
-    "text": "e → ie\n\nsehen (to see)\nlesen (to read)\nempfehlen (to recommend)\nstehlen (to steal)",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Irregular"
-    ]
-  },
-  {
-    "objectID": "lessons/03_Present_verb_conjugation_irregular.html#au-äu",
-    "href": "lessons/03_Present_verb_conjugation_irregular.html#au-äu",
-    "title": "Present Tense Verb Conjugation - Irregular",
-    "section": "au → äu",
-    "text": "au → äu\nlaufen (to walk or to run) saufen (to drink like an animal)",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Irregular"
-    ]
-  },
-  {
-    "objectID": "lessons/03_Present_verb_conjugation_irregular.html#weather-related-verbs",
-    "href": "lessons/03_Present_verb_conjugation_irregular.html#weather-related-verbs",
-    "title": "Present Tense Verb Conjugation - Irregular",
-    "section": "Weather-related verbs",
-    "text": "Weather-related verbs\n\nhageln (to hail)\nregnen (to rain)\nschneien (to snow)\nblitzen* (to lightning)\ndonnern* (to thunder)\n\n* Note that these verbs in the context of weather, only have third-person conjugations, but they do have alternative meanings that can be conjugated in the first- and second- person. See the collapsible discussion below for more information.",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Irregular"
-    ]
-  },
-  {
-    "objectID": "lessons/03_Present_verb_conjugation_irregular.html#define-a-state-of-something",
-    "href": "lessons/03_Present_verb_conjugation_irregular.html#define-a-state-of-something",
-    "title": "Present Tense Verb Conjugation - Irregular",
-    "section": "Define a state of something",
-    "text": "Define a state of something\n\nstattfinden (to happen/to take place)\npassiern (to happen)\neilen (to be urgent)\nstimmen (to be true)\nsich lohnen (to be worth it)",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Irregular"
-    ]
-  },
-  {
     "objectID": "lessons/03_Present_verb_conjugation_exceptions.html",
     "href": "lessons/03_Present_verb_conjugation_exceptions.html",
     "title": "Present Tense Verb Conjugation - Exceptions",
@@ -277,6 +107,50 @@
     ]
   },
   {
+    "objectID": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--s--ß--x-or--z",
+    "href": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--s--ß--x-or--z",
+    "title": "Present Tense Verb Conjugation - Exceptions",
+    "section": "Infinitive stems ending in -s, -ß, -x or -z",
+    "text": "Infinitive stems ending in -s, -ß, -x or -z\nInfinitive verbs whose stem ends in -s, -ß, -x or -z only add a -t in the second-person singular. The rationale for this is that these infinitive stems already have either an -s sound at the end of the stem or a sound that is somewhat similar to -s. As a result, adding an -st ending wouldn’t be heard any different than -t. Some common words that fall into this category are:\n\n\n\n\n\n\n\n\n\n-s\n-ß\n-x\n-z\n\n\n\n\nreisen 🔊 (to travel)\nheißen 🔊 (to be named)\nfaxen 🔊 (to fax)\ntanzen 🔊 (to dance)\n\n\n\nschließen 🔊 (to close)\n\nsitzen 🔊 (to sit)\n\n\n\ngrüßen 🔊 (to greet)\n\nbesitzen 🔊 (to own)\n\n\n\n\n\n\n\n\n\nNoteRelation between -ß and -ss\n\n\n\nThis is probably a good place to point out that -s and -ß related. The -ß is sometimes replaced with -ss. As such, rules that apply to -s will also apply to -ß.\n\n\nLet’s see an example of one of these conjugations:\n\nheißen 🔊 (to be named)\n\n\n\n\n\n\n\n\nich heiße 🔊\nwir heißen 🔊\n\n\ndu heißt 🔊\nihr heißt 🔊\n\n\ner heißt 🔊sie heißtes heißt\nSie heißen 🔊sie heißen",
+    "crumbs": [
+      "Basic Syntax",
+      "Present Tense Verb Conjugation - Exceptions"
+    ]
+  },
+  {
+    "objectID": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--d-or--t",
+    "href": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--d-or--t",
+    "title": "Present Tense Verb Conjugation - Exceptions",
+    "section": "Infinitive stems ending in -d or -t",
+    "text": "Infinitive stems ending in -d or -t\nInfinitive stems ending in -d or -t need to have an -e added after the infinitive stem but prior to the -st or -t in order to be able to pronounce it. Some common words that fall into this category are:\n\n\n\n\n\n\n\n-d\n-t\n\n\n\n\nbaden 🔊 (to bathe)\narbeiten 🔊 (to work)\n\n\nschneiden 🔊 (to cut)\nantworten 🔊 (to answer)\n\n\n\nretten 🔊 (to rescue)\n\n\n\nbeten 🔊 (to pray)\n\n\n\nLet’s see this conjugation in practice:\n\nbaden 🔊 (to bathe)\n\n\n\n\n\n\n\n\nich bade 🔊\nwir baden 🔊\n\n\ndu badest 🔊\nihr badet 🔊\n\n\ner badet 🔊 sie badet es badet\nSie baden 🔊 sie baden\n\n\n\n\narbeiten 🔊 (to work)\n\n\n\n\n\n\n\n\nich arbeite 🔊\nwir arbeiten 🔊\n\n\ndu arbeitest 🔊\nihr arbeitet 🔊\n\n\ner arbeitet 🔊 sie arbeitetes arbeitet\nSie arbeiten 🔊 sie arbeiten",
+    "crumbs": [
+      "Basic Syntax",
+      "Present Tense Verb Conjugation - Exceptions"
+    ]
+  },
+  {
+    "objectID": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--m-or--n-preceded-by-a-consonant-sound-other-than--l-or--r",
+    "href": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--m-or--n-preceded-by-a-consonant-sound-other-than--l-or--r",
+    "title": "Present Tense Verb Conjugation - Exceptions",
+    "section": "Infinitive stems ending in -m or -n preceded by a consonant sound other than -l or -r",
+    "text": "Infinitive stems ending in -m or -n preceded by a consonant sound other than -l or -r\nAdditionally, if the verb stem ends in an -m or -n that is preceded by a consonant sound other than -l or -r then we need to add an -e, just like the circumstances of infinitive stems ending with -d or -t above.\nThis rule can be a bit difficult for learners because it matters how one defines a “consonant sound”. Does the sound before the -m or -n sound like a vowel, -l or r? If so, it is treated normally. Otherwise, we need to add an -e. Let’s look at common application of this rule, then look at examples where we need to think about this “consonant sound” idea.\n\natmen 🔊 (to breathe)\n\n\n\n\n\n\n\n\nich atme 🔊\nwir atmen 🔊\n\n\ndu atmest 🔊\nihr atmet 🔊\n\n\ner atmet 🔊sie atmetes atmet\nSie atmen 🔊sie atmen\n\n\n\n\nöffnen 🔊 (to open)\n\n\n\n\n\n\n\n\nich öffne 🔊\nwir öffnen 🔊\n\n\ndu öffnest 🔊\nihr öffnet 🔊\n\n\ner öffnet 🔊sie öffnetes öffnet\nSie öffnen 🔊sie öffnen\n\n\n\nA table of common verbs that fall into the category of requiring an -e to be added are below:\n\n\n\n\n\n\n\n-m preceded by a consonant sound other than -l or -r\n-n preceded by a consonant sound other than -l or -r\n\n\n\n\natmen 🔊 (to breathe)\nöffnen 🔊 (to open)\n\n\n\nrechnen 🔊 (to calculate)\n\n\n\nzeichnen 🔊 (to draw)\n\n\n\ntrocknen 🔊 (to dry (something))\n\n\n\n\n\n\n\n\n\nNoteComment on the frequency of this category of verbs\n\n\n\nThere aren’t a ton of verbs that fall into this category. In fact, for the category of having an -m preceded by a consonant sound other than -l or -r, atmen 🔊, and it’s derivatives (einatmen 🔊 (to breathe in), ausatmen 🔊 (to breathe out), durchatmen 🔊 (to catch your breath), aufatmen 🔊 (to breathe a sigh of relief), etc.) is the only verb (that I am aware of) that falls into this category.\nFor infinitive stems with -n preceded by a consonant sound other than -l or -r, it is also quite limited. The table above covers all of the most common ones and a handful of others do exist (begegnen 🔊 (to meet (by chance)), entgegnen 🔊 (to reply (often contradictory)), segnen 🔊 (to bless), etc.), but they are quite infrequent to come across as a beginner.\n\n\n\n\n\n\n\n\nNoteInfinitive stems ending in an -m or -n that are preceded by vowel sounds, -l or -r do not add an -e to the infinitive stem\n\n\n\nTo prove the rule, let’s look at a few infinitive stems that either end in -m or -n and are preceded by a vowel sound, -l or -r.\n\nlernen 🔊 (to learn)\n\n\n\n\n\n\n\n\nich lerne 🔊\nwir lernen 🔊\n\n\ndu lernst 🔊\nihr lernt 🔊\n\n\ner lernt 🔊sie lerntes lernt\nSie lernen 🔊sie lernen\n\n\n\n\nwärmen 🔊 (to warm)\n\n\n\n\n\n\n\n\nich wärme 🔊\nwir wärmen 🔊\n\n\ndu wärmst 🔊\nihr wärmt 🔊\n\n\ner wärmt 🔊sie wärmtes wärmt\nSie wärmen 🔊sie wärmen\n\n\n\nUnlike the infinitive stems ending in -m or -n preceded by a consonant sound other than l or r, these are relatively more common. I have provided a list below of some of the more common ones you might come across:\n\n\n\nbeginnen 🔊 (to begin)\nsich besinnen 🔊 (to recollect / to think better of)\nbrennen 🔊 (to burn)\ndienen 🔊 (to serve (a cause))\nentfernen 🔊 (to remove (something))\nerwähnen 🔊 (to mention)\nfilmen 🔊 (to film)\n\n\n\nsich gewöhnen* 🔊 (to become accustomed)\nkennenlernen 🔊 (to get to know/to meet)\nkommen 🔊 (to come)\nlernen 🔊 (to learn)\nmeinen 🔊 (to mean)\nwärmen 🔊 (to warm)\nwohnen* 🔊 (to reside (somewhere))\n\n\n\n* Note in these examples that the -n is preceded by an -h and you may be inclined to think that these are breaking the rule. However, in this context, the sound prior to the -n still has a “vowel-like” sound. This is part of the reason why this rule is the tricky.\nI am also not aware of any circumstances where the infinitive stem has a -ln pattern and filmen is the only one I know with the -lm pattern.",
+    "crumbs": [
+      "Basic Syntax",
+      "Present Tense Verb Conjugation - Exceptions"
+    ]
+  },
+  {
+    "objectID": "lessons/02_Present_verb_conjugation_regular.html",
+    "href": "lessons/02_Present_verb_conjugation_regular.html",
+    "title": "Present Tense Verb Conjugation - Regular",
+    "section": "",
+    "text": "Approximate time: 30 minutes\n\nLearning Objectives\nIn this lesson, the learner will:\n\nConjugate regular verbs in the present tense\n\n\n\nConjugating verbs in the Present tense\nConjugation is how a verb changes based upon the doer of the action. In English, this looks like:\n\nI jump\nShe jumps\n\nThe first-person singular version of “to jump” is jump, while the third-person singular version is jumps. In English, conjugation is usually pretty straightforward in many tenses. So much so, that we forget that we do it. However, many languages, including German, have more complexity in their conjugation and different subjects have different conjugations.\nLet’s demonstrate conjugation of a regular verb in German, gehen, which means “to go”:\n\n\n\n\n\n\n\nich gehe\nwir gehen\n\n\ndu gehst\nihr geht\n\n\ner gehtsie gehtes geht\nSie* gehensie gehen\n\n\n\n* Note that the formal Sie follows the conjugation of the third-person, plural, even though it refers to the second-person singular or plural. This will be true in all tenses.\nFor regular verbs the rule is to remove the -en ending from the infinitive version of the verb and add these endings for a given subject:\n\n\n\n-e\n-en\n\n\n-st\n-t\n\n\n-t\n-en\n\n\n\n\n\n\n\n\n\nTipExercise\n\n\n\nLet’s introduce a few more common regular verbs in the present tense.\n\n\n\nDeutsch\nEnglish\n\n\n\n\nmachen\nto do or to make\n\n\nspielen\nto play\n\n\nlernen\nto learn\n\n\nfragen\nto ask\n\n\nsagen\nto say\n\n\nkaufen\nto buy\n\n\n\n\nCreate flashcards to learn these common verbs\nConjugate each of the verbs\n\nAnswer Key",
+    "crumbs": [
+      "Basic Syntax",
+      "Present Tense Verb Conjugation - Regular"
+    ]
+  },
+  {
     "objectID": "lessons/03_Present_verb_conjugation_exceptions-Answer_key.html",
     "href": "lessons/03_Present_verb_conjugation_exceptions-Answer_key.html",
     "title": "Present Tense Verb Conjugation - Irregular",
@@ -284,57 +158,45 @@
     "text": "Exercise"
   },
   {
-    "objectID": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--s--ß--x-or--z",
-    "href": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--s--ß--x-or--z",
-    "title": "Present Tense Verb Conjugation - Exceptions",
-    "section": "Infinitive stems ending in -s, -ß, -x or -z",
-    "text": "Infinitive stems ending in -s, -ß, -x or -z\nInfinitive verbs whose stem ends in -s, -ß, -x or -z only add a -t in the second-person singular. The rationale for this is that these infinitive stems already have either an -s sound at the end of the stem or a sound that is somewhat similar to -s. As a result, adding an -st ending wouldn’t be heard any different than -t. Some common words that fall into this category are:\n\n\n\n\n\n\n\n\n\n-s\n-ß\n-x\n-z\n\n\n\n\nreisen (to travel)\nheißen (to be named)\nfaxen (to fax)\ntanzen (to dance)\n\n\n\nschließen (to close)\n\nsitzen (to sit)\n\n\n\ngrüßen (to greet)\n\nbesitzen (to own)\n\n\n\n\n\n\n\n\n\nNoteRelation between -ß and -ss\n\n\n\nThis is probably a good place to point out that -s and -ß related. The -ß is sometimes replaced with -ss. As such, rules that apply to -s will also apply to -ß.\n\n\nLet’s see an example of one of these conjugations:\n\nheißen (to be named)\n\n\n\n\n\n\n\n\nich heiße\nwir heißen\n\n\ndu heißt\nihr heißt\n\n\ner heißtsie heißtes heißt\nSie heißensie heißen",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Exceptions"
-    ]
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
   },
   {
-    "objectID": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--d-or--t-or-end-in--m-or--n-preceded-by-a-consonant-other-than-l-or-r",
-    "href": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--d-or--t-or-end-in--m-or--n-preceded-by-a-consonant-other-than-l-or-r",
-    "title": "Present Tense Verb Conjugation - Exceptions",
-    "section": "Infinitive stems ending in -d or -t or end in -m or -n preceded by a consonant other than l or r",
-    "text": "Infinitive stems ending in -d or -t or end in -m or -n preceded by a consonant other than l or r\nInfinitive stems ending in -d or -t need to have an e added after the infinitive stem but prior to the -st or -t in order to be able to pronounce it. Some common words that fall into this category are:\n\n\n\n-d\n-t\n\n\n\n\nbaden (to bathe)\narbeiten (to work)\n\n\nschneiden (to cut)\nantworten (to answer)\n\n\nladen (to load or to charge)\nretten (to rescue)\n\n\n\nbeten (to pray)\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis rule is a pretty consistent rule, but there are a handful of exceptions. Some of these exceptions included:\n\ngeraten - to get into/to fall into\nraten - to advise\ntreten - to tread/to kick\n\nThese verbs aren’t super common for beginners to come across, so you can think of this rule as pretty steadfast at this moment, but if you want to have it in the back of your mind that a few odd exceptions exist, then that is probably more than good enough.\n\n\nAdditionally, if the verb stem ends in an -m or -n that is preceded by a consonant sound other than l or an r then we need to add an e as well. This rule can be a bit unclear because it matters how one defines a “consonant sound”. Is the sound before the -m or -n sound like a vowel, -l or r? If so, it is treated normally. Otherwise, we need to add an -e. Let’s look at some common usages of it, then look at some cases where we need to think about this “consonant sound” idea.\nA table of common verbs that fall into the category of requiring an -e to be added are below:\n\n\n\n\n\n\n\n-m preceded by a consonant sound, l or r\n-n preceded by a consonant sound, l or r\n\n\n\n\natmen (to breathe)\nöffnen (to open)\n\n\n\nrechnen (to calculate)\n\n\n\nzeichnen (to draw)\n\n\n\nregnen (to rain)\n\n\n\n\n\n\n\n\n\nTipInfinitive stems ending in an -m or -n that is preceded by an r are regular verbs\n\n\n\nJust to prove the rule, let’s look at a few infinitive stems that either end in -m or -n and are preceded by and l or an r.\nlernen (to learn)\n\n\n\n\n\n\n\nich lerne\nwir lernen\n\n\ndu lernst\nihr lernt\n\n\ner lerntsie lerntes lernt\nSie lernensie lernen\n\n\n\nwärmen (to warm)\n\n\n\n\n\n\n\nich wärme\nwir wärmen\n\n\ndu wärmst\nihr wärmt\n\n\ner wärmtsie wärmtes wärmt\nSie wärmensie wärmen\n\n\n\n\n\n\nbedienen\nbeginnen\nsich besinnen\nbrennen\ndienen\nentfernen\nerwähnen\nsich gewöhnen\nkennenlernen\nkommen\nlernen\nsich lohnen\nmeinen"
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "",
+    "section": "Description",
+    "text": "Description\nThe goal of these materials are to provide a basic understanding of the German language for English-speakers where the explanations for the concepts and sentence structure will be provided in English. I should be clear from the start that my grasp of the German language is incomplete, but I am trying to write up lessons as my knowledge grows.\nA major concept for language learning is vocabulary acquisition. In these materials, we are going to attempt to limit the vocabulary and rather focus on how the language itself works. At some points vocabulary will be necessary to progress, but I will be making attempts to minimize this as much as possible."
   },
   {
-    "objectID": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--d-or--t-or-end-in--m-or--n-preceded-by-a-consonant-sound-other-than-l-or-r",
-    "href": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--d-or--t-or-end-in--m-or--n-preceded-by-a-consonant-sound-other-than-l-or-r",
-    "title": "Present Tense Verb Conjugation - Exceptions",
-    "section": "Infinitive stems ending in -d or -t or end in -m or -n preceded by a consonant sound other than l or r",
-    "text": "Infinitive stems ending in -d or -t or end in -m or -n preceded by a consonant sound other than l or r\nInfinitive stems ending in -d or -t need to have an e added after the infinitive stem but prior to the -st or -t in order to be able to pronounce it. Some common words that fall into this category are:\n\n\n\n-d\n-t\n\n\n\n\nbaden (to bathe)\narbeiten (to work)\n\n\nschneiden (to cut)\nantworten (to answer)\n\n\nladen (to load or to charge)\nretten (to rescue)\n\n\n\nbeten (to pray)\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis rule is a pretty consistent rule, but there are a handful of exceptions. Some of these exceptions included:\n\ngeraten - to get into/to fall into\nraten - to advise\ntreten - to tread/to kick\n\nThese verbs aren’t super common for beginners to come across, so you can think of this rule as pretty steadfast at this moment, but if you want to have it in the back of your mind that a few odd exceptions exist, then that is probably more than good enough.\n\n\nAdditionally, if the verb stem ends in an -m or -n that is preceded by a consonant sound other than l or an r then we need to add an e as well. This rule can be a bit unclear because it matters how one defines a “consonant sound”. Is the sound before the -m or -n sound like a vowel, -l or r? If so, it is treated normally. Otherwise, we need to add an -e. Let’s look at some common usages of it, then look at some cases where we need to think about this “consonant sound” idea.\nA table of common verbs that fall into the category of requiring an -e to be added are below:\n\n\n\n\n\n\n\n-m preceded by a consonant sound, l or r\n-n preceded by a consonant sound, l or r\n\n\n\n\natmen (to breathe)\nöffnen (to open)\n\n\n\nrechnen (to calculate)\n\n\n\nzeichnen (to draw)\n\n\n\nregnen (to rain)\n\n\n\n\n\n\n\n\n\nTipInfinitive stems ending in an -m or -n that is preceded by an r are regular verbs\n\n\n\nJust to prove the rule, let’s look at a few infinitive stems that either end in -m or -n and are preceded by and l or an r.\nlernen (to learn)\n\n\n\n\n\n\n\nich lerne\nwir lernen\n\n\ndu lernst\nihr lernt\n\n\ner lerntsie lerntes lernt\nSie lernensie lernen\n\n\n\nwärmen (to warm)\n\n\n\n\n\n\n\nich wärme\nwir wärmen\n\n\ndu wärmst\nihr wärmt\n\n\ner wärmtsie wärmtes wärmt\nSie wärmensie wärmen\n\n\n\n\n\n\nbedienen\nbeginnen\nsich besinnen\nbrennen\ndienen\nentfernen\nerwähnen\nsich gewöhnen\nkennenlernen\nkommen\nlernen\nsich lohnen\nmeinen"
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nIn these lessons, the learner will:\n\nDescribe grammar concepts from German\nAssemble German sentences"
   },
   {
-    "objectID": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--d-or--t",
-    "href": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--d-or--t",
-    "title": "Present Tense Verb Conjugation - Exceptions",
-    "section": "Infinitive stems ending in -d or -t",
-    "text": "Infinitive stems ending in -d or -t\nInfinitive stems ending in -d or -t need to have an -e added after the infinitive stem but prior to the -st or -t in order to be able to pronounce it. Some common words that fall into this category are:\n\n\n\n-d\n-t\n\n\n\n\nbaden (to bathe)\narbeiten (to work)\n\n\nschneiden (to cut)\nantworten (to answer)\n\n\n\nretten (to rescue)\n\n\n\nbeten (to pray)",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Exceptions"
-    ]
+    "objectID": "index.html#a-note-about-general-rules",
+    "href": "index.html#a-note-about-general-rules",
+    "title": "",
+    "section": "A Note about General Rules",
+    "text": "A Note about General Rules\nThroughout the materials we will be using “General Rules”. These are rules that hold in many, if not all, circumstances. We will denote them but putting them in a special block like:\n\n\n\n\n\n\nNoteHow “General Rules” will look\n\n\n\n“General Rules” will be in special blocks like this."
   },
   {
-    "objectID": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--m-or--n-preceded-by-a-consonant-sound-other-than-l-or-r",
-    "href": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--m-or--n-preceded-by-a-consonant-sound-other-than-l-or-r",
-    "title": "Present Tense Verb Conjugation - Exceptions",
-    "section": "Infinitive stems ending in -m or -n preceded by a consonant sound other than l or r",
-    "text": "Infinitive stems ending in -m or -n preceded by a consonant sound other than l or r\nAdditionally, if the verb stem ends in an -m or -n that is preceded by a consonant sound other than l or an r then we need to add an e, just like the circumstances of infinitive stems ending with -d or -t above.\nThis rule can be a bit difficult for learners because it matters how one defines a “consonant sound”. Is the sound before the -m or -n sound like a vowel, -l or r? If so, it is treated normally. Otherwise, we need to add an -e. Let’s look at common application of this rule, then look at two cases where we need to think about this “consonant sound” idea.\natmen (to breathe)\n\n\n\n\n\n\n\nich atme\nwir atmen\n\n\ndu atmest\nihr atmet\n\n\ner atmetsie atmetes atmet\nSie atmensie atmen\n\n\n\nöffnen(to open)\n\n\n\n\n\n\n\nich öffne\nwir öffnen\n\n\ndu öffnest\nihr öffnet\n\n\ner öffnetsie öffnetes öffnet\nSie öffnensie öffnen\n\n\n\nA table of common verbs that fall into the category of requiring an -e to be added are below:\n\n\n\n\n\n\n\n-m preceded by a consonant sound other than l or r\n-n preceded by a consonant sound other than l or r\n\n\n\n\natmen (to breathe)\nöffnen (to open)\n\n\n\nrechnen (to calculate)\n\n\n\nzeichnen (to draw)\n\n\n\ntrocknen (to dry (something))\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThere aren’t a ton of verbs that fall into this category. In fact, for the category of having an -m preceded by a consonant sound other than -l or r, atmen, and it’s derivatives (einatmen (to breathe in), ausatmen (to breathe out), durchatmen (to catch your breath), aufatment (to breathe a sigh of relief), etc.) is the only verb (that I am aware of) that fall into this category.\nFor infinitive stems with -n preceded by a consonant sound other than l or r, it is also quite limited. The table above covers all of the most common ones and a handful of others do exist (begegnen (to meet (by chance)), entgegnen (to reply (often contradictory)), segnen (to bless), etc.), but they are quite infrequent to come across as a beginner.\n\n\n\n\n\n\n\n\nTipInfinitive stems ending in an -m or -n that is preceded by an r are regular verbs\n\n\n\nJust to prove the rule, let’s look at a few infinitive stems that either end in -m or -n and are preceded by a vowel sound, l or r.\nlernen (to learn)\n\n\n\n\n\n\n\nich lerne\nwir lernen\n\n\ndu lernst\nihr lernt\n\n\ner lerntsie lerntes lernt\nSie lernensie lernen\n\n\n\nwärmen (to warm)\n\n\n\n\n\n\n\nich wärme\nwir wärmen\n\n\ndu wärmst\nihr wärmt\n\n\ner wärmtsie wärmtes wärmt\nSie wärmensie wärmen\n\n\n\nUnlike the infinitive stems ending in -m or -n preceded by a consonant sound other than l or r, these are relatively more common. I have provided a list below of some of the more common ones you might come across:\n\nbeginnen (to begin)\nsich besinnen (to recollect/to think better of)\nbrennen (to burn)\ndienen (to serve (a cause))\nentfernen (to remove (something))\nerwähnen (to mention)\nfilmen (to film)\nsich gewöhnen (to become accustomed)\nkennenlernen (to get to know/to meet)\nkommen (to come)\nlernen (to learn)\nsich lohnen (to be worth it)\nmeinen (to mean)\nwärmen (to warm)\n\nI am also not aware of any circumstances when the infinitive stem has a -ln pattern and filmen is the only one I know with the -lm pattern."
+    "objectID": "index.html#lessons",
+    "href": "index.html#lessons",
+    "title": "",
+    "section": "Lessons",
+    "text": "Lessons\n\nTable of Contents"
   },
   {
-    "objectID": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--m-or--n-preceded-by-a-consonant-sound-other-than--l-or--r",
-    "href": "lessons/03_Present_verb_conjugation_exceptions.html#infinitive-stems-ending-in--m-or--n-preceded-by-a-consonant-sound-other-than--l-or--r",
-    "title": "Present Tense Verb Conjugation - Exceptions",
-    "section": "Infinitive stems ending in -m or -n preceded by a consonant sound other than -l or -r",
-    "text": "Infinitive stems ending in -m or -n preceded by a consonant sound other than -l or -r\nAdditionally, if the verb stem ends in an -m or -n that is preceded by a consonant sound other than -l or -r then we need to add an -e, just like the circumstances of infinitive stems ending with -d or -t above.\nThis rule can be a bit difficult for learners because it matters how one defines a “consonant sound”. Does the sound before the -m or -n sound like a vowel, -l or r? If so, it is treated normally. Otherwise, we need to add an -e. Let’s look at common application of this rule, then look at examples where we need to think about this “consonant sound” idea.\n\natmen (to breathe)\n\n\n\n\n\n\n\n\nich atme\nwir atmen\n\n\ndu atmest\nihr atmet\n\n\ner atmetsie atmetes atmet\nSie atmensie atmen\n\n\n\n\nöffnen (to open)\n\n\n\n\n\n\n\n\nich öffne\nwir öffnen\n\n\ndu öffnest\nihr öffnet\n\n\ner öffnetsie öffnetes öffnet\nSie öffnensie öffnen\n\n\n\nA table of common verbs that fall into the category of requiring an -e to be added are below:\n\n\n\n\n\n\n\n-m preceded by a consonant sound other than -l or -r\n-n preceded by a consonant sound other than -l or -r\n\n\n\n\natmen (to breathe)\nöffnen (to open)\n\n\n\nrechnen (to calculate)\n\n\n\nzeichnen (to draw)\n\n\n\ntrocknen (to dry (something))\n\n\n\n\n\n\n\n\n\nNoteComment on the frequency of this category of verbs\n\n\n\nThere aren’t a ton of verbs that fall into this category. In fact, for the category of having an -m preceded by a consonant sound other than -l or -r, atmen, and it’s derivatives (einatmen (to breathe in), ausatmen (to breathe out), durchatmen (to catch your breath), aufatmen (to breathe a sigh of relief), etc.) is the only verb (that I am aware of) that falls into this category.\nFor infinitive stems with -n preceded by a consonant sound other than -l or -r, it is also quite limited. The table above covers all of the most common ones and a handful of others do exist (begegnen (to meet (by chance)), entgegnen (to reply (often contradictory)), segnen (to bless), etc.), but they are quite infrequent to come across as a beginner.\n\n\n\n\n\n\n\n\nNoteInfinitive stems ending in an -m or -n that are preceded by vowel sounds, -l or -r do not add an -e to the infinitive stem\n\n\n\nTo prove the rule, let’s look at a few infinitive stems that either end in -m or -n and are preceded by a vowel sound, -l or -r.\n\nlernen (to learn)\n\n\n\n\n\n\n\n\nich lerne\nwir lernen\n\n\ndu lernst\nihr lernt\n\n\ner lerntsie lerntes lernt\nSie lernensie lernen\n\n\n\n\nwärmen (to warm)\n\n\n\n\n\n\n\n\nich wärme\nwir wärmen\n\n\ndu wärmst\nihr wärmt\n\n\ner wärmtsie wärmtes wärmt\nSie wärmensie wärmen\n\n\n\nUnlike the infinitive stems ending in -m or -n preceded by a consonant sound other than l or r, these are relatively more common. I have provided a list below of some of the more common ones you might come across:\n\nbeginnen (to begin)\nsich besinnen (to recollect/to think better of)\nbrennen (to burn)\ndienen (to serve (a cause))\nentfernen (to remove (something))\nerwähnen (to mention)\nfilmen (to film)\nsich gewöhnen* (to become accustomed)\nkennenlernen (to get to know/to meet)\nkommen (to come)\nlernen (to learn)\nsich lohnen* (to be worth it)\nmeinen (to mean)\nwärmen (to warm)\nwohnen* (to reside (somewhere))\n\n* Note in these examples that the -n is preceded by an -h and you may be inclined to think that these are breaking the rule. However, in this context, the sound prior to the -n still has a “vowel-like” sound. This is part of the reason why this rule is the tricky.\nI am also not aware of any circumstances where the infinitive stem has a -ln pattern and filmen is the only one I know with the -lm pattern.",
-    "crumbs": [
-      "Basic Syntax",
-      "Present Tense Verb Conjugation - Exceptions"
-    ]
+    "objectID": "index.html#pronounciations",
+    "href": "index.html#pronounciations",
+    "title": "",
+    "section": "Pronounciations",
+    "text": "Pronounciations\nWhere pronunciations are provided, they were pulled from Wiktionary. These audio files are licensed under the Creative Commons Attribution-Share Alike 4.0 International license."
   }
 ]

@@ -14,17 +14,17 @@ In this lesson, the learner will:
 
 # Sein
 
-*Sein* (to be) is probably the most difficult verb to conjugate in the present tense because it doesn't follow any particular rules and you need to just memorize its conjugation. The good news is that you will you use it so frequently that it will become second-nature rather quickly. Below is the conjugation table for *sein*:
+*Sein* <span class="pron" data-src="../audio/verben/sein/sein.ogg">🔊</span> (to be) is probably the most difficult verb to conjugate in the present tense because it doesn't follow any particular rules and you need to just memorize its conjugation. The good news is that you will you use it so frequently that it will become second-nature rather quickly. Below is the conjugation table for *sein*:
 
 <div style="text-align: center;">
-**sein** (to be)
+**sein** <span class="pron" data-src="../audio/verben/sein/sein.ogg">🔊</span> (to be) 
 </div>
 
 |||
 |:---:|:---:|
-| ich **bin** | wir **sind** |
-| du **bist** | ihr **seid** |
-| er **ist**<br>sie **ist**<br>es **ist** | Sie **sind**<br>sie **sind** |
+| ich **bin** <span class="pron" data-src="../audio/verben/sein/bin.ogg">🔊</span> | wir **sind** <span class="pron" data-src="../audio/verben/sein/sind.ogg">🔊</span> |
+| du **bist** <span class="pron" data-src="../audio/verben/sein/bist.ogg">🔊</span> | ihr **seid** <span class="pron" data-src="../audio/verben/sein/seid.ogg">🔊</span> |
+| er **ist** <span class="pron" data-src="../audio/verben/sein/ist.ogg">🔊</span> <br>sie **ist**<br>es **ist** | Sie **sind** <span class="pron" data-src="../audio/verben/sein/sind.ogg">🔊</span><br>sie **sind** |
 
 # Infinitive stem endings that cause issues
 
@@ -36,9 +36,9 @@ Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z*  only add a *-t* i
 
 | *-s* |*-ß* |*-x* |*-z* |
 |:---:|:---:|:---:|:---:|
-| reisen (to travel) | heißen (to be named) | faxen (to fax) | tanzen (to dance) |
-||schließen (to close) || sitzen (to sit) |
-|| grüßen (to greet) || besitzen (to own) |
+| **reisen** <span class="pron" data-src="../audio/verben/reisen/reisen.ogg">🔊</span> (to travel) | **heißen** <span class="pron" data-src="../audio/verben/heißen/heißen.ogg">🔊</span> (to be named) | **faxen** <span class="pron" data-src="../audio/verben/faxen/faxen.ogg">🔊</span> (to fax) | **tanzen** <span class="pron" data-src="../audio/verben/tanzen/tanzen.ogg">🔊</span> (to dance) |
+|| **schließen** <span class="pron" data-src="../audio/verben/schließen/schließen.ogg">🔊</span> (to close) || **sitzen** <span class="pron" data-src="../audio/verben/sitzen/sitzen.ogg">🔊</span>  (to sit)|
+|| **grüßen** <span class="pron" data-src="../audio/verben/grüßen/grüßen.ogg">🔊</span> (to greet) || **besitzen** <span class="pron" data-src="../audio/verben/besitzen/besitzen.ogg">🔊</span> (to own) |
 
 :::{.callout-note}
 # Relation between *-ß* and *-ss*
@@ -48,14 +48,14 @@ This is probably a good place to point out that *-s* and *-ß* related. The *-ß
 Let's see an example of one of these conjugations:
 
 <div style="text-align: center;">
-**heißen** (to be named)
+**heißen** <span class="pron" data-src="../audio/verben/heißen/heißen.ogg">🔊</span> (to be named)
 </div>
 
 |||
 |:---:|:---:|
-| ich heiß**e** | wir heiß**en** |
-| du heiß**t** | ihr heiß**t** |
-| er heiß**t**<br>sie heiß**t**<br>es heiß**t** | Sie heiß**en**<br>sie heiß**en** |
+| ich heiß**e** <span class="pron" data-src="../audio/verben/heißen/heiße.ogg">🔊</span> | wir heiß**en** <span class="pron" data-src="../audio/verben/heißen/heißen.ogg">🔊</span> |
+| du heiß**t** <span class="pron" data-src="../audio/verben/heißen/heißt.ogg">🔊</span> | ihr heiß**t** <span class="pron" data-src="../audio/verben/heißen/heißt.ogg">🔊</span> |
+| er heiß**t** <span class="pron" data-src="../audio/verben/heißen/heißt.ogg">🔊</span><br>sie heiß**t**<br>es heiß**t** | Sie heiß**en** <span class="pron" data-src="../audio/verben/heißen/heißen.ogg">🔊</span><br>sie heiß**en** |
 
 ## Infinitive stems ending in *-d* or *-t*
 
@@ -63,10 +63,32 @@ Infinitive stems ending in *-d* or *-t* need to have an *-e* added after the inf
 
 | *-d* |*-t* |
 |:---:|:---:|
-| **baden** (to bathe) | **arbeiten** (to work) |
-| **schneiden** (to cut) | **antworten** (to answer) |
-|| **retten** (to rescue) |
-|| **beten** (to pray) |
+| **baden** <span class="pron" data-src="../audio/verben/baden/baden.ogg">🔊</span> (to bathe) | **arbeiten** <span class="pron" data-src="../audio/verben/arbeiten/arbeiten.ogg">🔊</span> (to work) |
+| **schneiden** <span class="pron" data-src="../audio/verben/schneiden/schneiden.ogg">🔊</span> (to cut) | **antworten** <span class="pron" data-src="../audio/verben/antworten/antworten.ogg">🔊</span> (to answer) |
+|| **retten** <span class="pron" data-src="../audio/verben/retten/retten.ogg">🔊</span> (to rescue) |
+|| **beten** <span class="pron" data-src="../audio/verben/beten/beten.ogg">🔊</span> (to pray) |
+
+Let's see this conjugation in practice:
+
+<div style="text-align: center;">
+**baden** <span class="pron" data-src="../audio/verben/baden/baden.ogg">🔊</span> (to bathe)
+</div>
+
+|||
+|:---:|:---:|
+| ich bad**e** <span class="pron" data-src="../audio/verben/baden/bade.ogg">🔊</span> | wir bad**en** <span class="pron" data-src="../audio/verben/baden/baden.ogg">🔊</span> |
+| du bad**est** <span class="pron" data-src="../audio/verben/baden/badest.ogg">🔊</span> | ihr bad**et** <span class="pron" data-src="../audio/verben/baden/badet.ogg">🔊</span> |
+| er bad**et** <span class="pron" data-src="../audio/verben/baden/badet.ogg">🔊</span> <br>sie bad**et** <br>es bad**et** | Sie bad**en** <span class="pron" data-src="../audio/verben/baden/baden.ogg">🔊</span> <br>sie bad**en** |
+
+<div style="text-align: center;">
+**arbeiten** <span class="pron" data-src="../audio/verben/arbeiten/arbeiten.ogg">🔊</span> (to work)
+</div>
+
+|||
+|:---:|:---:|
+| ich arbeit**e** <span class="pron" data-src="../audio/verben/arbeiten/arbeite.ogg">🔊</span> | wir arbeit**en** <span class="pron" data-src="../audio/verben/arbeiten/arbeiten.ogg">🔊</span> |
+| du arbeit**est** <span class="pron" data-src="../audio/verben/arbeiten/arbeitest.ogg">🔊</span> | ihr arbeit**et** <span class="pron" data-src="../audio/verben/arbeiten/arbeitet.ogg">🔊</span> |
+| er arbeit**et** <span class="pron" data-src="../audio/verben/arbeiten/arbeitet.ogg">🔊</span> <br>sie arbeit**et**<br>es arbeit**et** | Sie arbeit**en** <span class="pron" data-src="../audio/verben/arbeiten/arbeiten.ogg">🔊</span> <br>sie arbeit**en** |
 
 ## Infinitive stems ending in *-m* or *-n* preceded by a consonant sound other than *-l* or *-r*
 
@@ -75,39 +97,39 @@ Additionally, if the verb stem ends in an *-m* or *-n* that is preceded by a *co
 This rule can be a bit difficult for learners because it matters how one defines a "*consonant sound*". Does the sound before the *-m* or *-n* sound like a vowel, *-l* or *r*? If so, it is treated normally. Otherwise, we need to add an *-e*. Let's look at common application of this rule, then look at examples where we need to think about this "*consonant sound*" idea.
 
 <div style="text-align: center;">
-**atmen** (to breathe)
+**atmen** <span class="pron" data-src="../audio/verben/atmen/atmen.ogg">🔊</span> (to breathe)
 </div>
 
 |||
 |:---:|:---:|
-| ich atm**e** | wir atm**en** |
-| du atm**est** | ihr atm**et** |
-| er atm**et**<br>sie atm**et**<br>es atm**et** | Sie atm**en**<br>sie atm**en** |
+| ich atm**e** <span class="pron" data-src="../audio/verben/atmen/atme.ogg">🔊</span> | wir atm**en** <span class="pron" data-src="../audio/verben/atmen/atmen.ogg">🔊</span> |
+| du atm**est** <span class="pron" data-src="../audio/verben/atmen/atmest.ogg">🔊</span> | ihr atm**et** <span class="pron" data-src="../audio/verben/atmen/atmet.ogg">🔊</span> |
+| er atm**et** <span class="pron" data-src="../audio/verben/atmen/atmet.ogg">🔊</span><br>sie atm**et**<br>es atm**et** | Sie atm**en** <span class="pron" data-src="../audio/verben/atmen/atmen.ogg">🔊</span><br>sie atm**en** |
 
 <div style="text-align: center;">
-**öffnen** (to open)
+**öffnen** <span class="pron" data-src="../audio/verben/öffnen/öffnen.ogg">🔊</span> (to open)
 </div>
 
 |||
 |:---:|:---:|
-| ich öffn**e** | wir öffn**en** |
-| du öffn**est** | ihr öffn**et** |
-| er öffn**et**<br>sie öffn**et**<br>es öffn**et** | Sie öffn**en**<br>sie öffn**en** |
+| ich öffn**e** <span class="pron" data-src="../audio/verben/öffnen/öffne.ogg">🔊</span> | wir öffn**en** <span class="pron" data-src="../audio/verben/öffnen/öffnen.ogg">🔊</span> |
+| du öffn**est** <span class="pron" data-src="../audio/verben/öffnen/öffnest.ogg">🔊</span> | ihr öffn**et** <span class="pron" data-src="../audio/verben/öffnen/öffnet.ogg">🔊</span> |
+| er öffn**et** <span class="pron" data-src="../audio/verben/öffnen/öffnet.ogg">🔊</span><br>sie öffn**et**<br>es öffn**et** | Sie öffn**en** <span class="pron" data-src="../audio/verben/öffnen/öffnen.ogg">🔊</span><br>sie öffn**en** |
 
 A table of common verbs that fall into the category of requiring an *-e* to be added are below:
 
 | *-m* preceded by a consonant sound other than *-l* or *-r* | *-n* preceded by a consonant sound other than *-l* or *-r* |
 |:---:|:---:|
-| **atmen** (to breathe) | **öffnen** (to open) |
-|| **rechnen** (to calculate) |
-|| **zeichnen** (to draw) |
-|| **trocknen** (to dry (something)) |
+| **atmen** <span class="pron" data-src="../audio/verben/atmen/atmen.ogg">🔊</span> (to breathe) | **öffnen** <span class="pron" data-src="../audio/verben/öffnen/öffnen.ogg">🔊</span> (to open) |
+|| **rechnen** <span class="pron" data-src="../audio/verben/rechnen/rechnen.ogg">🔊</span> (to calculate) |
+|| **zeichnen** <span class="pron" data-src="../audio/verben/zeichnen/zeichnen.ogg">🔊</span> (to draw) |
+|| **trocknen** <span class="pron" data-src="../audio/verben/trocknen/trocknen.ogg">🔊</span> (to dry (something)) |
 
 :::{.callout-note}
 # Comment on the frequency of this category of verbs
-There aren't a ton of verbs that fall into this category. In fact, for the category of having an *-m* preceded by a consonant sound other than *-l* or *-r*, **atmen**, and it's derivatives (**einatmen** (to breathe in), **ausatmen** (to breathe out), **durchatmen** (to catch your breath), **aufatmen** (to breathe a sigh of relief), etc.) is the only verb (that I am aware of) that falls into this category.
+There aren't a ton of verbs that fall into this category. In fact, for the category of having an *-m* preceded by a consonant sound other than *-l* or *-r*, **atmen** <span class="pron" data-src="../audio/verben/atmen/atmen.ogg">🔊</span>, and it's derivatives (**einatmen** <span class="pron" data-src="../audio/verben/einatmen/einatmen.ogg">🔊</span> (to breathe in), **ausatmen** <span class="pron" data-src="../audio/verben/ausatmen/ausatmen.ogg">🔊</span> (to breathe out), **durchatmen** <span class="pron" data-src="../audio/verben/durchatmen/durchatmen.ogg">🔊</span> (to catch your breath), **aufatmen** <span class="pron" data-src="../audio/verben/aufatmen/aufatmen.ogg">🔊</span> (to breathe a sigh of relief), etc.) is the only verb (that I am aware of) that falls into this category.
 
-For infinitive stems with *-n* preceded by a consonant sound other than *-l* or *-r*, it is also quite limited. The table above covers all of the most common ones and a handful of others do exist (**begegnen** (to meet (by chance)), **entgegnen** (to reply (often contradictory)), **segnen** (to bless), etc.), but they are quite infrequent to come across as a beginner.
+For infinitive stems with *-n* preceded by a consonant sound other than *-l* or *-r*, it is also quite limited. The table above covers all of the most common ones and a handful of others do exist (**begegnen** <span class="pron" data-src="../audio/verben/begegnen/begegnen.ogg">🔊</span> (to meet (by chance)), **entgegnen** <span class="pron" data-src="../audio/verben/entgegnen/entgegnen.ogg">🔊</span> (to reply (often contradictory)), **segnen** <span class="pron" data-src="../audio/verben/segnen/segnen.ogg">🔊</span> (to bless), etc.), but they are quite infrequent to come across as a beginner.
 :::
 
 :::{.callout-note}
@@ -116,42 +138,48 @@ For infinitive stems with *-n* preceded by a consonant sound other than *-l* or 
 To prove the rule, let's look at a few infinitive stems that either end in *-m* or *-n* and are preceded by a vowel sound, *-l* or *-r*. 
 
 <div style="text-align: center;">
-**lernen** (to learn)
+**lernen** <span class="pron" data-src="../audio/verben/lernen/lernen.ogg">🔊</span> (to learn)
 </div>
 
 |||
 |:---:|:---:|
-| ich lern**e** | wir lern**en** |
-| du lern**st** | ihr lern**t** |
-| er lern**t**<br>sie lern**t**<br>es lern**t** | Sie lern**en**<br>sie lern**en** |
+| ich lern**e** <span class="pron" data-src="../audio/verben/lernen/lerne.ogg">🔊</span> | wir lern**en** <span class="pron" data-src="../audio/verben/lernen/lernen.ogg">🔊</span> |
+| du lern**st** <span class="pron" data-src="../audio/verben/lernen/lernst.ogg">🔊</span> | ihr lern**t** <span class="pron" data-src="../audio/verben/lernen/lernt.ogg">🔊</span> |
+| er lern**t** <span class="pron" data-src="../audio/verben/lernen/lernt.ogg">🔊</span><br>sie lern**t**<br>es lern**t** | Sie lern**en** <span class="pron" data-src="../audio/verben/lernen/lernen.ogg">🔊</span><br>sie lern**en** |
 
 <div style="text-align: center;">
-**wärmen** (to warm)
+**wärmen** <span class="pron" data-src="../audio/verben/wärmen/wärmen.ogg">🔊</span> (to warm)
 </div>
 
 |||
 |:---:|:---:|
-| ich wärm**e** | wir wärm**en** |
-| du wärm**st** | ihr wärm**t** |
-| er wärm**t**<br>sie wärm**t**<br>es wärm**t** | Sie wärm**en**<br>sie wärm**en** |
+| ich wärm**e** <span class="pron" data-src="../audio/verben/wärmen/wärme.ogg">🔊</span> | wir wärm**en** <span class="pron" data-src="../audio/verben/wärmen/wärmen.ogg">🔊</span> |
+| du wärm**st** <span class="pron" data-src="../audio/verben/wärmen/wärmest.ogg">🔊</span> | ihr wärm**t** <span class="pron" data-src="../audio/verben/wärmen/wärmt.ogg">🔊</span> |
+| er wärm**t** <span class="pron" data-src="../audio/verben/wärmen/wärmt.ogg">🔊</span><br>sie wärm**t**<br>es wärm**t** | Sie wärm**en** <span class="pron" data-src="../audio/verben/wärmen/wärmen.ogg">🔊</span><br>sie wärm**en** |
 
 Unlike the infinitive stems ending in *-m* or *-n* preceded by a consonant sound other than *l* or *r*, these are relatively more common. I have provided a list below of some of the more common ones you might come across:
 
-- **beginnen** (to begin)
-- **sich besinnen** (to recollect/to think better of)
-- **brennen** (to burn)
-- **dienen** (to serve (a cause))
-- **entfernen** (to remove (something))
-- **erwähnen** (to mention)
-- **filmen** (to film)
-- **sich gewöhnen**\* (to become accustomed)
-- **kennenlernen** (to get to know/to meet)
-- **kommen**  (to come)
-- **lernen** (to learn)
-- **sich lohnen**\* (to be worth it)
-- **meinen** (to mean)
-- **wärmen** (to warm)
-- **wohnen**\* (to reside (somewhere))
+::: columns
+::: column
+- **beginnen** <span class="pron" data-src="../audio/verben/beginnen/beginnen.ogg">🔊</span> (to begin)
+- **sich besinnen** <span class="pron" data-src-list="../audio/reflexive/sich.ogg, ../audio/verben/besinnen/besinnen.ogg">🔊</span> (to recollect / to think better of)
+- **brennen** <span class="pron" data-src="../audio/verben/brennen/brennen.ogg">🔊</span> (to burn)
+- **dienen** <span class="pron" data-src="../audio/verben/dienen/dienen.ogg">🔊</span> (to serve (a cause))
+- **entfernen** <span class="pron" data-src="../audio/verben/entfernen/entfernen.ogg">🔊</span> (to remove (something))
+- **erwähnen** <span class="pron" data-src="../audio/verben/erwähnen/erwähnen.ogg">🔊</span> (to mention)
+- **filmen** <span class="pron" data-src="../audio/verben/filmen/filmen.ogg">🔊</span> (to film)
+:::
+
+::: column
+- **sich gewöhnen**\* <span class="pron" data-src-list="../audio/reflexive/sich.ogg, ../audio/verben/gewöhnen/gewöhnen.ogg">🔊</span> (to become accustomed)
+- **kennenlernen** <span class="pron" data-src="../audio/verben/kennenlernen/kennenlernen.ogg">🔊</span> (to get to know/to meet)
+- **kommen** <span class="pron" data-src="../audio/verben/kommen/kommen.ogg">🔊</span> (to come)
+- **lernen** <span class="pron" data-src="../audio/verben/lernen/lernen.ogg">🔊</span> (to learn)
+- **meinen** <span class="pron" data-src="../audio/verben/meinen/meinen.ogg">🔊</span> (to mean)
+- **wärmen** <span class="pron" data-src="../audio/verben/wärmen/wärmen.ogg">🔊</span> (to warm)
+- **wohnen**\* <span class="pron" data-src="../audio/verben/wohnen/wohnen.ogg">🔊</span> (to reside (somewhere))
+:::
+:::
 
 \* *Note in these examples that the -n is preceded by an -h and you may be inclined to think that these are breaking the rule. However, in this context, the sound prior to the -n still has a "vowel-like" sound. This is part of the reason why this rule is the tricky.*
 
@@ -164,39 +192,46 @@ I am also not aware of any circumstances where the infinitive stem has a *-ln* p
 
 Most verbs in German end in *-en*, but there are a handful that rather end with just an *-n*. In order to conjugate these verbs, treat the *-n* as if it were *-en*, by removing it and adding the normal endings. Some examples from this group of verbs are:
 
-- **handeln** (to trade)
-- **sammeln** (to collect)
-- **lächeln** (to smile)
-- **segeln** (to sail)
-- **wechseln** (to change or to exchange)
-- **erinnern** (to remember)
-- **ändern** (to change)
+:::columns
+:::column
+- **ändern** <span class="pron" data-src="../audio/verben/ändern/ändern.ogg">🔊</span> (to change)
+- **erinnern** <span class="pron" data-src="../audio/verben/erinnern/erinnern.ogg">🔊</span> (to remember)
+- **handeln** <span class="pron" data-src="../audio/verben/handeln/handeln.ogg">🔊</span> (to trade)
+- **lächeln** <span class="pron" data-src="../audio/verben/lächeln/lächeln.ogg">🔊</span> (to smile)
+:::
+
+:::column
+- **sammeln** <span class="pron" data-src="../audio/verben/sammeln/sammeln.ogg">🔊</span> (to collect)
+- **segeln** <span class="pron" data-src="../audio/verben/segeln/segeln.ogg">🔊</span> (to sail)
+- **wechseln** <span class="pron" data-src="../audio/verben/wechseln/wechseln.ogg">🔊</span> (to change or to exchange)
+:::
+:::
 
 We can see an example for how to conjugate these verbs:
 
 <div style="text-align: center;">
-**segeln** (to sail)
+**segeln** <span class="pron" data-src="../audio/verben/segeln/segeln.ogg">🔊</span> (to sail)
 </div>
 
 |||
 |:---:|:---:|
-| ich segel**e** | wir segel**en** |
-| du segel**st** | ihr segel**t** |
-| er segel**t**<br>sie segel**t**<br>es segel**t** | Sie segel**en**<br>sie segel**en** |
+| ich segel**e** <span class="pron" data-src="../audio/verben/segeln/segele.ogg">🔊</span>  | wir segel**n** <span class="pron" data-src="../audio/verben/segeln/segeln.ogg">🔊</span>  |
+| du segel**st** <span class="pron" data-src="../audio/verben/segeln/segelst.ogg">🔊</span>  | ihr segel**t** <span class="pron" data-src="../audio/verben/segeln/segelt.ogg">🔊</span> |
+| er segel**t** <span class="pron" data-src="../audio/verben/segeln/segelt.ogg">🔊</span> <br>sie segel**t**<br>es segel**t** | Sie segel**n** <span class="pron" data-src="../audio/verben/segeln/segeln.ogg">🔊</span><br>sie segel**n** |
 
 :::{.callout-note}
 ## Colloquial form in the first-person singular
 You will sometimes see the *-e* preceding the *-ln* at the end of the verb dropped in the first-person singular. In this case, a verb like **segeln** would look like:
 
 <div style="text-align: center;">
-**segeln** (to sail)
+**segeln** <span class="pron" data-src="../audio/verben/segeln/segeln.ogg">🔊</span> (to sail)
 </div>
 
 |||
 |:---:|:---:|
-| ich segl**e** | wir segel**en** |
-| du segel**st** | ihr segel**t** |
-| er segel**t**<br>sie segel**t**<br>es segel**t** | Sie segel**en**<br>sie segel**en** |
+| ich segl**e** <span class="pron" data-src="../audio/verben/segeln/segle.ogg">🔊</span> | wir segel**n** <span class="pron" data-src="../audio/verben/segeln/segeln.ogg">🔊</span> |
+| du segel**st** <span class="pron" data-src="../audio/verben/segeln/segelst.ogg">🔊</span> | ihr segel**t** <span class="pron" data-src="../audio/verben/segeln/segelt.ogg">🔊</span> |
+| er segel**t**<span class="pron" data-src="../audio/verben/segeln/segelt.ogg">🔊</span><br>sie segel**t**<br>es segel**t** | Sie segel**n**<span class="pron" data-src="../audio/verben/segeln/segeln.ogg">🔊</span><br>sie segel**n** |
 
 [Both spellings](https://www.duden.de/konjugation/segeln) are permitted by Duden, the *de facto* German dictionary.
 
@@ -225,36 +260,36 @@ Each of the tabsets below provides an example for how each class of these stem-c
 :::{.panel-tabset group="stem_changing"}
 ## a → ä
 <div style="text-align: center;">
-**laufen** (to walk or to run)
+**laufen** <span class="pron" data-src="../audio/verben/laufen/laufen.ogg">🔊</span> (to walk or to run)
 </div>
 
 |||
 |:---:|:---:|
-| ich lauf**e** | wir lauf**en** |
-| du l**ä**uf**st** | ihr lauf**t** |
-| er l**ä**uf**t**<br>sie l**ä**uf**t**<br>es l**ä**uf**t** | Sie lauf**en**<br>sie lauf**en** |
+| ich lauf**e** <span class="pron" data-src="../audio/verben/laufen/laufe.ogg">🔊</span> | wir lauf**en** <span class="pron" data-src="../audio/verben/laufen/laufen.ogg">🔊</span> |
+| du l**ä**uf**st** <span class="pron" data-src="../audio/verben/laufen/läufst.ogg">🔊</span> | ihr lauf**t** <span class="pron" data-src="../audio/verben/laufen/lauft.ogg">🔊</span> |
+| er l**ä**uf**t** <span class="pron" data-src="../audio/verben/laufen/läuft.ogg">🔊</span><br>sie l**ä**uf**t**<br>es l**ä**uf**t** | Sie lauf**en** <span class="pron" data-src="../audio/verben/laufen/laufen.ogg">🔊</span><br>sie lauf**en** |
 
 ## e → i
 <div style="text-align: center;">
-**geben** (to give)
+**geben** <span class="pron" data-src="../audio/verben/geben/geben.ogg">🔊</span> (to give)
 </div>
 
 |||
 |:---:|:---:|
-| ich geb**e** | wir geb**en** |
-| du g**i**b**st** | ihr geb**t** |
-| er g**i**b**t**<br>sie g**i**b**t**<br>es g**i**b**t** | Sie geb**en**<br>sie geb**en** |
+| ich geb**e** <span class="pron" data-src="../audio/verben/geben/gebe.ogg">🔊</span> | wir geb**en** <span class="pron" data-src="../audio/verben/geben/geben.ogg">🔊</span> |
+| du g**i**b**st** <span class="pron" data-src="../audio/verben/geben/gibst.ogg">🔊</span> | ihr geb**t** <span class="pron" data-src="../audio/verben/geben/gebt.ogg">🔊</span> |
+| er g**i**b**t** <span class="pron" data-src="../audio/verben/geben/gibt.ogg">🔊</span><br>sie g**i**b**t**<br>es g**i**b**t** | Sie geb**en** <span class="pron" data-src="../audio/verben/geben/geben.ogg">🔊</span><br>sie geb**en** |
 
 ## e → ie
 <div style="text-align: center;">
-**sehen** (to see)
+**sehen** <span class="pron" data-src="../audio/verben/sehen/sehen.ogg">🔊</span> (to see)
 </div>
 
 |||
 |:---:|:---:|
-| ich seh**e** | wir seh**en** |
-| du s**ie**h**st** | ihr seh**t** |
-| er s**ie**h**t**<br>sie s**ie**h**t**<br>es s**ie**h**t** | Sie seh**en**<br>sie seh**en** |
+| ich seh**e** <span class="pron" data-src="../audio/verben/sehen/sehe.ogg">🔊</span> | wir seh**en** <span class="pron" data-src="../audio/verben/sehen/sehen.ogg">🔊</span> |
+| du s**ie**h**st** <span class="pron" data-src="../audio/verben/sehen/siehst.ogg">🔊</span> | ihr seh**t** <span class="pron" data-src="../audio/verben/sehen/seht.ogg">🔊</span> |
+| er s**ie**h**t** <span class="pron" data-src="../audio/verben/sehen/sieht.ogg">🔊</span><br>sie s**ie**h**t**<br>es s**ie**h**t** | Sie seh**en** <span class="pron" data-src="../audio/verben/sehen/sehen.ogg">🔊</span><br>sie seh**en** |
 
 :::
 
@@ -263,30 +298,50 @@ More examples of stem-changing verbs from each class can be found in the tabset 
 :::{.panel-tabset group="stem_changing"}
 ## a → ä
 
-- **fahren** (to drive or to travel)
-- **fallen** (to fall)
-- **halten** (to stop)
-- **lassen** (to let or to leave)
-- **laufen** (to walk or to run)
-- **schlafen** (to sleep)
-- **schlagen** (to hit)
-- **tragen** (to wear)
-- **waschen** (to wash)
+:::columns
+:::column
+- **fahren** <span class="pron" data-src="../audio/verben/fahren/fahren.ogg">🔊</span> (to drive or to travel)
+- **fallen** <span class="pron" data-src="../audio/verben/fallen/fallen.ogg">🔊</span> (to fall)
+- **lassen** <span class="pron" data-src="../audio/verben/lassen/lassen.ogg">🔊</span> (to let or to leave)
+- **laufen** <span class="pron" data-src="../audio/verben/laufen/laufen.ogg">🔊</span> (to walk or to run)
+:::
+
+:::column
+- **schlafen** <span class="pron" data-src="../audio/verben/schlafen/schlafen.ogg">🔊</span> (to sleep)
+- **schlagen** <span class="pron" data-src="../audio/verben/schlagen/schlagen.ogg">🔊</span> (to hit)
+- **tragen** <span class="pron" data-src="../audio/verben/tragen/tragen.ogg">🔊</span> (to wear)
+- **waschen** <span class="pron" data-src="../audio/verben/waschen/waschen.ogg">🔊</span> (to wash)
+:::
+:::
 
 ## e → i
 
-- **essen** (to eat)
-- **geben** (to give)
-- **helfen** (to help)
-- **sprechen** (to speak)
-- **treffen** (to meet someone you are familiar with)
+:::columns
+:::column
+- **essen** <span class="pron" data-src="../audio/verben/essen/essen.ogg">🔊</span> (to eat)
+- **geben** <span class="pron" data-src="../audio/verben/geben/geben.ogg">🔊</span> (to give)
+- **helfen** <span class="pron" data-src="../audio/verben/helfen/helfen.ogg">🔊</span> (to help)
+:::
+
+:::column
+- **sprechen** <span class="pron" data-src="../audio/verben/sprechen/sprechen.ogg">🔊</span> (to speak)
+- **treffen** <span class="pron" data-src="../audio/verben/treffen/treffen.ogg">🔊</span> (to meet someone you are familiar with)
+:::
+:::
 
 ## e → ie
 
-- **empfehlen** (to recommend)
-- **lesen** (to read)
-- **sehen** (to see)
-- **stehlen** (to steal)
+:::columns
+:::column
+- **empfehlen** <span class="pron" data-src="../audio/verben/empfehlen/empfehlen.ogg">🔊</span> (to recommend)
+- **lesen** <span class="pron" data-src="../audio/verben/lesen/lesen.ogg">🔊</span> (to read)
+:::
+
+:::column
+- **sehen** <span class="pron" data-src="../audio/verben/sehen/sehen.ogg">🔊</span> (to see)
+- **stehlen** <span class="pron" data-src="../audio/verben/stehlen/stehlen.ogg">🔊</span> (to steal)
+:::
+:::
 
 :::
 
@@ -299,26 +354,26 @@ Since the stem-changing effect doesn't occur in the second-person person plural,
 Let's look at a common example of this in **halten**:
 
 <div style="text-align: center;">
-**halten** (to hold/to maintain a state/to stop)
+**halten** <span class="pron" data-src="../audio/verben/halten/halten.ogg">🔊</span> (to hold/to maintain a state/to stop)
 </div>
 
 |||
 |:---:|:---:|
-| ich halte | wir halt**en** |
-| du h**ä**lt**st** | ihr halt**et** |
-| er h**ä**lt<br>sie h**ä**lt<br>es h**ä**lt | Sie halt**en**<br>sie halt**en** |
+| ich halt**e** <span class="pron" data-src="../audio/verben/halten/halte.ogg">🔊</span> | wir halt**en** <span class="pron" data-src="../audio/verben/halten/halten.ogg">🔊</span> |
+| du h**ä**lt**st** <span class="pron" data-src="../audio/verben/halten/hältst.ogg">🔊</span> | ihr halt**et** <span class="pron" data-src="../audio/verben/halten/haltet.ogg">🔊</span> |
+| er h**ä**lt <span class="pron" data-src="../audio/verben/halten/hält.ogg">🔊</span><br>sie h**ä**lt<br>es h**ä**lt | Sie halt**en** <span class="pron" data-src="../audio/verben/halten/halten.ogg">🔊</span><br>sie halt**en** |
 
 The verbs that fall into this category are in the tabset below:
 
 :::{.panel-tabset}
 ## a → ä
-- **braten** (to pan-fry/to grill)
-- **geraten** (to get into/to fall into)
-- **halten** (to hold/to maintain a state/to stop)
-- **raten** (to advise)
+- **braten** <span class="pron" data-src="../audio/verben/braten/braten.ogg">🔊</span> (to pan-fry/to grill)
+- **geraten** <span class="pron" data-src="../audio/verben/geraten/geraten.ogg">🔊</span> (to get into/to fall into)
+- **halten** <span class="pron" data-src="../audio/verben/halten/halten.ogg">🔊</span> (to hold/to maintain a state/to stop)
+- **raten** <span class="pron" data-src="../audio/verben/raten/raten.ogg">🔊</span> (to advise)
 
 ## e → i
-- **gelten** (to be valid/to be regarded)
+- **gelten** <span class="pron" data-src="../audio/verben/gelten/gelten.ogg">🔊</span> (to be valid/to be regarded)
 
 :::
 
@@ -341,193 +396,194 @@ This rule is limited to the stem-changing verbs with *-t* infinitive stem ending
 
 In addition to **sein**, there are a handful of irregular verbs that don't fall neatly into any of the above categories. Many of these are used frequently, so you will likely learn that they are different rather quickly. A brief list of the most common ones are: 
 
-- **dürfen** (to allow/to permit/may)
-- **gebären** (to give birth to)
-- **haben** (to have)
-- **können** (to be able to/can)
-- **laden** (to load)
-- **mögen** (to like)
-- **müssen** (to have to/must)
-- **nehmen** (to take)
-- **sein** (to be)
-- **sollen** (is supposed to be/is allegedly)
-- **treten** (to tread/to kick)
-- **tun** (to do)
-- **wissen** (to know, as in facts)
-- **wollen** (to want)
+- **dürfen** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span> (to allow/to permit/may)
+- **gebären** <span class="pron" data-src="../audio/verben/gebären/gebären.ogg">🔊</span> (to give birth to)
+- **haben** <span class="pron" data-src="../audio/verben/haben/haben.ogg">🔊</span> (to have)
+- **können** <span class="pron" data-src="../audio/verben/können/können.ogg">🔊</span> (to be able to/can)
+- **laden** <span class="pron" data-src="../audio/verben/laden/laden.ogg">🔊</span> (to load)
+- **mögen** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span> (to like)
+- **müssen** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span> (to have to/must)
+- **nehmen** <span class="pron" data-src="../audio/verben/nehmen/nehmen.ogg">🔊</span> (to take)
+- **sein** <span class="pron" data-src="../audio/verben/sein/sein.ogg">🔊</span> (to be)
+- **sollen** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span> (is supposed to be/is allegedly)
+- **treten** <span class="pron" data-src="../audio/verben/treten/treten.ogg">🔊</span> (to tread/to kick)
+- **tun** <span class="pron" data-src="../audio/verben/tun/tun.ogg">🔊</span> (to do)
+- **werden** <span class="pron" data-src="../audio/verben/werden/werden.ogg">🔊</span> (to become)
+- **wissen** <span class="pron" data-src="../audio/verben/wissen/wissen.ogg">🔊</span> (to know, as in facts)
+- **wollen** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span> (to want)
 
 There are conjugation tables for each of these verbs in the tabsets below:
 
 :::{.panel-tabset}
 ## dürfen
 <div style="text-align: center;">
-**dürfen** (to allow/to permit/may)
+**dürfen** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span> (to allow/to permit/may)
 </div>
 
 |||
 |:---:|:---:|
-| ich d**a**rf | wir dürf**en** |
-| du d**a**rf**st** | ihr dürf**t** |
-| er d**a**rf<br>sie d**a**rf<br>es d**a**rf | Sie dürf**en**<br>sie dürf**en** |
+| ich d**a**rf <span class="pron" data-src="../audio/verben/dürfen/darf.ogg">🔊</span> | wir dürf**en** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span> |
+| du d**a**rf**st** <span class="pron" data-src="../audio/verben/dürfen/darfst.ogg">🔊</span> | ihr dürf**t** <span class="pron" data-src="../audio/verben/dürfen/dürft.ogg">🔊</span> |
+| er d**a**rf <span class="pron" data-src="../audio/verben/dürfen/darf.ogg">🔊</span><br>sie d**a**rf<br>es d**a**rf | Sie dürf**en** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span><br>sie dürf**en** |
 
 ## gebären
 <div style="text-align: center;">
-**gebären** (to give birth to)
+**gebären** <span class="pron" data-src="../audio/verben/gebären/gebären.ogg">🔊</span> (to give birth to)
 </div>
 
 |||
 |:---:|:---:|
-| ich gebär**e** | wir gebär**en** |
-| du geb**ie**r**st** | ihr gebär**t** |
-| er geb**ie**r**t**<br>sie geb**ie**r**t**<br>es geb**ie**r**t** | Sie gebär**en**<br>sie gebär**en** |
+| ich gebär**e** <span class="pron" data-src="../audio/verben/gebären/gebäre.ogg">🔊</span> | wir gebär**en** <span class="pron" data-src="../audio/verben/gebären/gebären.ogg">🔊</span> |
+| du geb**ie**r**st** <span class="pron" data-src="../audio/verben/gebären/gebierst.ogg">🔊</span> | ihr gebär**t** <span class="pron" data-src="../audio/verben/gebären/gebärt.ogg">🔊</span> |
+| er geb**ie**r**t** <span class="pron" data-src="../audio/verben/gebären/gebiert.ogg">🔊</span><br>sie geb**ie**r**t**<br>es geb**ie**r**t** | Sie gebär**en** <span class="pron" data-src="../audio/verben/gebären/gebären.ogg">🔊</span><br>sie gebär**en** |
 
 
 ## haben
 <div style="text-align: center;">
-**haben** (to have)
+**haben** <span class="pron" data-src="../audio/verben/haben/haben.ogg">🔊</span> (to have)
 </div>
 
 |||
 |:---:|:---:|
-| ich hab**e** | wir hab**en** |
-| du ha**st** | ihr hab**t** |
-| er ha**t**<br>sie ha**t**<br>es ha**t** | Sie hab**en**<br>sie hab**en** |
+| ich hab**e** <span class="pron" data-src="../audio/verben/haben/habe.ogg">🔊</span> | wir hab**en** <span class="pron" data-src="../audio/verben/haben/haben.ogg">🔊</span> |
+| du ha**st** <span class="pron" data-src="../audio/verben/haben/hast.ogg">🔊</span> | ihr hab**t** <span class="pron" data-src="../audio/verben/haben/habt.ogg">🔊</span> |
+| er ha**t** <span class="pron" data-src="../audio/verben/haben/hat.ogg">🔊</span><br>sie ha**t**<br>es ha**t** | Sie hab**en** <span class="pron" data-src="../audio/verben/haben/haben.ogg">🔊</span><br>sie hab**en** |
 
 ## können
 <div style="text-align: center;">
-**können** (to be able to/can)
+**können** <span class="pron" data-src="../audio/verben/können/können.ogg">🔊</span> (to be able to/can)
 </div>
 
 |||
 |:---:|:---:|
-| ich k**a**nn | wir könn**en** |
-| du k**a**nn**st** | ihr könn**t** |
-| er k**a**nn<br>sie k**a**nn<br>es k**a**nn | Sie könn**en**<br>sie könn**en** |
+| ich k**a**nn <span class="pron" data-src="../audio/verben/können/kann.ogg">🔊</span> | wir könn**en** <span class="pron" data-src="../audio/verben/können/können.ogg">🔊</span> |
+| du k**a**nn**st** <span class="pron" data-src="../audio/verben/können/kannst.ogg">🔊</span> | ihr könn**t** <span class="pron" data-src="../audio/verben/können/könnt.ogg">🔊</span> |
+| er k**a**nn <span class="pron" data-src="../audio/verben/können/kann.ogg">🔊</span><br>sie k**a**nn<br>es k**a**nn | Sie könn**en** <span class="pron" data-src="../audio/verben/können/können.ogg">🔊</span><br>sie könn**en** |
 
 ## laden
 <div style="text-align: center;">
-**laden** (to load)
+**laden** <span class="pron" data-src="../audio/verben/laden/laden.ogg">🔊</span> (to load)
 </div>
 
 |||
 |:---:|:---:|
-| ich lad*e* | wir lad**en** |
-| du l**ä**d**st** | ihr lad**et** |
-| er l**ä**d**t**<br>sie l**ä**d**t**<br>es l**ä**d**t** | Sie lad**en**<br>sie lad**en** |
+| ich lad**e** <span class="pron" data-src="../audio/verben/laden/lade.ogg">🔊</span> | wir lad**en** <span class="pron" data-src="../audio/verben/laden/laden.ogg">🔊</span> |
+| du l**ä**d**st** <span class="pron" data-src="../audio/verben/laden/lädst.ogg">🔊</span> | ihr lad**et** <span class="pron" data-src="../audio/verben/laden/ladet.ogg">🔊</span> |
+| er l**ä**d**t** <span class="pron" data-src="../audio/verben/laden/lädt.ogg">🔊</span><br>sie l**ä**d**t**<br>es l**ä**d**t** | Sie lad**en** <span class="pron" data-src="../audio/verben/laden/laden.ogg">🔊</span><br>sie lad**en** |
 
 We can see that **laden** behaves very similarly to the stem-changing verbs ending in *-t*. However, in the third person singular, it adds *-t* to the end, which that set of verbs do not do. As such, I group it with the irregular verbs.
 
 ## mögen
 <div style="text-align: center;">
-**mögen** (to like)
+**mögen** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span> (to like)
 </div>
 
 |||
 |:---:|:---:|
-| ich m**a**g | wir mög**en** |
-| du m**a**g**st** | ihr mög**t** |
-| er m**a**g<br>sie m**a**g<br>es m**a**g | Sie mög**en**<br>sie mög**en** |
+| ich m**a**g <span class="pron" data-src="../audio/verben/mögen/mag.ogg">🔊</span> | wir mög**en** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span> |
+| du m**a**g**st** <span class="pron" data-src="../audio/verben/mögen/magst.ogg">🔊</span> | ihr mög**t** <span class="pron" data-src="../audio/verben/mögen/mögt.ogg">🔊</span> |
+| er m**a**g <span class="pron" data-src="../audio/verben/mögen/mag.ogg">🔊</span><br>sie m**a**g<br>es m**a**g | Sie mög**en** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span><br>sie mög**en** |
 
 ## müssen
 <div style="text-align: center;">
-**müssen** (to have to/must)
+**müssen** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span> (to have to/must)
 </div>
 
 |||
 |:---:|:---:|
-| ich m**u**ss | wir müss**en** |
-| du m**u**ss**t** | ihr müss**t** |
-| er m**u**ss<br>sie m**u**ss<br>es m**u**ss | Sie müss**en**<br>sie müss**en** |
+| ich m**u**ss <span class="pron" data-src="../audio/verben/müssen/muss.ogg">🔊</span> | wir müss**en** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span> |
+| du m**u**ss**t** <span class="pron" data-src="../audio/verben/müssen/musst.ogg">🔊</span> | ihr müss**t** <span class="pron" data-src="../audio/verben/müssen/müsst.ogg">🔊</span> |
+| er m**u**ss <span class="pron" data-src="../audio/verben/müssen/muss.ogg">🔊</span><br>sie m**u**ss<br>es m**u**ss | Sie müss**en** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span><br>sie müss**en** |
 
 ## nehmen
 <div style="text-align: center;">
-**nehmen** (to take)
+**nehmen** <span class="pron" data-src="../audio/verben/nehmen/nehmen.ogg">🔊</span> (to take)
 </div>
 
 |||
 |:---:|:---:|
-| ich nehm**e** | wir nehm**en** |
-| du n**im**m**st** | ihr nehm**t** |
-| er n**im**m**t**<br>sie n**im**m**t**<br>es n**im**m**t** | Sie nehm**en**<br>sie nehm**en** |
+| ich nehm**e** <span class="pron" data-src="../audio/verben/nehmen/nehme.ogg">🔊</span> | wir nehm**en** <span class="pron" data-src="../audio/verben/nehmen/nehmen.ogg">🔊</span> |
+| du n**im**m**st** <span class="pron" data-src="../audio/verben/nehmen/nimmst.ogg">🔊</span> | ihr nehm**t** <span class="pron" data-src="../audio/verben/nehmen/nehmt.ogg">🔊</span> |
+| er n**im**m**t** <span class="pron" data-src="../audio/verben/nehmen/nimmt.ogg">🔊</span><br>sie n**im**m**t**<br>es n**im**m**t** | Sie nehm**en** <span class="pron" data-src="../audio/verben/nehmen/nehmen.ogg">🔊</span><br>sie nehm**en** |
 
 ## sein
 <div style="text-align: center;">
-**sein** (to be)
+**sein** <span class="pron" data-src="../audio/verben/sein/sein.ogg">🔊</span> (to be) 
 </div>
 
 |||
 |:---:|:---:|
-| ich **bin** | wir **sind** |
-| du **bist** | ihr **seid** |
-| er **ist**<br>sie **ist**<br>es **ist** | Sie **sind**<br>sie **sind** |
+| ich **bin** <span class="pron" data-src="../audio/verben/sein/bin.ogg">🔊</span> | wir **sind** <span class="pron" data-src="../audio/verben/sein/sind.ogg">🔊</span> |
+| du **bist** <span class="pron" data-src="../audio/verben/sein/bist.ogg">🔊</span> | ihr **seid** <span class="pron" data-src="../audio/verben/sein/seid.ogg">🔊</span> |
+| er **ist** <span class="pron" data-src="../audio/verben/sein/ist.ogg">🔊</span> <br>sie **ist**<br>es **ist** | Sie **sind** <span class="pron" data-src="../audio/verben/sein/sind.ogg">🔊</span><br>sie **sind** |
 
 ## sollen
 <div style="text-align: center;">
-**sollen** (is supposed to be/is allegedly)
+**sollen** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span> (is supposed to be/is allegedly)
 </div>
 
 |||
 |:---:|:---:|
-| ich soll | wir soll**en** |
-| du soll**st** | ihr soll**t** |
-| er soll<br>sie soll<br>es soll | Sie soll**en**<br>sie soll**en** |
+| ich soll <span class="pron" data-src="../audio/verben/sollen/soll.ogg">🔊</span> | wir soll**en** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span> |
+| du soll**st** <span class="pron" data-src="../audio/verben/sollen/sollst.ogg">🔊</span> | ihr soll**t** <span class="pron" data-src="../audio/verben/sollen/sollt.ogg">🔊</span> |
+| er soll <span class="pron" data-src="../audio/verben/sollen/soll.ogg">🔊</span><br>sie soll<br>es soll | Sie soll**en** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span><br>sie soll**en** |
 
 ## treten
 <div style="text-align: center;">
-**treten** (to tread/to kick)
+**treten** <span class="pron" data-src="../audio/verben/treten/treten.ogg">🔊</span> (to tread/to kick)
 </div>
 
 |||
 |:---:|:---:|
-| ich tret**e** | wir tret**en** |
-| du tr**i**t**tst** | ihr tret**et** |
-| er tr**i**t**t**<br>sie tr**i**t**t**<br>es tr**i**t**t** | Sie tret**en**<br>sie tret**en** |
+| ich tret**e** <span class="pron" data-src="../audio/verben/treten/trete.ogg">🔊</span> | wir tret**en** <span class="pron" data-src="../audio/verben/treten/treten.ogg">🔊</span> |
+| du tr**i**t**tst** <span class="pron" data-src="../audio/verben/treten/trittst.ogg">🔊</span> | ihr tret**et** <span class="pron" data-src="../audio/verben/treten/tretet.ogg">🔊</span> |
+| er tr**i**t**t** <span class="pron" data-src="../audio/verben/treten/tritt.ogg">🔊</span><br>sie tr**i**t**t**<br>es tr**i**t**t** | Sie tret**en** <span class="pron" data-src="../audio/verben/treten/treten.ogg">🔊</span><br>sie tret**en** |
 
 The verb **treten** is very similar to the stem-changing verbs that end in *-t*, but for some reason it adds an extra *-t* onto the infinitive stem in the second- and third-person singular. As such, I group it with the irregulars.
 
 ## tun
 <div style="text-align: center;">
-**tun** (to do)
+**tun** <span class="pron" data-src="../audio/verben/tun/tun.ogg">🔊</span> (to do)
 </div>
 
 |||
 |:---:|:---:|
-| ich tu**e** | wir **tun** |
-| du tu**st** | ihr tu**t** |
-| er tu**t**<br>sie tu**t**<br>es tu**t** | Sie **tun**<br>sie **tun** |
+| ich tu**e** <span class="pron" data-src="../audio/verben/tun/tue.ogg">🔊</span> | wir **tun** <span class="pron" data-src="../audio/verben/tun/tun.ogg">🔊</span> |
+| du tu**st** <span class="pron" data-src="../audio/verben/tun/tust.ogg">🔊</span> | ihr tu**t** <span class="pron" data-src="../audio/verben/tun/tut.ogg">🔊</span> |
+| er tu**t** <span class="pron" data-src="../audio/verben/tun/tut.ogg">🔊</span><br>sie tu**t**<br>es tu**t** | Sie **tun** <span class="pron" data-src="../audio/verben/tun/tun.ogg">🔊</span><br>sie **tun** |
 
 ## werden
 <div style="text-align: center;">
-**werden** (to become)
+**werden** <span class="pron" data-src="../audio/verben/werden/werden.ogg">🔊</span> (to become)
 </div>
 
 |||
 |:---:|:---:|
-| ich werd**e** | wir werd**en** |
-| du w**i**r**st** | ihr werd**et** |
-| er w**i**rd<br>sie w**i**rd<br>es w**i**rd | Sie werd**en**<br>sie werd**en** |
+| ich werd**e** <span class="pron" data-src="../audio/verben/werden/werde.ogg">🔊</span> | wir werd**en** <span class="pron" data-src="../audio/verben/werden/werden.ogg">🔊</span> |
+| du w**i**r**st** <span class="pron" data-src="../audio/verben/werden/wirst.ogg">🔊</span> | ihr werd**et** <span class="pron" data-src="../audio/verben/werden/werdet.ogg">🔊</span> |
+| er w**i**rd <span class="pron" data-src="../audio/verben/werden/wird.ogg">🔊</span><br>sie w**i**rd<br>es w**i**rd | Sie werd**en** <span class="pron" data-src="../audio/verben/werden/werden.ogg">🔊</span><br>sie werd**en** |
 
 ## wissen
 <div style="text-align: center;">
-**wissen** (to know, as in facts)
+**wissen** <span class="pron" data-src="../audio/verben/wissen/wissen.ogg">🔊</span> (to know, as in facts)
 </div>
 
 |||
 |:---:|:---:|
-| ich w**eiß** | wir wiss**en** |
-| du w**eißt** | ihr wiss**t** |
-| er w**eiß**<br>sie w**eiß**<br>es w**eiß** | Sie wiss**en**<br>sie wiss**en** |
+| ich w**eiß** <span class="pron" data-src="../audio/verben/wissen/weiß.ogg">🔊</span> | wir wiss**en** <span class="pron" data-src="../audio/verben/wissen/wissen.ogg">🔊</span> |
+| du w**eißt** <span class="pron" data-src="../audio/verben/wissen/weißt.ogg">🔊</span> | ihr wiss**t** <span class="pron" data-src="../audio/verben/wissen/wisst.ogg">🔊</span> |
+| er w**eiß** <span class="pron" data-src="../audio/verben/wissen/weiß.ogg">🔊</span><br>sie w**eiß**<br>es w**eiß** | Sie wiss**en** <span class="pron" data-src="../audio/verben/wissen/wissen.ogg">🔊</span><br>sie wiss**en** |
 
 ## wollen
 <div style="text-align: center;">
-**wollen** (to want)
+**wollen** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span> (to want)
 </div>
 
 |||
 |:---:|:---:|
-| ich w**i**ll | wir woll**en** |
-| du w**i**ll**st** | ihr woll**t** |
-| er w**i**ll<br>sie w**i**ll<br>es w**i**ll | Sie woll**en**<br>sie woll**en** |
+| ich w**i**ll <span class="pron" data-src="../audio/verben/wollen/will.ogg">🔊</span> | wir woll**en** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span> |
+| du w**i**ll**st** <span class="pron" data-src="../audio/verben/wollen/willst.wav">🔊</span> | ihr woll**t** <span class="pron" data-src="../audio/verben/wollen/wollt.ogg">🔊</span> |
+| er w**i**ll <span class="pron" data-src="../audio/verben/wollen/will.ogg">🔊</span><br>sie w**i**ll<br>es w**i**ll | Sie woll**en** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span><br>sie woll**en** |
 
 :::
 
@@ -540,21 +596,21 @@ There are a handful of verbs that really only exist in the third-person. All of 
 
 Some impersonal verbs which define the status of a thing or an event are:
 
-- **stattfinden** (to happen/to take place)
-- **passieren** (to happen)
-- **eilen** (to be urgent)
-- **stimmen** (to be true)
-- **sich lohnen** (to be worth it)
+- **stattfinden** <span class="pron" data-src="../audio/verben/stattfinden/stattfinden.ogg">🔊</span> (to happen/to take place)
+- **passieren** <span class="pron" data-src="../audio/verben/passieren/passieren.ogg">🔊</span> (to happen)
+- **eilen** <span class="pron" data-src="../audio/verben/eilen/eilen.ogg">🔊</span> (to be urgent)
+- **stimmen** <span class="pron" data-src="../audio/verben/stimmen/stimmen.ogg">🔊</span> (to be true)
+- **sich lohnen**\* <span class="pron" data-src-list="../audio/reflexive/sich.ogg, ../audio/verben/lohnen/lohnen.ogg">🔊</span> (to be worth it)
 
 ## Weather-related verbs
 
 Other impersonal verbs fall within the category of being weather-related, such as:
 
-- **hageln** (to hail)
-- **regnen** (to rain)
-- **schneien** (to snow)
-- **blitzen\*** (to lightning)
-- **donnern\*** (to thunder)
+- **blitzen\*** <span class="pron" data-src="../audio/verben/blitzen/blitzen.ogg">🔊</span> (to lightning)
+- **donnern\*** <span class="pron" data-src="../audio/verben/donnern/donnern.ogg">🔊</span> (to thunder)
+- **hageln** <span class="pron" data-src="../audio/verben/hageln/hageln.ogg">🔊</span> (to hail)
+- **regnen** <span class="pron" data-src="../audio/verben/regnen/regnen.ogg">🔊</span> (to rain)
+- **schneien** <span class="pron" data-src="../audio/verben/schneien/schneien.ogg">🔊</span> (to snow)
 
 \* *Note that these verbs in the context of weather, only have third-person conjugations, but they do have alternative meanings that can be conjugated in the first- and second- person. See the collapsible discussion below for more information.*
 
