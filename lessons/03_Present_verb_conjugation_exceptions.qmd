@@ -37,7 +37,7 @@ Infinitive verbs whose stem ends in *-s*, *-ß*, *-x* or *-z*  only add a *-t* i
 | *-s* |*-ß* |*-x* |*-z* |
 |:---:|:---:|:---:|:---:|
 | **reisen** <span class="pron" data-src="../audio/verben/reisen/reisen.ogg">🔊</span> (to travel) | **heißen** <span class="pron" data-src="../audio/verben/heißen/heißen.ogg">🔊</span> (to be named) | **faxen** <span class="pron" data-src="../audio/verben/faxen/faxen.ogg">🔊</span> (to fax) | **tanzen** <span class="pron" data-src="../audio/verben/tanzen/tanzen.ogg">🔊</span> (to dance) |
-|| **schließen** <span class="pron" data-src="../audio/verben/schließen/schließen.ogg">🔊</span> (to close) || **sitzen** <span class="pron" data-src="../audio/verben/sitzen/sitzen.ogg">🔊</span>  (to sit)|
+|| **schließen** <span class="pron" data-src="../audio/verben/schließen/schließen.ogg">🔊</span> (to close) | **mixen** <span class="pron" data-src="../audio/verben/mixen/mixen.ogg">🔊</span> (to mix) | **sitzen** <span class="pron" data-src="../audio/verben/sitzen/sitzen.ogg">🔊</span>  (to sit)|
 || **grüßen** <span class="pron" data-src="../audio/verben/grüßen/grüßen.ogg">🔊</span> (to greet) || **besitzen** <span class="pron" data-src="../audio/verben/besitzen/besitzen.ogg">🔊</span> (to own) |
 
 :::{.callout-note}
