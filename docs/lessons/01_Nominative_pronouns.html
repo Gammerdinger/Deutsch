@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -75,7 +75,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-84aaa60ab5db7c70b2768b9d890a0a0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -106,12 +106,75 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
+</head><body class="nav-sidebar docked nav-fixed quarto-light"><audio id="global-audio-player"></audio>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("audio-helper: DOMContentLoaded");
+  const player = document.getElementById("global-audio-player");
+  if (!player) {
+    console.error("audio-helper: no #global-audio-player found");
+    return;
+  }
+
+  document.querySelectorAll(".pron").forEach(function (el) {
+    console.log("audio-helper: found .pron", el);
+    el.style.cursor = "pointer";
+    el.setAttribute("title", "Play pronunciation");
+
+    el.addEventListener("click", function (e) {
+      e.preventDefault();
+
+      const listAttr = el.getAttribute("data-src-list");
+      const single = el.getAttribute("data-src");
+
+      let sources = [];
+      if (listAttr) {
+        sources = listAttr.split(",").map(s => s.trim()).filter(Boolean);
+      } else if (single) {
+        sources = [single];
+      }
+
+      console.log("audio-helper: sources to play", sources);
+      if (sources.length === 0) return;
+
+      let idx = 0;
+
+      // Clear any old sequence handler
+      if (player._sequenceHandler) {
+        player.removeEventListener("ended", player._sequenceHandler);
+        player._sequenceHandler = null;
+      }
+
+      const playNext = function () {
+        if (idx >= sources.length) {
+          console.log("audio-helper: sequence finished");
+          player.removeEventListener("ended", playNext);
+          player._sequenceHandler = null;
+          return;
+        }
+        const src = sources[idx++];
+        console.log("audio-helper: playing", src);
+        player.src = src;
+        player.load();  // ensure the new source is loaded
+        player.play().catch(err => console.error("audio-helper: play error", err));
+      };
+
+      // Store and attach the handler *before* we start playing
+      player._sequenceHandler = playNext;
+      player.addEventListener("ended", playNext);
+
+      // Start the sequence (first file)
+      playNext();
+    });
+  });
+});
+</script>
 
 
 <link rel="stylesheet" href="../css/styles.css">
-</head>
 
-<body class="nav-sidebar docked nav-fixed quarto-light">
+
+
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -925,7 +988,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>This lesson has been developed by Will Gammerdinger. <br> These are open access materials distributed under the terms of the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a> (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. <br></p>
+<p>This lesson has been developed by Will Gammerdinger. <br> Unless otherwise noted, the original teaching materials in this repository (text, exercises, and code) are distributed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Creative Commons Attribution–ShareAlike 4.0 International License</a>. Pronunciation audio files are sourced from <a href="https://en.wiktionary.org/">Wiktionary</a>. Those files retain their original licenses (for example, various Creative Commons licenses or public-domain dedications) as specified on their Wiktionary file pages. If you wish to reuse those pronunciation files, please check the license information for each file on Wiktionary and follow the corresponding terms of use and attribution. <br></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
