@@ -198,5 +198,12 @@
     "title": "",
     "section": "Pronounciations",
     "text": "Pronounciations\nWhere pronunciations are provided, they were pulled from Wiktionary. These audio files are licensed under the Creative Commons Attribution-Share Alike 4.0 International license."
+  },
+  {
+    "objectID": "index.html#licenses",
+    "href": "index.html#licenses",
+    "title": "",
+    "section": "Licenses",
+    "text": "Licenses\nUnless otherwise noted, the original teaching materials in this repository (text, exercises, and code) are distributed under the Creative Commons Attribution–ShareAlike 4.0 International License.\n\nPronunciation audio\nPronunciation audio files are sourced from Wiktionary. Those files retain their original licenses (for example, various Creative Commons licenses or public-domain dedications) as specified on their Wiktionary file pages. If you wish to reuse those pronunciation files, please check the license information for each file on Wiktionary and follow the corresponding terms of use and attribution."
   }
 ]
