@@ -1,0 +1,1215 @@
+﻿Article,Object_singular,Translation_singular,Object_plural,Translation_plural,Category
+die,Ähnlichkeit,similarity,Ähnlichkeiten,similarities,abstract
+die,Alternative,alternative,Alternativen,alternatives,abstract
+die,Änderung,"change, alteration",Änderungen,"changes, alterations",abstract
+die,Ansicht,"view, opinion",Ansichten,"views, opinions",abstract
+die,Aufgabe,task,Aufgaben,tasks,abstract
+der,Begriff,"term, concept",Begriffe,"terms, concepts",abstract
+das,Beispiel,example,Beispiele,examples,abstract
+die,Beschreibung,description,Beschreibungen,descriptions,abstract
+die,Bitte,"request, favor",Bitten,"requests, favors",abstract
+die,Chance,"chance, opportunity",Chancen,"chances, opportunities",abstract
+das,Ding,thing,Dinge,things,abstract
+die,Diskussion,discussion,Diskussionen,discussions,abstract
+die,Entscheidung,decision,Entscheidungen,decisions,abstract
+die,Entschuldigung,"apology, excuse",Entschuldigungen,"apologies, excuses",abstract
+die,Entwicklung,development,Entwicklungen,developments,abstract
+die,Erfahrung,experience,Erfahrungen,experiences,abstract
+der,Erfolg,success,Erfolge,successes,abstract
+die,Erklärung,explanation,Erklärungen,explanations,abstract
+die,Erlaubnis,permission,Erlaubnisse,permissions,abstract
+der,Fehler,"mistake, error",Fehler,"mistakes, errors",abstract
+die,Freude,joy,Freuden,joys,abstract
+der,Gedanke,thought,Gedanken,thoughts,abstract
+die,Gefahr,danger,Gefahren,dangers,abstract
+die,Gegenwart,present (time),Gegenwarten,presents,abstract
+die,Geschichte,"history, story",Geschichten,"histories, stories",abstract
+der,Grund,"reason, ground",Gründe,reasons,abstract
+die,Handlung,"action, plot",Handlungen,"actions, plots",abstract
+der,Hass,hatred,Hasse,hatreds (rare),abstract
+die,Herausforderung,challenge,Herausforderungen,challenges,abstract
+die,Hilfe,"help, aid",Hilfen,"helps, aids",abstract
+der,Hintergrund,background,Hintergründe,backgrounds,abstract
+die,Hoffnung,hope,Hoffnungen,hopes,abstract
+die,Idee,idea,Ideen,ideas,abstract
+die,Kategorie,category,Kategorien,categories,abstract
+der,Kontakt,contact,Kontakte,contacts,abstract
+die,Kontrolle,"control, check",Kontrollen,"controls, checks",abstract
+die,Lage,situation; location,Lagen,situations; locations,abstract
+die,Liebe,love,Lieben,"loves (rare, as persons loved)",abstract
+die,Liste,list,Listen,lists,abstract
+die,Lösung,solution,Lösungen,solutions,abstract
+die,Meinung,opinion,Meinungen,opinions,abstract
+die,Menge,"amount, quantity",Mengen,"amounts, quantities",abstract
+die,Mission,mission,Missionen,missions,abstract
+die,Möglichkeit,possibility,Möglichkeiten,possibilities,abstract
+das,Niveau,"level, standard",Niveaus,"levels, standards",abstract
+die,Option,option,Optionen,options,abstract
+die,Ordnung,"order, tidiness",Ordnungen,"orders, regulations",abstract
+die,Perspektive,perspective,Perspektiven,perspectives,abstract
+die,Pflicht,duty,Pflichten,duties,abstract
+die,Phase,phase,Phasen,phases,abstract
+der,Plan,plan,Pläne,plans,abstract
+die,Planung,planning,Planungen,"plans, plannings",abstract
+das,Potenzial,potential,Potenziale,potentials,abstract
+das,Problem,problem,Probleme,problems,abstract
+die,Qualität,quality,Qualitäten,qualities,abstract
+die,Regel,rule,Regeln,rules,abstract
+die,Reihe,"series, row",Reihen,"series, rows",abstract
+das,Risiko,risk,Risiken,risks,abstract
+die,Sache,"thing, matter",Sachen,"things, matters",abstract
+die,Schuld,"guilt, fault",Schulden,debts,abstract
+der,Schutz,protection,Schutze,types or means of protection,abstract
+die,Schwierigkeit,difficulty,Schwierigkeiten,difficulties,abstract
+die,Sicherheit,"safety, security",Sicherheiten,"guarantees, securities",abstract
+die,Sicht,"view, visibility",Sichten,"views, visibilities",abstract
+die,Situation,situation,Situationen,situations,abstract
+der,Standard,standard,Standards,standards,abstract
+die,Struktur,structure,Strukturen,structures,abstract
+die,Stufe,"level, step",Stufen,"levels, steps",abstract
+das,System,system,Systeme,systems,abstract
+die,Übersicht,overview,Übersichten,overviews,abstract
+die,Umfrage,survey,Umfragen,surveys,abstract
+die,Unterhaltung,conversation; entertainment,Unterhaltungen,conversations; entertainments,abstract
+der,Unterschied,difference,Unterschiede,differences,abstract
+die,Ursache,cause,Ursachen,causes,abstract
+die,Verantwortung,responsibility,Verantwortungen,responsibilities,abstract
+die,Verbesserung,improvement,Verbesserungen,improvements,abstract
+die,Verbindung,"connection, link",Verbindungen,"connections, links",abstract
+das,Verbot,"ban, prohibition",Verbote,"bans, prohibitions",abstract
+die,Vergangenheit,past,Vergangenheiten,pasts,abstract
+das,Verhältnis,"relationship, ratio",Verhältnisse,"relationships, ratios",abstract
+der,Verlauf,"course, progression",Verläufe,"courses, progressions",abstract
+der,Versuch,"attempt, experiment",Versuche,"attempts, experiments",abstract
+die,Vorauswahl,"pre-selection, shortlist",Vorauswahlen,"pre-selections, shortlists",abstract
+der,Vordergrund,foreground,Vordergründe,foregrounds,abstract
+die,Vorstellung,"idea, introduction, performance",Vorstellungen,"ideas, introductions, performances",abstract
+die,Wirklichkeit,reality,Wirklichkeiten,realities,abstract
+das,Ziel,"goal, target",Ziele,"goals, targets",abstract
+die,Zukunft,future,Zukünfte,futures,abstract
+der,Zusammenhang,"context, connection",Zusammenhänge,"contexts, connections",abstract
+der,Zustand,"state, condition",Zustände,"states, conditions",abstract
+der,Anhang,"attachment, appendix",Anhänge,"attachments, appendices",abstract
+die,Anleitung,"instruction, manual",Anleitungen,"instructions, manuals",abstract
+die,Bedienung,service; operation,Bedienungen,services; operations,abstract
+die,Beilage,"attachment, enclosure; side dish",Beilagen,attachments; side dishes,abstract
+die,Ergänzung,"addition, supplement",Ergänzungen,"additions, supplements",abstract
+die,Farbe,color,Farben,colors,abstract
+die,Form,"shape, form",Formen,"shapes, forms",abstract
+die,Frist,"deadline, time limit",Fristen,"deadlines, time limits",abstract
+die,Funktion,function,Funktionen,functions,abstract
+die,Größe,size,Größen,sizes,abstract
+der,Hinweis,"hint, note, reference",Hinweise,"hints, notes, references",abstract
+die,Marke,brand,Marken,brands,abstract
+die,Maßnahme,"measure, action",Maßnahmen,"measures, actions",abstract
+die,Methode,method,Methoden,methods,abstract
+das,Modell,model,Modelle,models,abstract
+das,Muster,"pattern, sample",Muster,"patterns, samples",abstract
+der,Nachteil,disadvantage,Nachteile,disadvantages,abstract
+die,Notiz,note,Notizen,notes,abstract
+die,Position,position,Positionen,positions,abstract
+die,Rolle,role,Rollen,roles,abstract
+das,Schema,schema,Schemata,schemata,abstract
+das,Signal,signal,Signale,signals,abstract
+die,Störung,"disturbance, malfunction",Störungen,"disturbances, malfunctions",abstract
+die,Strategie,strategy,Strategien,strategies,abstract
+das,Symbol,symbol,Symbole,symbols,abstract
+die,Variante,variant,Varianten,variants,abstract
+die,Version,version,Versionen,versions,abstract
+der,Vorteil,advantage,Vorteile,advantages,abstract
+das,Zeichen,"sign, symbol",Zeichen,"signs, symbols",abstract
+das,Chaos,chaos,Chaose,chaos situations (rare),abstract
+die,Mitte,"middle, center",Mitten,"centers, middles",abstract
+die,Sauberkeit,cleanliness,Sauberkeiten,degrees of cleanliness,abstract
+die,Seite,"side, page",Seiten,"sides, pages",abstract
+die,Unordnung,"mess, disorder",Unordnungen,disorders,abstract
+die,Akte,"file, dossier",Akten,"files, dossiers",administration
+die,Aktennummer,file number,Aktennummern,file numbers,administration
+die,Aktion,"action, campaign",Aktionen,"actions, campaigns",administration
+das,Amt,"office, department",Ämter,"offices, departments",administration
+der,Antrag,"application, request form",Anträge,"applications, request forms",administration
+das,Archiv,archive,Archive,archives,administration
+die,Bearbeitung,processing,Bearbeitungen,processings,administration
+die,Behörde,"authority, agency",Behörden,"authorities, agencies",administration
+die,Bescheinigung,"certificate, confirmation",Bescheinigungen,"certificates, confirmations",administration
+die,Bestätigung,confirmation,Bestätigungen,confirmations,administration
+das,Formular,"form, form sheet",Formulare,forms,administration
+die,Genehmigung,"approval, permit",Genehmigungen,"approvals, permits",administration
+der,Leiter,"manager, head (male)",Leiter,"manager, heads",administration
+die,Leiterin,"manager, head (female)",Leiterinnen,"managers, heads (female)",administration
+die,Leitung,"management, leadership",Leitungen,managements; cables,administration
+das,Protokoll,minutes; protocol,Protokolle,minutes; protocols,administration
+die,Sitzung,"session, meeting",Sitzungen,"sessions, meetings",administration
+die,Verwaltung,administration,Verwaltungen,administrations,administration
+die,Vorlage,"template, draft",Vorlagen,"templates, drafts",administration
+die,Vorschrift,"regulation, rule",Vorschriften,"regulations, rules",administration
+die,Ameise,ant,Ameisen,ants,animals
+der,Bär,bear,Bären,bears,animals
+die,Biene,bee,Bienen,bees,animals
+der,Elefant,elephant,Elefanten,elephants,animals
+die,Ente,duck,Enten,ducks,animals
+der,Fisch,fish,Fische,fish (plural),animals
+die,Fliege,fly,Fliegen,flies,animals
+der,Hase,"rabbit, hare",Hasen,"rabbits, hares",animals
+der,Hund,dog,Hunde,dogs,animals
+die,Katze,cat,Katzen,cats,animals
+die,Kuh,cow,Kühe,cows,animals
+der,Löwe,lion,Löwen,lions,animals
+die,Maus,mouse,Mäuse,mice,animals
+das,Pferd,horse,Pferde,horses,animals
+die,Ratte,rat,Ratten,rats,animals
+das,Schaf,sheep,Schafe,sheep,animals
+die,Schlange,snake,Schlangen,snakes,animals
+das,Schwein,pig,Schweine,pigs,animals
+die,Spinne,spider,Spinnen,spiders,animals
+das,Tier,animal,Tiere,animals,animals
+der,Tiger,tiger,Tiger,tigers,animals
+der,Vogel,bird,Vögel,birds,animals
+der,Zoo,zoo,Zoos,zoos,animals
+das,Bild,"picture, painting",Bilder,"pictures, paintings",art
+die,CD,CD,CDs,CDs,art
+das,Foto,photo,Fotos,photos,art
+das,Lied,song,Lieder,songs,art
+die,Musik,music,Musiken,kinds of music,art
+der,Sänger,singer (male),Sänger,singers (male or mixed),art
+die,Sängerin,singer (female),Sängerinnen,singers (female),art
+der,Arm,arm,Arme,arms,body
+das,Auge,eye,Augen,eyes,body
+der,Bauch,"belly, stomach (external)",Bäuche,bellies,body
+das,Bein,leg,Beine,legs,body
+das,Blut,blood,Blute,types or amounts of blood (rare),body
+die,Brust,"chest, breast",Brüste,"chests, breasts",body
+der,Daumen,thumb,Daumen,thumbs,body
+der,Ellbogen,elbow,Ellbogen,elbows,body
+der,Finger,finger,Finger,fingers,body
+die,Fitness,fitness,Fitnesszentren,"gyms, fitness centers",body
+der,Fuß,foot,Füße,feet,body
+das,Gesicht,face,Gesichter,faces,body
+das,Haar,hair (a single hair),Haare,"hair, hairs",body
+der,Hals,"neck, throat",Hälse,"necks, throats",body
+die,Hand,hand,Hände,hands,body
+die,Haut,skin,Häute,skins,body
+das,Herz,heart,Herzen,hearts,body
+das,Knie,knee,Knie,knees,body
+der,Kopf,head,Köpfe,heads,body
+der,Körper,body,Körper,bodies,body
+die,Leber,liver,Lebern,livers,body
+die,Lunge,lung,Lungen,lungs,body
+der,Magen,stomach (organ),Mägen,stomachs (organs),body
+die,Massage,massage,Massagen,massages,body
+der,Mund,mouth,Münder,mouths,body
+die,Nase,nose,Nasen,noses,body
+das,Ohr,ear,Ohren,ears,body
+der,Rücken,back,Rücken,backs,body
+die,Schulter,shoulder,Schultern,shoulders,body
+die,Therapie,therapy,Therapien,therapies,body
+die,Wange,cheek,Wangen,cheeks,body
+der,Zahn,tooth,Zähne,teeth,body
+die,Zehe,toe,Zehen,toes,body
+die,Zunge,tongue,Zungen,tongues,body
+das,Dach,roof,Dächer,roofs,buildings
+die,Etage,"floor, story",Etagen,"floors, storys",buildings
+der,Fahrstuhl,elevator,Fahrstühle,elevators,buildings
+der,Gang,"corridor, hallway",Gänge,"corridors, hallways",buildings
+das,Gebäude,building,Gebäude,buildings,buildings
+der,Keller,"basement, cellar",Keller,"basements, cellars",buildings
+der,Komplex,complex,Komplexe,complexes,buildings
+der,Lift,"lift, elevator",Lifte,"lifts, elevators",buildings
+die,Treppe,"stairs, staircase",Treppen,"stairs, staircases",buildings
+der,Raum,"room, space",Räume,"rooms, spaces",buildings
+die,Abmachung,agreement,Abmachungen,agreements,business
+die,Anfrage,"request, inquiry",Anfragen,"requests, inquiries",business
+die,Bestellung,order (purchase),Bestellungen,orders,business
+die,Lieferung,delivery,Lieferungen,deliveries,business
+die,Lieferzeit,delivery time,Lieferzeiten,delivery times,business
+die,Nachfrage,"demand, inquiry",Nachfragen,"demands, inquiries",business
+der,Partner,partner (male),Partner,partners,business
+die,Partnerin,partner (female),Partnerinnen,partners (female),business
+die,Reklamation,"complaint, claim",Reklamationen,"complaints, claims",business
+die,Verhandlung,negotiation,Verhandlungen,negotiations,business
+der,Vertrag,contract,Verträge,contracts,business
+die,Zusage,"promise, confirmation",Zusagen,"promises, confirmations",business
+das,Angebot,"offer, special deal",Angebote,"offers, deals",business
+die,Bank,bank (financial),Banken,banks,business
+die,Belohnung,reward,Belohnungen,rewards,business
+die,Bezahlung,payment,Bezahlungen,payments,business
+die,Branche,industry sector,Branchen,industry sectors,business
+das,Budget,budget,Budgets,budgets,business
+der,Cent,cent,Cent,cents,business
+die,Dienstleistung,service (economic),Dienstleistungen,services (economic),business
+das,Einkommen,income,Einkommen,incomes,business
+der,Euro,euro,Euro,euros,business
+die,Filiale,branch (store or bank),Filialen,branches,business
+das,Geld,money,Gelder,"funds, sums of money",business
+das,Geschäft,"shop, business",Geschäfte,"shops, businesses",business
+der,Gewinn,"profit, gain",Gewinne,"profits, gains",business
+der,Handel,trade,Handel,trades (rare),business
+die,Industrie,industry,Industrien,industries,business
+die,Kasse,"checkout, till",Kassen,"checkouts, tills",business
+der,Konkurrent,competitor (male),Konkurrenten,competitors,business
+die,Konkurrentin,competitor (female),Konkurrentinnen,competitors (female),business
+das,Konto,account,Konten,accounts,business
+der,Korb,basket,Körbe,baskets,business
+die,Kreditkarte,credit card,Kreditkarten,credit cards,business
+der,Laden,"shop, store",Läden,"shops, stores",business
+der,Markt,market,Märkte,markets,business
+die,Münze,coin,Münzen,coins,business
+die,Niederlassung,branch office,Niederlassungen,branch offices,business
+der,Preis,price,Preise,prices,business
+das,Produkt,product,Produkte,products,business
+die,Produktion,production,Produktionen,productions,business
+die,Quittung,receipt,Quittungen,receipts,business
+der,Rabatt,discount,Rabatte,discounts,business
+die,Rechnung,"bill, invoice, calculation",Rechnungen,"bills, invoices, calculations",business
+der,Schein,"bill, note",Scheine,"bills, notes",business
+die,Steuer,tax,Steuern,taxes,business
+der,Supermarkt,supermarket,Supermärkte,supermarkets,business
+die,Überweisung,transfer (bank),Überweisungen,transfers (bank),business
+der,Verlust,loss,Verluste,losses,business
+der,Wettbewerb,competition,Wettbewerbe,competitions,business
+die,Wirtschaft,economy,Wirtschaften,economies,business
+die,Zahlung,payment,Zahlungen,payments,business
+die,Zentrale,head office,Zentralen,head offices,business
+der,Kunde,customer (male),Kunden,customers (male or mixed),business
+die,Kundin,customer (female),Kundinnen,customers (female),business
+der,Verkäufer,salesperson (male),Verkäufer,salespeople (male or mixed),business
+die,Verkäuferin,salesperson (female),Verkäuferinnen,salespeople (female),business
+die,Feuerwehr,fire brigade,Feuerwehren,fire brigades,city
+der,Notruf,emergency call,Notrufe,emergency calls,city
+die,Polizei,police,Polizeien,police forces,city
+der,Unfall,accident,Unfälle,accidents,city
+der,Verkehrsunfall,traffic accident,Verkehrsunfälle,traffic accidents,city
+die,Ampel,traffic light,Ampeln,traffic lights,city
+das,Auto,car,Autos,cars,city
+die,Bahn,"train, rail",Bahnen,"trains, rails",city
+der,Bahnhof,train station,Bahnhöfe,train stations,city
+das,Boot,boat,Boote,boats,city
+die,Brücke,bridge,Brücken,bridges,city
+der,Bus,bus,Busse,buses,city
+die,Bushaltestelle,bus stop,Bushaltestellen,bus stops,city
+die,Fahrkarte,travel ticket,Fahrkarten,travel tickets,city
+das,Fahrrad,bicycle,Fahrräder,bicycles,city
+die,Fahrt,"trip, ride",Fahrten,"trips, rides",city
+der,Flug,flight,Flüge,flights,city
+der,Flughafen,airport,Flughäfen,airports,city
+die,Haltestelle,"stop (for bus, tram)",Haltestellen,stops,city
+die,Kreuzung,intersection,Kreuzungen,intersections,city
+der,Platz,"square, place, space",Plätze,"squares, places, spaces",city
+das,Rad,"bike, wheel",Räder,"bikes, wheels",city
+die,Reise,"journey, trip",Reisen,"journeys, trips",city
+das,Schiff,ship,Schiffe,ships,city
+die,Stadtmitte,"downtown, city center",Stadtmitten,city centers,city
+der,Stau,traffic jam,Staus,traffic jams,city
+die,Straße,"street, road",Straßen,"streets, roads",city
+die,Straßenbahn,tram,Straßenbahnen,trams,city
+das,Taxi,taxi,Taxis,taxis,city
+das,Ticket,ticket,Tickets,tickets,city
+der,Tunnel,tunnel,Tunnel,tunnels,city
+die,U-Bahn,"subway, metro",U-Bahnen,"subways, metros",city
+der,Verkehr,traffic,Verkehre,types or flows of traffic,city
+der,Wagen,"car, vehicle",Wagen,"cars, wagons",city
+das,Zentrum,center,Zentren,centers,city
+das,Gericht,court; dish,Gerichte,courts; dishes,city
+der,Prozess,"lawsuit, process",Prozesse,"lawsuits, processes",city
+der,Streit,"dispute, quarrel",Streite,disputes,city
+die,Anzeige,report; advertisement,Anzeigen,reports; advertisements,city
+die,Gebühr,fee,Gebühren,fees,city
+die,Strafe,"punishment, fine",Strafen,"punishments, fines",city
+der,Spielplatz,playground,Spielplätze,playgrounds,city
+der,Alarm,alarm,Alarme,alarms,city
+der,Notfall,emergency,Notfälle,emergencies,city
+die,Warnung,warning,Warnungen,warnings,city
+der,Brief,letter,Briefe,letters,city
+der,Kurier,courier,Kuriere,couriers,city
+das,Paket,"package, parcel",Pakete,"packages, parcels",city
+die,Post,"mail, post",Postämter,post offices,city
+die,Postkarte,postcard,Postkarten,postcards,city
+der,Anzug,suit,Anzüge,suits,clothes
+die,Bluse,blouse,Blusen,blouses,clothes
+der,Gürtel,belt,Gürtel,belts,clothes
+der,Handschuh,glove,Handschuhe,gloves,clothes
+das,Hemd,shirt,Hemden,shirts,clothes
+die,Hose,"trousers, pants",Hosen,"trousers, pants",clothes
+der,Hut,hat,Hüte,hats,clothes
+die,Jacke,jacket,Jacken,jackets,clothes
+die,Jeans,jeans (pair),Jeans,jeans,clothes
+die,Kappe,"cap, baseball cap",Kappen,caps,clothes
+das,Kleid,dress,Kleider,dresses,clothes
+die,Kleidung,clothing,Kleidungen,types of clothing,clothes
+die,Krawatte,tie,Krawatten,ties,clothes
+der,Mantel,coat,Mäntel,coats,clothes
+die,Mütze,"woolly hat, cap",Mützen,"woolly hats, caps",clothes
+der,Rock,skirt,Röcke,skirts,clothes
+der,Schal,scarf,Schals,scarves,clothes
+der,Schuh,shoe,Schuhe,shoes,clothes
+die,Socke,sock,Socken,socks,clothes
+der,Stiefel,boot,Stiefel,boots,clothes
+die,Strumpfhose,"tights, pantyhose",Strumpfhosen,"tights, pantyhose",clothes
+das,T-Shirt,T-shirt,T-Shirts,T-shirts,clothes
+das,Armband,bracelet,Armbänder,bracelets,clothes
+die,Brille,glasses (pair),Brillen,glasses (pairs),clothes
+die,Handtasche,handbag,Handtaschen,handbags,clothes
+die,Kette,"necklace, chain",Ketten,"necklaces, chains",clothes
+der,Koffer,suitcase,Koffer,suitcases,clothes
+der,Ring,ring,Ringe,rings,clothes
+der,Rucksack,backpack,Rucksäcke,backpacks,clothes
+der,Schmuck,jewelry,Schmuckstücke,jewelry pieces,clothes
+die,Tasche,"bag, pocket",Taschen,"bags, pockets",clothes
+das,Geräusch,"noise, sound",Geräusche,"noises, sounds",communication
+der,Lärm,"noise, din",Lärme,types of noise,communication
+der,Schrei,"scream, shout",Schreie,"screams, shouts",communication
+die,Stimme,voice,Stimmen,voices,communication
+der,Ton,"sound, tone",Töne,"sounds, tones",communication
+der,Blick,"look, glance",Blicke,"looks, glances",communication
+die,Geste,gesture,Gesten,gestures,communication
+das,Lächeln,smile,Lächeln,smiles,communication
+das,Lachen,laughter,Lachen,"laughters, laughs",communication
+die,Träne,tear,Tränen,tears,communication
+die,Ansage,announcement,Ansagen,announcements,communication
+die,Antwort,answer,Antworten,answers,communication
+die,Aussage,statement,Aussagen,statements,communication
+die,Beschwerde,complaint,Beschwerden,complaints,communication
+die,Besprechung,meeting,Besprechungen,meetings,communication
+die,Frage,question,Fragen,questions,communication
+das,Gespräch,conversation,Gespräche,conversations,communication
+die,Konversation,conversation,Konversationen,conversations,communication
+die,Kritik,"criticism, review",Kritiken,"criticisms, reviews",communication
+das,Lob,praise,Lobe,praises,communication
+die,Mitteilung,"notification, message",Mitteilungen,"notifications, messages",communication
+das,Telefonat,phone call,Telefonate,phone calls,communication
+das,Brauchtum,"customs, folklore",Brauchtümer,traditions (rare),culture
+der,Feiertag,public holiday,Feiertage,public holidays,culture
+die,Kultur,culture,Kulturen,cultures,culture
+die,Sitte,"custom, manners",Sitten,"customs, morals",culture
+die,Tradition,tradition,Traditionen,traditions,culture
+der,Alltag,everyday life,Alltage,everyday lives,culture
+der,Besuch,visit,Besuche,visits,culture
+der,Brauch,"custom, tradition",Bräuche,"customs, traditions",culture
+die,Einladung,invitation,Einladungen,invitations,culture
+die,Feier,celebration,Feiern,celebrations,culture
+das,Fest,"festival, celebration",Feste,"festivals, celebrations",culture
+der,Geburtstag,birthday,Geburtstage,birthdays,culture
+die,Gewohnheit,habit,Gewohnheiten,habits,culture
+die,Party,party,Partys,parties,culture
+die,Routine,routine,Routinen,routines,culture
+die,Krise,crisis,Krisen,crises,culture
+die,Gesellschaft,"society, company",Gesellschaften,"societies, companies",culture
+die,Gruppe,group,Gruppen,groups,culture
+die,Organisation,organization,Organisationen,organizations,culture
+die,Stiftung,foundation,Stiftungen,foundations,culture
+die,Hotline,helpline,Hotlines,helplines,culture
+der,Support,support,Supports,support services,culture
+die,Nachricht,"message, news item",Nachrichten,"messages, news",culture
+das,Programm,"program, show",Programme,"programs, shows",culture
+das,Gebet,prayer,Gebete,prayers,culture
+der,Gott,"God, god",Götter,gods,culture
+die,Göttin,goddess,Göttinnen,goddesses,culture
+die,Kirche,church,Kirchen,churches,culture
+die,Moschee,mosque,Moscheen,mosques,culture
+die,Religion,religion,Religionen,religions,culture
+die,Seele,soul,Seelen,souls,culture
+die,Synagoge,synagogue,Synagogen,synagogues,culture
+der,Bleistift,pencil,Bleistifte,pencils,education
+das,Buch,book,Bücher,books,education
+der,Filzstift,felt-tip pen,Filzstifte,felt-tip pens,education
+die,Hausaufgabe,homework (task),Hausaufgaben,"homework, assignments",education
+das,Heft,"exercise book, booklet",Hefte,"exercise books, booklets",education
+das,Heftblatt,sheet in a notebook,Heftblätter,sheets in notebooks,education
+das,Heftchen,little booklet,Heftchen,little booklets,education
+die,Klasse,"class, grade",Klassen,"classes, grades",education
+das,Klassenzimmer,classroom,Klassenzimmer,classrooms,education
+der,Kugelschreiber,ballpoint pen,Kugelschreiber,ballpoint pens,education
+der,Lehrplan,curriculum,Lehrpläne,curricula,education
+das,Lineal,ruler,Lineale,rulers,education
+das,Linealmaß,ruler measure,Linealmaße,ruler measures,education
+der,Marker,marker pen,Marker,marker pens,education
+die,Note,"grade, mark",Noten,"grades, marks",education
+die,Prüfung,"exam, test",Prüfungen,"exams, tests",education
+der,Radiergummi,eraser,Radiergummis,erasers,education
+das,Referat,"presentation, paper",Referate,"presentations, papers",education
+das,Schulbuch,school book,Schulbücher,school books,education
+die,Schule,school,Schulen,schools,education
+das,Schulfach,school subject,Schulfächer,school subjects,education
+der,Schulhof,schoolyard,Schulhöfe,schoolyards,education
+die,Schultasche,school bag,Schultaschen,school bags,education
+das,Semester,semester,Semester,semesters,education
+das,Skript,"script, notes",Skripte,"scripts, notes",education
+der,Stift,"pen, pencil",Stifte,"pens, pencils",education
+der,Test,test,Tests,tests,education
+die,Universität,university,Universitäten,universities,education
+der,Unterricht,"lesson, instruction",Unterrichte,lessons (rare),education
+die,Vorlesung,lecture,Vorlesungen,lectures,education
+das,Zeugnis,"report card, certificate",Zeugnisse,"report cards, certificates",education
+die,Korrektur,correction,Korrekturen,corrections,education
+das,Sprachniveau,language level,Sprachniveaus,language levels,education
+die,Konferenz,conference,Konferenzen,conferences,education
+der,Lehrer,teacher (male),Lehrer,teachers (male or mixed),education
+die,Lehrerin,teacher (female),Lehrerinnen,teachers (female),education
+der,Schüler,"pupil, school student (male)",Schüler,pupils (male or mixed),education
+die,Schülerin,"pupil, school student (female)",Schülerinnen,pupils (female),education
+der,Student,student (male),Studenten,students (male or mixed),education
+die,Studentin,student (female),Studentinnen,students (female),education
+der,Bruder,brother,Brüder,brothers,family
+der,Elternteil,parent,Eltern,parents,family
+der,Enkel,grandson,Enkel,grandsons,family
+die,Enkelin,granddaughter,Enkelinnen,granddaughters,family
+die,Großmutter,grandmother,Großmütter,grandmothers,family
+der,Großvater,grandfather,Großväter,grandfathers,family
+die,Mutter,mother,Mütter,mothers,family
+die,Oma,grandma,Omas,grandmas,family
+der,Onkel,uncle,Onkel,uncles,family
+der,Opa,grandpa,Opas,grandpas,family
+die,Schwester,sister,Schwestern,sisters,family
+der,Sohn,son,Söhne,sons,family
+die,Tante,aunt,Tanten,aunts,family
+die,Tochter,daughter,Töchter,daughters,family
+der,Vater,father,Väter,fathers,family
+das,Baby,baby,Babys,babies,family
+die,Frau,woman,Frauen,women,family
+der,Junge,boy,Jungen,boys,family
+das,Kind,child,Kinder,children,family
+das,Mädchen,girl,Mädchen,girls,family
+der,Mann,man,Männer,men,family
+der,Mensch,"human being, person",Menschen,"human beings, people",family
+die,Person,"person, individual",Personen,"persons, individuals",family
+die,Adresse,address,Adressen,addresses,family
+der,Ausweis,ID card,Ausweise,ID cards,family
+die,Familie,family,Familien,families,family
+der,Freund,friend (male),Freunde,friends (male or mixed),family
+die,Freundin,friend (female),Freundinnen,friends (female),family
+der,Gast,guest,Gäste,guests,family
+der,Nachbar,neighbor (male),Nachbarn,neighbors (male or mixed),family
+die,Nachbarin,neighbor (female),Nachbarinnen,neighbors (female),family
+der,Nachname,last name,Nachnamen,last names,family
+der,Name,name,Namen,names,family
+die,Postleitzahl,postal code,Postleitzahlen,postal codes,family
+die,Unterschrift,signature,Unterschriften,signatures,family
+der,Vorname,first name,Vornamen,first names,family
+die,Begegnung,encounter,Begegnungen,encounters,family
+die,Beziehung,relationship,Beziehungen,relationships,family
+die,Ehe,marriage,Ehen,marriages,family
+die,Freundschaft,friendship,Freundschaften,friendships,family
+die,Partnerschaft,"partnership, relationship",Partnerschaften,"partnerships, relationships",family
+die,Scheidung,divorce,Scheidungen,divorces,family
+die,Verabredung,"date, appointment",Verabredungen,"dates, appointments",family
+die,Angst,"fear, anxiety",Ängste,"fears, anxieties",feelings
+der,Ärger,"annoyance, trouble",Ärgernisse,annoyances,feelings
+die,Begeisterung,enthusiasm,Begeisterungen,enthusiasms,feelings
+die,Emotion,emotion,Emotionen,emotions,feelings
+die,Enttäuschung,disappointment,Enttäuschungen,disappointments,feelings
+das,Gefühl,feeling,Gefühle,feelings,feelings
+das,Glück,happiness; luck,Glücksfälle,lucky events,feelings
+die,Laune,mood,Launen,moods,feelings
+das,Mitleid,"compassion, pity",Mitleide,instances of pity (rare),feelings
+die,Neugier, curiosity,Neugieren,forms of curiosity,feelings
+die,Scham,shame,Schamen,forms of shame (rare),feelings
+die,Sorge,"worry, concern",Sorgen,"worries, concerns",feelings
+die,Stimmung,"mood, atmosphere",Stimmungen,"moods, atmospheres",feelings
+der,Stolz,pride,Stolze,types of pride (rare),feelings
+die,Sympathie,"liking, sympathy",Sympathien,"likings, sympathies",feelings
+die,Traurigkeit,sadness,Traurigkeiten,states of sadness,feelings
+die,Überraschung,surprise,Überraschungen,surprises,feelings
+die,Wut,"anger, rage",Wuten,forms of rage (rare),feelings
+die,Zufriedenheit,contentment,Zufriedenheiten,states of contentment,feelings
+das,Abendessen,"dinner, supper",Abendessen,"dinners, suppers",food & drink
+das,Frühstück,breakfast,Frühstücke,breakfasts,food & drink
+das,Hauptgericht,main course,Hauptgerichte,main courses,food & drink
+der,Imbiss,"snack, snack bar",Imbisse,"snacks, snack bars",food & drink
+das,Mittagessen,lunch,Mittagessen,lunches,food & drink
+die,Nachspeise,dessert,Nachspeisen,desserts,food & drink
+der,Nachtisch,dessert,Nachtische,desserts,food & drink
+die,Vorspeise,"starter, appetizer",Vorspeisen,"starters, appetizers",food & drink
+der,Apfel,apple,Äpfel,apples,food & drink
+die,Banane,banana,Bananen,bananas,food & drink
+das,Bier,beer,Biere,"beers, types of beer",food & drink
+die,Birne,pear,Birnen,pears,food & drink
+das,Brot,bread,Brote,loaves of bread,food & drink
+die,Brötchen,roll (small bread),Brötchen,rolls,food & drink
+das,Ei,egg,Eier,eggs,food & drink
+die,Erdbeere,strawberry,Erdbeeren,strawberries,food & drink
+das,Essen,"food, eating",Essen,"meals, dishes",food & drink
+das,Fleisch,meat,Fleischsorten,types of meat,food & drink
+das,Gemüse,vegetable(s),Gemüse,vegetables,food & drink
+der,Kaffee,coffee,Kaffee,coffees,food & drink
+die,Karotte,carrot,Karotten,carrots,food & drink
+der,Käse,cheese,Käse,cheeses,food & drink
+die,Kirsche,cherry,Kirschen,cherries,food & drink
+die,Knoblauchzehe,garlic clove,Knoblauchzehen,garlic cloves,food & drink
+das,Lebensmittel,food item,Lebensmittel,"food items, groceries",food & drink
+die,Limonade,"soda, lemonade",Limonaden,"sodas, lemonades",food & drink
+die,Milch,milk,Milche,types of milk,food & drink
+die,Nudel,"noodle, piece of pasta",Nudeln,"noodles, pasta",food & drink
+das,Obst,fruit,Obst,fruits (as a mass),food & drink
+die,Orange,orange,Orangen,oranges,food & drink
+die,Pizza,pizza,Pizzen,pizzas,food & drink
+der,Reis,rice,Reissorten,types of rice,food & drink
+der,Saft,juice,Säfte,juices,food & drink
+der,Salat,"salad, lettuce",Salate,salads,food & drink
+die,Salatgurke,cucumber,Salatgurken,cucumbers,food & drink
+die,Sauce,sauce,Saucen,sauces,food & drink
+die,Soße,sauce,Soßen,sauces,food & drink
+die,Suppe,soup,Suppen,soups,food & drink
+der,Tee,tea,Tees,teas,food & drink
+die,Tomate,tomato,Tomaten,tomatoes,food & drink
+die,Torte,"layer cake, tart",Torten,"layer cakes, tarts",food & drink
+die,Traube,grape,Trauben,grapes,food & drink
+das,Wasser,water,Wasser,"waters, types of water",food & drink
+der,Wein,wine,Weine,wines,food & drink
+die,Wurst,"sausage, cold cut",Würste,sausages,food & drink
+die,Zitrone,lemon,Zitronen,lemons,food & drink
+der,Zuckerwürfel,sugar cube,Zuckerwürfel,sugar cubes,food & drink
+die,Zwiebel,onion,Zwiebeln,onions,food & drink
+die,Backform,baking tin,Backformen,baking tins,food & drink
+das,Blech,"baking tray, sheet",Bleche,"baking trays, sheets",food & drink
+der,Kochlöffel,"wooden spoon, cooking spoon",Kochlöffel,"wooden spoons, cooking spoons",food & drink
+die,Mahlzeit,meal,Mahlzeiten,meals,food & drink
+das,Rezept,recipe,Rezepte,recipes,food & drink
+die,Zutat,ingredient,Zutaten,ingredients,food & drink
+der,Geruch,"smell, odor",Gerüche,"smells, odors",food & drink
+der,Geschmack,"taste, flavor",Geschmäcker,"tastes, flavors",food & drink
+die,Ausstellung,exhibition,Ausstellungen,exhibitions,free time
+der,Ball,ball,Bälle,balls,free time
+der,Film,"film, movie",Filme,"films, movies",free time
+die,Freizeit,free time,Freizeitaktivitäten,free-time activities,free time
+das,Hobby,hobby,Hobbys,hobbies,free time
+das,Kino,cinema,Kinos,cinemas,free time
+das,Konzert,concert,Konzerte,concerts,free time
+der,Lauf,"run, race",Läufe,"runs, races",free time
+das,Museum,museum,Museen,museums,free time
+die,Puppe,doll,Puppen,dolls,free time
+das,Schwimmen,swimming,Schwimmen,swimming competitions,free time
+das,Spiel,game,Spiele,games,free time
+das,Spielzeug,toy,Spielzeuge,toys,free time
+der,Sport,sport,Sportarten,"sports, kinds of sport",free time
+das,Theater,theater,Theater,theaters,free time
+das,Training,training,Trainings,trainings,free time
+der,Verein,"club, association",Vereine,"clubs, associations",free time
+die,Entspannung,relaxation,Entspannungen,relaxation periods,free time
+die,Erholung,"rest, recreation",Erholungen,periods of rest,free time
+der,Spaziergang,"walk, stroll",Spaziergänge,"walks, strolls",free time
+die,Übung,"exercise, practice",Übungen,"exercises, practices",free time
+die,Mannschaft,"team, squad",Mannschaften,"teams, squads",free time
+die,Niederlage,defeat,Niederlagen,defeats,free time
+der,Sieg,victory,Siege,victories,free time
+der,Sprung,jump,Sprünge,jumps,free time
+das,Tor,"goal, gate",Tore,"goals, gates",free time
+der,Wurf,throw,Würfe,throws,free time
+der,Würfel,die,Würfel,dice,free time
+der,Bach,stream,Bäche,streams,geography
+der,Baum,tree,Bäume,trees,geography
+der,Berg,mountain,Berge,mountains,geography
+das,Dorf,village,Dörfer,villages,geography
+das,Feld,field,Felder,fields,geography
+der,Fluss,river,Flüsse,rivers,geography
+das,Gebiet,"area, region",Gebiete,"areas, regions",geography
+das,Gebirge,mountain range,Gebirge,mountain ranges,geography
+die,Gegend,"area, region",Gegenden,"areas, regions",geography
+der,Gletscher,glacier,Gletscher,glaciers,geography
+der,Himmel,"sky, heaven",Himmel,"skies, heavens",geography
+der,Hügel,hill,Hügel,hills,geography
+die,Insel,island,Inseln,islands,geography
+der,Kontinent,continent,Kontinente,continents,geography
+die,Küste,"coast, shoreline",Küsten,"coasts, shorelines",geography
+das,Land,"country, land",Länder,"countries, lands",geography
+die,Landschaft,landscape,Landschaften,landscapes,geography
+das,Meer,sea,Meere,seas,geography
+der,Ozean,ocean,Ozeane,oceans,geography
+die,Region,region,Regionen,regions,geography
+der,See,lake,Seen,lakes,geography
+die,Stadt,"city, town",Städte,"cities, towns",geography
+der,Strand,beach,Strände,beaches,geography
+das,Tal,valley,Täler,valleys,geography
+die,Umgebung,"surroundings, environment",Umgebungen,surrounding areas,geography
+der,Vulkan,volcano,Vulkane,volcanoes,geography
+der,Wald,forest,Wälder,forests,geography
+die,Welt,world,Welten,worlds,geography
+die,Wiese,"meadow, field",Wiesen,"meadows, fields",geography
+die,Wüste,desert,Wüsten,deserts,geography
+die,Apotheke,pharmacy,Apotheken,pharmacies,health
+die,Arznei,"medicine, drug",Arzneien,"medicines, drugs",health
+der,Arzt,doctor (male),Ärzte,doctors (male or mixed),health
+die,Ärztin,doctor (female),Ärztinnen,doctors (female),health
+die,Arztpraxis,doctor’s office,Arztpraxen,doctors’ offices,health
+die,Erkältung,cold (illness),Erkältungen,colds,health
+das,Fieber,fever,Fieber,fevers,health
+die,Gesundheit,health,Gesundheiten,states of health,health
+der,Husten,cough,Husten,coughs,health
+das,Krankenhaus,hospital,Krankenhäuser,hospitals,health
+die,Krankheit,"illness, disease",Krankheiten,"illnesses, diseases",health
+das,Medikament,medication,Medikamente,medications,health
+die,Notaufnahme,emergency room,Notaufnahmen,emergency rooms,health
+die,Operation,"surgery, operation",Operationen,operations,health
+der,Schmerz,pain,Schmerzen,"pains, aches",health
+der,Schnupfen,"head cold, sniffles",Schnupfen,head colds,health
+die,Tablette,"tablet, pill",Tabletten,"tablets, pills",health
+die,Versicherung,insurance,Versicherungen,insurances,health
+der,Kinderstuhl,high chair,children,die Kinderstühle,home
+der,Balkon,balcony,Balkone,balconies,home
+der,Besen,broom,Besen,brooms,home
+der,Boden,"floor, ground",Böden,"floors, grounds",home
+das,Bügelbrett,ironing board,Bügelbretter,ironing boards,home
+die,Decke,blanket (also ceiling),Decken,"blankets, ceilings",home
+die,Deko,decor (informal),Dekos,decorative items,home
+das,Eisen,iron (appliance),Eisen,irons,home
+das,Fenster,window,Fenster,windows,home
+der,Garten,garden,Gärten,gardens,home
+das,Handtuch,towel,Handtücher,towels,home
+das,Haus,house,Häuser,houses,home
+das,Kissen,"cushion, pillow",Kissen,"cushions, pillows",home
+die,Lampe,lamp,Lampen,lamps,home
+der,Lappen,"cloth, rag",Lappen,"cloths, rags",home
+die,Leuchte,light fixture,Leuchten,light fixtures,home
+die,Matratze,mattress,Matratzen,mattresses,home
+die,Pflanze,"plant (potted, house plant)",Pflanzen,plants,home
+das,Poster,poster,Poster,posters,home
+der,Rahmen,frame,Rahmen,frames,home
+das,Regal,"shelf, shelving unit",Regale,"shelves, shelving units",home
+das,Schlafzimmer,bedroom,Schlafzimmer,bedrooms,home
+der,Schrank,"cupboard, wardrobe",Schränke,"cupboards, wardrobes",home
+die,Seife,soap,Seifen,soaps,home
+das,Sofa,sofa,Sofas,sofas,home
+der,Spiegel,mirror,Spiegel,mirrors,home
+der,Staubsauger,vacuum cleaner,Staubsauger,vacuum cleaners,home
+der,Stuhl,chair,Stühle,chairs,home
+der,Teppich,"carpet, rug",Teppiche,"carpets, rugs",home
+der,Tisch,table,Tische,tables,home
+die,Toilette,"toilet, restroom",Toiletten,"toilets, restrooms",home
+der,Trockner,dryer,Trockner,dryers,home
+die,Tür,door,Türen,doors,home
+die,Vase,vase,Vasen,vases,home
+der,Vorhang,curtain,Vorhänge,curtains,home
+die,Wand,wall (inside),Wände,walls (inside),home
+die,Waschmaschine,washing machine,Waschmaschinen,washing machines,home
+die,Wohnung,apartment,Wohnungen,apartments,home
+das,Wohnzimmer,living room,Wohnzimmer,living rooms,home
+das,Zimmer,room,Zimmer,rooms,home
+der,Heizkörper,radiator,Heizkörper,radiators,home
+die,Heizung,"heating, heater",Heizungen,heaters,home
+die,Klimaanlage,air conditioning unit,Klimaanlagen,air conditioning units,home
+der,Lüfter,"fan, ventilator",Lüfter,"fans, ventilators",home
+das,Thermostat,thermostat,Thermostate,thermostats,home
+die,Ecke,corner,Ecken,corners,home
+der,Briefkasten,mailbox,Briefkästen,mailboxes,home
+die,Gegensprechanlage,intercom,Gegensprechanlagen,intercoms,home
+die,Klingel,doorbell,Klingeln,doorbells,home
+die,Glühbirne,light bulb,Glühbirnen,light bulbs,home
+der,Abfalleimer,"trash can, bin",Abfalleimer,"trash cans, bins",home
+der,Abfluss,drain,Abflüsse,drains,home
+der,Abflussreiniger,drain cleaner,Abflussreiniger,drain cleaners,home
+die,Ablage,"tray, storage place",Ablagen,"trays, storage places",home
+die,Anrichte,"sideboard, dresser",Anrichten,"sideboards, dressers",home
+die,Arbeitsplatte,countertop,Arbeitsplatten,countertops,home
+der,Aschenbecher,ashtray,Aschenbecher,ashtrays,home
+das,Babybett,"baby bed, crib",Babybetten,"baby beds, cribs",home
+das,Bad,bathroom; bath,Bäder,bathrooms; baths,home
+die,Badewanne,bathtub,Badewannen,bathtubs,home
+das,Badezimmer,bathroom,Badezimmer,bathrooms,home
+die,Badezimmermatte,bath mat,Badezimmermatten,bath mats,home
+der,Barhocker,bar stool,Barhocker,bar stools,home
+der,Beistelltisch,side table,Beistelltische,side tables,home
+das,Bett,bed,Betten,beds,home
+die,Bettdecke,"duvet, bedcover",Bettdecken,"duvets, bedcovers",home
+das,Bettlaken,bed sheet,Bettlaken,bed sheets,home
+die,Bettwäsche,bed linen,Bettwäschen,sets of bed linen,home
+der,Bilderrahmen,picture frame,Bilderrahmen,picture frames,home
+der,Blumentopf,flower pot,Blumentöpfe,flower pots,home
+die,Box,box,Boxen,boxes,home
+das,Bücherregal,bookcase,Bücherregale,bookcases,home
+das,Bügeleisen,iron,Bügeleisen,irons,home
+die,Couch,couch,Couches,Couches,home
+der,Couchtisch,coffee table,Couchtische,coffee tables,home
+der,Dampfkochtopf,pressure cooker,Dampfkochtöpfe,pressure cookers,home
+die,Deckenlampe,ceiling lamp,Deckenlampen,ceiling lamps,home
+das,Doppelbett,double bed,Doppelbetten,double beds,home
+die,Dusche,shower,Duschen,showers,home
+das,Duschgel,shower gel,Duschgele,shower gels,home
+der,Eimer,bucket,Eimer,buckets,home
+die,Einkaufstasche,shopping bag,Einkaufstaschen,shopping bags,home
+das,Einzelbett,single bed,Einzelbetten,single beds,home
+der,Essteller,dinner plate,Essteller,dinner plates,home
+der,Esstisch,dining table,Esstische,dining tables,home
+die,Farbrolle,paint roller,Farbrollen,paint rollers,home
+die,Fernbedienung,remote control,Fernbedienungen,remote controls,home
+der,Fernseher,TV,Fernseher,TVs,home
+die,Flasche,bottle,Flaschen,bottles,home
+der,Fleckentferner,stain remover,Fleckentferner,stain removers,home
+der,Flur,hallway,Flure,hallways,home
+das,Fotoalbum,photo album,Fotoalben,photo albums,home
+die,Fußmatte,doormat,Fußmatten,doormats,home
+die,Garderobe,"coat rack, wardrobe area",Garderoben,"coat racks, wardrobe areas",home
+die,Gardine,net curtain,Gardinen,net curtains,home
+die,Gartenmöbel,garden furniture,Gartenmöbel,garden furniture (pl.),home
+der,Gartenstuhl,garden chair,Gartenstühle,garden chairs,home
+der,Gartentisch,garden table,Gartentische,garden tables,home
+das,Gästebett,guest bed,Gästebetten,guest beds,home
+das,Geschirrtuch,dish towel,Geschirrtücher,dish towels,home
+der,Griff,"handle, grip",Griffe,"handles, grips",home
+der,Grill,BBQ grill,Grills,grills,home
+der,Handfeger,hand brush,Handfeger,hand brushes,home
+der,Haushaltshandschuh,rubber glove,Haushaltshandschuhe,rubber gloves,home
+der,Hocker,stool,Hocker,stools,home
+die,Jalousie,blind,Jalousien,blinds,home
+die,Kehrschaufel,dustpan,Kehrschaufeln,dustpans,home
+die,Kerze,candle,Kerzen,candles,home
+der,Kerzenständer,candle holder,Kerzenständer,candle holders,home
+das,Kinderbett,child’s bed,Kinderbetten,children’s beds,home
+die,Kiste,"crate, box",Kisten,"crates, boxes",home
+das,Klebeband,tape,Klebebänder,tapes,home
+der,Kleiderständer,clothes stand,Kleiderständer,clothes stands,home
+die,Kommode,chest of drawers,Kommoden,chests of drawers,home
+der,Kopfkissenbezug,pillowcase,Kopfkissenbezüge,pillowcases,home
+das,Laken,sheet,Laken,sheets,home
+der,Lattenrost,slat frame,Lattenroste,slat frames,home
+der,Läufer,runner (rug),Läufer,runners (rugs),home
+der,Lautsprecher,loudspeaker,Lautsprecher,loudspeakers,home
+die,LED-Lampe,LED lamp,LED-Lampen,LED lamps,home
+die,Liege,"deck chair, lounger",Liegen,"deck chairs, loungers",home
+das,Lowboard,low sideboard (TV unit),Lowboards,low sideboards,home
+die,Mehrfachsteckdose,power strip,Mehrfachsteckdosen,power strips,home
+die,Mikrowelle,microwave oven,Mikrowellen,microwave ovens,home
+der,Mopp,mop,Mopps,mops,home
+der,Mülleimer,"trash can, bin",Mülleimer,"trash cans, bins",home
+das,Nachtkästchen,bedside table,Nachtkästchen,bedside tables,home
+der,Nachttisch,bedside table,Nachttische,bedside tables,home
+das,Paketband,packing tape,Paketbänder,packing tapes,home
+der,Papierkorb,wastepaper basket,Papierkörbe,wastepaper baskets,home
+der,Pinsel,paintbrush,Pinsel,paintbrushes,home
+die,Plastiktüte,plastic bag,Plastiktüten,plastic bags,home
+das,Putzmittel,cleaning product; detergent,Putzmittel,cleaning products; detergents,home
+das,Reinigungsmittel,cleaning agent; detergent,Reinigungsmittel,cleaning agents; detergents,home
+der,Rolladen,roller shutter,Rolläden,roller shutters,home
+das,Rollo,roller blind,Rollos,roller blinds,home
+die,Schachtel,small box,Schachteln,small boxes,home
+die,Schnur,"string, cord",Schnüre,"strings, cords",home
+der,Schreibtisch,desk,Schreibtische,desks,home
+die,Schublade,drawer,Schubladen,drawers,home
+die,Schuhablage,shoe rack,Schuhablagen,shoe racks,home
+das,Schuhregal,shoe shelf,Schuhregale,shoe shelves,home
+der,Sessel,armchair,Sessel,armchairs,home
+das,Shampoo,shampoo,Shampoos,shampoos,home
+das,Sideboard,sideboard,Sideboards,sideboards,home
+die,Sitzgruppe,seating group,Sitzgruppen,seating groups,home
+der,Sonnenschirm,"parasol, sunshade",Sonnenschirme,parasol umbrellas,home
+die,Spielzeugkiste,toy box,Spielzeugkisten,toy boxes,home
+die,Spüle,kitchen sink,Spülen,kitchen sinks,home
+das,Spülmittel,dishwashing liquid,Spülmittel,dishwashing liquids,home
+der,Spülschwamm,dish sponge,Spülschwämme,dish sponges,home
+die,Spülung,conditioner,Spülungen,conditioners,home
+das,Staubtuch,"duster, dust cloth",Staubtücher,"dusters, dust cloths",home
+die,Stehlampe,"standard lamp, floor lamp",Stehlampen,floor lamps,home
+die,Stereoanlage,stereo system,Stereoanlagen,stereo systems,home
+das,Stockbett,bunk bed,Stockbetten,bunk beds,home
+der,Suppenteller,soup plate,Suppenteller,soup plates,home
+die,Terrasse,"terrace, patio",Terrassen,"terraces, patios",home
+die,Tischlampe,table lamp,Tischlampen,table lamps,home
+das,Tischset,place mat,Tischsets,place mats,home
+die,Toilettenbürste,toilet brush,Toilettenbürsten,toilet brushes,home
+der,Toilettendeckel,toilet lid,Toilettendeckel,toilet lids,home
+das,Toilettenpapier,toilet paper,Toilettenpapiere,toilet papers,home
+die,Tüte,bag (paper or plastic),Tüten,bags,home
+die,Verlängerungsschnur,extension cord,Verlängerungsschnüre,extension cords,home
+die,Wandfarbe,wall paint,Wandfarben,wall paints,home
+das,Wandregal,wall shelf,Wandregale,wall shelves,home
+die,Wanduhr,wall clock,Wanduhren,wall clocks,home
+das,Waschbecken,washbasin,Waschbecken,washbasins,home
+die,Wäscheklammer,clothes peg,Wäscheklammern,clothes pegs,home
+der,Wäschekorb,laundry basket,Wäschekörbe,laundry baskets,home
+das,Wäschekörbchen,small laundry basket,Wäschekörbchen,small laundry baskets,home
+die,Wäscheleine,clothesline,Wäscheleinen,clotheslines,home
+das,Waschmittel,laundry detergent,Waschmittel,laundry detergents,home
+der,Wecker,alarm clock,Wecker,alarm clocks,home
+der,Weichspüler,fabric softener,Weichspüler,fabric softeners,home
+die,Wiege,cradle,Wiegen,cradles,home
+der,Wischmopp,mop,Wischmopps,mops,home
+die,Zahnbürste,toothbrush,Zahnbürsten,toothbrushes,home
+die,Zahnpasta,toothpaste,Zahnpasten,toothpastes,home
+das,Zahnputzglas,toothbrush glass,Zahnputzgläser,toothbrush glasses,home
+die,Zimmerdeko,room decoration,Zimmerdekos,room decorations,home
+die,Zimmerpflanze,houseplant,Zimmerpflanzen,houseplants,home
+der,Elektriker,electrician (male),Elektriker,electricians,jobs
+die,Elektrikerin,electrician (female),Elektrikerinnen,electricians (female),jobs
+der,Handwerker,tradesperson (male),Handwerker,tradespeople,jobs
+die,Handwerkerin,tradesperson (female),Handwerkerinnen,tradespeople (female),jobs
+der,Klempner,plumber (male),Klempner,plumbers,jobs
+die,Klempnerin,plumber (female),Klempnerinnen,plumbers (female),jobs
+der,Kellner,waiter,Kellner,waiters,jobs
+die,Kellnerin,waitress,Kellnerinnen,waitresses,jobs
+der,Polizist,police officer (male),Polizisten,police officers (male or mixed),jobs
+die,Polizistin,police officer (female),Polizistinnen,police officers (female),jobs
+der,Anwalt,lawyer (male),Anwälte,lawyers,jobs
+die,Anwältin,lawyer (female),Anwältinnen,lawyers (female),jobs
+der,Richter,judge (male),Richter,judges,jobs
+die,Richterin,judge (female),Richterinnen,judges (female),jobs
+der,Architekt,architect (male),Architekten,architects,jobs
+die,Architektin,architect (female),Architektinnen,architects (female),jobs
+der,Autor,author (male),Autoren,authors,jobs
+die,Autorin,author (female),Autorinnen,authors (female),jobs
+der,Bäcker,baker (male),Bäcker,bakers,jobs
+die,Bäckerin,baker (female),Bäckerinnen,bakers (female),jobs
+der,Friseur,hairdresser (male),Friseure,hairdressers,jobs
+die,Friseurin,hairdresser (female),Friseurinnen,hairdressers (female),jobs
+der,Ingenieur,engineer (male),Ingenieure,engineers,jobs
+die,Ingenieurin,engineer (female),Ingenieurinnen,engineers (female),jobs
+der,Journalist,journalist (male),Journalisten,journalists,jobs
+die,Journalistin,journalist (female),Journalistinnen,journalists (female),jobs
+der,Koch,"cook, chef (male)",Köche,"cooks, chefs",jobs
+die,Köchin,"cook, chef (female)",Köchinnen,"cooks, chefs (female)",jobs
+der,Mechaniker,mechanic (male),Mechaniker,mechanics,jobs
+die,Mechanikerin,mechanic (female),Mechanikerinnen,mechanics (female),jobs
+der,Müller,"miller (surname, profession)",Müller,millers,jobs
+der,Schneider,tailor,Schneider,tailors,jobs
+der,Sportler,athlete (male),Sportler,athletes (male or mixed),jobs
+die,Sportlerin,athlete (female),Sportlerinnen,athletes (female),jobs
+die,Küche,kitchen,Küchen,kitchens,kitchen
+der,Backpinsel,pastry brush,Backpinsel,pastry brushes,kitchen
+der,Bräter,roasting pan,Bräter,roasting pans,kitchen
+das,Brotmesser,bread knife,Brotmesser,bread knives,kitchen
+die,Dose,"can, tin",Dosen,"cans, tins",kitchen
+der,Dosenöffner,can opener,Dosenöffner,can openers,kitchen
+die,Dunstabzugshaube,extractor hood,Dunstabzugshauben,extractor hoods,kitchen
+der,Esslöffel,tablespoon,Esslöffel,tablespoons,kitchen
+das,Gefrierfach,freezer compartment,Gefrierfächer,freezer compartments,kitchen
+die,Gefriertruhe,chest freezer,Gefriertruhen,chest freezers,kitchen
+die,Karaffe,carafe,Karaffen,carafes,kitchen
+die,Käsereibe,cheese grater,Käsereiben,cheese graters,kitchen
+die,Knoblauchpresse,garlic press,Knoblauchpressen,garlic presses,kitchen
+das,Kochfeld,cooking surface,Kochfelder,cooking surfaces,kitchen
+das,Kochmesser,chef’s knife,Kochmesser,chef’s knives,kitchen
+der,Krug,"jug, pitcher",Krüge,"jugs, pitchers",kitchen
+das,Küchenpapier,kitchen roll,Küchenpapiere,kitchen rolls,kitchen
+die,Küchenschere,kitchen scissors,Küchenscheren,kitchen scissors,kitchen
+das,Küchensieb,kitchen sieve,Küchensiebe,kitchen sieves,kitchen
+der,Kühlschrank,refrigerator,Kühlschränke,refrigerators,kitchen
+der,Pfannenwender,spatula,Pfannenwender,spatulas,kitchen
+die,Schale,"bowl, small dish",Schalen,"bowls, small dishes",kitchen
+der,Schäler,peeler,Schäler,peelers,kitchen
+der,Schneebesen,whisk,Schneebesen,whisks,kitchen
+das,Schneidebrett,cutting board,Schneidebretter,cutting boards,kitchen
+der,Schöpflöffel,ladle,Schöpflöffel,ladles,kitchen
+der,Schwamm,sponge,Schwämme,sponges,kitchen
+das,Sieb,"sieve, strainer",Siebe,"sieves, strainers",kitchen
+der,Teelöffel,teaspoon,Teelöffel,teaspoons,kitchen
+der,Untersetzer,"coaster, mat",Untersetzer,"coasters, mats",kitchen
+die,Untertasse,saucer,Untertassen,saucers,kitchen
+das,Besteck,cutlery,of,die Bestecke,kitchen
+der,Backofen,oven,Backöfen,ovens,kitchen
+das,Brett,"board, cutting board",Bretter,"boards, cutting boards",kitchen
+der,Flaschenöffner,bottle opener,Flaschenöffner,bottle openers,kitchen
+die,Gabel,fork,Gabeln,forks,kitchen
+das,Gewürz,"spice, seasoning",Gewürze,"spices, seasonings",kitchen
+das,Glas,glass (drinking),Gläser,glasses (drinking),kitchen
+der,Herd,"stove, cooker",Herde,"stoves, cookers",kitchen
+der,Korkenzieher,corkscrew,Korkenzieher,corkscrews,kitchen
+der,Löffel,spoon,Löffel,spoons,kitchen
+das,Messer,knife,Messer,knives,kitchen
+der,Mixer,"blender, mixer",Mixer,"blenders, mixers",kitchen
+der,Ofen,"oven, stove",Öfen,"ovens, stoves",kitchen
+das,Öl,oil,Öle,oils,kitchen
+die,Pfanne,pan,Pfannen,pans,kitchen
+das,Salz,salt,Salze,salts,kitchen
+die,Schüssel,bowl,Schüsseln,bowls,kitchen
+die,Serviette,napkin,Servietten,napkins,kitchen
+die,Spülmaschine,dishwasher,Spülmaschinen,dishwashers,kitchen
+die,Tasse,"cup, mug",Tassen,"cups, mugs",kitchen
+der,Teller,plate,Teller,plates,kitchen
+die,Thermoskanne,thermos flask,Thermoskannen,thermos flasks,kitchen
+das,Tischtuch,tablecloth,Tischtücher,tablecloths,kitchen
+der,Topf,pot,Töpfe,pots,kitchen
+der,Wasserkocher,electric kettle,Wasserkocher,electric kettles,kitchen
+der,Zucker,sugar,Zucker,sugars,kitchen
+der,Ausdruck,expression,Ausdrücke,expressions,language
+die,Aussprache,pronunciation,Aussprachen,pronunciations,language
+die,Bedeutung,meaning,Bedeutungen,meanings,language
+der,Buchstabe,letter (alphabet),Buchstaben,letters,language
+die,Grammatik,grammar,Grammatiken,grammars,language
+der,Satz,sentence,Sätze,sentences,language
+die,Silbe,syllable,Silben,syllables,language
+die,Sprache,language,Sprachen,languages,language
+die,Übersetzung,translation,Übersetzungen,translations,language
+das,Wort,word,Wörter,words (distinct items),language
+das,Wörterbuch,dictionary,Wörterbücher,dictionaries,language
+die,Wörterliste,word list,Wörterlisten,word lists,language
+das,Diagramm,"diagram, chart",Diagramme,"diagrams, charts",math & science
+die,Grafik,"graph, graphic",Grafiken,"graphs, graphics",math & science
+die,Tabelle,table (data),Tabellen,tables (data),math & science
+die,Analyse,analysis,Analysen,analyses,math & science
+die,Formel,formula,Formeln,formulas,math & science
+die,Gleichung,equation,Gleichungen,equations,math & science
+die,Statistik,statistics,Statistiken,statistics,math & science
+die,Nummer,number (identifier),Nummern,numbers (identifiers),math & science
+die,Zahl,number,Zahlen,numbers,math & science
+die,Breite,width,Breiten,widths,math & science
+das,Gewicht,weight,Gewichte,weights,math & science
+die,Höhe,height,Höhen,heights,math & science
+die,Länge,length,Längen,lengths,math & science
+die,Bewegung,movement,Bewegungen,movements,math & science
+die,Geschwindigkeit,speed,Geschwindigkeiten,speeds,math & science
+die,Kraft,"force, strength",Kräfte,"forces, strengths",math & science
+die,Richtung,direction,Richtungen,directions,math & science
+die,Stärke,"strength, intensity",Stärken,"strengths, intensities",math & science
+der,Druck,pressure,Drücke,pressures,math & science
+die,Energie,energy,Energien,energies,math & science
+die,Masse,mass,Massen,masses,math & science
+das,Experiment,experiment,Experimente,experiments,math & science
+der,Forscher,researcher (male),Forscher,researchers,math & science
+die,Forscherin,researcher (female),Forscherinnen,researchers (female),math & science
+das,Labor,laboratory,Labore,Laboratories,math & science
+die,Messung,measurement,Messungen,measurements,math & science
+die,Theorie,theory,Theorien,theories,math & science
+die,Wissenschaft,science,Wissenschaften,sciences,math & science
+die,Fläche,"area, surface",Flächen,"areas, surfaces",math & science
+der,Rand,"edge, margin",Ränder,"edges, margins",math & science
+das,Volumen,volume,Volumen,volumes,math & science
+die,Folge,episode,Folgen,episodes,media
+das,Magazin,magazine,Magazine,magazines,media
+die,Meldung,"report, notification",Meldungen,"reports, notifications",media
+die,Sendung,"program, broadcast",Sendungen,"programs, broadcasts",media
+die,Serie,series (TV),Serien,series,media
+die,Show,show,Shows,shows,media
+die,Zeitschrift,magazine,Zeitschriften,magazines,media
+die,Zeitung,newspaper,Zeitungen,newspapers,media
+der,Mond,moon,Monde,moons,nature
+der,Planet,planet,Planeten,planets,nature
+der,Stern,star,Sterne,stars,nature
+der,Ast,branch,Äste,branches,nature
+die,Atmosphäre,atmosphere,Atmosphären,atmospheres,nature
+das,Blatt,"leaf, sheet",Blätter,"leaves, sheets",nature
+die,Blume,flower,Blumen,flowers,nature
+die,Blüte,blossom,Blüten,blossoms,nature
+die,Erde,Earth; soil,Erden,"earths, soils",nature
+das,Feuer,fire,Feuer,fires,nature
+das,Haustier,pet,Haustiere,pets,nature
+der,Haustierhalter,pet owner (male),Haustierhalter,pet owners,nature
+die,Haustierhalterin,pet owner (female),Haustierhalterinnen,pet owners (female),nature
+das,Holz,wood,Hölzer,"woods, types of wood",nature
+der,Horizont,horizon,Horizonte,horizons,nature
+die,Luft,air,Lüfte,"airs, skies",nature
+der,Müll,"garbage, trash",Müllarten,types of garbage,nature
+die,Mülltonne,"trash can, bin",Mülltonnen,"trash cans, bins",nature
+die,Natur,nature,Naturen,natures,nature
+die,Naturgewalt,force of nature,Naturgewalten,forces of nature,nature
+der,Park,park,Parks,Parks,nature
+der,Rasen,lawn,Rasen,lawns,nature
+die,Recyclinganlage,recycling plant,Recyclinganlagen,recycling plants,nature
+der,Stein,stone,Steine,stones,nature
+die,Umwelt,environment,Umwelten,environments (abstract),nature
+der,Umweltschutz,environmental protection,Umweltschutze,measures of environmental protection,nature
+das,Wildtier,wild animal,Wildtiere,wild animals,nature
+die,Wurzel,root,Wurzeln,roots,nature
+der,Zweig,"twig, branch",Zweige,"twigs, branches",nature
+der,Bürger,citizen (male),Bürger,citizens,politics
+die,Bürgerin,citizen (female),Bürgerinnen,citizens (female),politics
+die,Freiheit,freedom,Freiheiten,freedoms,politics
+der,Frieden,peace,Frieden,peaces,politics
+die,Gerechtigkeit,justice,Gerechtigkeiten,justices (rare),politics
+das,Gesetz,"law, act",Gesetze,"laws, acts",politics
+der,Konflikt,conflict,Konflikte,conflicts,politics
+der,Krieg,war,Kriege,wars,politics
+die,Partei,party (political),Parteien,parties,politics
+die,Politik,"politics, policy",Politiken,policies,politics
+der,Präsident,president (male),Präsidenten,presidents,politics
+die,Präsidentin,president (female),Präsidentinnen,presidents (female),politics
+das,Recht,"right, law",Rechte,"rights, laws",politics
+die,Regelung,regulation,Regelungen,regulations,politics
+die,Regierung,government,Regierungen,governments,politics
+der,Staat,state,Staaten,states,politics
+die,Wahl,"election, choice",Wahlen,"elections, choices",politics
+der,Albtraum,nightmare,Albträume,nightmares,psychology
+die,Anspannung,"tension, stress",Anspannungen,tensions,psychology
+die,Belastung,"strain, burden",Belastungen,"strains, burdens",psychology
+die,Beratung,"counseling, advice",Beratungen,counseling sessions,psychology
+das,Bewusstsein,"consciousness, awareness",Bewusstseine,states of consciousness,psychology
+der,Charakter,character,Charaktere,characters,psychology
+die,Depression,depression,Depressionen,depressions,psychology
+die,Eigenschaft,"quality, characteristic",Eigenschaften,"qualities, characteristics",psychology
+die,Erinnerung,"memory, recollection",Erinnerungen,memories,psychology
+die,Erwartung,expectation,Erwartungen,expectations,psychology
+die,Fantasie,"fantasy, imagination",Fantasien,fantasies,psychology
+das,Gedächtnis,memory (ability),Gedächtnisse,memories (brains),psychology
+die,Gelassenheit,calmness,Gelassenheiten,states of calmness,psychology
+die,Motivation,motivation,Motivationen,motivations,psychology
+die,Persönlichkeit,personality,Persönlichkeiten,personalities,psychology
+die,Reaktion,reaction,Reaktionen,reactions,psychology
+die,Ruhe,"quiet, calm",Ruhen,rests (rare),psychology
+die,Schwäche,weakness,Schwächen,weaknesses,psychology
+das,Selbstbewusstsein,"self-confidence, self-awareness",Selbstbewusstseine,states of self-confidence,psychology
+der,Stress,stress,Stresse,stress situations,psychology
+die,Sucht,addiction,Süchte,addictions,psychology
+der,Traum,dream,Träume,dreams,psychology
+das,Verhalten,behavior,Verhalten,behaviors,psychology
+der,Dozent,lecturer (male),Dozenten,lecturers,school
+die,Dozentin,lecturer (female),Dozentinnen,lecturers (female),school
+die,Einführung,introduction,Einführungen,introductions,school
+das,Fach,subject,Fächer,subjects,school
+der,Fachbereich,"department, faculty",Fachbereiche,departments,school
+die,Fakultät,faculty,Fakultäten,faculties,school
+die,Hochschule,"university, college",Hochschulen,"universities, colleges",school
+die,Klausur,written exam,Klausuren,written exams,school
+der,Kommilitone,fellow student (male),Kommilitonen,fellow students,school
+die,Kommilitonin,fellow student (female),Kommilitoninnen,fellow students (female),school
+der,Leistungspunkt,credit point,Leistungspunkte,credit points,school
+die,Mensa,cafeteria (university),Mensen,cafeterias,school
+der,Professor,professor (male),Professoren,professors,school
+die,Professorin,professor (female),Professorinnen,professors (female),school
+die,Studentenwohnung,student apartment,Studentenwohnungen,student apartments,school
+der,Studiengang,degree program,Studiengänge,degree programs,school
+das,Studium,"studies, degree course",Studien,"studies, degree courses",school
+das,Tutorium,tutorial session,Tutorien,tutorial sessions,school
+das,Wohnheim,"dormitory, residence hall",Wohnheime,"dormitories, residence halls",school
+das,Seminar,seminar,Seminare,seminars,school
+die,Datenbank,database,Datenbanken,databases,technology
+das,Passwort,password,Passwörter,passwords,technology
+der,Zugang,access,Zugänge,"accesses, entries",technology
+der,Benutzer,user (male),Benutzer,users,technology
+die,Benutzerin,user (female),Benutzerinnen,users (female),technology
+das,Benutzerkonto,user account,Benutzerkonten,user accounts,technology
+der,Browser,browser,Browser,browsers,technology
+die,Cloud,cloud (computing),Clouds,cloud services,technology
+die,Datenschutzrichtlinie,privacy policy,Datenschutzrichtlinien,privacy policies,technology
+die,Datensicherheit,data security,Datensicherheiten,data security measures,technology
+die,Domain,domain,Domains,domains,technology
+die,Einstellung,"setting, preference",Einstellungen,"settings, preferences",technology
+die,Firewall,firewall,Firewalls,firewalls,technology
+die,Informationstechnologie,information technology,Informationstechnologien,information technologies,technology
+der,Link,link,Links,links,technology
+die,Malware,malware,Malwares,malware types,technology
+das,Netz,"network, net",Netze,"networks, nets",technology
+die,Plattform,platform,Plattformen,platforms,technology
+das,Profil,profile,Profile,profiles,technology
+der,Server,server,Server,servers,technology
+die,Suchmaschine,search engine,Suchmaschinen,search engines,technology
+der,Virus,virus,Viren,viruses,technology
+die,Website,website,Websites,websites,technology
+die,Anlage,"system, plant",Anlagen,"systems, plants",technology
+die,App,App (application),Apps,apps,technology
+die,Batterie,battery,Batterien,batteries,technology
+der,Bildschirm,"screen, monitor",Bildschirme,"screens, monitors",technology
+das,Bildschirmfoto,screenshot,Bildschirmfotos,screenshots,technology
+der,Computer,computer,Computer,computers,technology
+die,Datei,file,Dateien,files,technology
+der,Drucker,printer,Drucker,printers,technology
+die,E-Mail,email,E-Mails,emails,technology
+die,Elektrizität,electricity,Elektrizitäten,types of electricity,technology
+das,Gerät,"device, appliance",Geräte,"devices, appliances",technology
+das,Handy,mobile phone,Handys,mobile phones,technology
+das,Internet,internet,Internetzugänge,internet connections,technology
+das,Ladegerät,charger,Ladegeräte,chargers,technology
+der,Laptop,laptop,Laptops,laptops,technology
+die,Maschine,machine,Maschinen,machines,technology
+die,Maus,mouse (computer),Mäuse,mice (computer),technology
+der,Motor,"engine, motor",Motoren,"engines, motors",technology
+das,Netzwerk,network,Netzwerke,networks,technology
+der,Ordner,folder,Ordner,folders,technology
+der,Schalter,switch,Schalter,switches,technology
+das,Smartphone,smartphone,Smartphones,smartphones,technology
+die,Software,software,Softwares,software packages,technology
+die,Steckdose,"socket, outlet",Steckdosen,"sockets, outlets",technology
+der,Stecker,plug,Stecker,plug connectors,technology
+der,Strom,"(also) electricity, current",Ströme,"currents, flows",technology
+die,Tastatur,keyboard,Tastaturen,keyboards,technology
+die,Taste,"key, button",Tasten,"keys, buttons",technology
+die,Technik,"technology, technique",Techniken,"technologies, techniques",technology
+das,Telefon,telephone,Telefone,telephones,technology
+die,Webseite,website page,Webseiten,website pages,technology
+der,Abend,evening,Abende,evenings,time
+das,Datum,date (calendar),Daten,dates,time
+der,Frühling,spring (season),Frühlinge,springs,time
+der,Herbst,"autumn, fall",Herbste,"autumns, falls",time
+das,Jahr,year,Jahre,years,time
+das,Jahrhundert,century,Jahrhunderte,centuries,time
+der,Kalender,calendar,Kalender,calendars,time
+die,Minute,minute,Minuten,minutes,time
+der,Mittag,"noon, midday",Mittage,"noons, middays",time
+der,Monat,month,Monate,months,time
+der,Morgen,morning,Morgen,mornings,time
+der,Nachmittag,afternoon,Nachmittage,afternoons,time
+die,Nacht,night,Nächte,nights,time
+die,Sekunde,second,Sekunden,seconds,time
+der,Sommer,summer,Sommer,summers,time
+die,Stunde,hour,Stunden,"hours, lessons",time
+der,Tag,day,Tage,days,time
+die,Uhr,"clock, watch, o’clock",Uhren,"clocks, watches",time
+die,Uhrzeit,time (of day),Uhrzeiten,times (of day),time
+der,Vormittag,late morning,Vormittage,late mornings,time
+der,Winter,winter,Winter,winters,time
+die,Woche,week,Wochen,weeks,time
+die,Zeit,time,Zeiten,"times, eras",time
+der,Termin,appointment,Termine,appointments,time
+der,Bohrer,drill,Bohrer,drills,tools
+der,Hammer,hammer,Hämmer,hammers,tools
+die,Leiter,ladder,Leitern,ladders,tools
+das,Metermaß,measuring tape,Metermaße,measuring tapes,tools
+die,Säge,saw,Sägen,saws,tools
+der,Schlüssel,key,Schlüssel,keys,tools
+der,Schraubenzieher,screwdriver,Schraubenzieher,screwdrivers,tools
+das,Werkzeug,tool,Werkzeuge,tools,tools
+die,Zange,"pliers, tongs (singular)",Zangen,"pliers, tongs (plural)",tools
+der,Ausflug,"excursion, trip",Ausflüge,"excursions, trips",travel
+die,Buchung,booking,Buchungen,bookings,travel
+die,Führung,guided tour,Führungen,guided tours,travel
+das,Gepäck,luggage,Gepäckstücke,pieces of luggage,travel
+der,Pass,passport,Pässe,passports,travel
+der,Reiseführer,"travel guide (book or person, male)",Reiseführer,travel guides,travel
+die,Reiseführerin,travel guide (female),Reiseführerinnen,travel guides (female),travel
+die,Reservierung,reservation,Reservierungen,reservations,travel
+die,Rundreise,"tour, round trip",Rundreisen,"tours, round trips",travel
+das,Visum,visa,Visa,VISAs,travel
+die,Figur,"piece, figure",Figuren,"pieces, figures",travel
+die,Karte,"map, card",Karten,"maps, cards",travel
+das,Hotel,hotel,Hotels,hotels,travel
+die,Jugendherberge,youth hostel,Jugendherbergen,youth hostels,travel
+die,Pension,guesthouse,Pensionen,guesthouses,travel
+die,Sehenswürdigkeit,"sight, tourist attraction",Sehenswürdigkeiten,"sights, attractions",travel
+der,Tourist,tourist (male),Touristen,tourists (male or mixed),travel
+die,Touristin,tourist (female),Touristinnen,tourists (female),travel
+die,Sonne,sun,Sonnen,suns,weather
+der,Blitz,"lightning, flash",Blitze,"lightnings, flashes",weather
+der,Donner,thunder,Donner,thunders,weather
+das,Gewitter,thunderstorm,Gewitter,thunderstorms,weather
+die,Hitze,heat,Hitzen,periods or degrees of heat,weather
+die,Kälte,cold (temperature),Kälten,periods or degrees of cold,weather
+das,Klima,climate,Klimate,climates,weather
+der,Nebel,fog,Nebel,"fogs, mists",weather
+der,Regen,rain,Regen,rains,weather
+der,Schnee,snow,Schnee,snows,weather
+der,Sturm,storm,Stürme,storms,weather
+die,Temperatur,temperature,Temperaturen,temperatures,weather
+das,Wetter,weather,Wetter,weathers (types of weather),weather
+der,Wind,wind,Winde,winds,weather
+die,Wolke,cloud,Wolken,clouds,weather
+der,Chef,boss (male),Chefs,bosses,work
+die,Chefin,boss (female),Chefinnen,bosses (female),work
+der,Kollege,colleague (male),Kollegen,colleagues (male or mixed),work
+die,Kollegin,colleague (female),Kolleginnen,colleagues (female),work
+die,Abteilung,department,Abteilungen,departments,work
+die,Anforderung,"requirement, demand",Anforderungen,"requirements, demands",work
+die,Angestellte,employee (female),Angestellten,employees,work
+die,Arbeit,"work, job, task",Arbeiten,"works, jobs, tasks",work
+der,Arbeiter,worker (male),Arbeiter,workers,work
+die,Arbeiterin,worker (female),Arbeiterinnen,workers (female),work
+der,Arbeitgeber,employer,Arbeitgeber,employers,work
+die,Arbeitszeit,working hours,Arbeitszeiten,working hours (pl.),work
+der,Beruf,"occupation, profession",Berufe,"occupations, professions",work
+der,Betrieb,"company, plant",Betriebe,"companies, plants",work
+die,Bewerbung,application,Bewerbungen,applications,work
+das,Büro,office,Büros,offices,work
+das,Bürogebäude,office building,Bürogebäude,office buildings,work
+die,Fähigkeit,"ability, skill",Fähigkeiten,"abilities, skills",work
+der,Feierabend,end of the workday,Feierabende,ends of the workdays,work
+die,Firma,"company, firm",Firmen,"companies, firms",work
+das,Gehalt,salary,Gehälter,salaries,work
+der,Job,job,Jobs,jobs,work
+die,Karriere,career,Karrieren,careers,work
+die,Kenntnis,knowledge (item),Kenntnisse,"knowledge (pl.), skills",work
+die,Kompetenz,competence,Kompetenzen,"competences, skills",work
+der,Lebenslauf,"CV, résumé",Lebensläufe,"CVs, résumés",work
+der,Lohn,wage,Löhne,wages,work
+die,Pause,"break, pause",Pausen,"breaks, pauses",work
+das,Praktikum,internship,Praktika,internships,work
+das,Projekt,project,Projekte,projects,work
+die,Stelle,"position, job",Stellen,"positions, jobs",work
+das,Unternehmen,"company, enterprise",Unternehmen,"companies, enterprises",work
+der,Urlaub,"vacation, holiday (from work)",Urlaube,"vacations, holidays",work
+die,Voraussetzung,prerequisite,Voraussetzungen,prerequisites,work
+das,Vorstellungsgespräch,job interview,Vorstellungsgespräche,job interviews,work
+die,Weiterbildung,further training,Weiterbildungen,further trainings,work

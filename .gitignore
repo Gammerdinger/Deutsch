@@ -1,3 +1,6 @@
 /.quarto/
 .DS_Store
 **/*.quarto_ipynb
+.Rproj.user
+.positai
+.Rhistory
