@@ -1,0 +1,782 @@
+# Pronunciation credits
+
+Below are the full credits for the various audio clips used in this repository. All clips were sourced from [Wiktionary](https://en.wiktionary.org/).
+
+The names listed here indicate authorship of the original audio files only. Their inclusion does **not** imply any endorsement of this site or its contents by the original creators or by Wiktionary.
+
+## ändern
+
+**Title / Description:** Pronunciation of *ändern* (original file: `De-ändern2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-ändern2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-ändern2.ogg` to `ändern.ogg`; audio content otherwise unchanged.
+
+## antworten
+
+**Title / Description:** Pronunciation of *antworten* (original file: `De-antworten2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-antworten2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-antworten2.ogg` to `antworten.ogg`; audio content otherwise unchanged.
+
+## arbeite
+
+**Title / Description:** Pronunciation of *arbeite* (original file: `De-arbeite.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-arbeite.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-arbeite.ogg` to `arbeite.ogg`; audio content otherwise unchanged.
+
+## arbeiten
+
+**Title / Description:** Pronunciation of *arbeiten* (original file: `De-arbeiten2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-arbeiten2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-arbeiten2.ogg` to `arbeiten.ogg`; audio content otherwise unchanged.
+
+## arbeitest
+
+**Title / Description:** Pronunciation of *arbeitest* (original file: `De-arbeitest.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-arbeitest.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-arbeitest.ogg` to `arbeitest.ogg`; audio content otherwise unchanged.
+
+## arbeitet
+
+**Title / Description:** Pronunciation of *arbeitet* (original file: `De-arbeitet.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-arbeitet.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-arbeitet.ogg` to `arbeitet.ogg`; audio content otherwise unchanged.
+
+## atme
+
+**Title / Description:** Pronunciation of *atme* (original file: `De-atme.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-atme.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-atme.ogg` to `atme.ogg`; audio content otherwise unchanged.
+
+## atmen
+
+**Title / Description:** Pronunciation of *atmen* (original file: `De-atmen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-atmen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-atmen.ogg` to `atmen.ogg`; audio content otherwise unchanged.
+
+## atmest
+
+**Title / Description:** Pronunciation of *atmest* (original file: `De-atmest.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-atmest.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-atmest.ogg` to `atmest.ogg`; audio content otherwise unchanged.
+
+## atmet
+
+**Title / Description:** Pronunciation of *atmet* (original file: `De-atmet.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-atmet.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-atmet.ogg` to `atmet.ogg`; audio content otherwise unchanged.
+
+## aufatmen
+
+**Title / Description:** Pronunciation of *aufatmen* (original file: `De-aufatmen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-aufatmen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-aufatmen.ogg` to `aufatmen.ogg`; audio content otherwise unchanged.
+
+## ausatmen
+
+**Title / Description:** Pronunciation of *ausatmen* (original file: `De-ausatmen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-ausatmen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-ausatmen.ogg` to `ausatmen.ogg`; audio content otherwise unchanged.
+
+## bade
+
+**Title / Description:** Pronunciation of *bade* (original file: `De-bade.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-bade.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-bade.ogg` to `bade.ogg`; audio content otherwise unchanged.
+
+## baden
+
+**Title / Description:** Pronunciation of *baden* (original file: `De-baden2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-baden2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-baden2.ogg` to `baden.ogg`; audio content otherwise unchanged.
+
+## badest
+
+**Title / Description:** Pronunciation of *badest* (original file: `De-badest.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-badest.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-badest.ogg` to `badest.ogg`; audio content otherwise unchanged.
+
+## badet
+
+**Title / Description:** Pronunciation of *badet* (original file: `De-badet.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-badet.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-badet.ogg` to `badet.ogg`; audio content otherwise unchanged.
+
+## begegnen
+
+**Title / Description:** Pronunciation of *begegnen* (original file: `De-begegnen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-begegnen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-begegnen2.ogg` to `begegnen.ogg`; audio content otherwise unchanged.
+
+## beginnen
+
+**Title / Description:** Pronunciation of *beginnen* (original file: `De-beginnen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-beginnen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-beginnen2.ogg` to `beginnen.ogg`; audio content otherwise unchanged.
+
+## besinnen
+
+**Title / Description:** Pronunciation of *besinnen* (original file: `De-besinnen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-besinnen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-besinnen.ogg` to `besinnen.ogg`; audio content otherwise unchanged.
+
+## besitzen
+
+**Title / Description:** Pronunciation of *besitzen* (original file: `De-besitzen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-besitzen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-besitzen2.ogg` to `besitzen.ogg`; audio content otherwise unchanged.
+
+## beten
+
+**Title / Description:** Pronunciation of *beten* (original file: `De-beten2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-beten2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-beten2.ogg` to `beten.ogg`; audio content otherwise unchanged.
+
+## blitzen
+
+**Title / Description:** Pronunciation of *blitzen* (original file: `De-blitzen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-blitzen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-blitzen.ogg` to `blitzen.ogg`; audio content otherwise unchanged.
+
+## braten
+
+**Title / Description:** Pronunciation of *braten* (original file: `De-braten2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-braten2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-braten2.ogg` to `braten.ogg`; audio content otherwise unchanged.
+
+## brennen
+
+**Title / Description:** Pronunciation of *brennen* (original file: `De-brennen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-brennen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-brennen2.ogg` to `brennen.ogg`; audio content otherwise unchanged.
+
+## darf
+
+**Title / Description:** Pronunciation of *darf* (original file: `De-darf.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-darf.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-darf.ogg` to `darf.ogg`; audio content otherwise unchanged.
+
+## darfst
+
+**Title / Description:** Pronunciation of *darfst* (original file: `De-darfst.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-darfst.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-darfst.ogg` to `darfst.ogg`; audio content otherwise unchanged.
+
+## dienen
+
+**Title / Description:** Pronunciation of *dienen* (original file: `De-dienen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dienen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dienen2.ogg` to `dienen.ogg`; audio content otherwise unchanged.
+
+## donnern
+
+**Title / Description:** Pronunciation of *donnern* (original file: `De-donnern.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-donnern.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-donnern.ogg` to `donnern.ogg`; audio content otherwise unchanged.
+
+## durchatmen
+
+**Title / Description:** Pronunciation of *durchatmen* (original file: `De-durchatmen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-durchatmen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-durchatmen.ogg` to `durchatmen.ogg`; audio content otherwise unchanged.
+
+## dürfen
+
+**Title / Description:** Pronunciation of *dürfen* (original file: `De-dürfen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dürfen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dürfen.ogg` to `dürfen.ogg`; audio content otherwise unchanged.
+
+## dürft
+
+**Title / Description:** Pronunciation of *dürft* (original file: `De-dürft.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dürft.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dürft.ogg` to `dürft.ogg`; audio content otherwise unchanged.
+
+## eilen
+
+**Title / Description:** Pronunciation of *eilen* (original file: `De-eilen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-eilen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-eilen.ogg` to `eilen.ogg`; audio content otherwise unchanged.
+
+## einatmen
+
+**Title / Description:** Pronunciation of *einatmen* (original file: `De-einatmen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einatmen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-einatmen.ogg` to `einatmen.ogg`; audio content otherwise unchanged.
+
+## empfehlen
+
+**Title / Description:** Pronunciation of *empfehlen* (original file: `De-empfehlen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-empfehlen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-empfehlen.ogg` to `empfehlen.ogg`; audio content otherwise unchanged.
+
+## entfernen
+
+**Title / Description:** Pronunciation of *entfernen* (original file: `De-entfernen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-entfernen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-entfernen2.ogg` to `entfernen.ogg`; audio content otherwise unchanged.
+
+## entgegnen
+
+**Title / Description:** Pronunciation of *entgegnen* (original file: `De-entgegnen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-entgegnen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-entgegnen.ogg` to `entgegnen.ogg`; audio content otherwise unchanged.
+
+## erinnern
+
+**Title / Description:** Pronunciation of *erinnern* (original file: `De-erinnern.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-erinnern.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-erinnern.ogg` to `erinnern.ogg`; audio content otherwise unchanged.
+
+## erwähnen
+
+**Title / Description:** Pronunciation of *erwähnen* (original file: `De-erwähnen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-erwähnen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-erwähnen.ogg` to `erwähnen.ogg`; audio content otherwise unchanged.
+
+## essen
+
+**Title / Description:** Pronunciation of *essen* (original file: `De-essen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-essen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-essen2.ogg` to `essen.ogg`; audio content otherwise unchanged.
+
+## fahren
+
+**Title / Description:** Pronunciation of *fahren* (original file: `De-fahren2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fahren2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fahren2.ogg` to `fahren.ogg`; audio content otherwise unchanged.
+
+## fallen
+
+**Title / Description:** Pronunciation of *fallen* (original file: `De-fallen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fallen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fallen2.ogg` to `fallen.ogg`; audio content otherwise unchanged.
+
+## faxen
+
+**Title / Description:** Pronunciation of *faxen* (original file: `De-faxen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-faxen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-faxen.ogg` to `faxen.ogg`; audio content otherwise unchanged.
+
+## filmen
+
+**Title / Description:** Pronunciation of *filmen* (original file: `De-filmen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-filmen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-filmen.ogg` to `filmen.ogg`; audio content otherwise unchanged.
+
+## gebäre
+
+**Title / Description:** Pronunciation of *gebäre* (original file: `De-gebäre.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gebäre.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gebäre.ogg` to `gebäre.ogg`; audio content otherwise unchanged.
+
+## gebären
+
+**Title / Description:** Pronunciation of *gebären* (original file: `De-gebären.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gebären.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gebären.ogg` to `gebären.ogg`; audio content otherwise unchanged.
+
+## gebärt
+
+**Title / Description:** Pronunciation of *gebärt* (original file: `De-gebärt.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gebärt.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gebärt.ogg` to `gebärt.ogg`; audio content otherwise unchanged.
+
+## gebierst
+
+**Title / Description:** Pronunciation of *gebierst* (original file: `De-gebierst.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gebierst.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gebierst.ogg` to `gebierst.ogg`; audio content otherwise unchanged.
+
+## gebiert
+
+**Title / Description:** Pronunciation of *gebiert* (original file: `De-gebiert.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gebiert.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gebiert.ogg` to `gebiert.ogg`; audio content otherwise unchanged.
+
+## gebe
+
+**Title / Description:** Pronunciation of *gebe* (original file: `De-gebe.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gebe.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gebe.ogg` to `gebe.ogg`; audio content otherwise unchanged.
+
+## geben
+
+**Title / Description:** Pronunciation of *geben* (original file: `De-geben2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-geben2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-geben2.ogg` to `geben.ogg`; audio content otherwise unchanged.
+
+## gebt
+
+**Title / Description:** Pronunciation of *gebt* (original file: `De-gebt.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gebt.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gebt.ogg` to `gebt.ogg`; audio content otherwise unchanged.
+
+## gelten
+
+**Title / Description:** Pronunciation of *gelten* (original file: `De-gelten2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gelten2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gelten2.ogg` to `gelten.ogg`; audio content otherwise unchanged.
+
+## geraten
+
+**Title / Description:** Pronunciation of *geraten* (original file: `De-geraten.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-geraten.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-geraten.ogg` to `geraten.ogg`; audio content otherwise unchanged.
+
+## gewöhnen
+
+**Title / Description:** Pronunciation of *gewöhnen* (original file: `De-gewöhnen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gewöhnen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gewöhnen.ogg` to `gewöhnen.ogg`; audio content otherwise unchanged.
+
+## gibst
+
+**Title / Description:** Pronunciation of *gibst* (original file: `De-gibst.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gibst.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gibst.ogg` to `gibst.ogg`; audio content otherwise unchanged.
+
+## gibt
+
+**Title / Description:** Pronunciation of *gibt* (original file: `De-gibt2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gibt2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gibt2.ogg` to `gibt.ogg`; audio content otherwise unchanged.
+
+## grüßen
+
+**Title / Description:** Pronunciation of *grüßen* (original file: `De-grüßen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-grüßen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-grüßen2.ogg` to `grüßen.ogg`; audio content otherwise unchanged.
+
+## habe
+
+**Title / Description:** Pronunciation of *habe* (original file: `De-habe2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-habe2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-habe2.ogg` to `habe.ogg`; audio content otherwise unchanged.
+
+## haben
+
+**Title / Description:** Pronunciation of *haben* (original file: `De-haben3.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-haben3.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-haben3.ogg` to `haben.ogg`; audio content otherwise unchanged.
+
+## habt
+
+**Title / Description:** Pronunciation of *habt* (original file: `De-habt.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-habt.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-habt.ogg` to `habt.ogg`; audio content otherwise unchanged.
+
+## hageln
+
+**Title / Description:** Pronunciation of *hageln* (original file: `De-hageln.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-hageln.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-hageln.ogg` to `hageln.ogg`; audio content otherwise unchanged.
+
+## hält
+
+**Title / Description:** Pronunciation of *hält* (original file: `De-hält.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-hält.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-hält.ogg` to `hält.ogg`; audio content otherwise unchanged.
+
+## halte
+
+**Title / Description:** Pronunciation of *halte* (original file: `De-halte.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-halte.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-halte.ogg` to `halte.ogg`; audio content otherwise unchanged.
+
+## halten
+
+**Title / Description:** Pronunciation of *halten* (original file: `De-halten2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-halten2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-halten2.ogg` to `halten.ogg`; audio content otherwise unchanged.
+
+## haltet
+
+**Title / Description:** Pronunciation of *haltet* (original file: `De-haltet.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-haltet.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-haltet.ogg` to `haltet.ogg`; audio content otherwise unchanged.
+
+## hältst
+
+**Title / Description:** Pronunciation of *hältst* (original file: `De-hältst.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-hältst.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-hältst.ogg` to `hältst.ogg`; audio content otherwise unchanged.
+
+## handeln
+
+**Title / Description:** Pronunciation of *handeln* (original file: `De-handeln.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-handeln.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-handeln.ogg` to `handeln.ogg`; audio content otherwise unchanged.
+
+## hast
+
+**Title / Description:** Pronunciation of *hast* (original file: `De-hast.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-hast.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-hast.ogg` to `hast.ogg`; audio content otherwise unchanged.
+
+## hat
+
+**Title / Description:** Pronunciation of *hat* (original file: `De-hat3.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-hat3.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-hat3.ogg` to `hat.ogg`; audio content otherwise unchanged.
+
+## heiße
+
+**Title / Description:** Pronunciation of *heiße* (original file: `De-heiße.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-heiße.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-heiße.ogg` to `heiße.ogg`; audio content otherwise unchanged.
+
+## heißen
+
+**Title / Description:** Pronunciation of *heißen* (original file: `De-heißen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-heißen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-heißen2.ogg` to `heißen.ogg`; audio content otherwise unchanged.
+
+## heißt
+
+**Title / Description:** Pronunciation of *heißt* (original file: `De-heißt.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-heißt.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-heißt.ogg` to `heißt.ogg`; audio content otherwise unchanged.
+
+## helfen
+
+**Title / Description:** Pronunciation of *helfen* (original file: `De-helfen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-helfen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-helfen2.ogg` to `helfen.ogg`; audio content otherwise unchanged.
+
+## kennenlernen
+
+**Title / Description:** Pronunciation of *kennenlernen* (original file: `De-kennenlernen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-kennenlernen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-kennenlernen.ogg` to `kennenlernen.ogg`; audio content otherwise unchanged.
+
+## kann
+
+**Title / Description:** Pronunciation of *kann* (original file: `De-kann2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-kann2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-kann2.ogg` to `kann.ogg`; audio content otherwise unchanged.
+
+## kannst
+
+**Title / Description:** Pronunciation of *kannst* (original file: `De-kannst.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-kannst.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-kannst.ogg` to `kannst.ogg`; audio content otherwise unchanged.
+
+## kommen
+
+**Title / Description:** Pronunciation of *kommen* (original file: `De-kommen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-kommen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-kommen2.ogg` to `kommen.ogg`; audio content otherwise unchanged.
+
+## können
+
+**Title / Description:** Pronunciation of *können* (original file: `De-können2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-können2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-können2.ogg` to `können.ogg`; audio content otherwise unchanged.
+
+## könnt
+
+**Title / Description:** Pronunciation of *könnt* (original file: `De-könnt.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-könnt.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-könnt.ogg` to `könnt.ogg`; audio content otherwise unchanged.
+
+## lächeln
+
+**Title / Description:** Pronunciation of *lächeln* (original file: `De-lächeln2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lächeln2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lächeln2.ogg` to `lächeln.ogg`; audio content otherwise unchanged.
+
+## lade
+
+**Title / Description:** Pronunciation of *lade* (original file: `De-lade.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lade.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lade.ogg` to `lade.ogg`; audio content otherwise unchanged.
+
+## laden
+
+**Title / Description:** Pronunciation of *laden* (original file: `De-laden2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-laden2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-laden2.ogg` to `laden.ogg`; audio content otherwise unchanged.
+
+## ladet
+
+**Title / Description:** Pronunciation of *ladet* (original file: `De-ladet.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-ladet.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-ladet.ogg` to `ladet.ogg`; audio content otherwise unchanged.
+
+## lädst
+
+**Title / Description:** Pronunciation of *lädst* (original file: `De-lädst.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lädst.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lädst.ogg` to `lädst.ogg`; audio content otherwise unchanged.
+
+## lädt
+
+**Title / Description:** Pronunciation of *lädt* (original file: `De-lädt.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lädt.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lädt.ogg` to `lädt.ogg`; audio content otherwise unchanged.
+
+## lassen
+
+**Title / Description:** Pronunciation of *lassen* (original file: `De-lassen3.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lassen3.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lassen3.ogg` to `lassen.ogg`; audio content otherwise unchanged.
+
+## laufe
+
+**Title / Description:** Pronunciation of *laufe* (original file: `De-laufe.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-laufe.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-laufe.ogg` to `laufe.ogg`; audio content otherwise unchanged.
+
+## laufen
+
+**Title / Description:** Pronunciation of *laufen* (original file: `De-laufen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-laufen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-laufen2.ogg` to `laufen.ogg`; audio content otherwise unchanged.
+
+## läufst
+
+**Title / Description:** Pronunciation of *läufst* (original file: `De-läufst.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-läufst.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-läufst.ogg` to `läufst.ogg`; audio content otherwise unchanged.
+
+## lauft
+
+**Title / Description:** Pronunciation of *lauft* (original file: `De-lauft.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lauft.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lauft.ogg` to `lauft.ogg`; audio content otherwise unchanged.
+
+## läuft
+
+**Title / Description:** Pronunciation of *läuft* (original file: `De-läuft.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-läuft.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-läuft.ogg` to `läuft.ogg`; audio content otherwise unchanged.
+
+## lerne
+
+**Title / Description:** Pronunciation of *lerne* (original file: `De-lerne.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lerne.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lerne.ogg` to `lerne.ogg`; audio content otherwise unchanged.
+
+## lernen
+
+**Title / Description:** Pronunciation of *lernen* (original file: `De-lernen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lernen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lernen2.ogg` to `lernen.ogg`; audio content otherwise unchanged.
+
+## lernst
+
+**Title / Description:** Pronunciation of *lernst* (original file: `De-lernst.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lernst.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lernst.ogg` to `lernst.ogg`; audio content otherwise unchanged.
+
+## lernt
+
+**Title / Description:** Pronunciation of *lernt* (original file: `De-lernt.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lernt.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lernt.ogg` to `lernt.ogg`; audio content otherwise unchanged.
+
+
+## lesen
+
+**Title / Description:** Pronunciation of *lesen* (original file: `De-lesen2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lesen2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lesen2.ogg` to `lesen.ogg`; audio content otherwise unchanged.
+
+## lohnen
+
+**Title / Description:** Pronunciation of *lohnen* (original file: `De-lohnen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-lohnen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-lohnen.ogg` to `lohnen.ogg`; audio content otherwise unchanged.
