@@ -19,8 +19,8 @@ You are welcome to fork this repository for your own use if you would like to ed
 
 # Licenses
 
-Unless otherwise noted, the original teaching materials in this repository (text, exercises, and code) are distributed under the  [Creative Commons Attribution–ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
+These lessons have been developed by Will Gammerdinger.
 
-## Pronunciation audio
+Unless otherwise noted, the original teaching materials in this repository (text, exercises, and code) are distributed under the [Creative Commons Attribution–ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
-Pronunciation audio files are sourced from [Wiktionary](https://en.wiktionary.org/). Those files retain their original licenses (for example, various Creative Commons licenses or public-domain dedications) as specified on their Wiktionary file pages. If you wish to reuse those pronunciation files, please check the license information for each file on Wiktionary and follow the corresponding terms of use and attribution.
+Pronunciation audio files are sourced from [Wiktionary](https://en.wiktionary.org/) and retain their original licenses (for example, various Creative Commons licenses or public‑domain dedications) as specified on their Wiktionary file pages. Detailed per‑file information is available on the [audio credits page](docs/audio/audio_credits.html). If you wish to reuse those pronunciation files, please consult that page (and the linked Wiktionary file pages where needed) and follow the corresponding terms of use and attribution.

@@ -13,6 +13,3 @@ The lessons are structured in such an order as they should be taken in order. Ho
 2. [Present tense verb conjugation - Regular verbs](02_Present_verb_conjugation_regular.qmd)
 3. [Present tense verb conjugation - Exceptions](03_Present_verb_conjugation_exceptions.qmd)
 
-***
-
-*These materials have been developed by Will Gammerdinger. These are open access materials distributed under the terms of the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.*

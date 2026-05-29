@@ -154,7 +154,7 @@ To prove the rule, let's look at a few infinitive stems that either end in *-m* 
 |||
 |:---:|:---:|
 | ich wärm**e** <span class="pron" data-src="../audio/verben/wärmen/wärme.ogg">🔊</span> | wir wärm**en** <span class="pron" data-src="../audio/verben/wärmen/wärmen.ogg">🔊</span> |
-| du wärm**st** <span class="pron" data-src="../audio/verben/wärmen/wärmest.ogg">🔊</span> | ihr wärm**t** <span class="pron" data-src="../audio/verben/wärmen/wärmt.ogg">🔊</span> |
+| du wärm**st** <span class="pron" data-src="../audio/verben/wärmen/wärmst.ogg">🔊</span> | ihr wärm**t** <span class="pron" data-src="../audio/verben/wärmen/wärmt.ogg">🔊</span> |
 | er wärm**t** <span class="pron" data-src="../audio/verben/wärmen/wärmt.ogg">🔊</span><br>sie wärm**t**<br>es wärm**t** | Sie wärm**en** <span class="pron" data-src="../audio/verben/wärmen/wärmen.ogg">🔊</span><br>sie wärm**en** |
 
 Unlike the infinitive stems ending in *-m* or *-n* preceded by a consonant sound other than *l* or *r*, these are relatively more common. I have provided a list below of some of the more common ones you might come across:
