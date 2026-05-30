@@ -155,6 +155,7 @@ ausdrücken,to squeeze out,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
 sich ausdrücken,to express oneself,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drücke mich aus,drückst dich aus,drückt sich aus,drücken uns aus,drückt euch aus,drücken sich aus,drücken sich aus
 ausessen,to finish eating something shared/to stay until a meal is finished,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,esse aus,isst aus,isst aus,essen aus,esst aus,essen aus,essen aus
 ausfallen,to be cancelled/to stop working/to fall out,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,falle aus,fällst aus,fällt aus,fallen aus,fallt aus,fallen aus,fallen aus
+ausfechten,"to fight out (physically, figuratively)",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,fechte aus,fichtst aus,ficht aus,fechten aus,fechtet aus,fechten aus,fechten aus
 ausfüllen,to fill out (a form),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fülle aus,füllst aus,füllt aus,füllen aus,füllt aus,füllen aus,füllen aus
 auskommen,to get along with someone/to make do,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,komme aus,kommst aus,kommt aus,kommen aus,kommt aus,kommen aus,kommen aus
 ausräumen,to empty/to clear out,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,räume aus,räumst aus,räumt aus,räumen aus,räumt aus,räumen aus,räumen aus
@@ -313,6 +314,7 @@ durchblicken,to understand,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
 durchbraten,to cook through,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,brate durch,brätst durch,brät durch,braten durch,bratet durch,braten durch,braten durch
 durchbrechen,"to break through (literally, figuratively)",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,breche durch,brichst durch,bricht durch,brechen durch,brecht durch,brechen durch,brechen durch
 durchdringen,to penetrate right through (physically)/to fully understand,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,durchdringe,durchdringst,durchdringt,durchdringen,durchdringt,durchdringen,durchdringen
+sich durchfechten,to fight through a long struggle,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,fechte mich durch,fichtst dich durch,ficht sich durch,fechten uns durch,fechtet euch durch,fechten sich durch,fechten sich durch
 durchmischen,to mix thoroughly,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,mische durch,mischst durch,mischt durch,mischen durch,mischt durch,mischen durch,mischen durch
 durchmixen,to mix through completely,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,mixe durch,mixst durch,mixt durch,mixen durch,mixt durch,mixen durch,mixen durch
 durchsagen,to announce over a loudspeaker,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sage durch,sagst durch,sagt durch,sagen durch,sagt durch,sagen durch,sagen durch
@@ -428,6 +430,7 @@ sich falten,to form wrinkles,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
 fangen,to catch,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fange,fängst,fängt,fangen,fangt,fangen,fangen
 sich fangen,to pull yourself together,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fange mich,fängst dich,fängt sich,fangen uns,fangt euch,fangen sich,fangen sich
 fassen,to grasp (physically and as an idea)/to hold (capacity)/to seize,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fasse,fasst,fasst,fassen,fasst,fassen,fassen
+fechten,to fence (sport),TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,fechte,fichtst,ficht,fechten,fechtet,fechten,fechten
 fernsehen,to watch television,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,sehe fern,siehst fern,sieht fern,sehen fern,seht fern,sehen fern,sehen fern
 festbeißen,to bite and not let go,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beiße fest,beißt fest,beißt fest,beißen fest,beißt fest,beißen fest,beißen fest
 sich festbeißen,to fixate/to obsessively persist,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beiße mich fest,beißt dich fest,beißt sich fest,beißen uns fest,beißt euch fest,beißen sich fest,beißen sich fest

@@ -347,7 +347,7 @@ More examples of stem-changing verbs from each class can be found in the tabset 
 
 # Stem-changing verbs with *-t* infinitive stem-endings
 
-There is a very small group of verbs who have to deal with the interaction between being a stem-changing verb and having an infinitive stem ending in *-t*. This group of verb has a very particular behavior. In the second- and third-person singular, they will undergo their stem-change, but the endings are a bit different. The second-person singular will directly add the *-st* after the infinitive stem, forgoing adding the additional *-e* that we would traditionally add when handling verbs with infinitive stems ending in *-t*. The third person singular just leaves the infinitive stem and adds no ending. 
+There is a very small group of verbs who have to deal with the interaction between being a stem-changing verb and having an infinitive stem ending in *-t*. This group of verbs have a very particular behavior. In the second- and third-person singular, they will undergo their stem-change, but the endings are a bit different. The second-person singular will directly add the *-st* after the infinitive stem, forgoing adding the additional *-e* that we would traditionally add when handling verbs with infinitive stems ending in *-t*. The third person singular just leaves the infinitive stem and adds no ending. 
 
 Since the stem-changing effect doesn't occur in the second-person person plural, we still need to add the *-e* prior to the *-t*.
 
@@ -613,7 +613,7 @@ Some impersonal verbs which define the status of a thing or an event are:
 
 :::column
 - **stimmen** <span class="pron" data-src="../audio/verben/stimmen/stimmen.ogg">🔊</span> (to be true)
-- **sich lohnen**\* <span class="pron" data-src-list="../audio/reflexive/sich.ogg, ../audio/verben/lohnen/lohnen.ogg">🔊</span> (to be worth it)
+- **sich lohnen** <span class="pron" data-src-list="../audio/reflexive/sich.ogg, ../audio/verben/lohnen/lohnen.ogg">🔊</span> (to be worth it)
 :::
 :::
 
