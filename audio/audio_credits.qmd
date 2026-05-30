@@ -368,6 +368,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-faxen.ogg` to `faxen.ogg`; audio content otherwise unchanged.
 
+### fechten
+
+**Title / Description:** Pronunciation of *fechten* (original file: `De-fechten2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page]https://en.wiktionary.org/wiki/File:De-fechten2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fechten2.ogg` to `fechten.ogg`; audio content otherwise unchanged.
+
 ### filmen
 
 **Title / Description:** Pronunciation of *filmen* (original file: `De-filmen.ogg`)  

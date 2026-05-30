@@ -374,6 +374,7 @@ The verbs that fall into this category are in the tabset below:
 
 ## e → i
 - **gelten** <span class="pron" data-src="../audio/verben/gelten/gelten.ogg">🔊</span> (to be valid/to be regarded)
+- **fechten** <span class="pron" data-src="../audio/verben/fechten/fechten.ogg">🔊</span> (to fence (sport))
 
 :::
 

@@ -7,6 +7,11 @@ abbinden,to tie off (medically)/to thicken a sauce (cooking),TRUE,TRUE,FALSE,FAL
 abbrennen,to burn down/to set off fireworks,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,brenne ab,brennst ab,brennt ab,brennen ab,brennt ab,brennen ab,brennen ab
 abreißen,to tear off/to tear down,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,reiße ab,reißt ab,reißt ab,reißen ab,reißt ab,reißen ab,reißen ab
 abbrechen,to break off,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,breche ab,brichst ab,bricht ab,brechen ab,brecht ab,brechen ab,brechen ab
+abbürsten,to brush something off/to brush something clean,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bürste ab,bürstest ab,bürstet ab,bürsten ab,bürstet ab,bürsten ab,bürsten ab
+abdämpfen,"to damp down (sound, intensity)",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dämpfe ab,dämpfst ab,dämpft ab,dämpfen ab,dämpft ab,dämpfen ab,dämpfen ab
+abdecken,to uncover,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,decke ab,deckst ab,deckt ab,decken ab,deckt ab,decken ab,decken ab
+abdrucken,to print in a publication,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drucke ab,druckst ab,druckt ab,drucken ab,druckt ab,drucken ab,drucken ab
+abfahren,to depart,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fahre ab,fährst ab,fährt ab,fahren ab,fahrt ab,fahren ab,fahren ab
 abrufen,to retrieve/to call up,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rufe ab,rufst ab,ruft ab,rufen ab,ruft ab,rufen ab,rufen ab
 absagen,to call off/to cancel,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sage ab,sagst ab,sagt ab,sagen ab,sagt ab,sagen ab,sagen ab
 abschicken,to send off,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,schicke ab,schickst ab,schickt ab,schicken ab,schickt ab,schicken ab,schicken ab
@@ -55,9 +60,13 @@ anbinden,to tie onto (something),TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FA
 anblicken,to look at,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,blicke an,blickst an,blickt an,blicken an,blickt an,blicken an,blicken an
 anbraten,to fry briefly/to sear,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,brate an,brätst an,brät an,braten an,bratet an,braten an,braten an
 anbrennen,to catch and burn (cooking),FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,brenne an,brennst an,brennt an,brennen an,brennt an,brennen an,brennen an
+anbrüllen,to shout at someone,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,brülle an,brüllst an,brüllt an,brüllen an,brüllt an,brüllen an,brüllen an
 ändern,to change,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ändere,änderst,ändert,ändern,ändert,ändern,ändern
 sich ändern,something changes,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ändere mich,änderst dich,ändert sich,ändern uns,ändert euch,ändern sich,ändern sich
+andichten,to attribute something falsely,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dichte an,dichtest an,dichtet an,dichten an,dichtet an,dichten an,dichten an
+anfahren,to drive up to/to hit (with a vehicle),TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fahre an,fährst an,fährt an,fahren an,fahrt an,fahren an,fahren an
 anfangen,to begin,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fange an,fängst an,fängt an,fangen an,fangt an,fangen an,fangen an
+anfassen,to lay hands on/to touch,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fasse an,fasst an,fasst an,fassen an,fasst an,fassen an,fassen an
 ankommen,to arrive/to succeed,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,komme an,kommst an,kommt an,kommen an,kommt an,kommen an,kommen an
 anrufen,to call (on the phone),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rufe an,rufst an,ruft an,rufen an,ruft an,rufen an,rufen an
 ansagen,to announce (aloud),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sage an,sagst an,sagt an,sagen an,sagt an,sagen an,sagen an
@@ -99,6 +108,10 @@ aufbauen,to build up,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
 aufbeißen,to bite open,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beiße auf,beißt auf,beißt auf,beißen auf,beißt auf,beißen auf,beißen auf
 aufblühen,to come into bloom,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,blühe auf,blühst auf,blüht auf,blühen auf,blüht auf,blühen auf,blühen auf
 aufbrausen,to lose one's temper,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,brause auf,braust auf,braust auf,brausen auf,braust auf,brausen auf,brausen auf
+aufdecken,"to uncover (facts, scandals)",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,decke auf,deckst auf,deckt auf,decken auf,deckt auf,decken auf,decken auf
+aufessen,to finish eating something (completely),TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,esse auf,isst auf,isst auf,essen auf,esst auf,essen auf,essen auf
+auffangen,to cushion/to absorb,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fange auf,fängst auf,fängt auf,fangen auf,fangt auf,fangen auf,fangen auf
+auffassen,to interpret somehting as,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fasse auf,fasst auf,fasst auf,fassen auf,fasst auf,fassen auf,fassen auf
 aufhalten,"to delay (someone, something)",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,halte auf,hältst auf,hält auf,halten auf,haltet auf,halten auf,halten auf
 sich aufhalten,to spend time (somewhere),TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,halte mich auf,hältst dich auf,hält sich auf,halten uns auf,haltet euch auf,halten sich auf,halten sich auf
 aufräumen,to tidy up,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,räume auf,räumst auf,räumt auf,räumen auf,räumt auf,räumen auf,räumen auf
@@ -136,7 +149,13 @@ ausatmen,to exhale,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALS
 ausbacken,to bake/fry something until done,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,backe aus,bäckst aus,bäckt aus,backen aus,backt aus,backen aus,backen aus
 ausblasen,to blow out,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,blase aus,bläst aus,bläst aus,blasten aus,blast aus,blasten aus,blasten aus
 ausbrechen,"to break out (war, panic, fire)/to escape",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,breche aus,brichst aus,bricht aus,brechen aus,brecht aus,brechen aus,brechen aus
-ausfüllen,to fill out (form),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fülle aus,füllst aus,füllt aus,füllen aus,füllt aus,füllen aus,füllen aus
+ausdenken,to make up/to invent,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,denke aus,denkst aus,denkt aus,denken aus,denkt aus,denken aus,denken aus
+ausdrucken,to print out (from a computer),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drucke aus,druckst aus,druckt aus,drucken aus,druckt aus,drucken aus,drucken aus
+ausdrücken,to squeeze out,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drücke aus,drückst aus,drückt aus,drücken aus,drückt aus,drücken aus,drücken aus
+sich ausdrücken,to express oneself,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drücke mich aus,drückst dich aus,drückt sich aus,drücken uns aus,drückt euch aus,drücken sich aus,drücken sich aus
+ausessen,to finish eating something shared/to stay until a meal is finished,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,esse aus,isst aus,isst aus,essen aus,esst aus,essen aus,essen aus
+ausfallen,to be cancelled/to stop working/to fall out,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,falle aus,fällst aus,fällt aus,fallen aus,fallt aus,fallen aus,fallen aus
+ausfüllen,to fill out (a form),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fülle aus,füllst aus,füllt aus,füllen aus,füllt aus,füllen aus,füllen aus
 auskommen,to get along with someone/to make do,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,komme aus,kommst aus,kommt aus,kommen aus,kommt aus,kommen aus,kommen aus
 ausräumen,to empty/to clear out,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,räume aus,räumst aus,räumt aus,räumen aus,räumt aus,räumen aus,räumen aus
 sich ausruhen,to rest,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ruhe mich aus,ruhst dich aus,ruht sich aus,ruhen uns aus,ruht euch aus,ruhen sich aus,ruhen sich aus
@@ -185,6 +204,9 @@ beachten,to pay attention to something,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,F
 beantworten,to reply to something,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beantworte,beantwortest,beantwortet,beantworten,beantwortet,beantworten,beantworten
 bearbeiten,to work (on something)/to process (something),TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bearbeite,bearbeitest,bearbeitet,bearbeiten,bearbeitet,bearbeiten,bearbeiten
 beben,to tremble,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bebe,bebst,bebt,beben,bebt,beben,beben
+sich bedanken,to thank,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bedanke mich,bedankst dich,bedankt sich,bedanken uns,bedankt euch,bedanken sich,bedanken sich
+bedecken,to blanket,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bedecke,bedeckst,bedeckt,bedecken,bedeckt,bedecken,bedecken
+bedenken,to consider/to take into account,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bedenke,bedenkst,bedenkt,bedenken,bedenkt,bedenken,bedenken
 bedeuten,to mean,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bedeute,bedeutest,bedeutet,bedeuten,bedeutet,bedeuten,bedeuten
 bedienen,to serve (food),FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bediene,bedienst,bedient,bedienen,bedient,bedienen,bedienen
 sich bedienen,to help own's self,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bediene mich,bedienst dich,bedient sich,bedienen uns,bedient euch,bedienen sich,bedienen sich
@@ -195,11 +217,13 @@ sich befinden,to be located,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,F
 befreien,"to liberate (someone, something)",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,befreie,befreist,befreit,befreien,befreit,befreien,befreien
 sich befreien,to liberate oneself,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,befreie mich,befreist dich,befreit sich,befreien uns,befreit euch,befreien sich,befreien sich
 begegnen,to meet (by chance),TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,begegne,begegnest,begegnet,begegnen,begegnet,begegnen,begegnen
+begrüßen,to greet/to welcome,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,begrüße,begrüßt,begrüßt,begrüßen,begrüßt,begrüßen,begrüßen
 beginnen,to begin,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beginne,beginnst,beginnt,beginnen,beginnt,beginnen,beginnen
 begleiten,to accompany,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,begleite,begleitest,begleitet,begleiten,begleitet,begleiten,begleiten
 behalten,to retain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,behalte,behältst,behält,behalten,behaltet,behalten,behalten
-beißen,to bite,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beiße,beißt,beißt,beißen,beißt,beißen,beißen
+beibringen,to teach someone something,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bringe bei,bringst bei,bringt bei,bringen bei,bringt bei,bringen bei,bringen bei
 beimischen,to blend in,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beimische,veimischst,beimischt,beimischen,beimischt,beimischen,beimischen
+beißen,to bite,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beiße,beißt,beißt,beißen,beißt,beißen,beißen
 bejahen,to agree (to something),FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bejahe,bejahst,bejaht,bejahen,bejaht,bejahen,bejahen
 bekehren,"to convert (religious, ideologically)",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bekehre,bekehrst,bekehrt,bekehren,bekehrt,bekehren,bekehren
 sich bekehren,"to convert oneself (religious, ideologically)",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bekehre mich,bekehrst dich,bekehrt sich,bekehren uns,bekehrt euch,bekehren sich,bekehren sich
@@ -265,11 +289,11 @@ brennen,to burn,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 bringen,to bring,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bringe,bringst,bringt,bringen,bringt,bringen,bringen
 brüllen,to roar/to shout,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,brülle,brüllst,brüllt,brüllen,brüllt,brüllen,brüllen
 sich brüsten,to brag,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,brüste mich,brüstest dich,brüstet sich,brüsten uns,brüstet euch,brüsten sich,brüsten sich
-buchen,to book,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,buche,buchst,bucht,buchen,bucht,buchen,buchen
+buchen,to book/to record (accounting),FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,buche,buchst,bucht,buchen,bucht,buchen,buchen
 sich bücken,to stoop,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bücke mich,bückst dich,bückt sich,bücken uns,bückt euch,bücken sich,bücken sich
-buhlen,to make love to/to woo,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,buhle,buhlst,buhlt,buhlen,buhlt,buhlen,buhlen
+buhlen,to win favor/to woo,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,buhle,buhlst,buhlt,buhlen,buhlt,buhlen,buhlen
 bürsten,to brush,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bürste,bürstest,bürstet,bürsten,bürstet,bürsten,bürsten
-dämpfen,to muffle,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dämpfe,dämpfst,dämpft,dämpfen,dämpft,dämpfen,dämpfen
+dämpfen,to muffle/to steam (cooking),FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dämpfe,dämpfst,dämpft,dämpfen,dämpft,dämpfen,dämpfen
 danken,to thank,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,danke,dankst,dankt,danken,dankt,danken,danken
 darstellen,to depict/to portray,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,stelle dar,stellst dar,stellt dar,stellen dar,stellt dar,stellen dar,stellen dar
 dasitzen,to sit there,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sitze da,sitzt da,sitzt da,sitzen da,sitzt da,sitzen da,sitzen da
@@ -279,15 +303,16 @@ denken,to think,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALS
 dichten,to write poetry/to make up (a story),TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dichte,dichtest,dichtet,dichten,dichtet,dichten,dichten
 dienen,to serve (a cause),FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,diene,dienst,dient,dienen,dient,dienen,dienen
 draufsitzen,to sit on top of,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sitze drauf,sitzt drauf,sitzt drauf,sitzen drauf,sitzt drauf,sitzen drauf,sitzen drauf
-dringen,to urge,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dringe,dringst,dringt,dringen,dringt,dringen,dringen
+dringen,to penetrate (physically)/to get through (to someone),FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dringe,dringst,dringt,dringen,dringt,dringen,dringen
 drucken,to print,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drucke,druckst,druckt,drucken,druckt,drucken,drucken
-drücken,to push/to press,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drücke,drückst,drückt,drücken,drückt,drücken,drücken
+drücken,to push/to press/to hug,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drücke,drückst,drückt,drücken,drückt,drücken,drücken
 sich ducken,to duck/to avoid responsibility,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ducke mich,duckst dich,duckt sich,ducken uns,duckt euch,ducken sich,ducken sich
 durchatmen,to catch your breath,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,atme durch,atmest durch,atmet durch,atmen durch,atmet durch,atmen durch,atmen durch
 durchbeißen,to bite through,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beiße durch,beißt durch,beißt durch,beißen durch,beißt durch,beißen durch,beißen durch
 durchblicken,to understand,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,blicke durch,blickst durch,blickt durch,blicken durch,blickt durch,blicken durch,blicken durch
 durchbraten,to cook through,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,brate durch,brätst durch,brät durch,braten durch,bratet durch,braten durch,braten durch
 durchbrechen,"to break through (literally, figuratively)",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,breche durch,brichst durch,bricht durch,brechen durch,brecht durch,brechen durch,brechen durch
+durchdringen,to penetrate right through (physically)/to fully understand,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,durchdringe,durchdringst,durchdringt,durchdringen,durchdringt,durchdringen,durchdringen
 durchmischen,to mix thoroughly,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,mische durch,mischst durch,mischt durch,mischen durch,mischt durch,mischen durch,mischen durch
 durchmixen,to mix through completely,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,mixe durch,mixst durch,mixt durch,mixen durch,mixt durch,mixen durch,mixen durch
 durchsagen,to announce over a loudspeaker,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sage durch,sagst durch,sagt durch,sagen durch,sagt durch,sagen durch,sagen durch
@@ -310,13 +335,16 @@ durchziehen,to see something through/to stick it out,FALSE,TRUE,FALSE,FALSE,FALS
 duschen,to take a shower ,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dusche,duschst,duscht,duschen,duscht,duschen,duschen
 sich duschen,to shower oneself,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dusche mich,duschst dich,duschst sich,duschen uns,duscht euch,duschen sich,duschen sich
 dürfen,to allow/to permit/may,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,darf,darfst,darft,dürfen,dürft,dürfen,dürfen
-dürsten,to be thirsty,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dürste,dürstest,dürstet,dürsten,dürstet,dürsten,dürsten
 ehren,to honor/to esteem,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ehre,ehrst,ehrt,ehren,ehrt,ehren,ehren
 einatmen,to inhale,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,atme ein,atmest ein,atmet ein,atmen ein,atmet ein,atmen ein,atmen ein
 einbiegen,"to turn into (road, street)",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,biege ein,biegst ein,biegt ein,biegen ein,biegt ein,biegen ein,biegen ein
 einbinden,"to insert (into a binder)/to integrate (people, content)",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,binde ein,bindest ein,bindet ein,binden ein,bindet ein,binden ein,binden ein
 einbrechen,to break in,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,breche ein,brichst ein,bricht ein,brechen ein,brecht ein,brechen ein,brechen ein
 sich einbrennen,"to burn in (image, memory)",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,brenne mich ein,brennst dich ein,brennt sich ein,brennen uns ein,brennt euch ein,brennen sich ein,brennen sich ein
+eindämpfen,to boil down/to concentrate,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dämpfe ein,dämpfst ein,dämpft ein,dämpfen ein,dämpft ein,dämpfen ein,dämpfen ein
+eindecken,to set tables,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,decke ein,deckst ein,deckt ein,decken ein,deckt ein,decken ein,decken ein
+eindringen,to break into (forcibly),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dringe ein,dringst ein,dringt ein,dringen ein,dringt ein,dringen ein,dringen ein
+einfangen,to capture,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fange ein,fängst ein,fängt ein,fangen ein,fangt ein,fangen ein,fangen ein
 einladen,to invite,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,lade ein,lädst ein,lädt ein,laden ein,lädt ein,laden ein,laden ein
 sich einmischen,to interfere,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,mische mich ein,mischst dich ein,mischt sich ein,mischen uns ein,mischt euch ein,mischen sich ein,mischen sich ein
 einpacken,to pack things into something,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,packe ein,packst ein,packt ein,packen ein,packt ein,packen ein,packen ein
@@ -353,39 +381,52 @@ einziehen,to move into (residence),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALS
 empfangen,to receive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,empfange,empfängst,empfängt,empfangen,empfangt,empfangen,empfangen
 empfehlen,to recommend,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,empfehle,empfiehlst,empfiehlt,empfehlen,empfehlt,empfehlen,empfehlen
 entbehren,to do without/to miss,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entbehre,entbehrst,entbehrt,entbehren,entbehrt,entbehren,entbehren
+entfalten,to unfold,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entfalte,entfaltest,entfaltet,entfalten,entfaltet,entfalten,entfalten
+sich entfalten,to develop freely,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entfalte mich,entfaltest dich,entfaltet sich,entfalten uns,entfaltet euch,entfalten sich,entfalten sich
 entfernen,to remove (something),FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entferne,entfernst,entfernt,entfernen,entfernt,entfernen,entfernen
 sich entfernen,to become more distant,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entferne mich,entfernst dich,entfernt sich,entfernen uns,entfernt euch,entfernen sich,entfernen sich
 entführen,to kidnap,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entführe,entführst,entführt,entführen,entführt,entführen,entführen
 entgegnen,to reply (frequently with contradiction),TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entgegne,entgegnest,entgegnet,entgegnen,entgegnet,entgegnen,entgegnen
+enthalten,to contain something within,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,enthalte,enthältst,enthält,enthalten,enthaltet,enthalten,enthalten
+sich enthalten,to abstain/to refrain,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,enthalte mich,enthältst dich,enthält sich,enthalten uns,enthaltet euch,enthalten sich,enthalten sich
 entkommen,to escape,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entkomme,entkommst,entkommt,entkommen,entkommt,entkommen,entkommen
 entreißen,to wrench / tear something away from someone,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entreiße,entreißt,entreißt,entreißen,entreißt,entreißen,entreißen
-entschuldigen,to apologize,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entschuldige,entschuldigst,entschuldigt,entschuldigen,entschuldigt,entschuldigen,entschuldigen
+entschuldigen,to excuse,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entschuldige,entschuldigst,entschuldigt,entschuldigen,entschuldigt,entschuldigen,entschuldigen
+sich entschuldigen,to apologize,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entschuldige mich,entschuldigst dich,entschuldigt sich,entschuldigen uns,entschuldigt euch,entschuldigen sich,entschuldigen sich
 entstellen,to dissfigure/to deform,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entstelle,entstellst,entstellt,entstellen,entstellt,entstellen,entstellen
 entscheiden,to decide,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entscheide,entscheidest,entscheidet,entscheiden,entscheidet,entscheiden,entscheiden
 entschlüpfen,to slip out/to escape,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entschlüpfe,entschlüpfst,entschlüpft,entschlüpfen,entschlüpft,entschlüpfen,entschlüpfen
 entsprechen,to comply/to match,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,entspreche,entsprichst,entspricht,entsprechen,entsprecht,entsprechen,entsprechen
 entstehen,to arise/to develop/to come into being,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,entstehe,entstehst,entsteht,entstehen,entsteht,entstehen,entstehen
-erfinden,to invent/to discover,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erfinde,erfindest,erfindet,erfinden,erfindet,erfinden,erfinden
+erfassen,to capture (data)/to comprehend,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erfasse,erfasst,erfasst,erfassen,erfasst,erfassen,erfassen
+erfinden,to invent/to discover/to fabricate,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erfinde,erfindest,erfindet,erfinden,erfindet,erfinden,erfinden
+erhalten,to receive/to preserve,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,erhalte,erhältst,erhält,erhalten,erhaltet,erhalten,erhalten
+sich erhalten,to preserve oneself,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,erhalte mich,erhältst dich,erhält sich,erhalten uns,erhaltet euch,erhalten sich,erhalten sich
 sich erinnern,to remember,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,erinnere mich,erinnerst dich,erinnert sich,erinnern uns,erinnert euch,erinnern sich,erinnern sich
 erschließen,to develop (an area for use)/to deduce,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erschließe,erschließt,erschließt,erschließen,erschließt,erschließen,erschließen
 sich erkälten,to catch a cold,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erkälte mich,erkältest dich,erkältet sich,erkälten uns,erkältet euch,erkälten sich,erkälten sich
 erklären,to explain/to declare,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erkläre,erklärst,erklärt,erklären,erklärt,erklären,erklären
+sich erklären,to declare onself (willing),FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erkläre mich,erklärst dich,erklärt sich,erklären uns,erklärt euch,erklären sich,erklären sich
 ermorden,to murder (legal),TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ermorde,ermordest,ermordet,ermorden,ermordet,ermorden,ermorden
+errichten,to erect (a structure)/to establish (a system),TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,errichte,errichtest,errichtet,errichten,errichtet,errichten,errichten
 erschöpfen,to exhaust/to drain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erschöpfe,erschöpfst,erschöpft,erschöpfen,erschöpft,erschöpfen,erschöpfen
 sich erschöpfen,to become exhausted,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erschöpfe mich,erschöpfst dich,erschöpft sich,erschöpfen uns,erschöpft euch,erschöpfen sich,erschöpfen sich
-erschrecken,to be frightened,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,erschrecke,erschrickst,erschrickt,erschrecken,erschreckt,erschrecken,erschrecken
+erschrecken,to startle someone,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,erschrecke,erschrickst,erschrickt,erschrecken,erschreckt,erschrecken,erschrecken
+sich erschrecken,to be frightened,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,erschrecke mich,erschrickst dich,erschrickt sich,erschrecken uns,erschreckt euch,erschrecken sich,erschrecken sich
 ersticken,to suffocate/to stiffle,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ersticke,erstickst,erstickt,ersticken,erstickt,ersticken,ersticken
 ertrinken,to drown,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ertrinke,ertrinkst,ertrinkt,ertrinken,ertrinkt,ertrinken,ertrinken
 ertragen,to endure,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,ertrage,erträgst,erträgt,ertragen,ertragt,ertragen,ertragen
 erwägen,to consider/to ponder,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erwäge,erwägst,erwägt,erwägen,erwägt,erwägen,erwägen
-erwähnen,to mention,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erwähne,erwähnst,erwähnt,erwähnen,erwähnt,erwähnen,erwähnen
+erwähnen,to mention something,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erwähne,erwähnst,erwähnt,erwähnen,erwähnt,erwähnen,erwähnen
 erwerben,to acquire,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,erwerbe,erwirbst,erwirbt,erwerben,erwerbt,erwerben,erwerben
 erzählen,to tell,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erzähle,erzählst,erzählt,erzählen,erzählt,erzählen,erzählen
 essen,to eat,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,esse,isst,isst,essen,esst,essen,essen
 fahren,to drive/to ride,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fahre,fährst,fährt,fahren,fahrt,fahren,fahren
 fallen,to fall,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,falle,fällst,fällt,fallen,fallt,fallen,fallen
 falten,to fold,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,falte,faltest,faltet,falten,faltet,falten,falten
+sich falten,to form wrinkles,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,falte mich,faltest dich,faltet sich,falten uns,faltet euch,falten sich,falten sich
 fangen,to catch,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fange,fängst,fängt,fangen,fangt,fangen,fangen
+sich fangen,to pull yourself together,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fange mich,fängst dich,fängt sich,fangen uns,fangt euch,fangen sich,fangen sich
 fassen,to grasp (physically and as an idea)/to hold (capacity)/to seize,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,fasse,fasst,fasst,fassen,fasst,fassen,fassen
 fernsehen,to watch television,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,sehe fern,siehst fern,sieht fern,sehen fern,seht fern,sehen fern,sehen fern
 festbeißen,to bite and not let go,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,beiße fest,beißt fest,beißt fest,beißen fest,beißt fest,beißen fest,beißen fest
@@ -421,6 +462,7 @@ gären,to ferment,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FA
 gebären,to give birth to,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,gebäre,gebierst,gebiert,gebären,gebärt,gebären,gebären
 geben,to give,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,gebe,gibst,gibt,geben,gebt,geben,geben
 gedeihen,to thrive,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,gedeihe,gedeihst,gedeiht,gedeihen,gedeiht,gedeihen,gedeihen
+gedenken,to commemorate,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,gedenke,gedenkst,gedenkt,gedenken,gedenkt,gedenken,gedenken
 gefallen,to be pleasing,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,gefalle,gefällst,gefällt,gefallen,gefallt,gefallen,gefallen
 gehen,to go,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,gehe,gehst,geht,gehen,geht,gehen,gehen
 gelten,to be valid/to be regarded,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,gelte,giltst,gilt,gelten,geltet,gelten,gelten
@@ -458,6 +500,7 @@ herausspritzen,to squirt out,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,
 herausstecken,to stick out (physically),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,stecke heraus,steckst heraus,steckt heraus,stecken heraus,steckt heraus,stecken heraus,stecken heraus
 herausstreichen,"to remove (from a text, plan)",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,streiche heraus,streichst heraus,streicht heraus,streichen heraus,streicht heraus,streichen heraus,streichen heraus
 heraussuchen,to pick out/to look (something) up,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,suche heraus,suchst heraus,sucht heraus,suchen heraus,sucht heraus,suchen heraus,suchen heraus
+herbringen,to bring (to the speaker),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bringe her,bringst her,bringt her,bringen her,bringt her,bringen her,bringen her
 herrufen,to call (someone/animal) over to where one is,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rufe her,rufst her,ruft her,rufen her,ruft her,rufen her,rufen her
 herstellen,to manufacture (goods)/to establish (abstract things),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,stelle her,stellst her,stellt her,stellen her,stellt her,stellen her,stellen her
 herumschweben,to hover around/to float around,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,schwebe herum,schwebst herum,schwebt herum,schweben herum,schwebt herum,schweben herum,schweben herum
@@ -468,8 +511,10 @@ hetzen,to hunt (usually with dogs)/to incite,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,F
 sich hetzen,to rush/to hurry around,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,hetze mich,hetzt dich,hetzt sich,hetzen uns,hetzt euch,hetzen sich,hetzen sich
 sich hinauswagen,to venture out (somewhere),FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,wage mich hinaus,wagst dich hinaus,wagt dich hinaus,wagen uns hinaus,wagt euch hinaus,wagen sich hinaus,wagen sich hinaus
 hinauswerfen,to kick out,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,werfe hinaus,wirfst hinaus,wirft hinaus,werfen hinaus,werft hinaus,werfen hinaus,werfen hinaus
+hinbringen,to bring away (from the speaker),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bringe hin,bringst hin,bringt hin,bringen hin,bringt hin,bringen hin,bringen hin
 hineinwachsen,"to grow into (a role, clothes)",TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,wachse hinein,wachst hinein,wachst hinein,wachsen hinein,wachst hinein,wachsen hinein,wachsen hinein
 sich hineinwagen,to venture into (somewhere),FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,wage mich hinein,wagst dich hinein,wagt dich hinein,wagen uns hinein,wagt euch hinein,wagen sich hinein,wagen sich hinein
+hinfallen,to fall down to the ground,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,falle hin,fällst hin,fällt hin,fallen hin,fallt hin,fallen hin,fallen hin
 hinweisen,to point out,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,weise hin,weist hin,weist hin,weisen hin,weist hin,weisen hin,weisen hin
 hochziehen,to pull up,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ziehe hoch,ziehst hoch,zieht hoch,ziehen hoch,zieht hoch,ziehen hoch,ziehen hoch
 hoffen,to hope,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,hoffe,hoffst,hofft,hoffen,hofft,hoffen,hoffen
@@ -521,6 +566,7 @@ liegen,to lie/to rest,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALS
 loben,to praise,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,lobe,lobst,lobt,loben,lobt,loben,loben
 locken,to entice/to bait,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,locke,lockst,lockt,locken,lockt,locken,locken
 sich lohnen,to be worth it,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,lohne mich,lohnst dich,lohnt sich,lohnen uns,lohnt euch,lohnen sich,lohnen sich
+losfahren,to set off/to start driving,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fahre los,fährst los,fährt los,fahren los,fahrt los,fahren los,fahren los
 sich losreißen,to tear oneself free,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,reiße mich los,reißt dich los,reißt sich los,reißen uns los,reißt euch los,reißen sich los,reißen sich los
 losschreien,to start screaming,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,schreie los,schreist los,schreit los,schreien los,schreit los,schreien los,schreien los
 lostreten,to kick off,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,trete los,trittst los,tritt los,treten los,tretet los,treten los,treten los
@@ -550,6 +596,8 @@ mittragen,to support (a decision),TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 mixen,"to mix (drinks, ingredients, audio)",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,mixe,mixst,mixt,mixen,mixt,mixen,mixen
 mögen,to like,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,mag,magst,mag,mögen,mögt,mögen,mögen
 müssen,to have to/must,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,muss,musst,muss,müssen,müsst,müssen,müssen
+nachdenken,to think about/to reflect on,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,denke nach,denkst nach,denkt nach,denken nach,denkt nach,denken nach,denken nach
+nacherzählen,to retell in your own words,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erzähle nach,erzählst nach,erzählt nach,erzählen nach,erzählt nach,erzählen nach,erzählen nach
 nachschauen,to check/to look up,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,schaue nach,schaust nach,schaut nach,schauen nach,schaut nach,schauen nach,schauen nach
 nachspielen,to replay,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,spiele nach,spielst nach,spielt nach,spielen nach,spielt nach,spielen nach,spielen nach
 nachspüren,to investigate (ideas/causes),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,spüre nach,spürst nach,spürt nach,spüren nach,spürt nach,spüren nach,spüren nach
@@ -607,6 +655,7 @@ rösten,to roast,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
 rücken,to move (something a bit),FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rücke,rückst,rückt,rücken,rückt,rücken,rücken
 rufen,to call/to shout,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rufe,rufst,ruft,rufen,ruft,rufen,rufen
 rühren,to stir (cooking),FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rühre,rührst,rührt,rühren,rührt,rühren,rühren
+runterfallen,to fall down from somewhere,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,falle runter,fällst runter,fällt runter,fallen runter,fallt runter,fallen runter,fallen runter
 runterziehen,to pull down,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ziehe runter,ziehst runter,zieht runter,ziehen runter,zieht runter,ziehen runter,ziehen runter
 sagen,to say,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sage,sagst,sagt,sagen,sagt,sagen,sagen
 saufen,to drink (like an animal)/to drink heavily,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,saufe,säufst,säuft,saufen,sauft,saufen,saufen
@@ -742,6 +791,8 @@ tun,to do,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
 überarbeiten,to rework/to revise,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,überarbeite,überarbeitest,überarbeitet,überarbeiten,überarbeitet,überarbeiten,überarbeiten
 überraschen,to surprise,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,überrasche,überraschst,überrascht,überraschen,überrascht,überraschen,überraschen
 überblicken,to overlook (visually)/to have an overview (a situation),FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,überblicke,überblickst,überblickt,überblicken,überblickt,überblicken,überblicken
+überdecken,to mask/to cover over/to hide,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,überdecke,überdeckst,überdeckt,überdecken,überdeckt,überdecken,überdecken
+überdenken,to rethink/to review critically,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,denke,denkst,denkt,denken,denkt,denken,denken
 sich übergeben,to vomit,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,übergebe mich,übergibst dich,übergibt sich,übergeben uns,übergebt euch,übergeben sich,übergeben sich
 überwinden,to overcome/to conquer,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,überwinde,überwindest,überwindet,überwinden,überwindet,überwinden,überwinden
 sich überwinden,to bring oneself (to do something),TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,überwinde mich,überwindest dich,überwindet sich,überwinden uns,überwindet euch,überwinden sich,überwinden sich
@@ -755,6 +806,8 @@ umbauen,to remodel (a building),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,F
 umbiegen,to bend over,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,biege um,biegst um,biegt um,biegen um,biegt um,biegen um,biegen um
 sich umblicken,to look around,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,blicke mich an,blickst dich an,blickt sich an,blicken uns an,blickt euch an,blicken sich an,blicken sich an
 umbringen,to kill (more colloquially),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bringe um,bringst um,bringt um,bringen um,bringt um,bringen um,bringen um
+umdenken,to change one's way of thinking,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,denke um,denkst um,denkt um,denken um,denkt um,denken um,denken um
+umfassen,to consist of,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,umfasse,umfasst,umfasst,umfassen,umfasst,umfassen,umfassen
 umreißen,to knock over/to topple,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,reiße um,reißt um,reißt um,reißen um,reißt um,reißen um,reißen um
 umreißen,to outline,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,umreiße,umreißt,umreißt,umreißen,umreißt,umreißen,umreißen
 umschreiben,to rewrite/to paraphrase,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,umschreibe,umschreibst,umschreibt,umschreiben,umschreibt,umschreiben,umschreiben
@@ -782,13 +835,16 @@ verbergen,to hide/to conceal,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALS
 verbinden,to connect/to link/to bandage,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,binde,bindest,bindet,binden,bindet,binden,binden
 verbinden,to bandage oneself/to ally oneself,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,binde mich,bindest dich,bindet sich,binden uns,bindet euch,binden sich,binden sich
 verbrennen,to burn something up,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,verbrenne,verbrennst,verbrennt,verbrennen,verbrennt,verbrennen,verbrennen
+verdanken,to have something thanks to someone,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,verdanke,verdankst,verdankt,verdanken,verdankt,verdanken,verdanken
 verderben,to spoil/to ruin/to go bad (food),TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,verderbe,verdirbst,verdirbt,verderben,verderbt,verderben,verderben
 sich verderben,to spoil for oneself (appetite/health),TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,verderbe mich,verdirbst dich,verdirbt sich,verderben uns,verderbt euch,verderben sich,verderben sich
 verdichten,"to condense (physically, time, story)",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,verdichte,verdichtest,verdichtet,verdichten,verdichtet,verdichten,verdichten
 sich verdichten,to become denser,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,verdichte mich,verdichtest dich,verdichtet sich,verdichten uns,verdichtet euch,verdichten sich,verdichten sich
 verdienen,to earn/to deserve,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,verdiene,verdienst,verdient,verdienen,verdient,verdienen,verdienen
+verehren,to adore/to deeply revere,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,verehre,verehrst,verehrt,verehren,verehrt,verehren,verehren
 vereinigen,to unite,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,vereinige,vereinigst,vereinigt,vereinigen,vereinigt,vereinigen,vereinigen
 sich vereinigen,to merge together,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,vereinige mich,vereinigst dich,vereinigt sich,vereinigen uns,vereinigt euch,vereinigen sich,vereinigen sich
+verfassen,to compose/to write (text),TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,verfasse,verfasst,verfasst,verfassen,verfasst,verfassen,verfassen
 verführen,to seduce/to lure,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,verführe,verführst,verführt,verführen,verführt,verführen,verführen
 vergessen,to forget/to leave behind,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,vergesse,vergesst,vergesst,vergessen,vergesst,vergessen,vergessen
 sich verhalten,to behave,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,verhalte mich,verhältst dich,verhält sich,verhalten uns,verhaltet eich,verhalten sich,verhalten sich
@@ -858,6 +914,7 @@ verzeihen,to forgive,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
 vollstopfen,to cram full,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,stopfe voll,stopfst voll,stopft voll,stopfen voll,stopft voll,stopfen voll,stopfen voll
 volltanken,to refuel,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,tanke voll,tankst voll,tankt voll,tanken voll,tankt voll,tanken voll,tanken voll
 voraussagen,to predict/to foretell,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sage voraus,sagst voraus,sagt voraus,sagen voraus,sagt voraus,sagen voraus,sagen voraus
+vordringen,to make inroads/to advance,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,dringe vor,dringst vor,dringt vor,dringen vor,dringt vor,dringen vor,dringen vor
 vorhersagen,to forcast (weather/from data),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sage vorher,sagst vorher,sagt vorher,sagen vorher,sagt vorher,sagen vorher,sagen vorher
 vorkommen,to take place/to seem (to onself),FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,komme vor,kommst vor,kommt vor,kommen vor,kommt vor,kommen vor,kommen vor
 vorrücken,to move forward/to advance,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rücke vor,rückst vor,rückt vor,rücken vor,rückt vor,rücken vor,rücken vor
@@ -881,6 +938,9 @@ waschen,to wash,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
 sich waschen,to wash oneself,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,wasche mich,wäschst dich,wäscht sich,waschen uns,wascht euch,waschen sich,waschen sich
 wechseln,to change/to exchange (money),TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,wechsele,wechselst,wechselt,wechseln,wechselt,wechseln,wechseln
 wecken,to wake up (someone)/to awake (emotions),FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,wecke,weckst,weckt,wecken,weckt,wecken,wecken
+wegdrücken,to push away/to decline a phone call,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drücke weg,drückst weg,drückt weg,drücken weg,drückt weg,drücken weg,drücken weg
+sich wegducken,to duck away,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ducke mich weg,duckst dich weg,duckt sich weg,ducken uns weg,duckt euch weg,ducken sich weg,ducken sich weg
+wegfahren,to drive away (vehicle),TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fahre weg,fährst weg,fährt weg,fahren weg,fahrt weg,fahren weg,fahren weg
 wegreißen,to tear away (something)/to snatch,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,reiße weg,reißt weg,reißt weg,reißen weg,reißt weg,reißen weg,reißen weg
 wegschmeißen,to throw away,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,schmeiße weg,schmeißt weg,schmeißt weg,schmeißen weg,schmeißt weg,schmeißen weg,schmeißen weg
 wegspülen,to wash away,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,spüle weg,spülst weg,spült weg,spülen weg,spült weg,spülen weg,spülen weg
@@ -890,6 +950,7 @@ wegziehen,to move away (to somewhere else),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FA
 sich wehren,to defend oneself,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,wehre mich,wehrst dich,wehrt sich,wehren uns,wehrt euch,wehren sich,wehren sich
 weihen,to consececrate/to ordain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,weihe,weihst,weiht,weihen,weiht,weihen,weihen
 weinen,to cry,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,weine,weinst,weint,weinen,weint,weinen,weinen
+weitererzählen,to retell to others,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,erzähle weiter,erzählst weiter,erzählt weiter,erzählen weiter,erzählt weiter,erzählen weiter,erzählen weiter
 weiterüben,to continue practicing,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,übe weiter,übst weiter,übt weiter,üben weiter,übt weiter,üben weiter,üben weiter
 wenden,to turn,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,wende,wendest,wendet,wenden,wendet,wenden,wenden
 werben,to advertise/to solicit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,werbe,wirbst,wirbt,werben,werbt,werben,werben
@@ -923,9 +984,13 @@ zerstören,to destroy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALS
 ziehen,"to pull/to drag/to go (to a new place)/to draw (cards, lines, connections), to steep (tea)",FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ziehe,ziehst,zieht,ziehen,zieht,ziehen,ziehen
 zittern,to tremble,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,zittere,zitterst,zittert,zittern,zittert,zittern,zittern
 zubauen,to build up an area (often densely),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,baue zu,baust zu,baut zu,bauen zu,baut zu,bauen zu,bauen zu
+zudecken,to tuck in,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,decke zu,deckst zu,deckt zu,decken zu,deckt zu,decken zu,decken zu
+zudrücken,"to press shut (lids, eyes)",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,drücke zu,drückst zu,drückt zu,drücken zu,drückt zu,drücken zu,drücken zu
 zurufen,to call to someone,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rufe zu,rufst zu,ruft zu,rufen zu,ruft zu,rufen zu,rufen zu
 zurückbleiben,to stay behind,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bleibe zurück,bleibst zurück,bleibt zurück,bleiben zurück,bleibt zurück,bleiben zurück,bleiben zurück
 zurückblicken,"to look back (figuratively, literally)",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,blicke zurück,blickst zurück,blickt zurück,blicken zurück,blickt zurück,blicken zurück,blicken zurück
+zurückbringen,to bring back/to return,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,bringe zurück,bringst zurück,bringt zurück,bringen zurück,bringt zurück,bringen zurück,bringen zurück
+zurückfahren,to drive back,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,fahre zurück,fährst zurück,fährt zurück,fahren zurück,fahrt zurück,fahren zurück,fahren zurück
 zurückrufen,to call back (on the phone),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rufe zurück,rufst zurück,ruft zurück,rufen zurück,ruft zurück,rufen zurück,rufen zurück
 zurückrücken,to move back (dates or positions),FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rücke zurück,rückst zurück,rückt zurück,rücken zurück,rückt zurück,rücken zurück,rücken zurück
 zurückspringen,to jump back,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,springe zurück,springst zurück,springt zurück,springen zurück,springt zurück,springen zurück,springen zurück
@@ -935,6 +1000,7 @@ zurückziehen,to pull back,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
 sich zurückziehen,to withdraw/to retreat,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,ziehe mich zurück,ziehst dich zurück,zieht sich zurück,ziehen uns zurück,zieht euch zurück,ziehen sich zurück,ziehen sich zurück
 zusagen,to agree to/to promise,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,sage zu,sagst zu,sagt zu,sagen zu,sagt zu,sagen zu,sagen zu
 sich zusammenbrauen,"to brew (crisis, conflict, weather)",FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,braue mich zusammen,braust dich zusammen,braut sich zusammen,brauen uns zusammen,braut euch zusammen,brauen sich zusammen,brauen sich zusammen
+zusammenfalten,"to fold together (clothes, paper)/to scold someone",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,falte,faltest,faltet,falten,faltet,falten,falten
 zusammenmixen,to mix together,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,mixe zusammen,mixst zusammen,mixt zusammen,mixen zusammen,mixt zusammen,mixen zusammen,mixen zusammen
 zusammenrücken,to move together,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,rücke zusammen,rückst zusammen,rückt zusammen,rücken zusammen,rückt zusammen,rücken zusammen,rücken zusammen
 zusammenschmelzen,to shrink/to dwindle,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,zusammenschmelze,zusammenschmilzt,zusammenschmilzt,zusammenschmelzen,zusammenschmelzt,zusammenschmelzen,zusammenschmelzen
