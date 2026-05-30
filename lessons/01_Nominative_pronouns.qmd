@@ -1,7 +1,27 @@
 ---
 title: "Nominative Pronouns"
-author: "Will Gammerdinger"
-date: Saturday, October 25th, 2025
+description: |
+  In this lesson, we will discuss what nominative pronouns are, as well as distuingish between the second-person formal and informal.
+author:
+  - Will Gammerdinger
+date: 2025-10-25
+categories: 
+  - German
+  - Nominative Pronouns
+keywords:
+  - ich
+  - du
+  - er
+  - sie
+  - es
+  - wir
+  - ihr
+  - Sie
+license: "CC BY-SA 4.0"
+license-url: "https://creativecommons.org/licenses/by-sa/4.0/"
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 Approximate time: 30 minutes

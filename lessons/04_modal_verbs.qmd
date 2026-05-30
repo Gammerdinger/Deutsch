@@ -1,0 +1,24 @@
+---
+title: "Modal Verbs"
+description: |
+  In this lesson, we will discuss the what modal verbs are and how they are used in German.
+author:
+  - Will Gammerdinger
+date: 2026-05-30
+categories: 
+  - German
+  - Modal verbs
+keywords:
+  - können
+  - mögen
+  - müssen
+  - dürfen
+  - wollen
+  - sollen
+license: "CC BY-SA 4.0"
+license-url: "https://creativecommons.org/licenses/by-sa/4.0/"
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
