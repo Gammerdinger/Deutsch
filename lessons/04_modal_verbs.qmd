@@ -1,7 +1,7 @@
 ---
 title: "Modal Verbs"
 description: |
-  In this lesson, we will discuss the what modal verbs are and how they are used in German.
+  In this lesson, we will describe the what modal verbs are and how they are used in German.
 author:
   - Will Gammerdinger
 date: 2026-05-30
@@ -22,3 +22,263 @@ editor_options:
     wrap: 72
 ---
 
+Approximate time: 30 minutes
+
+# Learning Objectives
+
+In this lesson, the learner will:
+
+  - Describe what modal verbs are
+  - Implement modal verbs in basic sentences
+  
+# What are modal verbs?
+
+Modal verbs are helper verbs that combine with an infinitive and show the speaker’s attitude towards that action (ability, permission, obligation, desire, etc.). The six modal verbs in German are:
+
+:::columns
+:::column
+- **dürfen** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span> (to allow/to permit/may)
+- **können** <span class="pron" data-src="../audio/verben/können/können.ogg">🔊</span> (to be able to/can)
+- **mögen** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span> (to like)
+:::
+
+:::column
+- **müssen** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span> (to have to/must)
+- **sollen** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span> (is supposed to be/is allegedly)
+- **wollen** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span> (to want)
+:::
+:::
+
+Just a reminder from the previous lesson, all of these modal verbs have irregular conjugations. The tabset table below can remind you how they are conjugated.
+
+:::{.panel-tabset}
+## dürfen
+<div style="text-align: center;">
+**dürfen** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span> (to allow/to permit/may)
+</div>
+
+|||
+|:---:|:---:|
+| ich d**a**rf <span class="pron" data-src="../audio/verben/dürfen/darf.ogg">🔊</span> | wir dürf**en** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span> |
+| du d**a**rf**st** <span class="pron" data-src="../audio/verben/dürfen/darfst.ogg">🔊</span> | ihr dürf**t** <span class="pron" data-src="../audio/verben/dürfen/dürft.ogg">🔊</span> |
+| er d**a**rf <span class="pron" data-src="../audio/verben/dürfen/darf.ogg">🔊</span><br>sie d**a**rf<br>es d**a**rf | Sie dürf**en** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span><br>sie dürf**en** |
+
+## können
+<div style="text-align: center;">
+**können** <span class="pron" data-src="../audio/verben/können/können.ogg">🔊</span> (to be able to/can)
+</div>
+
+|||
+|:---:|:---:|
+| ich k**a**nn <span class="pron" data-src="../audio/verben/können/kann.ogg">🔊</span> | wir könn**en** <span class="pron" data-src="../audio/verben/können/können.ogg">🔊</span> |
+| du k**a**nn**st** <span class="pron" data-src="../audio/verben/können/kannst.ogg">🔊</span> | ihr könn**t** <span class="pron" data-src="../audio/verben/können/könnt.ogg">🔊</span> |
+| er k**a**nn <span class="pron" data-src="../audio/verben/können/kann.ogg">🔊</span><br>sie k**a**nn<br>es k**a**nn | Sie könn**en** <span class="pron" data-src="../audio/verben/können/können.ogg">🔊</span><br>sie könn**en** |
+
+## mögen
+<div style="text-align: center;">
+**mögen** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span> (to like)
+</div>
+
+|||
+|:---:|:---:|
+| ich m**a**g <span class="pron" data-src="../audio/verben/mögen/mag.ogg">🔊</span> | wir mög**en** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span> |
+| du m**a**g**st** <span class="pron" data-src="../audio/verben/mögen/magst.ogg">🔊</span> | ihr mög**t** <span class="pron" data-src="../audio/verben/mögen/mögt.ogg">🔊</span> |
+| er m**a**g <span class="pron" data-src="../audio/verben/mögen/mag.ogg">🔊</span><br>sie m**a**g<br>es m**a**g | Sie mög**en** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span><br>sie mög**en** |
+
+## müssen
+<div style="text-align: center;">
+**müssen** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span> (to have to/must)
+</div>
+
+|||
+|:---:|:---:|
+| ich m**u**ss <span class="pron" data-src="../audio/verben/müssen/muss.ogg">🔊</span> | wir müss**en** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span> |
+| du m**u**ss**t** <span class="pron" data-src="../audio/verben/müssen/musst.ogg">🔊</span> | ihr müss**t** <span class="pron" data-src="../audio/verben/müssen/müsst.ogg">🔊</span> |
+| er m**u**ss <span class="pron" data-src="../audio/verben/müssen/muss.ogg">🔊</span><br>sie m**u**ss<br>es m**u**ss | Sie müss**en** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span><br>sie müss**en** |
+
+## sollen
+<div style="text-align: center;">
+**sollen** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span> (is supposed to be/is allegedly)
+</div>
+
+|||
+|:---:|:---:|
+| ich soll <span class="pron" data-src="../audio/verben/sollen/soll.ogg">🔊</span> | wir soll**en** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span> |
+| du soll**st** <span class="pron" data-src="../audio/verben/sollen/sollst.ogg">🔊</span> | ihr soll**t** <span class="pron" data-src="../audio/verben/sollen/sollt.ogg">🔊</span> |
+| er soll <span class="pron" data-src="../audio/verben/sollen/soll.ogg">🔊</span><br>sie soll<br>es soll | Sie soll**en** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span><br>sie soll**en** |
+
+## wollen
+<div style="text-align: center;">
+**wollen** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span> (to want)
+</div>
+
+|||
+|:---:|:---:|
+| ich w**i**ll <span class="pron" data-src="../audio/verben/wollen/will.ogg">🔊</span> | wir woll**en** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span> |
+| du w**i**ll**st** <span class="pron" data-src="../audio/verben/wollen/willst.wav">🔊</span> | ihr woll**t** <span class="pron" data-src="../audio/verben/wollen/wollt.ogg">🔊</span> |
+| er w**i**ll <span class="pron" data-src="../audio/verben/wollen/will.ogg">🔊</span><br>sie w**i**ll<br>es w**i**ll | Sie woll**en** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span><br>sie woll**en** |
+
+:::
+
+# Modal verbs acting on other verbs
+
+Because modal verbs express an attitude towards an action, they oftentimes, but not always ([discussed later in this lesson](#modal-verbs-without-an-additional-verb-in-the-sentence)), will appear with an additional verb. Let's think about a couple of these sentences in English first. We will highlight the additional verb:
+
+> _I can **come**._
+
+> _He has to **work**._
+
+In these examples, we will see that the modal verb is being conjugated, while additional verb in the idea maintains its infinitive form. This same concept extends to German. These same sentences would look like:
+
+> _Ich kann **kommen**._
+
+> _Er muss **arbeiten**._
+
+In this respect, German is very much like English. The rule for all of German, not just modal verbs, is that **for a single idea only a single verb is ever conjugated**. I am phrasing it as a *single idea* rather than a *single sentence*, because this rule needs to be applicable when we use conjunctions. For simple sentences that contain a single idea, then there is just a single conjugated verb. Let's look at this in English again:
+
+> _I can **come**. He has to **work**._
+
+Each of these sentences contain a single idea, but if we were to use a conjunction to tie them like *but*, then our new sentence has *two ideas*, but they are in a single sentence:
+
+> _I can **come**, but he has to **work**._
+
+Because of this, the rule isn't that there is only one conjugated verb *per sentence*, but rather ***one conjugated verb per idea***. Once again, this functions the exact same as it does English, so hopefully the idea resonates well with you.
+
+:::{.callout-note}
+# Aren't these "ideas" just clauses?
+I am trying to avoid using too much grammar jargon and rather help you build an intuition. However, what I am calling "a single idea", more grammatically minded people, would identify as a *clause*. A clause is a little “mini-sentence” with its own subject and conjugated verb.
+
+Each clause (each “idea”) has one conjugated verb. A long sentence can have several such ideas/clauses joined by words like _and, but, because, etc._
+:::
+
+# Verb-kicking in German
+
+One way in which German handles these additional verbs differently than English isn't clear from the above examples. In order to demonstrate this, we need to introduce a new word, **heute**, which means **today**. Please note that **heute** isn't special in any way and this principle applies to all sentences, but I choose to use it because it will work well to demonstrate the principle in our example sentences. If we wanted to add this time element to our English sentences, it would look like:
+
+> _I can **come** <u>today</u>._
+
+> _He has to **work** <u>today</u>._
+
+However, let's look at these same sentences in German:
+
+> _Ich kann <u>heute</u> **kommen**._
+
+> _Er muss <u>heute</u> **arbeiten**._
+
+If we were to literally translate them, they would look like:
+
+> _I can <u>today</u> **come**._
+
+> _He has to <u>today</u> **work**._
+
+What happens in German is that the conjugated verb stays in its "normal" place, but any additional verbs in an idea, get added to the end of the idea and all stay in their infinitive forms. I like to refer to this as "verb-kicking", because the additional verb/s is/are getting "kicked" to the end of the sentence.
+
+:::{.callout-note}
+# It's natural for this to feel unnatural
+For me, this feels very unnatural and can sometimes make listening comprehension difficult in long sentences, because my mind is waiting for that verb. I find myself thinking _"You can today...What? Run? Shop? Sleep?"_. It feels like a verb that is "necessary" for context has been omitted, but then it comes at the end of the idea and I have to rearrange the idea in my mind. For this reason, a common mistake you will hear from beginners is that they will remember to "kick" the verb to the end of the idea, but when they get to the end of the idea, they actually forget to place the verb that they "kicked". In this case, the sentence will just end as 
+
+> _"You can today"_
+
+Which doesn't make sense without more context. 
+
+I will also note that my wife, a native German speaker, feels the exact opposite when speaking English. When speaking English, she says that she has to "hold" this verb in her mind until she gets to the "right place" to place it.
+:::
+
+Before moving onto the next section, let's briefly show an example of a sentence with three verbs in it:
+
+> _I can go running today._
+
+In this example *go* (gehen) and *running* (laufen) will both get "kicked" to the end of the idea, so it will look like:
+
+> _Ich kann heute laufen gehen._
+
+You might be looking at this sentence and think that the order of **laufen** and **gehen** are "switched" from what would be intuitive as English speakers. The way I like to think about it is that **the verbs "kicked" to the end of the idea are in the reverse order of what would feel natural in English**.
+
+::: {.callout-note}
+# Four verbs for a single idea in the present tense
+While it is possible (though rare) to have four verbs for a single idea in the present tense, the use-case is not very common. Just to give you an example, a sentence could look like:
+
+> _Ich will heute laufen gehen können._
+
+Which would translate to:
+
+> _I want to be able to go running today._
+
+As you can see, the guideline still holds: **the chain of verbs "kicked" to the end of the German sentence appear in the reverse order of how the same verbs would come out in English**.
+:::
+
+# Modal verbs without an additional verb in the sentence
+
+Not all sentences that use modal verbs have an additional verb in the sentence. When these sentences do not have an additional verb, they oftentimes fall into one of two categories:
+
+- The additional verb is implied from the context
+- Discussing the desire for an object (almost always using either **mögen** or **wollen**)
+
+We will discuss each of these cases below.
+
+## The additional verb is implied
+
+Sometimes we don't use an additional verb in a sentence with a modal verb, because the additional verb is implied from the context. This idea exists in English as well:
+
+> _Do you have to work?_
+>
+> _Yes, I have to._
+
+In this case, we see from the context of the sentence that _"Yes, I have to."_ is referring to having to work. Without that context, this sentence doesn't really make sense in English. Additionally, this sentence is just abbreviating the longer sentence _"Yes, I have to work."_. 
+
+:::{.callout-note}
+# This process has a special name
+The additional verbs in these sentences are _elliptically omitted_. This means that these words are absent, but the reader/listener can understand and "fill-in" given the context.
+:::
+
+This same idea exists in German as well and we can use that same example sentence to demonstrate it:
+
+> _Musst du arbeiten?_
+>
+> _Ja, ich muss._
+
+In this case, _"arbeiten"_ is implied from the context and so it doesn't need to be repeated, but, like in English, you could choose to include it. 
+
+## Discussing the desire for an object
+
+When the modal verb is discussing the desire for an object, it is technically no longer acting as a modal verb. Remember earlier that we defined modal verbs as combining with an additional verb to describe the speaker's attitude **towards an action**. Since we are no longer describing an attitude **towards an action**, but rather **towards an object**, the verbs are no longer acting as modal verbs. They are simply acting as normal verbs (sometimes referred to as lexical or full verbs). In other words, modal verbs can also be used in a non-modal context. This situation often arises when using the verbs **mögen** (to like) and **wollen** (to want).
+
+This is a distinction that people don't always make since it doesn't impact the sentence structure or conjugation in anyway, but I wanted to explain why it might appear that we are "breaking the rule". Let's see an example:
+
+> _I want a cat._
+
+Would translate to:
+
+> Ich will eine Katze. 
+
+We are using the modal verb **wollen**, but we are using it in a non-modal context, because we are expressing **our desire for an object (a cat), rather than an action**. In this example, it is simply being used as a normal verb, not a modal verb.
+
+::: {.callout-note}
+# Take-home message
+Modal verbs are verbs that combine with an infinitive and show the speaker’s attitude towards an action (ability, permission, obligation, desire, etc.). The six modal verbs in German are **dürfen**, **können**, **mögen**, **müssen**, **sollen** and **wollen**.
+
+Sometimes these verbs (usually **mögen** and **wollen**) can also be used in a non-modal context when they are expressing a desire for an object. Nothing changes in the sentence structure or conjugation. They aren't technically acting as modal verbs in those contexts, but rather as normal verbs.
+:::
+
+:::{.callout-note}
+# What about **möchten**?
+If you have studied a bit of German prior to this, you might be familiar with the verb **möchten**, which translates to _"would like to"_. It is often taught early and alongside these modal verbs, because it is commonly used in everyday speech. For example:
+
+> _I would like to drink something._
+
+Would translate to:
+
+> _Ich möchte etwas trinken._
+
+You can see that this would be a ***VERY*** important verb to know if you were planning a trip to a German-speaking country. It can add a layer of politeness to a request that would not otherwise exist in the sentence:
+
+> _I want to drink something._
+
+Translated to:
+
+> _Ich will etwas trinken._
+
+So, if we think about our rules for a modal verb as a helper verb that is showing the speaker's attitude towards an action (wanting to drink in this example), then **möchten** is certainly doing that. So why isn't **möchten** in our list of modal verbs? Because it already is. The verb **möchten** is actually a different **mood** of **mögen**. For those grammar fans out there, **möchten** is the subjunctive version of **mögen**.
+
+At this point, I am not going to discuss the subjunctive, other than to say you should learn to use **möchten** when politely asking for things or actions. It is the correct form for doing so, but technically, it is a different **mood** of **mögen**. It behaves just like the modal verbs discussed (because it is one, **mögen**).
+:::

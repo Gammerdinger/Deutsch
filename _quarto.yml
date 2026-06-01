@@ -32,6 +32,7 @@ website:
         - lessons/01_Nominative_pronouns.qmd
         - lessons/02_Present_verb_conjugation_regular.qmd
         - lessons/03_Present_verb_conjugation_exceptions.qmd
+        - lessons/04_modal_verbs.qmd
 
 
 format:

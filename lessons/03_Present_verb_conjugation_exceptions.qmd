@@ -593,6 +593,13 @@ The verb **treten** is very similar to the stem-changing verbs that end in *-t*,
 | du w**i**ll**st** <span class="pron" data-src="../audio/verben/wollen/willst.wav">🔊</span> | ihr woll**t** <span class="pron" data-src="../audio/verben/wollen/wollt.ogg">🔊</span> |
 | er w**i**ll <span class="pron" data-src="../audio/verben/wollen/will.ogg">🔊</span><br>sie w**i**ll<br>es w**i**ll | Sie woll**en** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span><br>sie woll**en** |
 
+:::  {.callout-note}
+# Modal verbs
+
+All of the modal verbs (**dürfen** <span class="pron" data-src="../audio/verben/dürfen/dürfen.ogg">🔊</span> (to allow/to permit/may), **können** <span class="pron" data-src="../audio/verben/können/können.ogg">🔊</span> (to be able to/can), **mögen** <span class="pron" data-src="../audio/verben/mögen/mögen.ogg">🔊</span> (to like), **müssen** <span class="pron" data-src="../audio/verben/müssen/müssen.ogg">🔊</span> (to have to/must), **sollen** <span class="pron" data-src="../audio/verben/sollen/sollen.ogg">🔊</span> (is supposed to be/is allegedly), **wollen** <span class="pron" data-src="../audio/verben/wollen/wollen.ogg">🔊</span> (to want)) are irregular. We will discuss them more extensively in the [next lesson](04_modal_verbs.qmd).
+
+:::
+
 :::
 
 # Impersonal Verbs
