@@ -616,9 +616,11 @@ Some impersonal verbs which define the status of a thing or an event are:
 - **stattfinden** <span class="pron" data-src="../audio/verben/stattfinden/stattfinden.ogg">🔊</span> (to happen/to take place)
 - **passieren** <span class="pron" data-src="../audio/verben/passieren/passieren.ogg">🔊</span> (to happen)
 - **eilen** <span class="pron" data-src="../audio/verben/eilen/eilen.ogg">🔊</span> (to be urgent)
+- **gelingen** <span class="pron" data-src="../audio/verben/gelingen/gelingen.ogg">🔊</span> (to turn out well)
 :::
 
 :::column
+- **misslingen** <span class="pron" data-src="../audio/verben/misslingen/misslingen.ogg">🔊</span> (to not turn out well)
 - **stimmen** <span class="pron" data-src="../audio/verben/stimmen/stimmen.ogg">🔊</span> (to be true)
 - **sich lohnen** <span class="pron" data-src-list="../audio/reflexive/sich.ogg, ../audio/verben/lohnen/lohnen.ogg">🔊</span> (to be worth it)
 :::

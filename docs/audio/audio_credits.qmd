@@ -448,6 +448,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-gebt.ogg` to `gebt.ogg`; audio content otherwise unchanged.
 
+### gelingen
+
+**Title / Description:** Pronunciation of *gelingen* (original file: `De-gelingen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-gelingen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-gelingen.ogg` to `gelingen.ogg`; audio content otherwise unchanged.
+
 ### gelten
 
 **Title / Description:** Pronunciation of *gelten* (original file: `De-gelten2.ogg`)  
@@ -860,6 +868,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-meinen2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-meinen2.ogg` to `meinen.ogg`; audio content otherwise unchanged.
+
+### misslingen
+
+**Title / Description:** Pronunciation of *misslingen* (original file: `De-misslingen.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-misslingen.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-misslingen.ogg` to `misslingen.ogg`; audio content otherwise unchanged.
 
 ### mixen
 
