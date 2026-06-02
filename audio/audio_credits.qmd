@@ -14,6 +14,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-acht2.ogg` to `acht.ogg`; audio content otherwise unchanged.
 
+### achtundachtzig
+
+**Title / Description:** Pronunciation of *achtundachtzig* (original file: `De-achtundachtzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtundachtzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-achtundachtzig.ogg` to `achtundachtzig.ogg`; audio content otherwise unchanged.
+
 ### achtunddreißig
 
 **Title / Description:** Pronunciation of *achtunddreißig* (original file: `De-achtunddreißig.ogg`)  
@@ -22,21 +30,53 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-achtunddreißig.ogg` to `achtunddreißig.ogg`; audio content otherwise unchanged.
 
+### achtundfünfzig
+
+**Title / Description:** Pronunciation of *achtundfünfzig* (original file: `De-achtundfünfzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtundfünfzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-achtundfünfzig.ogg` to `achtundfünfzig.ogg`; audio content otherwise unchanged.
+
+### achtundneunzig
+
+**Title / Description:** Pronunciation of *achtundneunzig* (original file: `De-achtundneunzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtundneunzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-achtundneunzig.ogg` to `achtundneunzig.ogg`; audio content otherwise unchanged.
+
+### achtundsechzig
+
+**Title / Description:** Pronunciation of *achtundsechzig* (original file: `De-achtundsechzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtundsechzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-achtundsechzig.ogg` to `achtundsechzig.ogg`; audio content otherwise unchanged.
+
+### achtundsiebzig
+
+**Title / Description:** Pronunciation of *achtundsiebzig* (original file: `De-achtundsiebzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtundsiebzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-achtundsiebzig.ogg` to `achtundsiebzig.ogg`; audio content otherwise unchanged.
+
 ### achtundvierzig
 
-**Title / Description:** Pronunciation of *achtundvierzig* (original file: `De-achtundvierzig2.ogg`)  
+**Title / Description:** Pronunciation of *achtundvierzig* (original file: `De-achtundvierzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtundvierzig2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtundvierzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-achtundvierzig2.ogg` to `achtundvierzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-achtundvierzig.ogg` to `achtundvierzig.ogg`; audio content otherwise unchanged.
 
 ### achtundzwanzig
 
-**Title / Description:** Pronunciation of *achtundzwanzig* (original file: `De-achtundzwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *achtundzwanzig* (original file: `De-achtundzwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtundzwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtundzwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-achtundzwanzig3.ogg` to `achtundzwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-achtundzwanzig2.ogg` to `achtundzwanzig.ogg`; audio content otherwise unchanged.
 
 ### achtzehn
 
@@ -45,6 +85,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtzehn2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-achtzehn2.ogg` to `achtzehn.ogg`; audio content otherwise unchanged.
+
+### achtzig
+
+**Title / Description:** Pronunciation of *achtzig* (original file: `De-achtzig2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-achtzig2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-achtzig2.ogg` to `achtzig.ogg`; audio content otherwise unchanged.
 
 ### ändern
 
@@ -302,11 +350,19 @@ The names listed here indicate authorship of the original audio files only. Thei
 
 ### dreißig
 
-**Title / Description:** Pronunciation of *dreißig* (original file: `De-dreißig.ogg`)  
+**Title / Description:** Pronunciation of *dreißig* (original file: `De-dreißig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreißig.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreißig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-dreißig.ogg` to `dreißig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-dreißig2.ogg` to `dreißig.ogg`; audio content otherwise unchanged.
+
+### dreiundachtzig
+
+**Title / Description:** Pronunciation of *dreiundachtzig* (original file: `De-dreiundachtzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiundachtzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dreiundachtzig.ogg` to `dreiundachtzig.ogg`; audio content otherwise unchanged.
 
 ### dreiunddreißig
 
@@ -316,21 +372,53 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-dreiunddreißig.ogg` to `dreiunddreißig.ogg`; audio content otherwise unchanged.
 
+### dreiundfünfzig
+
+**Title / Description:** Pronunciation of *dreiundfünfzig* (original file: `De-dreiundfünfzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiundfünfzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dreiundfünfzig.ogg` to `dreiundfünfzig.ogg`; audio content otherwise unchanged.
+
+### dreiundneunzig
+
+**Title / Description:** Pronunciation of *dreiundneunzig* (original file: `De-dreiundneunzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiundneunzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dreiundneunzig.ogg` to `dreiundneunzig.ogg`; audio content otherwise unchanged.
+
+### dreiundsechzig
+
+**Title / Description:** Pronunciation of *dreiundsechzig* (original file: `De-dreiundsechzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiundsechzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dreiundsechzig.ogg` to `dreiundsechzig.ogg`; audio content otherwise unchanged.
+
+### dreiundsiebzig
+
+**Title / Description:** Pronunciation of *dreiundsiebzig* (original file: `De-dreiundsiebzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiundsiebzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dreiundsiebzig.ogg` to `dreiundsiebzig.ogg`; audio content otherwise unchanged.
+
 ### dreiundvierzig
 
-**Title / Description:** Pronunciation of *dreiundvierzig* (original file: `De-dreiundvierzig2.ogg`)  
+**Title / Description:** Pronunciation of *dreiundvierzig* (original file: `De-dreiundvierzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiundvierzig2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiundvierzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-dreiundvierzig2.ogg` to `dreiundvierzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-dreiundvierzig.ogg` to `dreiundvierzig.ogg`; audio content otherwise unchanged.
 
 ### dreiundzwanzig
 
-**Title / Description:** Pronunciation of *dreiundzwanzig* (original file: `De-dreiundzwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *dreiundzwanzig* (original file: `De-dreiundzwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiundzwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiundzwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-dreiundzwanzig3.ogg` to `dreiundzwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-dreiundzwanzig2.ogg` to `dreiundzwanzig.ogg`; audio content otherwise unchanged.
 
 ### dreizehn
 
@@ -382,6 +470,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-einatmen.ogg` to `einatmen.ogg`; audio content otherwise unchanged.
 
+### einhundert
+
+**Title / Description:** Pronunciation of *einhundert* (original file: `De-einhundert.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einhundert.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-einhundert.ogg` to `einhundert.ogg`; audio content otherwise unchanged.
+
 ### eins
 
 **Title / Description:** Pronunciation of *eins* (original file: `De-eins2.ogg`)  
@@ -389,6 +485,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-eins2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-eins2.ogg` to `eins.ogg`; audio content otherwise unchanged.
+
+### einundachtzig
+
+**Title / Description:** Pronunciation of *einundachtzig* (original file: `De-einundachtzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einundachtzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-einundachtzig.ogg` to `einundachtzig.ogg`; audio content otherwise unchanged.
 
 ### einunddreißig
 
@@ -398,21 +502,53 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-einunddreißig.ogg` to `einunddreißig.ogg`; audio content otherwise unchanged.
 
+### einundfünfzig
+
+**Title / Description:** Pronunciation of *einundfünfzig* (original file: `De-einundfünfzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einundfünfzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-einundfünfzig.ogg` to `einundfünfzig.ogg`; audio content otherwise unchanged.
+
+### einundneunzig
+
+**Title / Description:** Pronunciation of *einundneunzig* (original file: `De-einundneunzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einundneunzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-einundneunzig.ogg` to `einundneunzig.ogg`; audio content otherwise unchanged.
+
+### einundsechzig
+
+**Title / Description:** Pronunciation of *einundsechzig* (original file: `De-einundsechzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einundsechzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-einundsechzig.ogg` to `einundsechzig.ogg`; audio content otherwise unchanged.
+
+### einundsiebzig
+
+**Title / Description:** Pronunciation of *einundsiebzig* (original file: `De-einundsiebzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einundsiebzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-einundsiebzig.ogg` to `einundsiebzig.ogg`; audio content otherwise unchanged.
+
 ### einundvierzig
 
-**Title / Description:** Pronunciation of *einundvierzig* (original file: `De-einundvierzig2.ogg`)  
+**Title / Description:** Pronunciation of *einundvierzig* (original file: `De-einundvierzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einundvierzig2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einundvierzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-einundvierzig2.ogg` to `einundvierzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-einundvierzig.ogg` to `einundvierzig.ogg`; audio content otherwise unchanged.
 
 ### einundzwanzig
 
-**Title / Description:** Pronunciation of *einundzwanzig* (original file: `De-einundzwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *einundzwanzig* (original file: `De-einundzwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einundzwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-einundzwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-einundzwanzig3.ogg` to `einundzwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-einundzwanzig2.ogg` to `einundzwanzig.ogg`; audio content otherwise unchanged.
 
 ### elf
 
@@ -520,6 +656,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-fünf2.ogg` to `fünf.ogg`; audio content otherwise unchanged.
 
+### fünfundachtzig
+
+**Title / Description:** Pronunciation of *fünfundachtzig* (original file: `De-fünfundachtzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfundachtzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fünfundachtzig.ogg` to `fünfundachtzig.ogg`; audio content otherwise unchanged.
+
 ### fünfunddreißig
 
 **Title / Description:** Pronunciation of *fünfunddreißig* (original file: `De-fünfunddreißig.ogg`)  
@@ -528,29 +672,62 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-fünfunddreißig.ogg` to `fünfunddreißig.ogg`; audio content otherwise unchanged.
 
+### fünfundfünfzig
+
+**Title / Description:** Pronunciation of *fünfundfünfzig* (original file: `De-fünfundfünfzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfundfünfzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fünfundfünfzig.ogg` to `fünfundfünfzig.ogg`; audio content otherwise unchanged.
+
+### fünfundneunzig
+
+**Title / Description:** Pronunciation of *fünfundneunzig* (original file: `De-fünfundneunzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfundneunzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fünfundneunzig.ogg` to `fünfundneunzig.ogg`; audio content otherwise unchanged.
+
+### fünfundsechzig
+
+**Title / Description:** Pronunciation of *fünfundsechzig* (original file: `De-fünfundsechzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfundsechzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fünfundsechzig.ogg` to `fünfundsechzig.ogg`; audio content otherwise unchanged.
+
+### fünfundsiebzig
+
+**Title / Description:** Pronunciation of *fünfundsiebzig* (original file: `De-fünfundsiebzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfundsiebzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fünfundsiebzig.ogg` to `fünfundsiebzig.ogg`; audio content otherwise unchanged.
+
 ### fünfundvierzig
 
-**Title / Description:** Pronunciation of *fünfundvierzig* (original file: `De-fünfundvierzig2.ogg`)  
+**Title / Description:** Pronunciation of *fünfundvierzig* (original file: `De-fünfundvierzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfundvierzig2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfundvierzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-fünfundvierzig2.ogg` to `fünfundvierzig.ogg`; audio content otherwise unchanged.
-
-### fünfzig
-
-**Title / Description:** Pronunciation of *fünfzig* (original file: `De-fünfzig3.ogg`)  
-**Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfzig3.ogg)  
-**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-fünfzig3.ogg` to `fünfzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-fünfundvierzig.ogg` to `fünfundvierzig.ogg`; audio content otherwise unchanged.
 
 ### fünfundzwanzig
 
-**Title / Description:** Pronunciation of *fünfundzwanzig* (original file: `De-fünfundzwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *fünfundzwanzig* (original file: `De-fünfundzwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfundzwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfundzwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-fünfundzwanzig3.ogg` to `fünfundzwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-fünfundzwanzig2.ogg` to `fünfundzwanzig.ogg`; audio content otherwise unchanged.
+
+### fünfzig
+
+**Title / Description:** Pronunciation of *fünfzig* (original file: `De-fünfzig2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfzig2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fünfzig2.ogg` to `fünfzig.ogg`; audio content otherwise unchanged.
+
 
 ### fünfzehn
 
@@ -811,6 +988,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-helfen2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-helfen2.ogg` to `helfen.ogg`; audio content otherwise unchanged.
+
+### hundert
+
+**Title / Description:** Pronunciation of *hundert* (original file: `De-hundert2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-hundert2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-hundert2.ogg` to `hundert.ogg`; audio content otherwise unchanged.
 
 ## I
 
@@ -1145,6 +1330,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-neun2.ogg` to `neun.ogg`; audio content otherwise unchanged.
 
+### neunzig
+
+**Title / Description:** Pronunciation of *neunzig* (original file: `De-neunzig2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunzig2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-neunzig2.ogg` to `neunzig.ogg`; audio content otherwise unchanged.
+
+### neunundachtzig
+
+**Title / Description:** Pronunciation of *neunundachtzig* (original file: `De-neunundachtzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunundachtzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-neunundachtzig.ogg` to `neunundachtzig.ogg`; audio content otherwise unchanged.
+
 ### neununddreißig
 
 **Title / Description:** Pronunciation of *neununddreißig* (original file: `De-neununddreißig.ogg`)  
@@ -1153,21 +1354,53 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-neununddreißig.ogg` to `neununddreißig.ogg`; audio content otherwise unchanged.
 
+### neunundfünfzig
+
+**Title / Description:** Pronunciation of *neunundfünfzig* (original file: `De-neunundfünfzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunundfünfzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-neunundfünfzig.ogg` to `neunundfünfzig.ogg`; audio content otherwise unchanged.
+
+### neunundneunzig
+
+**Title / Description:** Pronunciation of *neunundneunzig* (original file: `De-neunundneunzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunundneunzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-neunundneunzig.ogg` to `neunundneunzig.ogg`; audio content otherwise unchanged.
+
+### neunundsechzig
+
+**Title / Description:** Pronunciation of *neunundsechzig* (original file: `De-neunundsechzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunundsechzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-neunundsechzig.ogg` to `neunundsechzig.ogg`; audio content otherwise unchanged.
+
+### neunundsiebzig
+
+**Title / Description:** Pronunciation of *neunundsiebzig* (original file: `De-neunundsiebzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunundsiebzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-neunundsiebzig.ogg` to `neunundsiebzig.ogg`; audio content otherwise unchanged.
+
 ### neunundvierzig
 
-**Title / Description:** Pronunciation of *neunundvierzig* (original file: `De-neunundvierzig2.ogg`)  
+**Title / Description:** Pronunciation of *neunundvierzig* (original file: `De-neunundvierzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunundvierzig2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunundvierzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-neunundvierzig2.ogg` to `neunundvierzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-neunundvierzig.ogg` to `neunundvierzig.ogg`; audio content otherwise unchanged.
 
 ### neunundzwanzig
 
-**Title / Description:** Pronunciation of *neunundzwanzig* (original file: `De-neunundzwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *neunundzwanzig* (original file: `De-neunundzwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunundzwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neunundzwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-neunundzwanzig3.ogg` to `neunundzwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-neunundzwanzig2.ogg` to `neunundzwanzig.ogg`; audio content otherwise unchanged.
 
 ### neunzehn
 
@@ -1345,29 +1578,69 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-sechs2.ogg` to `sechs.ogg`; audio content otherwise unchanged.
 
+### sechsundachtzig
+
+**Title / Description:** Pronunciation of *sechsundachtzig* (original file: `De-sechsundachtzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsundachtzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-sechsundachtzig.ogg` to `sechsundachtzig.ogg`; audio content otherwise unchanged.
+
 ### sechsunddreißig
 
-**Title / Description:** Pronunciation of *sechsunddreißig* (original file: `De-fünfunddreißig.ogg`)  
+**Title / Description:** Pronunciation of *sechsunddreißig* (original file: `De-sechsunddreißig.ogg`)  
 **Author / Creator:** Jeuwre  
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsunddreißig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-fünfunddreißig.ogg` to `fünfunddreißig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-sechsunddreißig.ogg` to `sechsunddreißig.ogg`; audio content otherwise unchanged.
+
+### sechsundfünfzig
+
+**Title / Description:** Pronunciation of *sechsundfünfzig* (original file: `De-sechsundfünfzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsundfünfzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-sechsundfünfzig.ogg` to `sechsundfünfzig.ogg`; audio content otherwise unchanged.
+
+### sechsundneunzig
+
+**Title / Description:** Pronunciation of *sechsundneunzig* (original file: `De-sechsundneunzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsundneunzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-sechsundneunzig.ogg` to `sechsundneunzig.ogg`; audio content otherwise unchanged.
+
+### sechsundsechzig
+
+**Title / Description:** Pronunciation of *sechsundsechzig* (original file: `De-sechsundsechzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsundsechzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-sechsundsechzig.ogg` to `sechsundsechzig.ogg`; audio content otherwise unchanged.
+
+### sechsundsiebzig
+
+**Title / Description:** Pronunciation of *sechsundsiebzig* (original file: `De-sechsundsiebzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsundsiebzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-sechsundsiebzig.ogg` to `sechsundsiebzig.ogg`; audio content otherwise unchanged.
 
 ### sechsundvierzig
 
-**Title / Description:** Pronunciation of *sechsundvierzig* (original file: `De-sechsundvierzig2.ogg`)  
+**Title / Description:** Pronunciation of *sechsundvierzig* (original file: `De-sechsundvierzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsundvierzig2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsundvierzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-sechsundvierzig2.ogg` to `sechsundvierzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-sechsundvierzig.ogg` to `sechsundvierzig.ogg`; audio content otherwise unchanged.
 
 ### sechsundzwanzig
 
-**Title / Description:** Pronunciation of *sechsundzwanzig* (original file: `De-sechsundzwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *sechsundzwanzig* (original file: `De-sechsundzwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsundzwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechsundzwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-sechsundzwanzig3.ogg` to `sechsundzwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-sechsundzwanzig2.ogg` to `sechsundzwanzig.ogg`; audio content otherwise unchanged.
 
 ### sechzehn
 
@@ -1376,6 +1649,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechzehn2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-sechzehn2.ogg` to `sechzehn.ogg`; audio content otherwise unchanged.
+
+### sechzig
+
+**Title / Description:** Pronunciation of *sechzig* (original file: `De-sechzig2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechzig2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-sechzig2.ogg` to `sechzig.ogg`; audio content otherwise unchanged.
 
 ### segele
 
@@ -1457,6 +1738,15 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-sieben2.ogg` to `sieben.ogg`; audio content otherwise unchanged.
 
+### siebenundachtzig
+
+**Title / Description:** Pronunciation of *siebenundachtzig* (original file: `De-siebenundachtzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebenundachtzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-siebenundachtzig.ogg` to `siebenundachtzig.ogg`; audio content otherwise unchanged.
+
+
 ### siebenunddreißig
 
 **Title / Description:** Pronunciation of *siebenunddreißig* (original file: `De-siebenunddreißig.ogg`)  
@@ -1465,21 +1755,53 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-siebenunddreißig.ogg` to `siebenunddreißig.ogg`; audio content otherwise unchanged.
 
+### siebenundfünfzig
+
+**Title / Description:** Pronunciation of *siebenundfünfzig* (original file: `De-siebenundfünfzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebenundfünfzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-siebenundfünfzig.ogg` to `siebenundfünfzig.ogg`; audio content otherwise unchanged.
+
+### siebenundneunzig
+
+**Title / Description:** Pronunciation of *siebenundneunzig* (original file: `De-siebenundneunzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebenundneunzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-siebenundneunzig.ogg` to `siebenundneunzig.ogg`; audio content otherwise unchanged.
+
+### siebenundsechzig
+
+**Title / Description:** Pronunciation of *siebenundsechzig* (original file: `De-siebenundsechzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebenundsechzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-siebenundsechzig.ogg` to `siebenundsechzig.ogg`; audio content otherwise unchanged.
+
+### siebenundsiebzig
+
+**Title / Description:** Pronunciation of *siebenundsiebzig* (original file: `LL-Q188_(deu)-Sebastian_Wallroth-siebenundsiebzig.wav`)  
+**Author / Creator:** Sebastian Wallroth  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:LL-Q188_(deu)-Sebastian_Wallroth-siebenundsiebzig.wav)  
+**License:** [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)  
+**Modifications:** Local filename changed from `LL-Q188_(deu)-Sebastian_Wallroth-siebenundsiebzig.wav` to `siebenundsiebzig`; audio content otherwise unchanged.
+
 ### siebenundvierzig
 
-**Title / Description:** Pronunciation of *siebenundvierzig* (original file: `De-siebenundvierzig2.ogg`)  
+**Title / Description:** Pronunciation of *siebenundvierzig* (original file: `De-siebenundvierzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebenundvierzig2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebenundvierzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-siebenundvierzig2.ogg` to `siebenundvierzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-siebenundvierzig.ogg` to `siebenundvierzig.ogg`; audio content otherwise unchanged.
 
 ### siebenundzwanzig
 
-**Title / Description:** Pronunciation of *siebenundzwanzig* (original file: `De-siebenundzwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *siebenundzwanzig* (original file: `De-siebenundzwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebenundzwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebenundzwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-siebenundzwanzig3.ogg` to `siebenundzwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-siebenundzwanzig2.ogg` to `siebenundzwanzig.ogg`; audio content otherwise unchanged.
 
 ### siebzehn
 
@@ -1488,6 +1810,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebzehn2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-siebzehn2.ogg` to `siebzehn.ogg`; audio content otherwise unchanged.
+
+### siebzig
+
+**Title / Description:** Pronunciation of *siebzig* (original file: `De-siebzig2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebzig2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-siebzig2.ogg` to `siebzig.ogg`; audio content otherwise unchanged.
 
 ### siehst
 
@@ -1727,13 +2057,13 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-vier2.ogg` to `vier.ogg`; audio content otherwise unchanged.
 
-### vierzig
+### vierundachtzig
 
-**Title / Description:** Pronunciation of *vierzig* (original file: `De-vierzig3.ogg`)  
+**Title / Description:** Pronunciation of *vierundachtzig* (original file: `De-vierundachtzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierundachtzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-vierzig3.ogg` to `vierzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-vierundachtzig.ogg` to `vierundachtzig.ogg`; audio content otherwise unchanged.
 
 ### vierunddreißig
 
@@ -1743,21 +2073,53 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-vierunddreißig.ogg` to `vierunddreißig.ogg`; audio content otherwise unchanged.
 
+### vierundfünfzig
+
+**Title / Description:** Pronunciation of *vierundfünfzig* (original file: `De-vierundfünfzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierundfünfzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-vierundfünfzig.ogg` to `vierundfünfzig.ogg`; audio content otherwise unchanged.
+
+### vierundneunzig
+
+**Title / Description:** Pronunciation of *vierundneunzig* (original file: `De-vierundneunzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierundneunzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-vierundneunzig.ogg` to `vierundneunzig.ogg`; audio content otherwise unchanged.
+
+### vierundsechzig
+
+**Title / Description:** Pronunciation of *vierundsechzig* (original file: `De-vierundsechzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierundsechzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-vierundsechzig.ogg` to `vierundsechzig.ogg`; audio content otherwise unchanged.
+
+### vierundsiebzig
+
+**Title / Description:** Pronunciation of *vierundsiebzig* (original file: `De-vierundsiebzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierundsiebzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-vierundsiebzig.ogg` to `vierundsiebzig.ogg`; audio content otherwise unchanged.
+
 ### vierundvierzig
 
-**Title / Description:** Pronunciation of *vierundvierzig* (original file: `De-vierundvierzig2.ogg`)  
+**Title / Description:** Pronunciation of *vierundvierzig* (original file: `De-vierundvierzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierundvierzig2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierundvierzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-vierundvierzig2.ogg` to `vierundvierzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-vierundvierzig.ogg` to `vierundvierzig.ogg`; audio content otherwise unchanged.
 
 ### vierundzwanzig
 
-**Title / Description:** Pronunciation of *vierundzwanzig* (original file: `De-vierundzwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *vierundzwanzig* (original file: `De-vierundzwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierundzwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierundzwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-vierundzwanzig3.ogg` to `vierundzwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-vierundzwanzig2.ogg` to `vierundzwanzig.ogg`; audio content otherwise unchanged.
 
 ### vierzehn
 
@@ -1766,6 +2128,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierzehn2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-vierzehn2.ogg` to `vierzehn.ogg`; audio content otherwise unchanged.
+
+### vierzig
+
+**Title / Description:** Pronunciation of *vierzig* (original file: `De-vierzig2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierzig2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-vierzig2.ogg` to `vierzig.ogg`; audio content otherwise unchanged.
 
 ## W
 
@@ -1967,6 +2337,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-zwei2.ogg` to `zwei.ogg`; audio content otherwise unchanged.
 
+### zweiundachtzig
+
+**Title / Description:** Pronunciation of *zweiundachtzig* (original file: `De-zweiundachtzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zweiundachtzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-zweiundachtzig.ogg` to `zweiundachtzig.ogg`; audio content otherwise unchanged.
+
 ### zweiunddreißig
 
 **Title / Description:** Pronunciation of *zweiunddreißig* (original file: `De-zweiunddreißig.ogg`)  
@@ -1975,29 +2353,61 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-zweiunddreißig.ogg` to `zweiunddreißig.ogg`; audio content otherwise unchanged.
 
+### zweiundfünfzig
+
+**Title / Description:** Pronunciation of *zweiundfünfzig* (original file: `De-zweiundfünfzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zweiundfünfzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-zweiundfünfzig.ogg` to `zweiundfünfzig.ogg`; audio content otherwise unchanged.
+
+### zweiundneunzig
+
+**Title / Description:** Pronunciation of *zweiundneunzig* (original file: `De-zweiundneunzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zweiundneunzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-zweiundneunzig.ogg` to `zweiundneunzig.ogg`; audio content otherwise unchanged.
+
+### zweiundsechzig
+
+**Title / Description:** Pronunciation of *zweiundsechzig* (original file: `De-zweiundsechzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zweiundsechzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-zweiundsechzig.ogg` to `zweiundsechzig.ogg`; audio content otherwise unchanged.
+
+### zweiundsiebzig
+
+**Title / Description:** Pronunciation of *zweiundsiebzig* (original file: `De-zweiundsiebzig.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zweiundsiebzig.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-zweiundsiebzig.ogg` to `zweiundsiebzig.ogg`; audio content otherwise unchanged.
+
 ### zweiundvierzig
 
-**Title / Description:** Pronunciation of *zweiundvierzig* (original file: `De-zweiundvierzig2.ogg`)  
+**Title / Description:** Pronunciation of *zweiundvierzig* (original file: `De-zweiundvierzig.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zweiundvierzig2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zweiundvierzig.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-zweiundvierzig2.ogg` to `zweiundvierzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-zweiundvierzig.ogg` to `zweiundvierzig.ogg`; audio content otherwise unchanged.
 
 ### zweiundzwanzig
 
-**Title / Description:** Pronunciation of *zweiundzwanzig* (original file: `De-zweiundzwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *zweiundzwanzig* (original file: `De-zweiundzwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zweiundzwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zweiundzwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-zweiundzwanzig3.ogg` to `zweiundzwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-zweiundzwanzig2.ogg` to `zweiundzwanzig.ogg`; audio content otherwise unchanged.
 
 ### zwanzig
 
-**Title / Description:** Pronunciation of *zwanzig* (original file: `De-zwanzig3.ogg`)  
+**Title / Description:** Pronunciation of *zwanzig* (original file: `De-zwanzig2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zwanzig3.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zwanzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-zwanzig3.ogg` to `zwanzig.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-zwanzig2.ogg` to `zwanzig.ogg`; audio content otherwise unchanged.
 
 ### zwölf
 
