@@ -1,0 +1,57 @@
+---
+title: "Numbers"
+description: |
+  In this lesson, we will practice numbers in German.
+author:
+  - Will Gammerdinger
+date: 2026-05-30
+categories: 
+  - German
+  - Numbers
+keywords:
+  - Counting
+license: "CC BY-SA 4.0"
+license-url: "https://creativecommons.org/licenses/by-sa/4.0/"
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+Approximate time: 30 minutes
+
+# Learning Objectives
+
+In this lesson, the learner will:
+
+  - Count to 100
+  
+# Counting to twelve
+
+Similarly to English, the most difficult part of counting in German is learning the numbers one through twelve. Once you have those down and you are into the "teens", most of the numbers are trivial, so let's focus on counting to twelve first.
+
+| Number | German | Number | German | Number | German |
+|---|------|---|------|---|------|
+| 1 | eins | 5 | fünf | 9 | neun |
+| 2 | zwei | 6 | sechs | 10 | zehn |
+| 3 | drei | 7 | sieben | 11 | elf |
+| 4 | vier | 8 | acht | 12 | zwölf |
+
+Exercise 1
+
+1 -> 12
+
+App German -> number
+
+App number -> German
+
+App German pronunciation -> number
+
+Exercise 2
+
+1 -> 100
+
+App German -> number
+
+App number -> German
+
+App German pronunciation -> number
