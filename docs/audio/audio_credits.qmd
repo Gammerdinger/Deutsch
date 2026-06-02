@@ -636,7 +636,7 @@ The names listed here indicate authorship of the original audio files only. Thei
 
 **Title / Description:** Pronunciation of *fechten* (original file: `De-fechten2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page]https://en.wiktionary.org/wiki/File:De-fechten2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fechten2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-fechten2.ogg` to `fechten.ogg`; audio content otherwise unchanged.
 
@@ -1734,7 +1734,7 @@ The names listed here indicate authorship of the original audio files only. Thei
 
 **Title / Description:** Pronunciation of *sieben* (original file: `De-sieben2.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://commons.wikimedia.org/wiki/File:De-sieben2.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sieben2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-sieben2.ogg` to `sieben.ogg`; audio content otherwise unchanged.
 
@@ -1785,7 +1785,7 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Author / Creator:** Sebastian Wallroth  
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:LL-Q188_(deu)-Sebastian_Wallroth-siebenundsiebzig.wav)  
 **License:** [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)  
-**Modifications:** Local filename changed from `LL-Q188_(deu)-Sebastian_Wallroth-siebenundsiebzig.wav` to `siebenundsiebzig`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `LL-Q188_(deu)-Sebastian_Wallroth-siebenundsiebzig.wav` to `siebenundsiebzig.wav`; audio content otherwise unchanged.
 
 ### siebenundvierzig
 
