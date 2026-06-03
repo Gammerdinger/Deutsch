@@ -23,35 +23,267 @@ Approximate time: 30 minutes
 
 In this lesson, the learner will:
 
-  - Count to 100
+  - Practice counting
+  - Count ordinal numbers
   
-# Counting to twelve
+# Counting to 12
 
-Similarly to English, the most difficult part of counting in German is learning the numbers one through twelve. Once you have those down and you are into the "teens", most of the numbers are trivial, so let's focus on counting to twelve first.
 
-| Number | German | Number | German | Number | German |
-|---|------|---|------|---|------|
-| 1 | eins | 5 | fünf | 9 | neun |
-| 2 | zwei | 6 | sechs | 10 | zehn |
-| 3 | drei | 7 | sieben | 11 | elf |
-| 4 | vier | 8 | acht | 12 | zwölf |
+Similarly to English, the most difficult part of counting in German is learning the numbers zero through twelve. Once you have those down, most of the numbers that follow are trivial, so let's focus on counting to twelve first. Unfortunately, there aren't any tricks that I know of, so it just requires some memorization.
 
-Exercise 1
+| Number | German | Number | German |
+|:---:|:------:|:---:|:------:|
+| 0 | **null** <span class="pron" data-src="../audio/numbers/0_9/null.ogg">🔊</span> | 7 | **sieben** <span class="pron" data-src="../audio/numbers/0_9/sieben.ogg">🔊</span> |
+| 1 | **eins** <span class="pron" data-src="../audio/numbers/0_9/eins.ogg">🔊</span> | 8 | **acht** <span class="pron" data-src="../audio/numbers/0_9/acht.ogg">🔊</span> |
+| 2 | **zwei** <span class="pron" data-src="../audio/numbers/0_9/zwei.ogg">🔊</span> | 9 | **neun** <span class="pron" data-src="../audio/numbers/0_9/neun.ogg">🔊</span> |
+| 3 | **drei** <span class="pron" data-src="../audio/numbers/0_9/drei.ogg">🔊</span> | 10 | **zehn** <span class="pron" data-src="../audio/numbers/10_19/zehn.ogg">🔊</span> |
+| 4 | **vier** <span class="pron" data-src="../audio/numbers/0_9/vier.ogg">🔊</span> | 11 | **elf** <span class="pron" data-src="../audio/numbers/10_19/elf.ogg">🔊</span> |
+| 5 | **fünf** <span class="pron" data-src="../audio/numbers/0_9/fünf.ogg">🔊</span> | 12 | **zwölf** <span class="pron" data-src="../audio/numbers/10_19/zwölf.ogg">🔊</span> |
+| 6 | **sechs** <span class="pron" data-src="../audio/numbers/0_9/sechs.ogg">🔊</span> |   |   |
 
-1 -> 12
+:::{.callout-tip}
+# Exercise 1
 
-App German -> number
+Use the app below to practice identifying German numbers.
 
-App number -> German
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="app-numbers-0-12"
+    src="../apps/numbers/0_12/German_to_number/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
 
-App German pronunciation -> number
+Once you feel confident with these numbers, move to the next exercise.
+
+:::
+
+::: {.callout-tip}
+# Exercise 2
+
+Now we will do the reverse. Enter in the German word for the numerals displayed.
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="app-number-to-german-0-12"
+    src="../apps/numbers/0_12/Number_to_German/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
+
+Once you feel confident with these numbers, move to the next exercise.
+
+:::
+
+::: {.callout-tip}
+# Exercise 3
+
+Click on the speaker to hear the number and then enter the numeral that corresponds to the number played.
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="app-numbers-audio-0-12"
+    src="../apps/numbers/0_12/German_audio_to_number/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
+
+:::
+
+# Counting form 13 to 19
+
+Now that we have mastered one through twelve, let's briefly discuss the "teens". With our knowledge of three through nine, we can now "add zehn" to those numbers to make our teens. To do this, we are going to append **-zehn** (10) to then end of the numbers to make our "teens". For example, 13 would turn into **dreizehn**, or literally translated to "three ten". 
+
+:::{.callout-note}
+# Two small exceptions to the "add zehn" pattern
+In English, the pattern of adding "-teen" to a base number mostly holds, *four*teen, *six*teen, *seven*teen, etc., but we have two exceptions to this pattern *thir*teen and *fif*teen. They are clearly related to the base number, but they've been tweaked a bit.
+
+This same thing happens in German, but it is for the numbers 16 and 17. Instead of "*sechs*zehn" and "*sieben*zehn", German uses **sechzehn** and **siebzehn**, respectively. As you can see, like in English, the base number is clearly related to its "-teen"/"-zehn" version.
+:::
+
+Below is a table of the -teen numbers:
+
+| Number | German |
+|:------:|:------:|
+| 13 | **dreizehn** <span class="pron" data-src="../audio/numbers/10_19/dreizehn.ogg">🔊</span> |
+| 14 | **vierzehn** <span class="pron" data-src="../audio/numbers/10_19/vierzehn.ogg">🔊</span> |
+| 15 | **fünfzehn** <span class="pron" data-src="../audio/numbers/10_19/fünfzehn.ogg">🔊</span> |
+| 16 | **sechzehn** <span class="pron" data-src="../audio/numbers/10_19/sechzehn.ogg">🔊</span> |
+| 17 | **siebzehn** <span class="pron" data-src="../audio/numbers/10_19/siebzehn.ogg">🔊</span> |
+| 18 | **achtzehn** <span class="pron" data-src="../audio/numbers/10_19/achtzehn.ogg">🔊</span> |
+| 19 | **neunzehn** <span class="pron" data-src="../audio/numbers/10_19/neunzehn.ogg">🔊</span> |
+
+# Counting by tens
+
+The next step is to learn the tens. In English, we often add *-ty* to the base number to denote it's in the tens place (*four*ty, *six*ty, *seven*ty, *nine*ty). This same idea happens in German but it is with *-zig*. 
+
+English has three exceptions to this pattern (twenty, thirty and fifty are not called "twoty", "threety" and "fivety") and so does German. In German, the numbers that don't quite fit the pattern are 20, 60 and 70 and they are translate to **zwanzig**, **sechzig** and **siebzig**, respectively. Similarly to adding "-zehn" for the "-teens", **sechs** gets shortened to **sech-** and **sieben** gets shortened to **sieb-**. 
+
+| Number | German |
+|:------:|:------:|
+| 10 | **zehn** <span class="pron" data-src="../audio/numbers/10_19/zehn.ogg">🔊</span> |
+| 20 | **zwanzig** <span class="pron" data-src="../audio/numbers/20_29/zwanzig.ogg">🔊</span> |
+| 30 | **dreißig** <span class="pron" data-src="../audio/numbers/30_39/dreißig.ogg">🔊</span> |
+| 40 | **vierzig** <span class="pron" data-src="../audio/numbers/40_49/vierzig.ogg">🔊</span> |
+| 50 | **fünfzig** <span class="pron" data-src="../audio/numbers/50_59/fünfzig.ogg">🔊</span> |
+| 60 | **sechzig** <span class="pron" data-src="../audio/numbers/60_69/sechzig.ogg">🔊</span> |
+| 70 | **siebzig** <span class="pron" data-src="../audio/numbers/70_79/siebzig.ogg">🔊</span> |
+| 80 | **achtzig** <span class="pron" data-src="../audio/numbers/80_89/achtzig.ogg">🔊</span> |
+| 90 | **neunzig** <span class="pron" data-src="../audio/numbers/90_99/neunzig.ogg">🔊</span> |
+
+# Counting from 20 to 99
+
+Armed with how to count by ones and tens, we can count from 20 to 99 with no issues. In English, we say twenty-one, twenty-two, twenty-three, etc., where there is the tens place number followed by the ones place number and separated by a dash.
+
+German has a similar concept, but it feels a bit wonky (at least to me). German states the ones place number first, then the tens place number and connect them with **und**, which means "and" in German. So twenty-two translates to **zweiundzwanzi**. This would literally would translate to "two and twenty". The one exception we need to be aware of is that **eins** (one) turns to **ein-**, so "twenty-one" translates to **einundzwanzig** rather than "ein**s**undzwanzig". Outside of that, you just repeat that pattern up to 99. The table below shows these numbers:
+
+| Number | German | Number | German |
+|:---:|:------:|:---:|:------:|
+| 0 | **null** <span class="pron" data-src="../audio/numbers/0_9/null.ogg">🔊</span> | 50 | **fünfzig** <span class="pron" data-src="../audio/numbers/50_59/fünfzig.ogg">🔊</span> |
+| 1 | **eins** <span class="pron" data-src="../audio/numbers/0_9/eins.ogg">🔊</span> | 51 | **einundfünfzig** <span class="pron" data-src="../audio/numbers/50_59/einundfünfzig.ogg">🔊</span> |
+| 2 | **zwei** <span class="pron" data-src="../audio/numbers/0_9/zwei.ogg">🔊</span> | 52 | **zweiundfünfzig** <span class="pron" data-src="../audio/numbers/50_59/zweiundfünfzig.ogg">🔊</span> |
+| 3 | **drei** <span class="pron" data-src="../audio/numbers/0_9/drei.ogg">🔊</span> | 53 | **dreiundfünfzig** <span class="pron" data-src="../audio/numbers/50_59/dreiundfünfzig.ogg">🔊</span> |
+| 4 | **vier** <span class="pron" data-src="../audio/numbers/0_9/vier.ogg">🔊</span> | 54 | **vierundfünfzig** <span class="pron" data-src="../audio/numbers/50_59/vierundfünfzig.ogg">🔊</span> |
+| 5 | **fünf** <span class="pron" data-src="../audio/numbers/0_9/fünf.ogg">🔊</span> | 55 | **fünfundfünfzig** <span class="pron" data-src="../audio/numbers/50_59/fünfundfünfzig.ogg">🔊</span> |
+| 6 | **sechs** <span class="pron" data-src="../audio/numbers/0_9/sechs.ogg">🔊</span> | 56 | **sechsundfünfzig** <span class="pron" data-src="../audio/numbers/50_59/sechsundfünfzig.ogg">🔊</span> |
+| 7 | **sieben** <span class="pron" data-src="../audio/numbers/0_9/sieben.ogg">🔊</span> | 57 | **siebenundfünfzig** <span class="pron" data-src="../audio/numbers/50_59/siebenundfünfzig.ogg">🔊</span> |
+| 8 | **acht** <span class="pron" data-src="../audio/numbers/0_9/acht.ogg">🔊</span> | 58 | **achtundfünfzig** <span class="pron" data-src="../audio/numbers/50_59/achtundfünfzig.ogg">🔊</span> |
+| 9 | **neun** <span class="pron" data-src="../audio/numbers/0_9/neun.ogg">🔊</span> | 59 | **neunundfünfzig** <span class="pron" data-src="../audio/numbers/50_59/neunundfünfzig.ogg">🔊</span> |
+| 10 | **zehn** <span class="pron" data-src="../audio/numbers/10_19/zehn.ogg">🔊</span> | 60 | **sechzig** <span class="pron" data-src="../audio/numbers/60_69/sechzig.ogg">🔊</span> |
+| 11 | **elf** <span class="pron" data-src="../audio/numbers/10_19/elf.ogg">🔊</span> | 61 | **einundsechzig** <span class="pron" data-src="../audio/numbers/60_69/einundsechzig.ogg">🔊</span> |
+| 12 | **zwölf** <span class="pron" data-src="../audio/numbers/10_19/zwölf.ogg">🔊</span> | 62 | **zweiundsechzig** <span class="pron" data-src="../audio/numbers/60_69/zweiundsechzig.ogg">🔊</span> |
+| 13 | **dreizehn** <span class="pron" data-src="../audio/numbers/10_19/dreizehn.ogg">🔊</span> | 63 | **dreiundsechzig** <span class="pron" data-src="../audio/numbers/60_69/dreiundsechzig.ogg">🔊</span> |
+| 14 | **vierzehn** <span class="pron" data-src="../audio/numbers/10_19/vierzehn.ogg">🔊</span> | 64 | **vierundsechzig** <span class="pron" data-src="../audio/numbers/60_69/vierundsechzig.ogg">🔊</span> |
+| 15 | **fünfzehn** <span class="pron" data-src="../audio/numbers/10_19/fünfzehn.ogg">🔊</span> | 65 | **fünfundsechzig** <span class="pron" data-src="../audio/numbers/60_69/fünfundsechzig.ogg">🔊</span> |
+| 16 | **sechzehn** <span class="pron" data-src="../audio/numbers/10_19/sechzehn.ogg">🔊</span> | 66 | **sechsundsechzig** <span class="pron" data-src="../audio/numbers/60_69/sechsundsechzig.ogg">🔊</span> |
+| 17 | **siebzehn** <span class="pron" data-src="../audio/numbers/10_19/siebzehn.ogg">🔊</span> | 67 | **siebenundsechzig** <span class="pron" data-src="../audio/numbers/60_69/siebenundsechzig.ogg">🔊</span> |
+| 18 | **achtzehn** <span class="pron" data-src="../audio/numbers/10_19/achtzehn.ogg">🔊</span> | 68 | **achtundsechzig** <span class="pron" data-src="../audio/numbers/60_69/achtundsechzig.ogg">🔊</span> |
+| 19 | **neunzehn** <span class="pron" data-src="../audio/numbers/10_19/neunzehn.ogg">🔊</span> | 69 | **neunundsechzig** <span class="pron" data-src="../audio/numbers/60_69/neunundsechzig.ogg">🔊</span> |
+| 20 | **zwanzig** <span class="pron" data-src="../audio/numbers/20_29/zwanzig.ogg">🔊</span> | 70 | **siebzig** <span class="pron" data-src="../audio/numbers/70_79/siebzig.ogg">🔊</span> |
+| 21 | **einundzwanzig** <span class="pron" data-src="../audio/numbers/20_29/einundzwanzig.ogg">🔊</span> | 71 | **einundsiebzig** <span class="pron" data-src="../audio/numbers/70_79/einundsiebzig.ogg">🔊</span> |
+| 22 | **zweiundzwanzig** <span class="pron" data-src="../audio/numbers/20_29/zweiundzwanzig.ogg">🔊</span> | 72 | **zweiundsiebzig** <span class="pron" data-src="../audio/numbers/70_79/zweiundsiebzig.ogg">🔊</span> |
+| 23 | **dreiundzwanzig** <span class="pron" data-src="../audio/numbers/20_29/dreiundzwanzig.ogg">🔊</span> | 73 | **dreiundsiebzig** <span class="pron" data-src="../audio/numbers/70_79/dreiundsiebzig.ogg">🔊</span> |
+| 24 | **vierundzwanzig** <span class="pron" data-src="../audio/numbers/20_29/vierundzwanzig.ogg">🔊</span> | 74 | **vierundsiebzig** <span class="pron" data-src="../audio/numbers/70_79/vierundsiebzig.ogg">🔊</span> |
+| 25 | **fünfundzwanzig** <span class="pron" data-src="../audio/numbers/20_29/fünfundzwanzig.ogg">🔊</span> | 75 | **fünfundsiebzig** <span class="pron" data-src="../audio/numbers/70_79/fünfundsiebzig.ogg">🔊</span> |
+| 26 | **sechsundzwanzig** <span class="pron" data-src="../audio/numbers/20_29/sechsundzwanzig.ogg">🔊</span> | 76 | **sechsundsiebzig** <span class="pron" data-src="../audio/numbers/70_79/sechsundsiebzig.ogg">🔊</span> |
+| 27 | **siebenundzwanzig** <span class="pron" data-src="../audio/numbers/20_29/siebenundzwanzig.ogg">🔊</span> | 77 | **siebenundsiebzig** <span class="pron" data-src="../audio/numbers/70_79/siebenundsiebzig.wav">🔊</span> |
+| 28 | **achtundzwanzig** <span class="pron" data-src="../audio/numbers/20_29/achtundzwanzig.ogg">🔊</span> | 78 | **achtundsiebzig** <span class="pron" data-src="../audio/numbers/70_79/achtundsiebzig.ogg">🔊</span> |
+| 29 | **neunundzwanzig** <span class="pron" data-src="../audio/numbers/20_29/neunundzwanzig.ogg">🔊</span> | 79 | **neunundsiebzig** <span class="pron" data-src="../audio/numbers/70_79/neunundsiebzig.ogg">🔊</span> |
+| 30 | **dreißig** <span class="pron" data-src="../audio/numbers/30_39/dreißig.ogg">🔊</span> | 80 | **achtzig** <span class="pron" data-src="../audio/numbers/80_89/achtzig.ogg">🔊</span> |
+| 31 | **einunddreißig** <span class="pron" data-src="../audio/numbers/30_39/einunddreißig.ogg">🔊</span> | 81 | **einundachtzig** <span class="pron" data-src="../audio/numbers/80_89/einundachtzig.ogg">🔊</span> |
+| 32 | **zweiunddreißig** <span class="pron" data-src="../audio/numbers/30_39/zweiunddreißig.ogg">🔊</span> | 82 | **zweiundachtzig** <span class="pron" data-src="../audio/numbers/80_89/zweiundachtzig.ogg">🔊</span> |
+| 33 | **dreiunddreißig** <span class="pron" data-src="../audio/numbers/30_39/dreiunddreißig.ogg">🔊</span> | 83 | **dreiundachtzig** <span class="pron" data-src="../audio/numbers/80_89/dreiundachtzig.ogg">🔊</span> |
+| 34 | **vierunddreißig** <span class="pron" data-src="../audio/numbers/30_39/vierunddreißig.ogg">🔊</span> | 84 | **vierundachtzig** <span class="pron" data-src="../audio/numbers/80_89/vierundachtzig.ogg">🔊</span> |
+| 35 | **fünfunddreißig** <span class="pron" data-src="../audio/numbers/30_39/fünfunddreißig.ogg">🔊</span> | 85 | **fünfundachtzig** <span class="pron" data-src="../audio/numbers/80_89/fünfundachtzig.ogg">🔊</span> |
+| 36 | **sechsunddreißig** <span class="pron" data-src="../audio/numbers/30_39/sechsunddreißig.ogg">🔊</span> | 86 | **sechsundachtzig** <span class="pron" data-src="../audio/numbers/80_89/sechsundachtzig.ogg">🔊</span> |
+| 37 | **siebenunddreißig** <span class="pron" data-src="../audio/numbers/30_39/siebenunddreißig.ogg">🔊</span> | 87 | **siebenundachtzig** <span class="pron" data-src="../audio/numbers/80_89/siebenundachtzig.ogg">🔊</span> |
+| 38 | **achtunddreißig** <span class="pron" data-src="../audio/numbers/30_39/achtunddreißig.ogg">🔊</span> | 88 | **achtundachtzig** <span class="pron" data-src="../audio/numbers/80_89/achtundachtzig.ogg">🔊</span> |
+| 39 | **neununddreißig** <span class="pron" data-src="../audio/numbers/30_39/neununddreißig.ogg">🔊</span> | 89 | **neunundachtzig** <span class="pron" data-src="../audio/numbers/80_89/neunundachtzig.ogg">🔊</span> |
+| 40 | **vierzig** <span class="pron" data-src="../audio/numbers/40_49/vierzig.ogg">🔊</span> | 90 | **neunzig** <span class="pron" data-src="../audio/numbers/90_99/neunzig.ogg">🔊</span> |
+| 41 | **einundvierzig** <span class="pron" data-src="../audio/numbers/40_49/einundvierzig.ogg">🔊</span> | 91 | **einundneunzig** <span class="pron" data-src="../audio/numbers/90_99/einundneunzig.ogg">🔊</span> |
+| 42 | **zweiundvierzig** <span class="pron" data-src="../audio/numbers/40_49/zweiundvierzig.ogg">🔊</span> | 92 | **zweiundneunzig** <span class="pron" data-src="../audio/numbers/90_99/zweiundneunzig.ogg">🔊</span> |
+| 43 | **dreiundvierzig** <span class="pron" data-src="../audio/numbers/40_49/dreiundvierzig.ogg">🔊</span> | 93 | **dreiundneunzig** <span class="pron" data-src="../audio/numbers/90_99/dreiundneunzig.ogg">🔊</span> |
+| 44 | **vierundvierzig** <span class="pron" data-src="../audio/numbers/40_49/vierundvierzig.ogg">🔊</span> | 94 | **vierundneunzig** <span class="pron" data-src="../audio/numbers/90_99/vierundneunzig.ogg">🔊</span> |
+| 45 | **fünfundvierzig** <span class="pron" data-src="../audio/numbers/40_49/fünfundvierzig.ogg">🔊</span> | 95 | **fünfundneunzig** <span class="pron" data-src="../audio/numbers/90_99/fünfundneunzig.ogg">🔊</span> |
+| 46 | **sechsundvierzig** <span class="pron" data-src="../audio/numbers/40_49/sechsundvierzig.ogg">🔊</span> | 96 | **sechsundneunzig** <span class="pron" data-src="../audio/numbers/90_99/sechsundneunzig.ogg">🔊</span> |
+| 47 | **siebenundvierzig** <span class="pron" data-src="../audio/numbers/40_49/siebenundvierzig.ogg">🔊</span> | 97 | **siebenundneunzig** <span class="pron" data-src="../audio/numbers/90_99/siebenundneunzig.ogg">🔊</span> |
+| 48 | **achtundvierzig** <span class="pron" data-src="../audio/numbers/40_49/achtundvierzig.ogg">🔊</span> | 98 | **achtundneunzig** <span class="pron" data-src="../audio/numbers/90_99/achtundneunzig.ogg">🔊</span> |
+| 49 | **neunundvierzig** <span class="pron" data-src="../audio/numbers/40_49/neunundvierzig.ogg">🔊</span> | 99 | **neunundneunzig** <span class="pron" data-src="../audio/numbers/90_99/neunundneunzig.ogg">🔊</span> |
 
 Exercise 2
 
-1 -> 100
+0 -> 99
 
 App German -> number
 
 App number -> German
 
 App German pronunciation -> number
+
+# Counting from 100 and beyond
+
+## Counting by hundreds
+
+In order to learn how to count in the hundreds, let's first talk about counting by hundreds. To count by hundreds, it is just the base number followed by **-hundert** <span class="pron" data-src="../audio/numbers/hundreds/hundert.ogg">🔊</span>. 
+
+:::{.callout-note}
+# Brief discussion of 100
+One-hundred is a bit different in that it is not "ein**s**hundert", but rather either "**einhundert**" (without the "s") or simply "**hundert**".
+:::
+
+The table below outlines the hundreds:
+
+| Number | German |
+|:---:|:------:|
+| 100 | **hundert** <span class="pron" data-src="../audio/numbers/hundreds/hundert.ogg">🔊</span>, **einhundert** <span class="pron" data-src="../audio/numbers/hundreds/einhundert.ogg">🔊</span> |
+| 200 | **zweihundert** <span class="pron" data-src="../audio/numbers/hundreds/zweihundert.ogg">🔊</span> |
+| 300 | **dreihundert** <span class="pron" data-src="../audio/numbers/hundreds/dreihundert.ogg">🔊</span> |
+| 400 | **vierhundert** <span class="pron" data-src="../audio/numbers/hundreds/vierhundert.ogg">🔊</span> |
+| 500 | **fünfhundert** <span class="pron" data-src="../audio/numbers/hundreds/fünfhundert.ogg">🔊</span> |
+| 600 | **sechshundert** <span class="pron" data-src="../audio/numbers/hundreds/sechshundert.ogg">🔊</span> |
+| 700 | **siebenhundert** <span class="pron" data-src="../audio/numbers/hundreds/siebenhundert.ogg">🔊</span> |
+| 800 | **achthundert** <span class="pron" data-src="../audio/numbers/hundreds/achthundert.ogg">🔊</span> |
+| 900 | **neunhundert** <span class="pron" data-src="../audio/numbers/hundreds/neunhundert.ogg">🔊</span> |
+
+## Counting numbers in the hundreds
+
+With our knowledge of the hundreds, tens and ones, we can put them all together. First, we state our hundreds number, followed by the number as it would be formed in 1-99. So 281, would be **zweihunderteinundachtzig**. As you can imagine, this can start to make some very long words!
+
+## Counting the thousands and beyond
+
+Counting in the thousands is just like the counting we have done previously, but we just append **-tausend** <span class="pron" data-src="../audio/numbers/thousands/tausend.ogg">🔊</span> to the end of the number. Otherwise, the counting follows the same structure as counting in English. Note that similarly to hundreds, that one thousand is either **eintausend** <span class="pron" data-src="../audio/numbers/thousands/eintausend.ogg">🔊</span> (without the "s") or just **tausend** <span class="pron" data-src="../audio/numbers/thousands/tausend.ogg">🔊</span>. The first ten thousands are listed in the table below:
+
+| Number | German |
+|:---:|:------:|
+| 1.000 | **tausend** <span class="pron" data-src="../audio/numbers/thousands/tausend.ogg">🔊</span>, **eintausend**  <span class="pron" data-src="../audio/numbers/thousands/eintausend.ogg">🔊</span> |
+| 2.000 | **zweitausend** <span class="pron" data-src="../audio/numbers/thousands/zweitausend.ogg">🔊</span> |
+| 3.000 | **dreitausend** <span class="pron" data-src="../audio/numbers/thousands/dreitausend.ogg">🔊</span> |
+| 4.000 | **viertausend** <span class="pron" data-src="../audio/numbers/thousands/viertausend.ogg">🔊</span> |
+| 5.000 | **fünftausend** <span class="pron" data-src="../audio/numbers/thousands/fünftausend.ogg">🔊</span> |
+| 6.000 | **sechstausend** <span class="pron" data-src="../audio/numbers/thousands/sechstausend.ogg">🔊</span> |
+| 7.000 | **siebentausend** <span class="pron" data-src="../audio/numbers/thousands/siebentausend.ogg">🔊</span> |
+| 8.000 | **achttausend** <span class="pron" data-src="../audio/numbers/thousands/achttausend.ogg">🔊</span> |
+| 9.000 | **neuntausend** <span class="pron" data-src="../audio/numbers/thousands/neuntausend.ogg">🔊</span> |
+| 10.000 | **zehntausend** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/zehntausend.ogg">🔊</span> |
+
+### Separators
+
+In the table above, you likely noticed that I have used a "." rather than a "," as the thousands separator. That is because, in much of Europe and other places, the "." is used as the group separator (thousands, millions, billions, etc.) and the "," as their decimal separator. 
+
+When saying a number, Germans will not pronounce that "." in the same way we don't pronounce commas in numbers. For decimals, instead of saying "point" like we would say in English, they say **Komma** <span class="pron" data-src="../audio/numbers/Komma.ogg">🔊</span>.
+
+### One-hundred thousand and beyond
+
+The numbers one-hundred thousand and beyond follow the same conventions that you would expect from English. The table below outlines the numbers beyond ten-thousand. 
+
+| Number | German |
+|:------:|:-------:|
+| 100.000 | **hunderttausend** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/hunderttausend.ogg">🔊</span>, **einhunderttausend** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/einhunderttausend.ogg">🔊</span> |
+| 1.000.000 | **Million** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/Million.ogg">🔊</span> |
+| 1.000.000.000 | **Milliarde** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/Milliarde.ogg">🔊</span> |
+| 1.000.000.000.000 | **Billion** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/Billion.ogg">🔊</span> |
+
+One common mistake of note is to point out here is that a billion in English is **Milliarde** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/Milliarde.ogg">🔊</span> in German and a trillion in English is **Billion** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/Billion.ogg">🔊</span> in German. This is a very common mistake for beginners to get tripped up on.
+
+# Ordinal numbers
+
+
+
+<style>
+  /* Heights only for the apps on this page */
+
+  #app-numbers-0-12 {
+    height: 250px !important;
+    max-height: 250px !important;
+  }
+  
+  #app-number-to-german-0-12 {
+    height: 250px !important;
+    max-height: 250px !important;
+  }
+  
+  #app-numbers-audio-0-12 {
+    height: 250px !important;
+    max-height: 250px !important;
+  }
+</style>
