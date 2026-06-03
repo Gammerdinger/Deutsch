@@ -192,13 +192,44 @@ German has a similar concept, but it feels a bit wonky (at least to me). German 
 
 Exercise 2
 
-0 -> 99
+:::{.callout-tip}
+# Exercise 4
 
-App German -> number
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="app-numbers-0-99"
+    src="../apps/numbers/0_99/German_to_number/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
 
-App number -> German
+:::
 
-App German pronunciation -> number
+:::{.callout-tip}
+# Exercise 5
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="app-number-to-german-0-99"
+    src="../apps/numbers/0_99/Number_to_German/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
+
+:::
+
+:::{.callout-tip}
+# Exercise 6
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="app-numbers-audio-0-99"
+    src="../apps/numbers/0_99/German_audio_to_number/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
+
+:::
 
 # Counting from 100 and beyond
 
@@ -283,6 +314,21 @@ One common mistake of note is to point out here is that a billion in English is 
   }
   
   #app-numbers-audio-0-12 {
+    height: 250px !important;
+    max-height: 250px !important;
+  }
+  
+  #app-numbers-0-99 {
+    height: 250px !important;
+    max-height: 250px !important;
+  }
+  
+  #app-number-to-german-0-99 {
+    height: 250px !important;
+    max-height: 250px !important;
+  }
+  
+  #app-numbers-audio-0-99 {
     height: 250px !important;
     max-height: 250px !important;
   }
