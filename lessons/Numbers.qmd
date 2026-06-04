@@ -94,7 +94,7 @@ Click on the speaker to hear a number between zero and twelve and then enter the
 
 ## Counting from 13 to 19
 
-Now that we have mastered one through twelve, let's briefly discuss the "teens". With our knowledge of three through nine, we can now "add zehn" to those numbers to make our teens. To do this, we are going to append **-zehn** (10) to then end of the numbers to make our "teens". For example, 13 would turn into **dreizehn**, or literally translated to "three ten". 
+Now that we have mastered one through twelve, let's briefly discuss the "teens". With our knowledge of three through nine, we can now "add zehn" to those numbers to make our teens. To do this, we are going to append **-zehn** (10) to the end of the numbers to make our "teens". For example, 13 would turn into **dreizehn**, or literally translated to "three ten". 
 
 :::{.callout-note}
 # Two small exceptions to the "add zehn" pattern
@@ -119,7 +119,7 @@ Below is a table of the -teen numbers:
 
 The next step is to learn the tens. In English, we often add *-ty* to the base number to denote it's in the tens place (*four*ty, *six*ty, *seven*ty, *nine*ty). This same idea happens in German but it is with *-zig*. 
 
-English has three exceptions to this pattern (twenty, thirty and fifty are not called "twoty", "threety" and "fivety") and so does German. In German, the numbers that don't quite fit the pattern are 20, 60 and 70 and they are translate to **zwanzig**, **sechzig** and **siebzig**, respectively. Similarly to adding "-zehn" for the "-teens", **sechs** gets shortened to **sech-** and **sieben** gets shortened to **sieb-**. 
+English has three exceptions to this pattern (twenty, thirty and fifty are not called "twoty", "threety" and "fivety") and so does German. In German, the numbers that don't quite fit the pattern are 20, 60 and 70 and they are translated to **zwanzig**, **sechzig** and **siebzig**, respectively. Similarly to adding "-zehn" for the "-teens", **sechs** gets shortened to **sech-** and **sieben** gets shortened to **sieb-**. 
 
 | Number | German |
 |:------:|:------:|
@@ -320,7 +320,7 @@ Below we will discuss the two major patterns we see for denominators.
 
 ## Denominators between two and nineteen
 
-Fractions whose denominators fall between two and nineteen mostly follow the pattern of having *-tel* added to the end of them and they become capitalized because now they are nouns. However, there are several exceptions (**Halb**, **Drittel**, **Siebtel** and **Achtel**) that don’t follow the simple “whole number + *-tel*” pattern.. I have listed the most common denominators between two and nineteen in the table below:
+Fractions whose denominators fall between two and nineteen mostly follow the pattern of having *-tel* added to the end of them and they become capitalized because now they are nouns. However, there are several exceptions (**Halb**, **Drittel**, **Siebtel** and **Achtel**) that don’t follow the simple “whole number + *-tel*” pattern. I have listed the most common denominators between two and nineteen in the table below:
 
 | Denominator | German | Denominator | German |
 |:------:|:------------:|:------:|:------------:|
@@ -357,9 +357,48 @@ Put the numerator and denominator parts of the fraction together separated by a 
 | 1/200 | ein Zweihundertstel |
 
 :::{.callout-note}
+# Halb versus Hälfte
+For the fraction 1/2 as a number, Germans say **ein Halb**.
+
+However, for “half of something” in everyday language, Germans usually use **die Hälfte** <span class="pron" data-src="../audio/numbers/fractions/Hälfte.ogg">🔊</span> (e.g. Die Hälfte ist weg. – “Half is gone.”).
+:::
+
+:::{.callout-tip}
+# Exercise 7
+
+Use the app below to practice identifying fractions written in German.
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="app-german-to-fractions"
+    src="../apps/numbers/fractions/German_to_Fraction/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
+
+Once you feel confident with these numbers, move to the next exercise.
+
+:::
+
+:::{.callout-tip}
+# Exercise 8
+
+Now we will do the reverse. Enter in the fraction in German for the fraction displayed.
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="app-fraction-to-german"
+    src="../apps/numbers/fractions/Fraction_to_German/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
+
+:::
+
+:::{.callout-note}
 # Ordinal Numbers
 
-Ordinal number (first, second, third, etc.) behave like adjectives, so I am going to hold off talking about those until we have talked about adjectives. 
+Ordinal numbers (first, second, third, etc.) behave like adjectives, so I am going to hold off talking about those until we have talked about adjectives. 
 :::
 
 <style>
@@ -393,5 +432,15 @@ Ordinal number (first, second, third, etc.) behave like adjectives, so I am goin
   #app-numbers-audio-0-99 {
     height: 250px !important;
     max-height: 250px !important;
+  }
+  
+  #app-german-to-fractions {
+    height: 300px !important;
+    max-height: 300px !important;
+  }
+  
+  #app-fraction-to-german {
+    height: 300px !important;
+    max-height: 300px !important;
   }
 </style>

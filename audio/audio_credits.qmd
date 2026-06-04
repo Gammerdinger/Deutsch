@@ -1013,6 +1013,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-halb2.ogg` to `Halb.ogg`; audio content otherwise unchanged.
 
+### Hälfte
+
+**Title / Description:** Pronunciation of *Hälfte* (original file: `De-Hälfte2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Hälfte2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Hälfte2.ogg` to `Hälfte.ogg`; audio content otherwise unchanged.
+
 ### hält
 
 **Title / Description:** Pronunciation of *hält* (original file: `De-hält.ogg`)  
