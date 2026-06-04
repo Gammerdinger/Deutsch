@@ -371,7 +371,7 @@ Use the app below to practice identifying fractions written in German.
 <div style="width: 100%; max-width: 700px; margin: 0 auto;">
   <iframe
     id="app-german-to-fractions"
-    src="../apps/numbers/fractions/German_to_Fraction/index.html"
+    src="../apps/numbers/fractions/German_to_fraction/index.html"
     style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
   ></iframe>
 </div>
