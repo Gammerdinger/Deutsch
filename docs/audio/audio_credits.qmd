@@ -14,6 +14,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-acht2.ogg` to `acht.ogg`; audio content otherwise unchanged.
 
+### Achtel
+
+**Title / Description:** Pronunciation of *Achtel* (original file: `De-Achtel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Achtel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Achtel.ogg` to `Achtel.ogg`; audio content otherwise unchanged.
+
 ### achthundert
 
 **Title / Description:** Pronunciation of *achthundert* (original file: `De-achthundert.ogg`)  
@@ -468,6 +476,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-dreizehn2.ogg` to `dreizehn.ogg`; audio content otherwise unchanged.
 
+### Drittel
+
+**Title / Description:** Pronunciation of *Drittel* (original file: `De-Drittel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Drittel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Drittel.ogg` to `Drittel.ogg`; audio content otherwise unchanged.
+
 ### durchatmen
 
 **Title / Description:** Pronunciation of *durchatmen* (original file: `De-durchatmen.ogg`)  
@@ -614,6 +630,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-elf2.ogg` to `elf.ogg`; audio content otherwise unchanged.
 
+### Elftel
+
+**Title / Description:** Pronunciation of *Elftel* (original file: `De-Elftel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Elftel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Elftel.ogg` to `Elftel.ogg`; audio content otherwise unchanged.
+
 ### empfehlen
 
 **Title / Description:** Pronunciation of *empfehlen* (original file: `De-empfehlen.ogg`)  
@@ -728,6 +752,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-fünftausend.ogg` to `fünftausend.ogg`; audio content otherwise unchanged.
 
+### Fünftel
+
+**Title / Description:** Pronunciation of *Fünftel* (original file: `De-Fünftel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Fünftel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Fünftel.ogg` to `Fünftel.ogg`; audio content otherwise unchanged.
+
 ### fünfundachtzig
 
 **Title / Description:** Pronunciation of *fünfundachtzig* (original file: `De-fünfundachtzig.ogg`)  
@@ -799,6 +831,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-fünfzig2.ogg` to `fünfzig.ogg`; audio content otherwise unchanged.
+
+### Fünfzigstel
+
+**Title / Description:** Pronunciation of *Fünfzigstel* (original file: `De-Fünfzigstel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Fünfzigstel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Fünfzigstel.ogg` to `Fünfzigstel.ogg`; audio content otherwise unchanged.
 
 
 ### fünfzehn
@@ -965,6 +1005,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-hageln.ogg` to `hageln.ogg`; audio content otherwise unchanged.
 
+### Halb
+
+**Title / Description:** Pronunciation of *Halb* (original file: `De-halb2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-halb2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-halb2.ogg` to `Halb.ogg`; audio content otherwise unchanged.
+
 ### hält
 
 **Title / Description:** Pronunciation of *hält* (original file: `De-hält.ogg`)  
@@ -1068,6 +1116,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-hundert2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-hundert2.ogg` to `hundert.ogg`; audio content otherwise unchanged.
+
+### Hundertstel
+
+**Title / Description:** Pronunciation of *Hundertstel* (original file: `De-Hundertstel2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Hundertstel2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Hundertstel2.ogg` to `Hundertstel.ogg`; audio content otherwise unchanged.
 
 ### hunderttausend
 
@@ -1328,6 +1384,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-Million2.ogg` to `Million.ogg`; audio content otherwise unchanged.
 
+### Millionstel
+
+**Title / Description:** Pronunciation of *Millionstel* (original file: `De-Millionstel.ogg`)  
+**Author / Creator:** Kampy  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Millionstel.ogg)  
+**License:** [Creative Commons Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)  
+**Modifications:** Local filename changed from `De-Millionstel.ogg` to `Millionstel.ogg`; audio content otherwise unchanged.
+
 ### Milliarde
 
 **Title / Description:** Pronunciation of *Milliarde* (original file: `De-Million2.ogg`)  
@@ -1449,6 +1513,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-neuntausend.ogg  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-neuntausend.ogg` to `neuntausend.ogg`; audio content otherwise unchanged.
+
+### Neuntel
+
+**Title / Description:** Pronunciation of *Neuntel* (original file: `De-Neuntel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Neuntel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Neuntel.ogg` to `Neuntel.ogg`; audio content otherwise unchanged.
 
 ### neunzig
 
@@ -1714,6 +1786,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-sechstausend.ogg` to `sechstausend.ogg`; audio content otherwise unchanged.
 
+### Sechstel
+
+**Title / Description:** Pronunciation of *Sechstel* (original file: `De-Sechstel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Sechstel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Sechstel.ogg` to `Sechstel.ogg`; audio content otherwise unchanged.
+
 ### sechsundachtzig
 
 **Title / Description:** Pronunciation of *sechsundachtzig* (original file: `De-sechsundachtzig.ogg`)  
@@ -1785,6 +1865,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechzehn2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-sechzehn2.ogg` to `sechzehn.ogg`; audio content otherwise unchanged.
+
+### Sechzehntal
+
+**Title / Description:** Pronunciation of *Sechzehntal* (original file: `De-Sechzehntel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Sechzehntel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Sechzehntel.ogg` to `Sechzehntel.ogg`; audio content otherwise unchanged.
 
 ### sechzig
 
@@ -1889,6 +1977,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-siebentausend.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-siebentausend.ogg` to `siebentausend.ogg`; audio content otherwise unchanged.
+
+### Siebtel
+
+**Title / Description:** Pronunciation of *Siebtel* (original file: `De-Siebtel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Siebtel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Siebtel.ogg` to `Siebtel.ogg`; audio content otherwise unchanged.
 
 ### siebenundachtzig
 
@@ -2109,6 +2205,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-tausend2.ogg` to `tausend.ogg`; audio content otherwise unchanged.
 
+### Tausendstel
+
+**Title / Description:** Pronunciation of *Tausendstel* (original file: `De-Tausendstel2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Tausendstel2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Tausendstel2.ogg` to `Tausendstel.ogg`; audio content otherwise unchanged.
+
 ### tragen
 
 **Title / Description:** Pronunciation of *tragen* (original file: `De-tragen2.ogg`)  
@@ -2232,6 +2336,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-viertausend.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-viertausend.ogg` to `viertausend.ogg`; audio content otherwise unchanged.
+
+### Viertel
+
+**Title / Description:** Pronunciation of *Viertel* (original file: `De-Viertel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Viertel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Viertel.ogg` to `Viertel.ogg`; audio content otherwise unchanged.
 
 ### vierundachtzig
 
@@ -2505,6 +2617,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-zehntausend.ogg` to `zehntausend.ogg`; audio content otherwise unchanged.
 
+### Zehntel
+
+**Title / Description:** Pronunciation of *Zehntel* (original file: `De-Zehntel2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Zehntel2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Zehntel2.ogg` to `Zehntel.ogg`; audio content otherwise unchanged.
+
 ### zurückweichen
 
 **Title / Description:** Pronunciation of *zurückweichen* (original file: `De-zurückweichen.ogg`)  
@@ -2512,6 +2632,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zurückweichen.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-zurückweichen.ogg` to `zurückweichen.ogg`; audio content otherwise unchanged.
+
+### zwanzig
+
+**Title / Description:** Pronunciation of *zwanzig* (original file: `De-zwanzig2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zwanzig2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-zwanzig2.ogg` to `zwanzig.ogg`; audio content otherwise unchanged.
+
+### Zwanzigstel
+
+**Title / Description:** Pronunciation of *Zwanzigstel* (original file: `De-Zwanzigstel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Zwanzigstel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Zwanzigstel.ogg` to `Zwanzigstel.ogg`; audio content otherwise unchanged.
 
 ### zwei
 
@@ -2601,14 +2737,6 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-zweiundzwanzig2.ogg` to `zweiundzwanzig.ogg`; audio content otherwise unchanged.
 
-### zwanzig
-
-**Title / Description:** Pronunciation of *zwanzig* (original file: `De-zwanzig2.ogg`)  
-**Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zwanzig2.ogg)  
-**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-zwanzig2.ogg` to `zwanzig.ogg`; audio content otherwise unchanged.
-
 ### zwölf
 
 **Title / Description:** Pronunciation of *zwölf* (original file: `De-zwölf2.ogg`)  
@@ -2616,3 +2744,11 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zwölf2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-zwölf2.ogg` to `zwölf.ogg`; audio content otherwise unchanged.
+
+### Zwölftel
+
+**Title / Description:** Pronunciation of *Zwölftel* (original file: `De-Zwölftel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Zwölftel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Zwölftel.ogg` to `Zwölftel.ogg`; audio content otherwise unchanged.
