@@ -30,9 +30,9 @@ In this lesson, the learner will:
 
 ## Polygons
 
-  Polygons in German are a little easier than in English, but it generally follows a similar pattern. As you increase the number of sides in English after a quadrilateral, you simply have a numerical prefix (penta-, hexa-, etc.) followed by *-gon*. The etymology of *-gon* in reference to shapes traces back to the Greek suffix -gōnia (-γωνο), which means angles. So something like *pentagon* can be broken down into "five angles"/"five corners".
+  Polygons in German are a little easier than in English, but it generally follows a similar pattern to English. As you increase the number of sides in English after a quadrilateral, you simply have a numerical prefix (penta-, hexa-, etc.) followed by *-gon*. The etymology of *-gon* in reference to shapes traces back to the Greek suffix -gōnia (-γωνο), which means angles. So something like *pentagon* can be broken down into "five angles"/"five corners".
 
-  In German, like in English, they count the corners, but instead of waiting until pentagon to adopt the *numerical prefix + -corner* convention, they start it at triangle. The German word for corner is generally *die Ecke*, but *das Eck* is another, less common way, to say corner. You may hear *das Eck* in Southern Germany, Austria and parts of Switzerland. It is also used to count the corners of polygons in German though. The table below to see the pattern for counting the size of a polygon in German:
+  In German, like in English, they count the corners, but instead of waiting until pentagon to adopt the *numerical prefix + -corner* convention, they start it at triangle. The German word for corner is generally *die Ecke*, but *das Eck* is another, less common way, to say corner. You may hear *das Eck* in Southern Germany, Austria and parts of Switzerland. It is also used to count the corners of polygons in German though. See the table below for the pattern of how polygons are named in German:
 
 | English | German | English | German |
 |:------:|:------:|:------:|:------:|
@@ -40,7 +40,7 @@ In this lesson, the learner will:
 | pentagon | das Fünfeck | hexagon | das Sechseck |
 | octagon | das Achteck | decagon | das Zehneck |
 
-  We can see that it is simply the number of corners in the polygon, followed by **-eck** suffix. In fact, polygon translates directly to **das Vieleck** (**viel** is the German work for many), so the connections between German and English for polygons is pretty strong.
+  We can see that it is simply the number of corners in the polygon, followed by **-eck** suffix. In fact, polygon translates directly to **das Vieleck** (**viel** is the German work for "many"), so the connections between German and English for polygons is pretty strong.
 
 ## Special quadrilaterals
 
@@ -85,7 +85,7 @@ Use the app below to practice identifying German 2-dimensional shapes.
 
 ## Prisms
 
-  Let's start discussing three-dimensional shapes with the prisms, because they follow a pattern, but it isn't likely the what you would guess given a background in English. In English, we take the name for the face of the prism and often add "-al prism" (pentagonal prism, hexagonal prism, etc.). Notable triangular and rectangular prisms don't fit that pattern in English. The good news is that all prisms in German follow the same pattern, but for reason German counts the sides on the face shape rather than the corners for prisms. Of course the number of sides and corners are equal in polygons, so it doesn't matter if you count sides or corners, but it is a mnemonic that helps be think about shapes in German.
+  Let's start discussing three-dimensional shapes with the prisms, because they follow a pattern, but it isn't likely what you would guess given a background in English. In English, we take the name for the face of the prism and often add "-al prism" (pentagonal prism, hexagonal prism, etc.). Notable triangular and rectangular prisms don't fit that pattern in English. The good news is that all prisms in German follow the same pattern, but for some reason German counts the sides on the face shape rather than the corners for prisms. Of course the number of sides and corners are equal in polygons, so it doesn't matter if you count sides or corners, but it is a mnemonic that helps me think about shapes in German.
 
   The German word for "side" in relation to shapes is **die Seite** (notably also means page) and "-sided" is **-seitig** and "prism" is **das Prisma**. So let's see how German constructs prism shapes in the table below:
 
@@ -113,7 +113,7 @@ Use the app below to practice identifying German 2-dimensional shapes.
 | sphere | die Kugel |
 | hemisphere | die Halbkugel\*\*\* |
 
-\* A rectangular prism (**der Quader**) is a special type of quadrilateral prism (**das vierseitiges Prisma**), because a prism of a trapezoid would be also be a type of quadrilateral prism, but not a rectangular prism. When describing a rectangular prism most Germans would use **der Quader** over **das vierseitiges Prisma** in the same way that English speakers would like use rectangular prism over quadrilateral prism. It sounds a bit geometry textbook-ish to say **das vierseitiges Prisma** just like quadrilateral prism sounds in English.
+\* A rectangular prism (**der Quader**) is a special type of quadrilateral prism (**das vierseitige Prisma**), because a prism of a trapezoid would be also be a type of quadrilateral prism, but not a rectangular prism. When describing a rectangular prism most Germans would use **der Quader** over **das vierseitiges Prisma** in the same way that English speakers would like use rectangular prism over quadrilateral prism. It sounds a bit geometry textbook-ish to say **das vierseitiges Prisma** just like quadrilateral prism sounds in English.
 
 \*\* A triangular pyramid is also called a *tetrahedron* in English. In German geometry textbooks, you may see them refer to this shape in a similar way, **der Tetraeder**. However, in German, both are common enough.
 
