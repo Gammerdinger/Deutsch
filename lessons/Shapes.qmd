@@ -30,24 +30,24 @@ In this lesson, the learner will:
 
 ## Polygons
 
-Polygons in German are a little easier than in English, but it generally follows a similar pattern. As you increase the number of sides in English after a quadrilateral, you simply have a numerical prefix (penta-, hexa-, etc.) followed by *-gon*. The etymology of *-gon* in reference to shapes traces back to the Greek suffix -gōnia (-γωνο), which means angles. So something like *pentagon* can be broken down into "five angles"/"five corners".
+  Polygons in German are a little easier than in English, but it generally follows a similar pattern. As you increase the number of sides in English after a quadrilateral, you simply have a numerical prefix (penta-, hexa-, etc.) followed by *-gon*. The etymology of *-gon* in reference to shapes traces back to the Greek suffix -gōnia (-γωνο), which means angles. So something like *pentagon* can be broken down into "five angles"/"five corners".
 
-In German, like in English, they count the corners, but instead of waiting until pentagon to adopt the *numerical prefix + -corner* convention, they start it at triangle. The German word for corner is generally *die Ecke*, but *das Eck* is another, less common way, to say corner. You may hear *das Eck* in Southern Germany, Austria and parts of Switzerland. It is also used to count the corners of polygons in German though. The table below to see the pattern for counting the size of a polygon in German:
+  In German, like in English, they count the corners, but instead of waiting until pentagon to adopt the *numerical prefix + -corner* convention, they start it at triangle. The German word for corner is generally *die Ecke*, but *das Eck* is another, less common way, to say corner. You may hear *das Eck* in Southern Germany, Austria and parts of Switzerland. It is also used to count the corners of polygons in German though. The table below to see the pattern for counting the size of a polygon in German:
 
 | English | German | English | German |
-|------|------|------|------|
+|:------:|:------:|:------:|:------:|
 | triangle | das Dreieck | quadrilateral | das Viereck |
 | pentagon | das Fünfeck | hexagon | das Sechseck |
 | octagon | das Achteck | decagon | das Zehneck |
 
-We can see that it is simply the number of corners in the polygon, followed by **-eck** suffix. In fact, polygon translates directly to **das Vieleck** (**viel** is the German work for many), so the connections between German and English for polygons is pretty strong.
+  We can see that it is simply the number of corners in the polygon, followed by **-eck** suffix. In fact, polygon translates directly to **das Vieleck** (**viel** is the German work for many), so the connections between German and English for polygons is pretty strong.
 
 ## Special quadrilaterals
 
-While this pattern works for generally describing polygons, there are also some special quadrilaterals in German as well. In the same way that squares, rectangles and parallelograms are all special quadrilaterals in English, there are special names for different quadrilaterals, which can be found in the table below:
+  While this pattern works for generally describing polygons, there are also some special quadrilaterals in German as well. In the same way that squares, rectangles and parallelograms are all special quadrilaterals in English, there are special names for different quadrilaterals, which can be found in the table below:
 
 | English | German |
-|------|------|
+|:------:|:------:|
 | square | das Quadrat |
 | rectangle | das Rechteck |
 | parallelogram | das Parallelogramm |
@@ -59,36 +59,51 @@ While this pattern works for generally describing polygons, there are also some 
 The table below outlines the curved shapes:
 
 | English | German |
-|------|------|
+|:------:|:------:|
 | circle | der Kreis |
 | semicircle | der Halbkreis\* |
 | oval | das Oval |
 
 \* You can see that having our knowledge of fractions can help here since **Halbkreis** literally translates to "half circle".
 
+:::{.callout-tip}
+# Exercise 1
+
+Use the app below to practice identifying German 2-dimensional shapes.
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="shapes-2d"
+    src="../apps/shapes/2d/shapes_to_names/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
+
+:::
+
 # Counting sides for 3-dimensional shapes
 
 ## Prisms
 
-Let's start discussing three-dimensional shapes with the prisms, because they follow a pattern, but it isn't likely the what you would guess given a background in English. In English, we take the name for the face of the prism and often add "-al prism" (pentagonal prism, hexagonal prism, etc.). Notable triangular and rectangular prisms don't fit that pattern in English. The good news is that all prisms in German follow the same pattern, but for reason German counts the sides on the face shape rather than the corners for prisms. Of course the number of sides and corners are equal in polygons, so it doesn't matter if you count sides or corners, but it is a mnemonic that helps be think about shapes in German.
+  Let's start discussing three-dimensional shapes with the prisms, because they follow a pattern, but it isn't likely the what you would guess given a background in English. In English, we take the name for the face of the prism and often add "-al prism" (pentagonal prism, hexagonal prism, etc.). Notable triangular and rectangular prisms don't fit that pattern in English. The good news is that all prisms in German follow the same pattern, but for reason German counts the sides on the face shape rather than the corners for prisms. Of course the number of sides and corners are equal in polygons, so it doesn't matter if you count sides or corners, but it is a mnemonic that helps be think about shapes in German.
 
-The German word for "side" in relation to shapes is **die Seite** (notably also means page) and "-sided" is **-seitig** and "prism" is **das Prisma**. So let's see how German constructs prism shapes in the table below:
+  The German word for "side" in relation to shapes is **die Seite** (notably also means page) and "-sided" is **-seitig** and "prism" is **das Prisma**. So let's see how German constructs prism shapes in the table below:
 
 | English | German |
-|------|------|
+|:------:|:------:|
 | triangular prism | das dreiseitige Prisma |
 | quadrilateral prism | das vierseitige Prisma |
 | pentagonal prism | das fünfseitige Prisma |
 | hexagonal prism | das sechseitige Prisma |
 
-You will notice that **-e** is appended to the end of **number + seitig**. This has to do with "three-sided", "four-sided", etc. are adjectives and this is the behavior for adjectives in this context. We are going to talk more about adjectives at a later point, so for now you can just remember to add **-e**.
+  You will notice that **-e** is appended to the end of **number + seitig**. This has to do with "three-sided", "four-sided", etc. are adjectives and this is the behavior for adjectives in this context. We are going to talk more about adjectives at a later point, so for now you can just remember to add **-e**.
 
 ## Special shapes
 
-Unfortunately like cube, cone and sphere in English, German has some unique names for some three-dimensional shapes that just need to be memorized. There is no pattern that you can rely on.
+  Unfortunately like cube, cone and sphere in English, German has some unique names for some three-dimensional shapes that just need to be memorized. There is no pattern that you can rely on.
 
 | English | German |
-|------|------|
+|:------:|:------:|
 | cube | der Würfel |
 | rectangular prism | der Quader\* |
 | triangular pyramid | die dreiseitige Pyramide, der Tetraeder\*\* |
@@ -104,3 +119,31 @@ Unfortunately like cube, cone and sphere in English, German has some unique name
 
 \*\*\* Once again, like **Halbkreis**, it is useful to know fractions since **Halbkugel** literally translates to "half sphere".
 
+:::{.callout-tip}
+# Exercise 2
+
+Use the app below to practice identifying German 3-dimensional shapes.
+
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+  <iframe
+    id="shapes-3d"
+    src="../apps/shapes/3d/shapes_to_names/index.html"
+    style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"
+  ></iframe>
+</div>
+
+:::
+
+<style>
+  /* Heights only for the apps on this page */
+
+  #shapes-2d {
+    height: 625px !important;
+    max-height: 625px !important;
+  }
+
+  #shapes-3d {
+    height: 625px !important;
+    max-height: 625px !important;
+  }
+</style>
