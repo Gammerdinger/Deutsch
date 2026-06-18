@@ -109,7 +109,7 @@ The German word for "side" in relation to shapes is **die Seite** <span class="p
 | cube | **der Würfel** <span class="pron" data-src="../audio/shapes/3d/Würfel.ogg">🔊</span> |
 | rectangular prism | **der Quader**\* <span class="pron" data-src="../audio/shapes/3d/Quader.ogg">🔊</span> |
 | triangular pyramid | **die dreieckige** <span class="pron" data-src="../audio/shapes/3d/dreieckige.ogg">🔊</span> **Pyramide** <span class="pron" data-src="../audio/shapes/3d/Pyramide.ogg">🔊</span>, **der Tetraeder**\*\* <span class="pron" data-src="../audio/shapes/3d/Tetraeder.ogg">🔊</span> |
-| square pyramid | **die vierseitige** <span class="pron" data-src="../audio/shapes/3d/viereckige.ogg">🔊</span> **Pyramide** <span class="pron" data-src="../audio/shapes/3d/Pyramide.ogg">🔊</span> |
+| square pyramid | **die viereckige** <span class="pron" data-src="../audio/shapes/3d/viereckige.ogg">🔊</span> **Pyramide** <span class="pron" data-src="../audio/shapes/3d/Pyramide.ogg">🔊</span> |
 | cylinder | **der Zylinder** <span class="pron" data-src="../audio/shapes/3d/Zylinder.ogg">🔊</span> |
 | cone | **der Kegel** <span class="pron" data-src="../audio/shapes/3d/Kegel.ogg">🔊</span> |
 | sphere | **die Kugel** <span class="pron" data-src="../audio/shapes/3d/Kugel.ogg">🔊</span> |
