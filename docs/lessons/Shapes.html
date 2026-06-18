@@ -173,6 +173,48 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("tts-helper: DOMContentLoaded");
+
+  function speakGerman(text) {
+    if (!("speechSynthesis" in window)) {
+      console.warn("tts-helper: speechSynthesis not supported in this browser");
+      return;
+    }
+
+    // Stop any ongoing speech
+    window.speechSynthesis.cancel();
+
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.lang = "de-DE";  // German voice
+    utter.rate = 1.0;
+    utter.pitch = 1.0;
+
+    window.speechSynthesis.speak(utter);
+  }
+
+  // Elements that trigger TTS: <span class="tts-de" data-text="eins">🔊</span>
+  document.querySelectorAll(".tts-de").forEach(function (el) {
+    console.log("tts-helper: found .tts-de", el);
+    el.style.cursor = "pointer";
+    if (!el.getAttribute("title")) {
+      el.setAttribute("title", "Play text-to-speech");
+    }
+
+    el.addEventListener("click", function (e) {
+      e.preventDefault();
+      const text = el.getAttribute("data-text");
+      if (!text) {
+        console.warn("tts-helper: .tts-de element has no data-text", el);
+        return;
+      }
+      speakGerman(text);
+    });
+  });
+});
+</script>
+
 
 <link rel="stylesheet" href="../css/styles.css">
 
@@ -221,13 +263,13 @@ document.addEventListener("DOMContentLoaded", function () {
    
   <ul>
   <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link active" data-scroll-target="#learning-objectives">Learning Objectives</a></li>
-  <li><a href="#counting-corners-for-2-dimensional-shapes" id="toc-counting-corners-for-2-dimensional-shapes" class="nav-link" data-scroll-target="#counting-corners-for-2-dimensional-shapes">Counting corners for 2-dimensional shapes</a>
+  <li><a href="#dimensional-shapes" id="toc-dimensional-shapes" class="nav-link" data-scroll-target="#dimensional-shapes">2-dimensional shapes</a>
   <ul class="collapse">
   <li><a href="#polygons" id="toc-polygons" class="nav-link" data-scroll-target="#polygons">Polygons</a></li>
   <li><a href="#special-quadrilaterals" id="toc-special-quadrilaterals" class="nav-link" data-scroll-target="#special-quadrilaterals">Special quadrilaterals</a></li>
   <li><a href="#curved-shapes" id="toc-curved-shapes" class="nav-link" data-scroll-target="#curved-shapes">Curved Shapes</a></li>
   </ul></li>
-  <li><a href="#counting-sides-for-3-dimensional-shapes" id="toc-counting-sides-for-3-dimensional-shapes" class="nav-link" data-scroll-target="#counting-sides-for-3-dimensional-shapes">Counting sides for 3-dimensional shapes</a>
+  <li><a href="#dimensional-shapes-1" id="toc-dimensional-shapes-1" class="nav-link" data-scroll-target="#dimensional-shapes-1">3-dimensional shapes</a>
   <ul class="collapse">
   <li><a href="#prisms" id="toc-prisms" class="nav-link" data-scroll-target="#prisms">Prisms</a></li>
   <li><a href="#special-shapes" id="toc-special-shapes" class="nav-link" data-scroll-target="#special-shapes">Special shapes</a></li>
@@ -292,13 +334,19 @@ document.addEventListener("DOMContentLoaded", function () {
 <li>Identify 2-D and 3-D shapes</li>
 </ul>
 </section>
-<section id="counting-corners-for-2-dimensional-shapes" class="level1">
-<h1>Counting corners for 2-dimensional shapes</h1>
+<section id="dimensional-shapes" class="level1">
+<h1>2-dimensional shapes</h1>
 <section id="polygons" class="level2">
 <h2 class="anchored" data-anchor-id="polygons">Polygons</h2>
 <p>Polygons in German are a little easier than in English, but it generally follows a similar pattern to English. As you increase the number of sides in English after a quadrilateral, you simply have a numerical prefix (penta-, hexa-, etc.) followed by <em>-gon</em>. The etymology of <em>-gon</em> in reference to shapes traces back to the Greek suffix -gōnia (-γωνο), which means angles. So something like <em>pentagon</em> can be broken down into “five angles”/“five corners”.</p>
-<p>In German, like in English, they count the corners, but instead of waiting until pentagon to adopt the <em>numerical prefix + -corner</em> convention, they start it at triangle. The German word for corner is generally <em>die Ecke</em>, but <em>das Eck</em> is another, less common way, to say corner. You may hear <em>das Eck</em> in Southern Germany, Austria and parts of Switzerland. It is also used to count the corners of polygons in German though. See the table below for the pattern of how polygons are named in German:</p>
+<p>In German, like in English, they count the corners, but instead of waiting until pentagon to adopt the <em>numerical prefix + -corner</em> convention, they start it at triangle. The German word for corner is generally <strong>die Ecke</strong> <span class="pron" data-src="../audio/shapes/2d/Ecke.ogg">🔊</span>, but <strong>das Eck</strong> <span class="pron" data-src="../audio/shapes/2d/Eck.ogg">🔊</span> is another, less common way, to say corner. You may hear <strong>das Eck</strong> <span class="pron" data-src="../audio/shapes/2d/Eck.ogg">🔊</span> in Southern Germany, Austria and parts of Switzerland. It is also used to count the corners of polygons in German though. See the table below for the pattern of how polygons are named in German:</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: center;">English</th>
@@ -310,30 +358,34 @@ document.addEventListener("DOMContentLoaded", function () {
 <tbody>
 <tr class="odd">
 <td style="text-align: center;">triangle</td>
-<td style="text-align: center;">das Dreieck</td>
+<td style="text-align: center;"><strong>das Dreieck</strong> <span class="pron" data-src="../audio/shapes/2d/Dreieck.ogg">🔊</span></td>
 <td style="text-align: center;">quadrilateral</td>
-<td style="text-align: center;">das Viereck</td>
+<td style="text-align: center;"><strong>das Viereck</strong> <span class="pron" data-src="../audio/shapes/2d/Viereck.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">pentagon</td>
-<td style="text-align: center;">das Fünfeck</td>
+<td style="text-align: center;"><strong>das Fünfeck</strong> <span class="pron" data-src="../audio/shapes/2d/Fünfeck.ogg">🔊</span></td>
 <td style="text-align: center;">hexagon</td>
-<td style="text-align: center;">das Sechseck</td>
+<td style="text-align: center;"><strong>das Sechseck</strong> <span class="pron" data-src="../audio/shapes/2d/Sechseck.ogg">🔊</span></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">octagon</td>
-<td style="text-align: center;">das Achteck</td>
+<td style="text-align: center;"><strong>das Achteck</strong> <span class="pron" data-src="../audio/shapes/2d/Achteck.ogg">🔊</span></td>
 <td style="text-align: center;">decagon</td>
-<td style="text-align: center;">das Zehneck</td>
+<td style="text-align: center;"><strong>das Zehneck</strong> <span class="pron" data-src="../audio/shapes/2d/Zehneck.ogg">🔊</span></td>
 </tr>
 </tbody>
 </table>
-<p>We can see that it is simply the number of corners in the polygon, followed by <strong>-eck</strong> suffix. In fact, polygon translates directly to <strong>das Vieleck</strong> (<strong>viel</strong> is the German work for “many”), so the connections between German and English for polygons is pretty strong.</p>
+<p>We can see that it is simply the number of corners in the polygon, followed by the <strong>-eck</strong> suffix. In fact, polygon translates directly to <strong>das Vieleck</strong> <span class="pron" data-src="../audio/shapes/2d/Vieleck.ogg">🔊</span> (<strong>viel</strong> <span class="pron" data-src="../audio/shapes/2d/viel.ogg">🔊</span> is the German word for “many”), so the connections between German and English for polygons are pretty strong.</p>
 </section>
 <section id="special-quadrilaterals" class="level2">
 <h2 class="anchored" data-anchor-id="special-quadrilaterals">Special quadrilaterals</h2>
 <p>While this pattern works for generally describing polygons, there are also some special quadrilaterals in German as well. In the same way that squares, rectangles and parallelograms are all special quadrilaterals in English, there are special names for different quadrilaterals, which can be found in the table below:</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: center;">English</th>
@@ -343,23 +395,23 @@ document.addEventListener("DOMContentLoaded", function () {
 <tbody>
 <tr class="odd">
 <td style="text-align: center;">square</td>
-<td style="text-align: center;">das Quadrat</td>
+<td style="text-align: center;"><strong>das Quadrat</strong> <span class="pron" data-src="../audio/shapes/2d/Quadrat.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">rectangle</td>
-<td style="text-align: center;">das Rechteck</td>
+<td style="text-align: center;"><strong>das Rechteck</strong> <span class="pron" data-src="../audio/shapes/2d/Rechteck.ogg">🔊</span></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">parallelogram</td>
-<td style="text-align: center;">das Parallelogramm</td>
+<td style="text-align: center;"><strong>das Parallelogramm</strong> <span class="pron" data-src="../audio/shapes/2d/Parallelogramm.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">rhombus / diamond</td>
-<td style="text-align: center;">die Raute</td>
+<td style="text-align: center;"><strong>die Raute</strong> <span class="pron" data-src="../audio/shapes/2d/Raute.ogg">🔊</span></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">trapezoid</td>
-<td style="text-align: center;">das Trapez</td>
+<td style="text-align: center;"><strong>das Trapez</strong> <span class="pron" data-src="../audio/shapes/2d/Trapez.ogg">🔊</span></td>
 </tr>
 </tbody>
 </table>
@@ -368,6 +420,10 @@ document.addEventListener("DOMContentLoaded", function () {
 <h2 class="anchored" data-anchor-id="curved-shapes">Curved Shapes</h2>
 <p>The table below outlines the curved shapes:</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: center;">English</th>
@@ -377,19 +433,19 @@ document.addEventListener("DOMContentLoaded", function () {
 <tbody>
 <tr class="odd">
 <td style="text-align: center;">circle</td>
-<td style="text-align: center;">der Kreis</td>
+<td style="text-align: center;"><strong>der Kreis</strong> <span class="pron" data-src="../audio/shapes/2d/Kreis.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">semicircle</td>
-<td style="text-align: center;">der Halbkreis*</td>
+<td style="text-align: center;"><strong>der Halbkreis</strong>* <span class="pron" data-src="../audio/shapes/2d/Halbkreis.ogg">🔊</span></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">oval</td>
-<td style="text-align: center;">das Oval</td>
+<td style="text-align: center;"><strong>das Oval</strong> <span class="pron" data-src="../audio/shapes/2d/Oval.ogg">🔊</span></td>
 </tr>
 </tbody>
 </table>
-<p>* You can see that having our knowledge of fractions can help here since <strong>Halbkreis</strong> literally translates to “half circle”.</p>
+<p>* You can see that having our knowledge of fractions can help here since <strong>der Halbkreis</strong> <span class="pron" data-src="../audio/shapes/2d/Halbkreis.ogg">🔊</span> literally translates to “half circle”.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -400,7 +456,7 @@ document.addEventListener("DOMContentLoaded", function () {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Use the app below to practice identifying German 2-dimensional shapes.</p>
+<p>Use the app below to practice identifying 2-dimensional shapes in German.</p>
 <div style="width: 100%; max-width: 700px; margin: 0 auto;">
 <p><iframe id="shapes-2d" src="../apps/shapes/2d/shapes_to_names/index.html" style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"></iframe></p>
 </div>
@@ -408,13 +464,16 @@ document.addEventListener("DOMContentLoaded", function () {
 </div>
 </section>
 </section>
-<section id="counting-sides-for-3-dimensional-shapes" class="level1">
-<h1>Counting sides for 3-dimensional shapes</h1>
+<section id="dimensional-shapes-1" class="level1">
+<h1>3-dimensional shapes</h1>
 <section id="prisms" class="level2">
 <h2 class="anchored" data-anchor-id="prisms">Prisms</h2>
-<p>Let’s start discussing three-dimensional shapes with the prisms, because they follow a pattern, but it isn’t likely what you would guess given a background in English. In English, we take the name for the face of the prism and often add “-al prism” (pentagonal prism, hexagonal prism, etc.). Notable triangular and rectangular prisms don’t fit that pattern in English. The good news is that all prisms in German follow the same pattern, but for some reason German counts the sides on the face shape rather than the corners for prisms. Of course the number of sides and corners are equal in polygons, so it doesn’t matter if you count sides or corners, but it is a mnemonic that helps me think about shapes in German.</p>
-<p>The German word for “side” in relation to shapes is <strong>die Seite</strong> (notably also means page) and “-sided” is <strong>-seitig</strong> and “prism” is <strong>das Prisma</strong>. So let’s see how German constructs prism shapes in the table below:</p>
+<p>Let’s start discussing three-dimensional shapes with the prisms, because they follow a simple pattern. In English, we take the name of the face for the prism and often add “-al prism” (pentagonal prism, hexagonal prism, etc.). Notably triangular and rectangular prisms don’t fit that pattern in English. The good news is that in German the pattern is actually easier than English. In German, you take the name of the face of the prism and simply add <strong>-ig Prisma</strong>. So let’s see how German constructs prism shapes in the table below:</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: center;">English</th>
@@ -424,28 +483,45 @@ document.addEventListener("DOMContentLoaded", function () {
 <tbody>
 <tr class="odd">
 <td style="text-align: center;">triangular prism</td>
-<td style="text-align: center;">das dreiseitige Prisma</td>
+<td style="text-align: center;"><strong>das dreieckige</strong> <span class="pron" data-src="../audio/shapes/3d/dreieckige.ogg">🔊</span> <strong>Prisma</strong> <span class="pron" data-src="../audio/shapes/3d/Prisma.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">quadrilateral prism</td>
-<td style="text-align: center;">das vierseitige Prisma</td>
+<td style="text-align: center;"><strong>das viereckige</strong> <span class="pron" data-src="../audio/shapes/3d/viereckige.ogg">🔊</span> <strong>Prisma</strong> <span class="pron" data-src="../audio/shapes/3d/Prisma.ogg">🔊</span></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">pentagonal prism</td>
-<td style="text-align: center;">das fünfseitige Prisma</td>
+<td style="text-align: center;"><strong>das fünfeckige</strong> <span class="pron" data-src="../audio/shapes/3d/fünfeckige.ogg">🔊</span> <strong>Prisma</strong> <span class="pron" data-src="../audio/shapes/3d/Prisma.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">hexagonal prism</td>
-<td style="text-align: center;">das sechseitige Prisma</td>
+<td style="text-align: center;"><strong>das sechseckige</strong> <span class="pron" data-src="../audio/shapes/3d/sechseckige.ogg">🔊</span> <strong>Prisma</strong> <span class="pron" data-src="../audio/shapes/3d/Prisma.ogg">🔊</span></td>
 </tr>
 </tbody>
 </table>
-<p>You will notice that <strong>-e</strong> is appended to the end of <strong>number + seitig</strong>. This has to do with “three-sided”, “four-sided”, etc. are adjectives and this is the behavior for adjectives in this context. We are going to talk more about adjectives at a later point, so for now you can just remember to add <strong>-e</strong>.</p>
+<p>You will notice that <strong>-e</strong> is appended to the end of <strong>number + eckig</strong>. This has to do with “three-cornered”, “four-cornered”, etc. are adjectives and this is the behavior for adjectives in this context. We are going to talk more about adjectives at a later point, so for now you can just remember to add <strong>-e</strong>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The German word for “side” in relation to shapes is <strong>die Seite</strong> <span class="pron" data-src="../audio/shapes/3d/Seite.ogg">🔊</span> (notably also means page). Sometimes, instead of <strong>-eckige</strong>, you will see it referred to as “-sided”, <strong>-seitige</strong>. So, triangular prisms might be referred to as <strong>das dreiseitige</strong> <span class="pron" data-src="../audio/shapes/3d/dreiseitige.ogg">🔊</span> <strong>Prisma</strong> <span class="pron" data-src="../audio/shapes/3d/Prisma.ogg">🔊</span>.</p>
+</div>
+</div>
 </section>
 <section id="special-shapes" class="level2">
 <h2 class="anchored" data-anchor-id="special-shapes">Special shapes</h2>
 <p>Unfortunately like cube, cone and sphere in English, German has some unique names for some three-dimensional shapes that just need to be memorized. There is no pattern that you can rely on.</p>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: center;">English</th>
@@ -455,41 +531,54 @@ document.addEventListener("DOMContentLoaded", function () {
 <tbody>
 <tr class="odd">
 <td style="text-align: center;">cube</td>
-<td style="text-align: center;">der Würfel</td>
+<td style="text-align: center;"><strong>der Würfel</strong> <span class="pron" data-src="../audio/shapes/3d/Würfel.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">rectangular prism</td>
-<td style="text-align: center;">der Quader*</td>
+<td style="text-align: center;"><strong>der Quader</strong>* <span class="pron" data-src="../audio/shapes/3d/Quader.ogg">🔊</span></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">triangular pyramid</td>
-<td style="text-align: center;">die dreiseitige Pyramide, der Tetraeder**</td>
+<td style="text-align: center;"><strong>die dreieckige</strong> <span class="pron" data-src="../audio/shapes/3d/dreieckige.ogg">🔊</span> <strong>Pyramide</strong> <span class="pron" data-src="../audio/shapes/3d/Pyramide.ogg">🔊</span>, <strong>der Tetraeder</strong>** <span class="pron" data-src="../audio/shapes/3d/Tetraeder.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">square pyramid</td>
-<td style="text-align: center;">die vierseitige Pyramide</td>
+<td style="text-align: center;"><strong>die vierseitige</strong> <span class="pron" data-src="../audio/shapes/3d/viereckige.ogg">🔊</span> <strong>Pyramide</strong> <span class="pron" data-src="../audio/shapes/3d/Pyramide.ogg">🔊</span></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">cylinder</td>
-<td style="text-align: center;">der Zylinder</td>
+<td style="text-align: center;"><strong>der Zylinder</strong> <span class="pron" data-src="../audio/shapes/3d/Zylinder.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">cone</td>
-<td style="text-align: center;">der Kegel</td>
+<td style="text-align: center;"><strong>der Kegel</strong> <span class="pron" data-src="../audio/shapes/3d/Kegel.ogg">🔊</span></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">sphere</td>
-<td style="text-align: center;">die Kugel</td>
+<td style="text-align: center;"><strong>die Kugel</strong> <span class="pron" data-src="../audio/shapes/3d/Kugel.ogg">🔊</span></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">hemisphere</td>
-<td style="text-align: center;">die Halbkugel***</td>
+<td style="text-align: center;"><strong>die Halbkugel</strong>*** <span class="pron" data-src="../audio/shapes/3d/Halbkugel.ogg">🔊</span></td>
 </tr>
 </tbody>
 </table>
-<p>* A rectangular prism (<strong>der Quader</strong>) is a special type of quadrilateral prism (<strong>das vierseitige Prisma</strong>), because a prism of a trapezoid would be also be a type of quadrilateral prism, but not a rectangular prism. When describing a rectangular prism most Germans would use <strong>der Quader</strong> over <strong>das vierseitiges Prisma</strong> in the same way that English speakers would like use rectangular prism over quadrilateral prism. It sounds a bit geometry textbook-ish to say <strong>das vierseitiges Prisma</strong> just like quadrilateral prism sounds in English.</p>
-<p>** A triangular pyramid is also called a <em>tetrahedron</em> in English. In German geometry textbooks, you may see them refer to this shape in a similar way, <strong>der Tetraeder</strong>. However, in German, both are common enough.</p>
-<p>*** Once again, like <strong>Halbkreis</strong>, it is useful to know fractions since <strong>Halbkugel</strong> literally translates to “half sphere”.</p>
+<p>* A rectangular prism (<strong>der Quader</strong> <span class="pron" data-src="../audio/shapes/3d/Quader.ogg">🔊</span>) is a special type of quadrilateral prism (<strong>das viereckige Prisma</strong>), because a prism of a trapezoid would be also be a type of quadrilateral prism, but not a rectangular prism. When describing a rectangular prism most Germans would use <strong>der Quader</strong> over <strong>das viereckige Prisma</strong> in the same way that English speakers would like use rectangular prism over quadrilateral prism. It sounds a bit geometry textbook-ish to say <strong>das viereckige Prisma</strong> just like quadrilateral prism sounds in English.</p>
+<p>** A triangular pyramid is also called a <em>tetrahedron</em> in English. In German geometry textbooks, you may see them refer to this shape in a similar way, <strong>der Tetraeder</strong> <span class="pron" data-src="../audio/shapes/3d/Tetraeder.ogg">🔊</span>. However, in German, both are common enough.</p>
+<p>*** Once again, like <strong>Halbkreis</strong> <span class="pron" data-src="../audio/shapes/2d/Halbkreis.ogg">🔊</span>, it is useful to know fractions since <strong>Halbkugel</strong> <span class="pron" data-src="../audio/shapes/3d/Halbkugel.ogg">🔊</span> literally translates to “half sphere”.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Similarly to the prisms, you will sometimes see pyramids be referred to using the number of sides on the base, like <strong>das dreiseitige Pyramide</strong> and <strong>das vierseitige Pyramide</strong> for triangular pyramids and square pyramid, respectively, rather than the number of corners like provided in the table above.</p>
+</div>
+</div>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -500,9 +589,25 @@ document.addEventListener("DOMContentLoaded", function () {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Use the app below to practice identifying German 3-dimensional shapes.</p>
+<p>Use the app below to practice identifying 3-dimensional shapes in German.</p>
 <div style="width: 100%; max-width: 700px; margin: 0 auto;">
 <p><iframe id="shapes-3d" src="../apps/shapes/3d/shapes_to_names/index.html" style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"></iframe></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Exercise 3
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Use the app below to practice identifying a mix of 2-dimensional and 3-dimensional shapes in German.</p>
+<div style="width: 100%; max-width: 700px; margin: 0 auto;">
+<p><iframe id="shapes-mixed" src="../apps/shapes/mixed/shapes_to_names/index.html" style="width: 100%; border: 1px solid #ccc; border-radius: 6px;"></iframe></p>
 </div>
 </div>
 </div>
@@ -515,6 +620,11 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   #shapes-3d {
+    height: 625px !important;
+    max-height: 625px !important;
+  }
+  
+  #shapes-mixed {
     height: 625px !important;
     max-height: 625px !important;
   }
@@ -1006,21 +1116,21 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="ss">  - </span>Identify 2-D and 3-D shapes</span>
 <span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="fu"># Counting corners for 2-dimensional shapes</span></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="fu"># 2-dimensional shapes</span></span>
 <span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="fu">## Polygons</span></span>
 <span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>  Polygons in German are a little easier than in English, but it generally follows a similar pattern to English. As you increase the number of sides in English after a quadrilateral, you simply have a numerical prefix (penta-, hexa-, etc.) followed by *-gon*. The etymology of *-gon* in reference to shapes traces back to the Greek suffix -gōnia (-γωνο), which means angles. So something like *pentagon* can be broken down into "five angles"/"five corners".</span>
 <span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>  In German, like in English, they count the corners, but instead of waiting until pentagon to adopt the *numerical prefix + -corner* convention, they start it at triangle. The German word for corner is generally *die Ecke*, but *das Eck* is another, less common way, to say corner. You may hear *das Eck* in Southern Germany, Austria and parts of Switzerland. It is also used to count the corners of polygons in German though. See the table below for the pattern of how polygons are named in German:</span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>  In German, like in English, they count the corners, but instead of waiting until pentagon to adopt the *numerical prefix + -corner* convention, they start it at triangle. The German word for corner is generally **die Ecke** &lt;span class="pron" data-src="../audio/shapes/2d/Ecke.ogg"&gt;🔊&lt;/span&gt;, but **das Eck** &lt;span class="pron" data-src="../audio/shapes/2d/Eck.ogg"&gt;🔊&lt;/span&gt; is another, less common way, to say corner. You may hear **das Eck** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Eck.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> in Southern Germany, Austria and parts of Switzerland. It is also used to count the corners of polygons in German though. See the table below for the pattern of how polygons are named in German:</span>
 <span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> English <span class="pp">|</span> German <span class="pp">|</span> English <span class="pp">|</span> German <span class="pp">|</span></span>
 <span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="pp">|:------:|:------:|:------:|:------:|</span></span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> triangle <span class="pp">|</span> das Dreieck <span class="pp">|</span> quadrilateral <span class="pp">|</span> das Viereck <span class="pp">|</span></span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> pentagon <span class="pp">|</span> das Fünfeck <span class="pp">|</span> hexagon <span class="pp">|</span> das Sechseck <span class="pp">|</span></span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> octagon <span class="pp">|</span> das Achteck <span class="pp">|</span> decagon <span class="pp">|</span> das Zehneck <span class="pp">|</span></span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> triangle <span class="pp">|</span> **das Dreieck** &lt;span class="pron" data-src="../audio/shapes/2d/Dreieck.ogg"&gt;🔊&lt;/span&gt; | quadrilateral | **das Viereck** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Viereck.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> pentagon <span class="pp">|</span> **das Fünfeck** &lt;span class="pron" data-src="../audio/shapes/2d/Fünfeck.ogg"&gt;🔊&lt;/span&gt; | hexagon | **das Sechseck** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Sechseck.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> octagon <span class="pp">|</span> **das Achteck** &lt;span class="pron" data-src="../audio/shapes/2d/Achteck.ogg"&gt;🔊&lt;/span&gt; | decagon | **das Zehneck** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Zehneck.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>  We can see that it is simply the number of corners in the polygon, followed by **-eck** suffix. In fact, polygon translates directly to **das Vieleck** (**viel** is the German work for "many"), so the connections between German and English for polygons is pretty strong.</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>  We can see that it is simply the number of corners in the polygon, followed by the **-eck** suffix. In fact, polygon translates directly to **das Vieleck** &lt;span class="pron" data-src="../audio/shapes/2d/Vieleck.ogg"&gt;🔊&lt;/span&gt; (**viel** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/viel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> is the German word for "many"), so the connections between German and English for polygons are pretty strong.</span>
 <span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a><span class="fu">## Special quadrilaterals</span></span>
 <span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
@@ -1028,11 +1138,11 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> English <span class="pp">|</span> German <span class="pp">|</span></span>
 <span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a><span class="pp">|:------:|:------:|</span></span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> square <span class="pp">|</span> das Quadrat <span class="pp">|</span></span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> rectangle <span class="pp">|</span> das Rechteck <span class="pp">|</span></span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> parallelogram <span class="pp">|</span> das Parallelogramm <span class="pp">|</span></span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> rhombus / diamond <span class="pp">|</span> die Raute <span class="pp">|</span></span>
-<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> trapezoid <span class="pp">|</span> das Trapez <span class="pp">|</span></span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> square <span class="pp">|</span> **das Quadrat** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Quadrat.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> rectangle <span class="pp">|</span> **das Rechteck** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Rechteck.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> parallelogram <span class="pp">|</span> **das Parallelogramm** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Parallelogramm.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> rhombus / diamond <span class="pp">|</span> **die Raute** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Raute.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> trapezoid <span class="pp">|</span> **das Trapez** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Trapez.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a><span class="fu">## Curved Shapes</span></span>
 <span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a></span>
@@ -1040,16 +1150,16 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> English <span class="pp">|</span> German <span class="pp">|</span></span>
 <span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a><span class="pp">|:------:|:------:|</span></span>
-<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> circle <span class="pp">|</span> der Kreis <span class="pp">|</span></span>
-<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> semicircle <span class="pp">|</span> der Halbkreis<span class="sc">\*</span> <span class="pp">|</span></span>
-<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> oval <span class="pp">|</span> das Oval <span class="pp">|</span></span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> circle <span class="pp">|</span> **der Kreis** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Kreis.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> semicircle <span class="pp">|</span> **der Halbkreis**<span class="sc">\*</span> <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Halbkreis.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> oval <span class="pp">|</span> **das Oval** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Oval.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a><span class="sc">\*</span> You can see that having our knowledge of fractions can help here since **Halbkreis** literally translates to "half circle".</span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a><span class="sc">\*</span> You can see that having our knowledge of fractions can help here since **der Halbkreis** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/2d/Halbkreis.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> literally translates to "half circle".</span>
 <span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a>:::{.callout-tip}</span>
 <span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a><span class="fu"># Exercise 1</span></span>
 <span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a>Use the app below to practice identifying German 2-dimensional shapes.</span>
+<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a>Use the app below to practice identifying 2-dimensional shapes in German.</span>
 <span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">div</span><span class="ot"> style</span><span class="op">=</span><span class="st">"width: 100%; max-width: 700px; margin: 0 auto;"</span><span class="dt">&gt;</span></span>
 <span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&lt;</span><span class="kw">iframe</span></span>
@@ -1061,72 +1171,98 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a>:::</span>
 <span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a><span class="fu"># Counting sides for 3-dimensional shapes</span></span>
+<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a><span class="fu"># 3-dimensional shapes</span></span>
 <span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a><span class="fu">## Prisms</span></span>
 <span id="cb1-87"><a href="#cb1-87" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-88"><a href="#cb1-88" aria-hidden="true" tabindex="-1"></a>  Let's start discussing three-dimensional shapes with the prisms, because they follow a pattern, but it isn't likely what you would guess given a background in English. In English, we take the name for the face of the prism and often add "-al prism" (pentagonal prism, hexagonal prism, etc.). Notable triangular and rectangular prisms don't fit that pattern in English. The good news is that all prisms in German follow the same pattern, but for some reason German counts the sides on the face shape rather than the corners for prisms. Of course the number of sides and corners are equal in polygons, so it doesn't matter if you count sides or corners, but it is a mnemonic that helps me think about shapes in German.</span>
+<span id="cb1-88"><a href="#cb1-88" aria-hidden="true" tabindex="-1"></a>  Let's start discussing three-dimensional shapes with the prisms, because they follow a simple pattern. In English, we take the name of the face for the prism and often add "-al prism" (pentagonal prism, hexagonal prism, etc.). Notably triangular and rectangular prisms don't fit that pattern in English. The good news is that in German the pattern is actually easier than English. In German, you take the name of the face of the prism and simply add **-ig Prisma**. So let's see how German constructs prism shapes in the table below:</span>
 <span id="cb1-89"><a href="#cb1-89" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a>  The German word for "side" in relation to shapes is **die Seite** (notably also means page) and "-sided" is **-seitig** and "prism" is **das Prisma**. So let's see how German constructs prism shapes in the table below:</span>
-<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> English <span class="pp">|</span> German <span class="pp">|</span></span>
-<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a><span class="pp">|:------:|:------:|</span></span>
-<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> triangular prism <span class="pp">|</span> das dreiseitige Prisma <span class="pp">|</span></span>
-<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> quadrilateral prism <span class="pp">|</span> das vierseitige Prisma <span class="pp">|</span></span>
-<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> pentagonal prism <span class="pp">|</span> das fünfseitige Prisma <span class="pp">|</span></span>
-<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> hexagonal prism <span class="pp">|</span> das sechseitige Prisma <span class="pp">|</span></span>
+<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> English <span class="pp">|</span> German <span class="pp">|</span></span>
+<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a><span class="pp">|:------:|:------:|</span></span>
+<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> triangular prism <span class="pp">|</span> **das dreieckige** &lt;span class="pron" data-src="../audio/shapes/3d/dreieckige.ogg"&gt;🔊&lt;/span&gt; **Prisma** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Prisma.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> quadrilateral prism <span class="pp">|</span> **das viereckige** &lt;span class="pron" data-src="../audio/shapes/3d/viereckige.ogg"&gt;🔊&lt;/span&gt; **Prisma** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Prisma.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> pentagonal prism <span class="pp">|</span> **das fünfeckige** &lt;span class="pron" data-src="../audio/shapes/3d/fünfeckige.ogg"&gt;🔊&lt;/span&gt; **Prisma** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Prisma.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> hexagonal prism <span class="pp">|</span> **das sechseckige** &lt;span class="pron" data-src="../audio/shapes/3d/sechseckige.ogg"&gt;🔊&lt;/span&gt; **Prisma** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Prisma.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a>  You will notice that **-e** is appended to the end of **number + eckig**. This has to do with "three-cornered", "four-cornered", etc. are adjectives and this is the behavior for adjectives in this context. We are going to talk more about adjectives at a later point, so for now you can just remember to add **-e**.</span>
 <span id="cb1-98"><a href="#cb1-98" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-99"><a href="#cb1-99" aria-hidden="true" tabindex="-1"></a>  You will notice that **-e** is appended to the end of **number + seitig**. This has to do with "three-sided", "four-sided", etc. are adjectives and this is the behavior for adjectives in this context. We are going to talk more about adjectives at a later point, so for now you can just remember to add **-e**.</span>
-<span id="cb1-100"><a href="#cb1-100" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-101"><a href="#cb1-101" aria-hidden="true" tabindex="-1"></a><span class="fu">## Special shapes</span></span>
+<span id="cb1-99"><a href="#cb1-99" aria-hidden="true" tabindex="-1"></a>:::{.callout-note}</span>
+<span id="cb1-100"><a href="#cb1-100" aria-hidden="true" tabindex="-1"></a>The German word for "side" in relation to shapes is **die Seite** &lt;span class="pron" data-src="../audio/shapes/3d/Seite.ogg"&gt;🔊&lt;/span&gt; (notably also means page). Sometimes, instead of **-eckige**, you will see it referred to as "-sided", **-seitige**. So, triangular prisms might be referred to as **das dreiseitige** &lt;span class="pron" data-src="../audio/shapes/3d/dreiseitige.ogg"&gt;🔊&lt;/span&gt; **Prisma** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Prisma.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span>.</span>
+<span id="cb1-101"><a href="#cb1-101" aria-hidden="true" tabindex="-1"></a>:::</span>
 <span id="cb1-102"><a href="#cb1-102" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-103"><a href="#cb1-103" aria-hidden="true" tabindex="-1"></a>  Unfortunately like cube, cone and sphere in English, German has some unique names for some three-dimensional shapes that just need to be memorized. There is no pattern that you can rely on.</span>
+<span id="cb1-103"><a href="#cb1-103" aria-hidden="true" tabindex="-1"></a><span class="fu">## Special shapes</span></span>
 <span id="cb1-104"><a href="#cb1-104" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-105"><a href="#cb1-105" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> English <span class="pp">|</span> German <span class="pp">|</span></span>
-<span id="cb1-106"><a href="#cb1-106" aria-hidden="true" tabindex="-1"></a><span class="pp">|:------:|:------:|</span></span>
-<span id="cb1-107"><a href="#cb1-107" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> cube <span class="pp">|</span> der Würfel <span class="pp">|</span></span>
-<span id="cb1-108"><a href="#cb1-108" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> rectangular prism <span class="pp">|</span> der Quader<span class="sc">\*</span> <span class="pp">|</span></span>
-<span id="cb1-109"><a href="#cb1-109" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> triangular pyramid <span class="pp">|</span> die dreiseitige Pyramide, der Tetraeder<span class="sc">\*\*</span> <span class="pp">|</span></span>
-<span id="cb1-110"><a href="#cb1-110" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> square pyramid <span class="pp">|</span> die vierseitige Pyramide <span class="pp">|</span></span>
-<span id="cb1-111"><a href="#cb1-111" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> cylinder <span class="pp">|</span> der Zylinder <span class="pp">|</span></span>
-<span id="cb1-112"><a href="#cb1-112" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> cone <span class="pp">|</span> der Kegel <span class="pp">|</span></span>
-<span id="cb1-113"><a href="#cb1-113" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> sphere <span class="pp">|</span> die Kugel <span class="pp">|</span></span>
-<span id="cb1-114"><a href="#cb1-114" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> hemisphere <span class="pp">|</span> die Halbkugel<span class="sc">\*\*\*</span> <span class="pp">|</span></span>
-<span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a><span class="sc">\*</span> A rectangular prism (**der Quader**) is a special type of quadrilateral prism (**das vierseitige Prisma**), because a prism of a trapezoid would be also be a type of quadrilateral prism, but not a rectangular prism. When describing a rectangular prism most Germans would use **der Quader** over **das vierseitiges Prisma** in the same way that English speakers would like use rectangular prism over quadrilateral prism. It sounds a bit geometry textbook-ish to say **das vierseitiges Prisma** just like quadrilateral prism sounds in English.</span>
+<span id="cb1-105"><a href="#cb1-105" aria-hidden="true" tabindex="-1"></a>  Unfortunately like cube, cone and sphere in English, German has some unique names for some three-dimensional shapes that just need to be memorized. There is no pattern that you can rely on.</span>
+<span id="cb1-106"><a href="#cb1-106" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-107"><a href="#cb1-107" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> English <span class="pp">|</span> German <span class="pp">|</span></span>
+<span id="cb1-108"><a href="#cb1-108" aria-hidden="true" tabindex="-1"></a><span class="pp">|:------:|:------:|</span></span>
+<span id="cb1-109"><a href="#cb1-109" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> cube <span class="pp">|</span> **der Würfel** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Würfel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-110"><a href="#cb1-110" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> rectangular prism <span class="pp">|</span> **der Quader**<span class="sc">\*</span> <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Quader.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-111"><a href="#cb1-111" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> triangular pyramid <span class="pp">|</span> **die dreieckige** &lt;span class="pron" data-src="../audio/shapes/3d/dreieckige.ogg"&gt;🔊&lt;/span&gt; **Pyramide** &lt;span class="pron" data-src="../audio/shapes/3d/Pyramide.ogg"&gt;🔊&lt;/span&gt;, **der Tetraeder**<span class="sc">\*\*</span> <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Tetraeder.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-112"><a href="#cb1-112" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> square pyramid <span class="pp">|</span> **die vierseitige** &lt;span class="pron" data-src="../audio/shapes/3d/viereckige.ogg"&gt;🔊&lt;/span&gt; **Pyramide** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Pyramide.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-113"><a href="#cb1-113" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> cylinder <span class="pp">|</span> **der Zylinder** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Zylinder.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-114"><a href="#cb1-114" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> cone <span class="pp">|</span> **der Kegel** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Kegel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> sphere <span class="pp">|</span> **die Kugel** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Kugel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
+<span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> hemisphere <span class="pp">|</span> **die Halbkugel**<span class="sc">\*\*\*</span> <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Halbkugel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-117"><a href="#cb1-117" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a><span class="sc">\*\*</span> A triangular pyramid is also called a *tetrahedron* in English. In German geometry textbooks, you may see them refer to this shape in a similar way, **der Tetraeder**. However, in German, both are common enough.</span>
+<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a><span class="sc">\*</span> A rectangular prism (**der Quader** &lt;span class="pron" data-src="../audio/shapes/3d/Quader.ogg"&gt;🔊&lt;/span&gt;) is a special type of quadrilateral prism (**das viereckige Prisma**), because a prism of a trapezoid would be also be a type of quadrilateral prism, but not a rectangular prism. When describing a rectangular prism most Germans would use **der Quader** over **das viereckige Prisma** in the same way that English speakers would like use rectangular prism over quadrilateral prism. It sounds a bit geometry textbook-ish to say **das viereckige Prisma** just like quadrilateral prism sounds in English.</span>
 <span id="cb1-119"><a href="#cb1-119" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a><span class="sc">\*\*\*</span> Once again, like **Halbkreis**, it is useful to know fractions since **Halbkugel** literally translates to "half sphere".</span>
+<span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a><span class="sc">\*\*</span> A triangular pyramid is also called a *tetrahedron* in English. In German geometry textbooks, you may see them refer to this shape in a similar way, **der Tetraeder** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Tetraeder.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span>. However, in German, both are common enough. </span>
 <span id="cb1-121"><a href="#cb1-121" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-122"><a href="#cb1-122" aria-hidden="true" tabindex="-1"></a>:::{.callout-tip}</span>
-<span id="cb1-123"><a href="#cb1-123" aria-hidden="true" tabindex="-1"></a><span class="fu"># Exercise 2</span></span>
-<span id="cb1-124"><a href="#cb1-124" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-125"><a href="#cb1-125" aria-hidden="true" tabindex="-1"></a>Use the app below to practice identifying German 3-dimensional shapes.</span>
-<span id="cb1-126"><a href="#cb1-126" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-127"><a href="#cb1-127" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">div</span><span class="ot"> style</span><span class="op">=</span><span class="st">"width: 100%; max-width: 700px; margin: 0 auto;"</span><span class="dt">&gt;</span></span>
-<span id="cb1-128"><a href="#cb1-128" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&lt;</span><span class="kw">iframe</span></span>
-<span id="cb1-129"><a href="#cb1-129" aria-hidden="true" tabindex="-1"></a><span class="ot">    id</span><span class="op">=</span><span class="st">"shapes-3d"</span></span>
-<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a><span class="ot">    src</span><span class="op">=</span><span class="st">"../apps/shapes/3d/shapes_to_names/index.html"</span></span>
-<span id="cb1-131"><a href="#cb1-131" aria-hidden="true" tabindex="-1"></a><span class="ot">    style</span><span class="op">=</span><span class="st">"width: 100%; border: 1px solid #ccc; border-radius: 6px;"</span></span>
-<span id="cb1-132"><a href="#cb1-132" aria-hidden="true" tabindex="-1"></a><span class="ot">  </span><span class="dt">&gt;&lt;/</span><span class="kw">iframe</span><span class="dt">&gt;</span></span>
-<span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;/</span><span class="kw">div</span><span class="dt">&gt;</span></span>
-<span id="cb1-134"><a href="#cb1-134" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-135"><a href="#cb1-135" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-137"><a href="#cb1-137" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">style</span><span class="dt">&gt;</span></span>
-<span id="cb1-138"><a href="#cb1-138" aria-hidden="true" tabindex="-1"></a>  <span class="co">/* Heights only for the apps on this page */</span></span>
-<span id="cb1-139"><a href="#cb1-139" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-140"><a href="#cb1-140" aria-hidden="true" tabindex="-1"></a>  <span class="pp">#shapes-2d</span> {</span>
-<span id="cb1-141"><a href="#cb1-141" aria-hidden="true" tabindex="-1"></a>    <span class="kw">height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
-<span id="cb1-142"><a href="#cb1-142" aria-hidden="true" tabindex="-1"></a>    <span class="kw">max-height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
-<span id="cb1-143"><a href="#cb1-143" aria-hidden="true" tabindex="-1"></a>  }</span>
-<span id="cb1-144"><a href="#cb1-144" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-145"><a href="#cb1-145" aria-hidden="true" tabindex="-1"></a>  <span class="pp">#shapes-3d</span> {</span>
-<span id="cb1-146"><a href="#cb1-146" aria-hidden="true" tabindex="-1"></a>    <span class="kw">height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
-<span id="cb1-147"><a href="#cb1-147" aria-hidden="true" tabindex="-1"></a>    <span class="kw">max-height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
-<span id="cb1-148"><a href="#cb1-148" aria-hidden="true" tabindex="-1"></a>  }</span>
-<span id="cb1-149"><a href="#cb1-149" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;/</span><span class="kw">style</span><span class="dt">&gt;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+<span id="cb1-122"><a href="#cb1-122" aria-hidden="true" tabindex="-1"></a><span class="sc">\*\*\*</span> Once again, like **Halbkreis** &lt;span class="pron" data-src="../audio/shapes/2d/Halbkreis.ogg"&gt;🔊&lt;/span&gt;, it is useful to know fractions since **Halbkugel** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/shapes/3d/Halbkugel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> literally translates to "half sphere".</span>
+<span id="cb1-123"><a href="#cb1-123" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-124"><a href="#cb1-124" aria-hidden="true" tabindex="-1"></a>:::{.callout-note}</span>
+<span id="cb1-125"><a href="#cb1-125" aria-hidden="true" tabindex="-1"></a>Similarly to the prisms, you will sometimes see pyramids be referred to using the number of sides on the base, like **das dreiseitige Pyramide** and **das vierseitige Pyramide** for triangular pyramids and square pyramid, respectively, rather than the number of corners like provided in the table above.</span>
+<span id="cb1-126"><a href="#cb1-126" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-127"><a href="#cb1-127" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-128"><a href="#cb1-128" aria-hidden="true" tabindex="-1"></a>:::{.callout-tip}</span>
+<span id="cb1-129"><a href="#cb1-129" aria-hidden="true" tabindex="-1"></a><span class="fu"># Exercise 2</span></span>
+<span id="cb1-130"><a href="#cb1-130" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-131"><a href="#cb1-131" aria-hidden="true" tabindex="-1"></a>Use the app below to practice identifying 3-dimensional shapes in German.</span>
+<span id="cb1-132"><a href="#cb1-132" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">div</span><span class="ot"> style</span><span class="op">=</span><span class="st">"width: 100%; max-width: 700px; margin: 0 auto;"</span><span class="dt">&gt;</span></span>
+<span id="cb1-134"><a href="#cb1-134" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&lt;</span><span class="kw">iframe</span></span>
+<span id="cb1-135"><a href="#cb1-135" aria-hidden="true" tabindex="-1"></a><span class="ot">    id</span><span class="op">=</span><span class="st">"shapes-3d"</span></span>
+<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a><span class="ot">    src</span><span class="op">=</span><span class="st">"../apps/shapes/3d/shapes_to_names/index.html"</span></span>
+<span id="cb1-137"><a href="#cb1-137" aria-hidden="true" tabindex="-1"></a><span class="ot">    style</span><span class="op">=</span><span class="st">"width: 100%; border: 1px solid #ccc; border-radius: 6px;"</span></span>
+<span id="cb1-138"><a href="#cb1-138" aria-hidden="true" tabindex="-1"></a><span class="ot">  </span><span class="dt">&gt;&lt;/</span><span class="kw">iframe</span><span class="dt">&gt;</span></span>
+<span id="cb1-139"><a href="#cb1-139" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;/</span><span class="kw">div</span><span class="dt">&gt;</span></span>
+<span id="cb1-140"><a href="#cb1-140" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-141"><a href="#cb1-141" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-142"><a href="#cb1-142" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-143"><a href="#cb1-143" aria-hidden="true" tabindex="-1"></a>:::{.callout-tip}</span>
+<span id="cb1-144"><a href="#cb1-144" aria-hidden="true" tabindex="-1"></a><span class="fu"># Exercise 3</span></span>
+<span id="cb1-145"><a href="#cb1-145" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-146"><a href="#cb1-146" aria-hidden="true" tabindex="-1"></a>Use the app below to practice identifying a mix of 2-dimensional and 3-dimensional shapes in German.</span>
+<span id="cb1-147"><a href="#cb1-147" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-148"><a href="#cb1-148" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">div</span><span class="ot"> style</span><span class="op">=</span><span class="st">"width: 100%; max-width: 700px; margin: 0 auto;"</span><span class="dt">&gt;</span></span>
+<span id="cb1-149"><a href="#cb1-149" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&lt;</span><span class="kw">iframe</span></span>
+<span id="cb1-150"><a href="#cb1-150" aria-hidden="true" tabindex="-1"></a><span class="ot">    id</span><span class="op">=</span><span class="st">"shapes-mixed"</span></span>
+<span id="cb1-151"><a href="#cb1-151" aria-hidden="true" tabindex="-1"></a><span class="ot">    src</span><span class="op">=</span><span class="st">"../apps/shapes/mixed/shapes_to_names/index.html"</span></span>
+<span id="cb1-152"><a href="#cb1-152" aria-hidden="true" tabindex="-1"></a><span class="ot">    style</span><span class="op">=</span><span class="st">"width: 100%; border: 1px solid #ccc; border-radius: 6px;"</span></span>
+<span id="cb1-153"><a href="#cb1-153" aria-hidden="true" tabindex="-1"></a><span class="ot">  </span><span class="dt">&gt;&lt;/</span><span class="kw">iframe</span><span class="dt">&gt;</span></span>
+<span id="cb1-154"><a href="#cb1-154" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;/</span><span class="kw">div</span><span class="dt">&gt;</span></span>
+<span id="cb1-155"><a href="#cb1-155" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-156"><a href="#cb1-156" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-157"><a href="#cb1-157" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-158"><a href="#cb1-158" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">style</span><span class="dt">&gt;</span></span>
+<span id="cb1-159"><a href="#cb1-159" aria-hidden="true" tabindex="-1"></a>  <span class="co">/* Heights only for the apps on this page */</span></span>
+<span id="cb1-160"><a href="#cb1-160" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a>  <span class="pp">#shapes-2d</span> {</span>
+<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a>    <span class="kw">height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
+<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a>    <span class="kw">max-height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
+<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a>  <span class="pp">#shapes-3d</span> {</span>
+<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a>    <span class="kw">height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
+<span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a>    <span class="kw">max-height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
+<span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb1-170"><a href="#cb1-170" aria-hidden="true" tabindex="-1"></a>  </span>
+<span id="cb1-171"><a href="#cb1-171" aria-hidden="true" tabindex="-1"></a>  <span class="pp">#shapes-mixed</span> {</span>
+<span id="cb1-172"><a href="#cb1-172" aria-hidden="true" tabindex="-1"></a>    <span class="kw">height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
+<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a>    <span class="kw">max-height</span><span class="ch">:</span> <span class="dv">625</span><span class="dt">px</span> <span class="at">!important</span><span class="op">;</span></span>
+<span id="cb1-174"><a href="#cb1-174" aria-hidden="true" tabindex="-1"></a>  }</span>
+<span id="cb1-175"><a href="#cb1-175" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;/</span><span class="kw">style</span><span class="dt">&gt;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">

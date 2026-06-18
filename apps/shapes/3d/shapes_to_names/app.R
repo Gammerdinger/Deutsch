@@ -300,68 +300,67 @@ shapes <- list(
   hemisphere     = hemisphere
 )
 
-# Shape metadata: accepted German names and genders
 shapes_info <- list(
   tri_prism = list(
     english = "triangular prism",
     forms = data.frame(
-      noun     = c("dreiseitige Prisma"),
-      article  = c("das"),
-      preferred = c(TRUE),
+      noun      = c("dreieckige Prisma",   "dreiseitige Prisma"),
+      article   = c("das",                 "das"),
+      preferred = c(TRUE,                  FALSE),
       stringsAsFactors = FALSE
     )
   ),
   rect_prism = list(
     english = "rectangular prism",
     forms = data.frame(
-      noun      = c("Quader",           "vierseitige Prisma"),
-      article   = c("der",              "das"),
-      preferred = c(TRUE,               FALSE),
+      noun      = c("Quader",              "viereckige Prisma", "vierseitige Prisma"),
+      article   = c("der",                 "das", "das"),
+      preferred = c(TRUE,                  FALSE, FALSE),
       stringsAsFactors = FALSE
     )
   ),
   pent_prism = list(
     english = "pentagonal prism",
     forms = data.frame(
-      noun     = c("fünfseitige Prisma"),
-      article  = c("das"),
-      preferred = c(TRUE),
+      noun      = c("fünfeckige Prisma",   "fünfseitige Prisma"),
+      article   = c("das",                 "das"),
+      preferred = c(TRUE,                  FALSE),
       stringsAsFactors = FALSE
     )
   ),
   hex_prism = list(
     english = "hexagonal prism",
     forms = data.frame(
-      noun     = c("sechseitige Prisma"),
-      article  = c("das"),
-      preferred = c(TRUE),
+      noun      = c("sechseckige Prisma",  "sechsseitige Prisma"),
+      article   = c("das",                 "das"),
+      preferred = c(TRUE,                  FALSE),
       stringsAsFactors = FALSE
     )
   ),
   cube = list(
     english = "cube",
     forms = data.frame(
-      noun      = c("Würfel",           "vierseitige Prisma"),
-      article   = c("der",              "das"),
-      preferred = c(TRUE,               FALSE),
+      noun      = c("Würfel",              "viereckige Prisma", "vierseitige Prisma"),
+      article   = c("der",                 "das", "das"),
+      preferred = c(TRUE,                  FALSE, FALSE),
       stringsAsFactors = FALSE
     )
   ),
   tri_pyramid = list(
     english = "triangular pyramid",
     forms = data.frame(
-      noun      = c("dreiseitige Pyramide", "Tetraeder"),
-      article   = c("die",                  "der"),
-      preferred = c(TRUE,                   TRUE),
+      noun      = c("dreieckige Pyramide", "dreiseitige Pyramide", "Tetraeder"),
+      article   = c("die",                 "die",                  "der"),
+      preferred = c(TRUE,                  FALSE,                  TRUE),
       stringsAsFactors = FALSE
     )
   ),
   square_pyramid = list(
     english = "square pyramid",
     forms = data.frame(
-      noun      = c("vierseitige Pyramide"),
-      article   = c("die"),
-      preferred = c(TRUE),
+      noun      = c("viereckige Pyramide", "vierseitige Pyramide"),
+      article   = c("die",                 "die"),
+      preferred = c(TRUE,                  FALSE),
       stringsAsFactors = FALSE
     )
   ),
@@ -403,11 +402,9 @@ shapes_info <- list(
   )
 )
 
-# Precompute normalized forms (for matching)
 normalize_term <- function(x) {
   x <- trimws(x)
   x <- tolower(x)
-  # remove leading articles if user types them
   x <- sub("^(der|die|das)\\s+", "", x)
   x <- gsub("\\s+", "", x)
   x
@@ -433,11 +430,14 @@ ui <- fluidPage(
         margin: 0 2px;
         padding: 2px 8px;
       }
+      .pron {
+        margin-left: 4px;
+        cursor: pointer;
+      }
     ")),
     tags$script(HTML(
       "
 document.addEventListener('DOMContentLoaded', function () {
-  // Press Enter when focused in the input
   document.addEventListener('keyup', function(e) {
     if (e.key === 'Enter') {
       const active = document.activeElement;
@@ -450,18 +450,75 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 "
+    )),
+    tags$audio(id = "global-audio-player"),
+    tags$script(HTML(
+      "
+document.addEventListener('DOMContentLoaded', function () {
+  console.log('audio-helper: DOMContentLoaded');
+  const player = document.getElementById('global-audio-player');
+  if (!player) {
+    console.error('audio-helper: no #global-audio-player found');
+    return;
+  }
+
+  document.body.addEventListener('click', function (e) {
+    const el = e.target.closest('.pron');
+    if (!el) return;
+
+    e.preventDefault();
+
+    const listAttr = el.getAttribute('data-src-list');
+    const single = el.getAttribute('data-src');
+
+    let sources = [];
+    if (listAttr) {
+      sources = listAttr.split(',').map(s => s.trim()).filter(Boolean);
+    } else if (single) {
+      sources = [single];
+    }
+
+    console.log('audio-helper: sources to play', sources);
+    if (sources.length === 0) return;
+
+    let idx = 0;
+
+    if (player._sequenceHandler) {
+      player.removeEventListener('ended', player._sequenceHandler);
+      player._sequenceHandler = null;
+    }
+
+    const playNext = function () {
+      if (idx >= sources.length) {
+        console.log('audio-helper: sequence finished');
+        player.removeEventListener('ended', playNext);
+        player._sequenceHandler = null;
+        return;
+      }
+      const src = sources[idx++];
+      console.log('audio-helper: playing', src);
+      player.src = src;
+      player.load();
+      player.play().catch(err => console.error('audio-helper: play error', err));
+    };
+
+    player._sequenceHandler = playNext;
+    player.addEventListener('ended', playNext);
+
+    playNext();
+  });
+});
+"
     ))
   ),
   
   div(
     style = "max-width: 650px; margin: 0 auto; text-align: center; padding-top: 5px; padding-bottom: 5px;",
     
-    # Shape plot prompt
     plotOutput("shape_plot", height = "320px"),
     
     tags$div(style = "height: 5px;"),
     
-    # Article radio buttons (der/die/das)
     radioButtons(
       "article_choice",
       label = "Select the correct article",
@@ -472,7 +529,6 @@ document.addEventListener('DOMContentLoaded', function () {
     
     tags$div(style = "height: 5px;"),
     
-    # Center the input (label + box)
     div(
       style = "display: flex; justify-content: center;",
       div(
@@ -486,7 +542,6 @@ document.addEventListener('DOMContentLoaded', function () {
       )
     ),
     
-    # Umlaut / ß helper buttons
     div(
       class = "umlaut-buttons",
       style = "margin-top: 4px;",
@@ -508,27 +563,47 @@ document.addEventListener('DOMContentLoaded', function () {
 
 server <- function(input, output, session) {
   
-  # Current shape key (one of names(shapes))
+  audio_term_html <- function(article, noun, preferred_flag) {
+    enable_audio <- !(isFALSE(preferred_flag) && grepl("seitige", noun, fixed = TRUE))
+    art_esc <- htmltools::htmlEscape(article)
+    noun_esc <- htmltools::htmlEscape(noun)
+    base_text <- sprintf("<b>%s %s</b>", art_esc, noun_esc)
+    if (!enable_audio) {
+      return(base_text)
+    }
+    words <- strsplit(noun, "\\s+")[[1]]
+    base <- "audio/3d/"
+    if (length(words) == 1) {
+      src <- paste0(base, words[1], ".ogg")
+      sprintf(
+        '%s <span class="pron" data-src="%s">🔊</span>',
+        base_text,
+        htmltools::htmlEscape(src)
+      )
+    } else {
+      srcs <- paste0(base, words, ".ogg")
+      attr <- paste(srcs, collapse = ",")
+      sprintf(
+        '%s <span class="pron" data-src-list="%s">🔊</span>',
+        base_text,
+        htmltools::htmlEscape(attr)
+      )
+    }
+  }
+  
   current_shape <- reactiveVal(sample(names(shapes), 1))
-  
-  # Mode: "check" or "next"
   mode <- reactiveVal("check")
-  
-  # Raw feedback HTML
   feedback_html <- reactiveVal("")
   
-  # Render the current shape plot
   output$shape_plot <- renderPlot({
     key <- current_shape()
     shapes[[key]]()
   })
   
-  # Feedback
   output$feedback_ui <- renderUI({
     HTML(feedback_html())
   })
   
-  # Helper: append a character to the current input
   append_char <- function(ch) {
     cur <- input$user_answer
     if (is.null(cur)) cur <- ""
@@ -543,12 +618,10 @@ server <- function(input, output, session) {
   observeEvent(input$check_next, {
     
     if (mode() == "check") {
-      # CHECK ANSWER
       ans_raw <- input$user_answer
       if (is.null(ans_raw)) ans_raw <- ""
       art_raw <- input$article_choice
       
-      # Basic validation: still stay in "check" mode
       if (trimws(ans_raw) == "") {
         feedback_html("Please enter the German name of the shape.")
         return()
@@ -559,7 +632,6 @@ server <- function(input, output, session) {
         return()
       }
       
-      # Do not allow the user to type the article in the text box
       if (grepl("^(?i)\\s*(der|die|das)\\s+", ans_raw)) {
         feedback_html(
           "Please enter the shape name <b>without</b> der/die/das; choose the article with the radio buttons above."
@@ -574,18 +646,14 @@ server <- function(input, output, session) {
       info <- shapes_info[[key]]
       forms <- info$forms
       
-      # Find all noun matches (ignoring article for matching)
       match_idx <- which(ans_norm == forms$norm_noun)
       
       if (length(match_idx) == 0) {
-        # Completely incorrect noun; show preferred correct answers
         preferred <- forms[forms$preferred, , drop = FALSE]
-        
-        # Bold each correct answer separately, not the "or"
-        pref_parts <- paste0(
-          "<b>",
-          htmltools::htmlEscape(paste(preferred$article, preferred$noun)),
-          "</b>"
+        pref_parts <- vapply(
+          seq_len(nrow(preferred)),
+          function(i) audio_term_html(preferred$article[i], preferred$noun[i], preferred$preferred[i]),
+          character(1)
         )
         correct_str <- paste(pref_parts, collapse = " or ")
         
@@ -598,84 +666,136 @@ server <- function(input, output, session) {
         )
         
       } else {
-        # We have at least one matching noun; now check article
         match_forms <- forms[match_idx, , drop = FALSE]
         correct_article_idx <- which(match_forms$article == art)
         
         if (length(correct_article_idx) == 0) {
-          # Noun is OK, article is wrong
-          correct_genders <- unique(paste0(match_forms$article, " ", match_forms$noun))
-          feedback_html(
-            paste0(
-              "❌ The noun is right, but the article is incorrect. ",
-              "For what you wrote, use: <b>",
-              htmltools::htmlEscape(paste(correct_genders, collapse = " or ")),
-              "</b>."
-            )
+          idxs <- seq_len(nrow(match_forms))
+          correct_parts <- vapply(
+            idxs,
+            function(i) audio_term_html(
+              match_forms$article[i],
+              match_forms$noun[i],
+              match_forms$preferred[i]
+            ),
+            character(1)
+          )
+          correct_parts <- unique(correct_parts)
+          correct_str <- paste(correct_parts, collapse = " or ")
+          
+          base_msg <- paste0(
+            "❌ The noun is right, but the article is incorrect. ",
+            "For what you wrote, use: ",
+            correct_str,
+            "."
           )
           
+          if (all(!match_forms$preferred) && any(forms$preferred)) {
+            preferred <- forms[forms$preferred, , drop = FALSE]
+            pref_parts <- vapply(
+              seq_len(nrow(preferred)),
+              function(i) audio_term_html(
+                preferred$article[i],
+                preferred$noun[i],
+                preferred$preferred[i]
+              ),
+              character(1)
+            )
+            pref_str <- paste(pref_parts, collapse = " or ")
+            
+            base_msg <- paste0(
+              base_msg,
+              " However, the more usual term here is: ",
+              pref_str,
+              "."
+            )
+          }
+          
+          feedback_html(base_msg)
+          
         } else {
-          # Fully correct (noun + article); see if it's preferred or only acceptable
           chosen <- match_forms[correct_article_idx[1], , drop = FALSE]
           
           if (!chosen$preferred) {
-            # Accepted but not preferred (e.g. vierseitige Prisma)
             preferred <- forms[forms$preferred, , drop = FALSE]
-            pref_text <- paste0(preferred$article, " ", preferred$noun)
-            pref_str <- paste(pref_text, collapse = " or ")
+            pref_parts <- vapply(
+              seq_len(nrow(preferred)),
+              function(i) audio_term_html(
+                preferred$article[i],
+                preferred$noun[i],
+                preferred$preferred[i]
+              ),
+              character(1)
+            )
+            pref_str <- paste(pref_parts, collapse = " or ")
+            
+            chosen_html <- audio_term_html(chosen$article, chosen$noun, chosen$preferred)
             
             feedback_html(
               paste0(
-                "✅ Accepted: <b>",
-                # show canonical non-preferred form
-                htmltools::htmlEscape(paste(chosen$article, chosen$noun)),
-                "</b>.<br>",
-                "However, the more usual term here is: <b>",
-                htmltools::htmlEscape(pref_str),
-                "</b>."
+                "✅ Accepted: ",
+                chosen_html,
+                ".<br>",
+                "However, the more usual term here is: ",
+                pref_str,
+                "."
               )
             )
           } else {
-            # Completely correct and preferred
             user_noun_trim    <- trimws(ans_raw)
             canonical_noun    <- chosen$noun
             canonical_article <- chosen$article
             
-            # Extra note for triangular pyramid (Tetraeder / dreiseitige Pyramide)
+            canonical_html <- audio_term_html(canonical_article, canonical_noun, TRUE)
+            
             extra_note <- ""
             if (key == "tri_pyramid") {
               other <- forms[forms$noun != canonical_noun & forms$preferred, , drop = FALSE]
               if (nrow(other) == 1) {
-                other_str <- paste(other$article, other$noun)
+                other_html <- audio_term_html(other$article, other$noun, other$preferred)
                 extra_note <- paste0(
-                  "<br>This shape is also sometimes referred to as <b>",
-                  htmltools::htmlEscape(other_str),
-                  "</b>."
+                  "<br>This shape is also sometimes referred to as ",
+                  other_html,
+                  "."
+                )
+              } else if (nrow(other) > 1) {
+                other_parts <- vapply(
+                  seq_len(nrow(other)),
+                  function(i) audio_term_html(
+                    other$article[i],
+                    other$noun[i],
+                    other$preferred[i]
+                  ),
+                  character(1)
+                )
+                other_str <- paste(other_parts, collapse = " or ")
+                extra_note <- paste0(
+                  "<br>This shape is also sometimes referred to as ",
+                  other_str,
+                  "."
                 )
               }
             }
             
             if (tolower(user_noun_trim) == tolower(canonical_noun) &&
                 user_noun_trim != canonical_noun) {
-              # Correct word & article, but noun capitalization differs
               feedback_html(
                 paste0(
                   "✅ Accepted: <b>",
                   htmltools::htmlEscape(paste(art, user_noun_trim)),
                   "</b>.<br>",
-                  "Remember that German nouns are capitalized, so it should be: <b>",
-                  htmltools::htmlEscape(paste(canonical_article, canonical_noun)),
-                  "</b>.",
+                  "Remember that German nouns are capitalized, so it should be: ",
+                  canonical_html,
+                  ".",
                   extra_note
                 )
               )
             } else {
-              # Correct including capitalization
               feedback_html(
                 paste0(
-                  "✅ Correct! <b>",
-                  htmltools::htmlEscape(paste(canonical_article, canonical_noun)),
-                  "</b>.",
+                  "✅ Correct! ",
+                  canonical_html,
+                  ".",
                   extra_note
                 )
               )
@@ -684,13 +804,10 @@ server <- function(input, output, session) {
         }
       }
       
-      # After any non-empty, fully specified attempt (right or wrong),
-      # switch to NEXT mode.
       mode("next")
       updateActionButton(session, "check_next", label = "Next question")
       
     } else {
-      # NEXT QUESTION
       current_shape(sample(names(shapes), 1))
       updateTextInput(session, "user_answer", value = "")
       updateRadioButtons(session, "article_choice", selected = character(0))

@@ -14,6 +14,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-acht2.ogg` to `acht.ogg`; audio content otherwise unchanged.
 
+### Achteck
+
+**Title / Description:** Pronunciation of *Achteck* (original file: `De-Achteck.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Achteck.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Achteck.ogg` to `Achteck.ogg`; audio content otherwise unchanged.
+
 ### Achtel
 
 **Title / Description:** Pronunciation of *Achtel* (original file: `De-Achtel.ogg`)  
@@ -380,6 +388,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-drei2.ogg` to `drei.ogg`; audio content otherwise unchanged.
 
+### Dreieck
+
+**Title / Description:** Pronunciation of *Dreieck* (original file: `De-Dreieck.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Dreieck.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Dreieck.ogg` to `Dreieck.ogg`; audio content otherwise unchanged.
+
+### dreieckige
+
+**Title / Description:** Pronunciation of *dreieckige* (original file: `De-dreieckige.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreieckige.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dreieckige.ogg` to `dreieckige.ogg`; audio content otherwise unchanged.
+
 ### dreihundert
 
 **Title / Description:** Pronunciation of *dreihundert* (original file: `De-dreihundert.ogg`)  
@@ -388,13 +412,13 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-dreihundert.ogg` to `dreihundert.ogg`; audio content otherwise unchanged.
 
-### dreitausend
+### dreiseitige
 
-**Title / Description:** Pronunciation of *dreitausend* (original file: `De-dreitausend.ogg`)  
+**Title / Description:** Pronunciation of *dreiseitige* (original file: `De-dreiseitige.ogg`)  
 **Author / Creator:** Jeuwre  
-**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreitausend.ogg)  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreiseitige.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
-**Modifications:** Local filename changed from `De-dreitausend.ogg` to `dreitausend.ogg`; audio content otherwise unchanged.
+**Modifications:** Local filename changed from `De-dreiseitige.ogg` to `dreiseitige.ogg`; audio content otherwise unchanged.
 
 ### dreißig
 
@@ -403,6 +427,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreißig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-dreißig2.ogg` to `dreißig.ogg`; audio content otherwise unchanged.
+
+### dreitausend
+
+**Title / Description:** Pronunciation of *dreitausend* (original file: `De-dreitausend.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-dreitausend.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-dreitausend.ogg` to `dreitausend.ogg`; audio content otherwise unchanged.
 
 ### dreiundachtzig
 
@@ -509,6 +541,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Modifications:** Local filename changed from `De-dürft.ogg` to `dürft.ogg`; audio content otherwise unchanged.
 
 ## E
+
+### Eck
+
+**Title / Description:** Pronunciation of *Eck* (original file: `De-Eck.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Eck.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Eck.ogg` to `Eck.ogg`; audio content otherwise unchanged.
+
+### Ecke
+
+**Title / Description:** Pronunciation of *Ecke* (original file: `De-Ecke.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Ecke.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Ecke.ogg` to `Ecke.ogg`; audio content otherwise unchanged.
 
 ### eilen
 
@@ -735,6 +783,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünf2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-fünf2.ogg` to `fünf.ogg`; audio content otherwise unchanged.
+
+### Fünfeck
+
+**Title / Description:** Pronunciation of *Fünfeck* (original file: `De-Fünfeck.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Fünfeck.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Fünfeck.ogg` to `Fünfeck.ogg`; audio content otherwise unchanged.
+
+### fünfeckige
+
+**Title / Description:** Pronunciation of *fünfeckige* (original file: `De-fünfeckige.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-fünfeckige.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-fünfeckige.ogg` to `fünfeckige.ogg`; audio content otherwise unchanged.
 
 ### fünfhundert
 
@@ -1013,6 +1077,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-halb2.ogg` to `Halb.ogg`; audio content otherwise unchanged.
 
+### Halbkreis
+
+**Title / Description:** Pronunciation of *Halbkreis* (original file: `De-Halbkreis.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Halbkreis.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Halbkreis.ogg` to `Halbkreis.ogg`; audio content otherwise unchanged.
+
+### Halbkugel
+
+**Title / Description:** Pronunciation of *Halbkugel* (original file: `De-Halbkugel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Halbkugel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Halbkugel.ogg` to `Halbkugel.ogg`; audio content otherwise unchanged.
+
 ### Hälfte
 
 **Title / Description:** Pronunciation of *Hälfte* (original file: `De-Hälfte2.ogg`)  
@@ -1179,6 +1259,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-kannst.ogg` to `kannst.ogg`; audio content otherwise unchanged.
 
+### Kegel
+
+**Title / Description:** Pronunciation of *Kegel* (original file: `De-Kegel2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Kegel2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Kegel2.ogg` to `Kegel.ogg`; audio content otherwise unchanged.
+
 ### Komma
 
 **Title / Description:** Pronunciation of *Komma* (original file: `De-Komma.ogg`)  
@@ -1210,6 +1298,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-könnt.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-könnt.ogg` to `könnt.ogg`; audio content otherwise unchanged.
+
+### Kreis
+
+**Title / Description:** Pronunciation of *Kreis* (original file: `De-Kreis.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Kreis.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Kreis.ogg` to `Kreis.ogg`; audio content otherwise unchanged.
+
+### Kugel
+
+**Title / Description:** Pronunciation of *Kugel* (original file: `De-Kugel.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Kugel.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Kugel.ogg` to `Kugel.ogg`; audio content otherwise unchanged.
 
 ## L
 
@@ -1668,7 +1772,23 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-öffnet.ogg` to `öffnet.ogg`; audio content otherwise unchanged.
 
+### Oval
+
+**Title / Description:** Pronunciation of *Oval* (original file: `De-Oval.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Oval.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Oval.ogg` to `Oval.ogg`; audio content otherwise unchanged.
+
 ## P
+
+### Parallelogramm
+
+**Title / Description:** Pronunciation of *Parallelogramm* (original file: `De-Parallelogramm.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Parallelogramm.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Parallelogramm.ogg` to `Parallelogramm.ogg`; audio content otherwise unchanged.
 
 ### passieren
 
@@ -1677,6 +1797,40 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-passieren2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-passieren2.ogg` to `passieren.ogg`; audio content otherwise unchanged.
+
+### Prisma
+
+**Title / Description:** Pronunciation of *Prisma* (original file: `De-Prisma.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Prisma.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Prisma.ogg` to `Prisma.ogg`; audio content otherwise unchanged.
+
+### Pyramide
+
+**Title / Description:** Pronunciation of *Pyramide* (original file: `De-Pyramide.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Pyramide.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Pyramide.ogg` to `Pyramide.ogg`; audio content otherwise unchanged.
+
+## Q
+
+### Quadrat
+
+**Title / Description:** Pronunciation of *Quadrat* (original file: `De-Quadrat.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Quadrat.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Quadrat.ogg` to `Quadrat.ogg`; audio content otherwise unchanged.
+
+### Quader
+
+**Title / Description:** Pronunciation of *Quader* (original file: `De-Quader.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Quader.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Quader.ogg` to `Quader.ogg`; audio content otherwise unchanged.
 
 ## R
 
@@ -1688,6 +1842,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-raten2.ogg` to `raten.ogg`; audio content otherwise unchanged.
 
+### Raute
+
+**Title / Description:** Pronunciation of *Raute* (original file: `De-Raute.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Raute.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Raute.ogg` to `Raute.ogg`; audio content otherwise unchanged.
+
 ### rechnen
 
 **Title / Description:** Pronunciation of *rechnen* (original file: `De-rechnen2.ogg`)  
@@ -1695,6 +1857,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-rechnen2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-rechnen2.ogg` to `rechnen.ogg`; audio content otherwise unchanged.
+
+### Rechteck
+
+**Title / Description:** Pronunciation of *Rechteck* (original file: `De-Rechteck.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Rechteck.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Rechteck.ogg` to `Rechteck.ogg`; audio content otherwise unchanged.
 
 ### regnen
 
@@ -1777,6 +1947,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechs2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-sechs2.ogg` to `sechs.ogg`; audio content otherwise unchanged.
+
+### Sechseck
+
+**Title / Description:** Pronunciation of *Sechseck* (original file: `De-Sechseck.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Sechseck.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Sechseck.ogg` to `Sechseck.ogg`; audio content otherwise unchanged.
+
+### sechseckige
+
+**Title / Description:** Pronunciation of *sechseckige* (original file: `De-sechseckige.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-sechseckige.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-sechseckige.ogg` to `sechseckige.ogg`; audio content otherwise unchanged.
 
 ### sechshundert
 
@@ -2107,6 +2293,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-sein2.ogg` to `sein.ogg`; audio content otherwise unchanged.
 
+### Seite
+
+**Title / Description:** Pronunciation of *Seite* (original file: `De-Seite2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Seite2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Seite2.ogg` to `Seite.ogg`; audio content otherwise unchanged.
+
 ### sich
 
 **Title / Description:** Pronunciation of *sich* (original file: `De-sich2.ogg`)  
@@ -2221,6 +2415,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-Tausendstel2.ogg` to `Tausendstel.ogg`; audio content otherwise unchanged.
 
+### Tetraeder
+
+**Title / Description:** Pronunciation of *Tetraeder* (original file: `De-Tetraeder.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Tetraeder.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Tetraeder.ogg` to `Tetraeder.ogg`; audio content otherwise unchanged.
+
 ### tragen
 
 **Title / Description:** Pronunciation of *tragen* (original file: `De-tragen2.ogg`)  
@@ -2228,6 +2430,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-tragen2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-tragen2.ogg` to `tragen.ogg`; audio content otherwise unchanged.
+
+### Trapez
+
+**Title / Description:** Pronunciation of *Trapez* (original file: `De-Trapez.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Trapez.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Trapez.ogg` to `Trapez.ogg`; audio content otherwise unchanged.
 
 ### treffen
 
@@ -2321,6 +2531,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 
 ## V
 
+### viel
+
+**Title / Description:** Pronunciation of *viel* (original file: `De-viel2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-viel2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-viel2.ogg` to `viel.ogg`; audio content otherwise unchanged.
+
+### Vieleck
+
+**Title / Description:** Pronunciation of *Vieleck* (original file: `De-Vieleck.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Vieleck.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Vieleck.ogg` to `Vieleck.ogg`; audio content otherwise unchanged.
+
 ### vier
 
 **Title / Description:** Pronunciation of *vier* (original file: `De-vier2.ogg`)  
@@ -2328,6 +2554,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vier2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-vier2.ogg` to `vier.ogg`; audio content otherwise unchanged.
+
+### Viereck
+
+**Title / Description:** Pronunciation of *Viereck* (original file: `De-Viereck.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Viereck.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Viereck.ogg` to `Viereck.ogg`; audio content otherwise unchanged.
+
+### viereckige
+
+**Title / Description:** Pronunciation of *viereckige* (original file: `De-viereckige.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-viereckige.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-viereckige.ogg` to `viereckige.ogg`; audio content otherwise unchanged.
 
 ### vierhundert
 
@@ -2595,6 +2837,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-wollt.ogg` to `wollt.ogg`; audio content otherwise unchanged.
 
+### Würfel
+
+**Title / Description:** Pronunciation of *Würfel* (original file: `De-Würfel2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Würfel2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Würfel2.ogg` to `Würfel.ogg`; audio content otherwise unchanged.
+
 ## X
 
 ## Y
@@ -2616,6 +2866,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-zehn2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-zehn2.ogg` to `zehn.ogg`; audio content otherwise unchanged.
+
+### Zehneck
+
+**Title / Description:** Pronunciation of *Zehneck* (original file: `De-Zehneck.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Zehneck.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Zehneck.ogg` to `Zehneck.ogg`; audio content otherwise unchanged.
 
 ### zehntausend
 
@@ -2760,3 +3018,11 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Zwölftel.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-Zwölftel.ogg` to `Zwölftel.ogg`; audio content otherwise unchanged.
+
+### Zylinder
+
+**Title / Description:** Pronunciation of *Zylinder* (original file: `De-Zylinder.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Zylinder.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Zylinder.ogg` to `Zylinder.ogg`; audio content otherwise unchanged.

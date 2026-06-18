@@ -169,6 +169,48 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("tts-helper: DOMContentLoaded");
+
+  function speakGerman(text) {
+    if (!("speechSynthesis" in window)) {
+      console.warn("tts-helper: speechSynthesis not supported in this browser");
+      return;
+    }
+
+    // Stop any ongoing speech
+    window.speechSynthesis.cancel();
+
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.lang = "de-DE";  // German voice
+    utter.rate = 1.0;
+    utter.pitch = 1.0;
+
+    window.speechSynthesis.speak(utter);
+  }
+
+  // Elements that trigger TTS: <span class="tts-de" data-text="eins">🔊</span>
+  document.querySelectorAll(".tts-de").forEach(function (el) {
+    console.log("tts-helper: found .tts-de", el);
+    el.style.cursor = "pointer";
+    if (!el.getAttribute("title")) {
+      el.setAttribute("title", "Play text-to-speech");
+    }
+
+    el.addEventListener("click", function (e) {
+      e.preventDefault();
+      const text = el.getAttribute("data-text");
+      if (!text) {
+        console.warn("tts-helper: .tts-de element has no data-text", el);
+        return;
+      }
+      speakGerman(text);
+    });
+  });
+});
+</script>
+
 
 <link rel="stylesheet" href="../css/styles.css">
 
