@@ -122,7 +122,7 @@ The German word for "side" in relation to shapes is **die Seite** <span class="p
 \*\*\* Once again, like **Halbkreis** <span class="pron" data-src="../audio/shapes/2d/Halbkreis.ogg">🔊</span>, it is useful to know fractions since **Halbkugel** <span class="pron" data-src="../audio/shapes/3d/Halbkugel.ogg">🔊</span> literally translates to "half sphere".
 
 :::{.callout-note}
-Similarly to the prisms, you will sometimes see pyramids be referred to using the number of sides on the base, like **das dreiseitige Pyramide** and **das vierseitige Pyramide** for triangular pyramids and square pyramid, respectively, rather than the number of corners like provided in the table above.
+Similarly to the prisms, you will sometimes see pyramids be referred to using the number of sides on the base, like **die dreiseitige Pyramide** and **die vierseitige Pyramide** for triangular pyramids and square pyramid, respectively, rather than the number of corners like provided in the table above.
 :::
 
 :::{.callout-tip}
