@@ -164,3 +164,8 @@ img {
 .panel-tabset {
   width: 100%;
 }
+
+.vcenter-table table td,
+.vcenter-table table th {
+  vertical-align: middle !important;
+}

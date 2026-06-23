@@ -6,6 +6,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 
 ## A
 
+### ab
+
+**Title / Description:** Pronunciation of *ab* (original file: `De-ab.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-ab.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-ab.ogg` to `ab.ogg`; audio content otherwise unchanged.
+
+### abends
+
+**Title / Description:** Pronunciation of *abends* (original file: `De-abends.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-abends.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-abends.ogg` to `abends.ogg`; audio content otherwise unchanged.
+
 ### acht
 
 **Title / Description:** Pronunciation of *acht* (original file: `De-acht2.ogg`)  
@@ -311,6 +327,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-bin2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-bin2.ogg` to `bin.ogg`; audio content otherwise unchanged.
+
+### bis
+
+**Title / Description:** Pronunciation of *bis* (original file: `De-bis3.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-bis3.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-bis3.ogg` to `bis.ogg`; audio content otherwise unchanged.
 
 ### bist
 
@@ -1520,6 +1544,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-misslingen.ogg` to `misslingen.ogg`; audio content otherwise unchanged.
 
+### Mittag
+
+**Title / Description:** Pronunciation of *Mittag* (original file: `De-Mittag2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Mittag2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Mittag2.ogg` to `Mittag.ogg`; audio content otherwise unchanged.
+
+### Mitternacht
+
+**Title / Description:** Pronunciation of *Mitternacht* (original file: `De-Mitternacht2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Mitternacht2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Mitternacht2.ogg` to `Mitternacht.ogg`; audio content otherwise unchanged.
+
 ### mixen
 
 **Title / Description:** Pronunciation of *mixen* (original file: `De-mixen.ogg`)  
@@ -1527,6 +1567,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-mixen.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-mixen.ogg` to `mixen.ogg`; audio content otherwise unchanged.
+
+### morgens
+
+**Title / Description:** Pronunciation of *morgens* (original file: `De-morgens.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-morgens.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-morgens.ogg` to `morgens.ogg`; audio content otherwise unchanged.
 
 ### mögen
 
@@ -1577,6 +1625,30 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Modifications:** Local filename changed from `De-müsst.ogg` to `müsst.ogg`; audio content otherwise unchanged.
 
 ## N
+
+### nach
+
+**Title / Description:** Pronunciation of *nach* (original file: `De-nach2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-nach2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-nach2.ogg` to `nach.ogg`; audio content otherwise unchanged.
+
+### nachmittags
+
+**Title / Description:** Pronunciation of *nachmittags* (original file: `De-nachmittags.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-nachmittags.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-nachmittags.ogg` to `nachmittags.ogg`; audio content otherwise unchanged.
+
+### nachts
+
+**Title / Description:** Pronunciation of *nachts* (original file: `De-nachts.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-nachts.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-nachts.ogg` to `nachts.ogg`; audio content otherwise unchanged.
 
 ### nehme
 
@@ -2389,6 +2461,14 @@ The names listed here indicate authorship of the original audio files only. Thei
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-stimmen.ogg` to `stimmen.ogg`; audio content otherwise unchanged.
 
+### Stunde
+
+**Title / Description:** Pronunciation of *Stunde* (original file: `De-Stunde2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Stunde2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Stunde2.ogg` to `Stunde.ogg`; audio content otherwise unchanged.
+
 ## T
 
 ### tanzen
@@ -2528,6 +2608,22 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Modifications:** Local filename changed from `De-tut.ogg` to `tut.ogg`; audio content otherwise unchanged.
 
 ## U
+
+### Uhr
+
+**Title / Description:** Pronunciation of *Uhr* (original file: `De-Uhr2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-Uhr2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-Uhr2.ogg` to `Uhr.ogg`; audio content otherwise unchanged.
+
+### um
+
+**Title / Description:** Pronunciation of *um* (original file: `De-um3.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-um3.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-um3.ogg` to `um.ogg`; audio content otherwise unchanged.
 
 ## V
 
@@ -2674,6 +2770,30 @@ The names listed here indicate authorship of the original audio files only. Thei
 **Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vierzig2.ogg)  
 **License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 **Modifications:** Local filename changed from `De-vierzig2.ogg` to `vierzig.ogg`; audio content otherwise unchanged.
+
+### von
+
+**Title / Description:** Pronunciation of *von* (original file: `De-von2.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-von2.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-von2.ogg` to `von.ogg`; audio content otherwise unchanged.
+
+### vor
+
+**Title / Description:** Pronunciation of *vor* (original file: `De-vor3.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vor3.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-vor3.ogg` to `vor.ogg`; audio content otherwise unchanged.
+
+### vormittags
+
+**Title / Description:** Pronunciation of *vormittags* (original file: `De-vormittags.ogg`)  
+**Author / Creator:** Jeuwre  
+**Source:** [Wiktionary file page](https://en.wiktionary.org/wiki/File:De-vormittags.ogg)  
+**License:** [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+**Modifications:** Local filename changed from `De-vormittags.ogg` to `vormittags.ogg`; audio content otherwise unchanged.
 
 ## W
 
