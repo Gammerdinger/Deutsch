@@ -173,6 +173,48 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("tts-helper: DOMContentLoaded");
+
+  function speakGerman(text) {
+    if (!("speechSynthesis" in window)) {
+      console.warn("tts-helper: speechSynthesis not supported in this browser");
+      return;
+    }
+
+    // Stop any ongoing speech
+    window.speechSynthesis.cancel();
+
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.lang = "de-DE";  // German voice
+    utter.rate = 1.0;
+    utter.pitch = 1.0;
+
+    window.speechSynthesis.speak(utter);
+  }
+
+  // Elements that trigger TTS: <span class="tts-de" data-text="eins">🔊</span>
+  document.querySelectorAll(".tts-de").forEach(function (el) {
+    console.log("tts-helper: found .tts-de", el);
+    el.style.cursor = "pointer";
+    if (!el.getAttribute("title")) {
+      el.setAttribute("title", "Play text-to-speech");
+    }
+
+    el.addEventListener("click", function (e) {
+      e.preventDefault();
+      const text = el.getAttribute("data-text");
+      if (!text) {
+        console.warn("tts-helper: .tts-de element has no data-text", el);
+        return;
+      }
+      speakGerman(text);
+    });
+  });
+});
+</script>
+
 
 <link rel="stylesheet" href="../css/styles.css">
 
@@ -232,18 +274,12 @@ document.addEventListener("DOMContentLoaded", function () {
   <ul class="collapse">
   <li><a href="#counting-by-hundreds" id="toc-counting-by-hundreds" class="nav-link" data-scroll-target="#counting-by-hundreds">Counting by hundreds</a></li>
   <li><a href="#counting-numbers-in-the-hundreds" id="toc-counting-numbers-in-the-hundreds" class="nav-link" data-scroll-target="#counting-numbers-in-the-hundreds">Counting numbers in the hundreds</a></li>
-  <li><a href="#counting-the-thousands-and-beyond" id="toc-counting-the-thousands-and-beyond" class="nav-link" data-scroll-target="#counting-the-thousands-and-beyond">Counting the thousands and beyond</a>
-  <ul class="collapse">
-  <li><a href="#separators" id="toc-separators" class="nav-link" data-scroll-target="#separators">Separators</a></li>
-  <li><a href="#one-hundred-thousand-and-beyond" id="toc-one-hundred-thousand-and-beyond" class="nav-link" data-scroll-target="#one-hundred-thousand-and-beyond">One-hundred thousand and beyond</a></li>
-  </ul></li>
+  <li><a href="#counting-the-thousands-and-beyond" id="toc-counting-the-thousands-and-beyond" class="nav-link" data-scroll-target="#counting-the-thousands-and-beyond">Counting the thousands and beyond</a></li>
   </ul></li>
   <li><a href="#fractions" id="toc-fractions" class="nav-link" data-scroll-target="#fractions">Fractions</a>
   <ul class="collapse">
   <li><a href="#numerators" id="toc-numerators" class="nav-link" data-scroll-target="#numerators">Numerators</a></li>
   <li><a href="#denominators" id="toc-denominators" class="nav-link" data-scroll-target="#denominators">Denominators</a></li>
-  <li><a href="#denominators-between-two-and-nineteen" id="toc-denominators-between-two-and-nineteen" class="nav-link" data-scroll-target="#denominators-between-two-and-nineteen">Denominators between two and nineteen</a></li>
-  <li><a href="#denominators-twenty-or-greater" id="toc-denominators-twenty-or-greater" class="nav-link" data-scroll-target="#denominators-twenty-or-greater">Denominators twenty or greater</a></li>
   <li><a href="#combining-the-numerator-and-denominator" id="toc-combining-the-numerator-and-denominator" class="nav-link" data-scroll-target="#combining-the-numerator-and-denominator">Combining the numerator and denominator</a></li>
   </ul></li>
   </ul>
@@ -299,18 +335,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 <p>Approximate time: 30 minutes</p>
-<section id="learning-objectives" class="level1">
-<h1>Learning Objectives</h1>
+<section id="learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
 <p>In this lesson, the learner will:</p>
 <ul>
 <li>Practice counting</li>
 <li>Construct fractions</li>
 </ul>
 </section>
-<section id="counting-from-0-to-99" class="level1">
-<h1>Counting from 0 to 99</h1>
-<section id="counting-from-zero-to-twelve" class="level2">
-<h2 class="anchored" data-anchor-id="counting-from-zero-to-twelve">Counting from zero to twelve</h2>
+<section id="counting-from-0-to-99" class="level2">
+<h2 class="anchored" data-anchor-id="counting-from-0-to-99">Counting from 0 to 99</h2>
+<section id="counting-from-zero-to-twelve" class="level3">
+<h3 class="anchored" data-anchor-id="counting-from-zero-to-twelve">Counting from zero to twelve</h3>
 <p>Similarly to English, the most difficult part of counting in German is learning the numbers zero through twelve. Once you have those down, most of the numbers that follow are trivial, so let’s focus on counting to twelve first. Unfortunately, there aren’t any tricks that I know of, so it just requires some memorization.</p>
 <table class="caption-top table">
 <colgroup>
@@ -423,8 +459,8 @@ document.addEventListener("DOMContentLoaded", function () {
 </div>
 </div>
 </section>
-<section id="counting-from-13-to-19" class="level2">
-<h2 class="anchored" data-anchor-id="counting-from-13-to-19">Counting from 13 to 19</h2>
+<section id="counting-from-13-to-19" class="level3">
+<h3 class="anchored" data-anchor-id="counting-from-13-to-19">Counting from 13 to 19</h3>
 <p>Now that we have mastered one through twelve, let’s briefly discuss the “teens”. With our knowledge of three through nine, we can now “add zehn” to those numbers to make our teens. To do this, we are going to append <strong>-zehn</strong> (10) to the end of the numbers to make our “teens”. For example, 13 would turn into <strong>dreizehn</strong>, or literally translated to “three ten”.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -484,8 +520,8 @@ document.addEventListener("DOMContentLoaded", function () {
 </tbody>
 </table>
 </section>
-<section id="counting-by-tens" class="level2">
-<h2 class="anchored" data-anchor-id="counting-by-tens">Counting by tens</h2>
+<section id="counting-by-tens" class="level3">
+<h3 class="anchored" data-anchor-id="counting-by-tens">Counting by tens</h3>
 <p>The next step is to learn the tens. In English, we often add <em>-ty</em> to the base number to denote it’s in the tens place (<em>four</em>ty, <em>six</em>ty, <em>seven</em>ty, <em>nine</em>ty). This same idea happens in German but it is with <em>-zig</em>.</p>
 <p>English has three exceptions to this pattern (twenty, thirty and fifty are not called “twoty”, “threety” and “fivety”) and so does German. In German, the numbers that don’t quite fit the pattern are 20, 60 and 70 and they are translated to <strong>zwanzig</strong>, <strong>sechzig</strong> and <strong>siebzig</strong>, respectively. Similarly to adding “-zehn” for the “-teens”, <strong>sechs</strong> gets shortened to <strong>sech-</strong> and <strong>sieben</strong> gets shortened to <strong>sieb-</strong>.</p>
 <table class="caption-top table">
@@ -539,8 +575,8 @@ document.addEventListener("DOMContentLoaded", function () {
 </tbody>
 </table>
 </section>
-<section id="counting-from-20-to-99" class="level2">
-<h2 class="anchored" data-anchor-id="counting-from-20-to-99">Counting from 20 to 99</h2>
+<section id="counting-from-20-to-99" class="level3">
+<h3 class="anchored" data-anchor-id="counting-from-20-to-99">Counting from 20 to 99</h3>
 <p>Armed with how to count by ones and tens, we can count from 20 to 99 with no issues. In English, we say twenty-one, twenty-two, twenty-three, etc., where there is the tens place number followed by the ones place number and separated by a dash.</p>
 <p>German has a similar concept, but it feels a bit wonky (at least to me). German states the ones place number first, then the tens place number and connects them with <strong>und</strong>, which means “and” in German. So twenty-two translates to <strong>zweiundzwanzig</strong>. This would literally translate to “two and twenty”. The one exception we need to be aware of is that <strong>eins</strong> (one) turns to <strong>ein-</strong>, so “twenty-one” translates to <strong>einundzwanzig</strong> rather than “ein<strong>s</strong>undzwanzig”. Outside of that, you just repeat that pattern up to 99. The table below shows these numbers:</p>
 <table class="caption-top table">
@@ -913,10 +949,10 @@ document.addEventListener("DOMContentLoaded", function () {
 </div>
 </section>
 </section>
-<section id="counting-from-100-and-beyond" class="level1">
-<h1>Counting from 100 and beyond</h1>
-<section id="counting-by-hundreds" class="level2">
-<h2 class="anchored" data-anchor-id="counting-by-hundreds">Counting by hundreds</h2>
+<section id="counting-from-100-and-beyond" class="level2">
+<h2 class="anchored" data-anchor-id="counting-from-100-and-beyond">Counting from 100 and beyond</h2>
+<section id="counting-by-hundreds" class="level3">
+<h3 class="anchored" data-anchor-id="counting-by-hundreds">Counting by hundreds</h3>
 <p>In order to learn how to count in the hundreds, let’s first talk about counting by hundreds. To count by hundreds, it is just the base number followed by <strong>-hundert</strong> <span class="pron" data-src="../audio/numbers/hundreds/hundert.ogg">🔊</span>.</p>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -983,12 +1019,12 @@ document.addEventListener("DOMContentLoaded", function () {
 </tbody>
 </table>
 </section>
-<section id="counting-numbers-in-the-hundreds" class="level2">
-<h2 class="anchored" data-anchor-id="counting-numbers-in-the-hundreds">Counting numbers in the hundreds</h2>
+<section id="counting-numbers-in-the-hundreds" class="level3">
+<h3 class="anchored" data-anchor-id="counting-numbers-in-the-hundreds">Counting numbers in the hundreds</h3>
 <p>With our knowledge of the hundreds, tens and ones, we can put them all together. First, we state our hundreds number, followed by the number as it would be formed in 1-99. So 281, would be <strong>zweihunderteinundachtzig</strong>. As you can imagine, this can start to make some very long words!</p>
 </section>
-<section id="counting-the-thousands-and-beyond" class="level2">
-<h2 class="anchored" data-anchor-id="counting-the-thousands-and-beyond">Counting the thousands and beyond</h2>
+<section id="counting-the-thousands-and-beyond" class="level3">
+<h3 class="anchored" data-anchor-id="counting-the-thousands-and-beyond">Counting the thousands and beyond</h3>
 <p>Counting in the thousands is just like the counting we have done previously, but we just append <strong>-tausend</strong> <span class="pron" data-src="../audio/numbers/thousands/tausend.ogg">🔊</span> to the end of the number. Otherwise, the counting follows the same structure as counting in English. Note that similarly to hundreds, that one thousand is either <strong>eintausend</strong> <span class="pron" data-src="../audio/numbers/thousands/eintausend.ogg">🔊</span> (without the “s”) or just <strong>tausend</strong> <span class="pron" data-src="../audio/numbers/thousands/tausend.ogg">🔊</span>. The first ten thousands are listed in the table below:</p>
 <table class="caption-top table">
 <colgroup>
@@ -1044,13 +1080,13 @@ document.addEventListener("DOMContentLoaded", function () {
 </tr>
 </tbody>
 </table>
-<section id="separators" class="level3">
-<h3 class="anchored" data-anchor-id="separators">Separators</h3>
+<section id="separators" class="level4">
+<h4 class="anchored" data-anchor-id="separators">Separators</h4>
 <p>In the table above, you likely noticed that I have used a “.” rather than a “,” as the thousands separator. That is because, in much of Europe and other places, the “.” is used as the group separator (thousands, millions, billions, etc.) and the “,” is the decimal separator.</p>
 <p>When saying a number, Germans will not pronounce that “.” in the same way we don’t pronounce commas in numbers. For decimals, instead of saying “point” like we would say in English, they say <strong>Komma</strong> <span class="pron" data-src="../audio/numbers/Komma.ogg">🔊</span>.</p>
 </section>
-<section id="one-hundred-thousand-and-beyond" class="level3">
-<h3 class="anchored" data-anchor-id="one-hundred-thousand-and-beyond">One-hundred thousand and beyond</h3>
+<section id="one-hundred-thousand-and-beyond" class="level4">
+<h4 class="anchored" data-anchor-id="one-hundred-thousand-and-beyond">One-hundred thousand and beyond</h4>
 <p>The numbers one-hundred thousand and beyond follow the same conventions that you would expect from English. The table below outlines some numbers beyond ten-thousand.</p>
 <table class="caption-top table">
 <colgroup>
@@ -1086,19 +1122,18 @@ document.addEventListener("DOMContentLoaded", function () {
 </section>
 </section>
 </section>
-<section id="fractions" class="level1">
-<h1>Fractions</h1>
+<section id="fractions" class="level2">
+<h2 class="anchored" data-anchor-id="fractions">Fractions</h2>
 <p>So far this lesson has discussed whole numbers (one, two, three, etc.), but we haven’t discussed fractions yet (one half, two thirds, three sevenths, etc.). I will separate this discussion into a discussion on numerators (number on the top of the fraction) and denominators (number on the bottom of the fraction), then we will put them together.</p>
-<section id="numerators" class="level2">
-<h2 class="anchored" data-anchor-id="numerators">Numerators</h2>
+<section id="numerators" class="level3">
+<h3 class="anchored" data-anchor-id="numerators">Numerators</h3>
 <p>The numerator is the same as the whole numbers that we have already discussed, except for <strong>eins</strong>, which changes to <strong>ein</strong>. No further work is needed for them.</p>
 </section>
-<section id="denominators" class="level2">
-<h2 class="anchored" data-anchor-id="denominators">Denominators</h2>
+<section id="denominators" class="level3">
+<h3 class="anchored" data-anchor-id="denominators">Denominators</h3>
 <p>Below we will discuss the two major patterns we see for denominators.</p>
-</section>
-<section id="denominators-between-two-and-nineteen" class="level2">
-<h2 class="anchored" data-anchor-id="denominators-between-two-and-nineteen">Denominators between two and nineteen</h2>
+<section id="denominators-between-two-and-nineteen" class="level4">
+<h4 class="anchored" data-anchor-id="denominators-between-two-and-nineteen">Denominators between two and nineteen</h4>
 <p>Fractions whose denominators fall between two and nineteen mostly follow the pattern of having <em>-tel</em> added to the end of them and they become capitalized because now they are nouns. However, there are several exceptions (<strong>Halb</strong>, <strong>Drittel</strong>, <strong>Siebtel</strong> and <strong>Achtel</strong>) that don’t follow the simple “whole number + <em>-tel</em>” pattern. I have listed the most common denominators between two and nineteen in the table below:</p>
 <table class="caption-top table">
 <colgroup>
@@ -1155,8 +1190,8 @@ document.addEventListener("DOMContentLoaded", function () {
 </tbody>
 </table>
 </section>
-<section id="denominators-twenty-or-greater" class="level2">
-<h2 class="anchored" data-anchor-id="denominators-twenty-or-greater">Denominators twenty or greater</h2>
+<section id="denominators-twenty-or-greater" class="level4">
+<h4 class="anchored" data-anchor-id="denominators-twenty-or-greater">Denominators twenty or greater</h4>
 <p>Denominators twenty or greater have a slightly different pattern. They all just add <em>-stel</em> to the end of the whole number and they also become capitalized. In the table below, I have summarized some of the most common ones:</p>
 <table class="caption-top table">
 <colgroup>
@@ -1193,8 +1228,9 @@ document.addEventListener("DOMContentLoaded", function () {
 </tbody>
 </table>
 </section>
-<section id="combining-the-numerator-and-denominator" class="level2">
-<h2 class="anchored" data-anchor-id="combining-the-numerator-and-denominator">Combining the numerator and denominator</h2>
+</section>
+<section id="combining-the-numerator-and-denominator" class="level3">
+<h3 class="anchored" data-anchor-id="combining-the-numerator-and-denominator">Combining the numerator and denominator</h3>
 <p>Put the numerator and denominator parts of the fraction together separated by a space and you have a fraction. A few examples of this are found in the table below:</p>
 <table class="caption-top table">
 <thead>
@@ -1814,16 +1850,16 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>Approximate time: 30 minutes</span>
 <span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="fu"># Learning Objectives</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a><span class="fu">## Learning Objectives</span></span>
 <span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>In this lesson, the learner will:</span>
 <span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a><span class="ss">  - </span>Practice counting</span>
 <span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="ss">  - </span>Construct fractions</span>
 <span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>  </span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="fu"># Counting from 0 to 99</span></span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="fu">## Counting from 0 to 99</span></span>
 <span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="fu">## Counting from zero to twelve</span></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="fu">### Counting from zero to twelve</span></span>
 <span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>Similarly to English, the most difficult part of counting in German is learning the numbers zero through twelve. Once you have those down, most of the numbers that follow are trivial, so let's focus on counting to twelve first. Unfortunately, there aren't any tricks that I know of, so it just requires some memorization.</span>
 <span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a></span>
@@ -1886,7 +1922,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a>:::</span>
 <span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a><span class="fu">## Counting from 13 to 19</span></span>
+<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a><span class="fu">### Counting from 13 to 19</span></span>
 <span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a>Now that we have mastered one through twelve, let's briefly discuss the "teens". With our knowledge of three through nine, we can now "add zehn" to those numbers to make our teens. To do this, we are going to append **-zehn** (10) to the end of the numbers to make our "teens". For example, 13 would turn into **dreizehn**, or literally translated to "three ten". </span>
 <span id="cb1-98"><a href="#cb1-98" aria-hidden="true" tabindex="-1"></a></span>
@@ -1909,7 +1945,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-115"><a href="#cb1-115" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 18 <span class="pp">|</span> **achtzehn** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/10_19/achtzehn.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-116"><a href="#cb1-116" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 19 <span class="pp">|</span> **neunzehn** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/10_19/neunzehn.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-117"><a href="#cb1-117" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a><span class="fu">## Counting by tens</span></span>
+<span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a><span class="fu">### Counting by tens</span></span>
 <span id="cb1-119"><a href="#cb1-119" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a>The next step is to learn the tens. In English, we often add *-ty* to the base number to denote it's in the tens place (*four*ty, *six*ty, *seven*ty, *nine*ty). This same idea happens in German but it is with *-zig*. </span>
 <span id="cb1-121"><a href="#cb1-121" aria-hidden="true" tabindex="-1"></a></span>
@@ -1927,7 +1963,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-133"><a href="#cb1-133" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 80 <span class="pp">|</span> **achtzig** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/80_89/achtzig.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-134"><a href="#cb1-134" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 90 <span class="pp">|</span> **neunzig** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/90_99/neunzig.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-135"><a href="#cb1-135" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a><span class="fu">## Counting from 20 to 99</span></span>
+<span id="cb1-136"><a href="#cb1-136" aria-hidden="true" tabindex="-1"></a><span class="fu">### Counting from 20 to 99</span></span>
 <span id="cb1-137"><a href="#cb1-137" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-138"><a href="#cb1-138" aria-hidden="true" tabindex="-1"></a>Armed with how to count by ones and tens, we can count from 20 to 99 with no issues. In English, we say twenty-one, twenty-two, twenty-three, etc., where there is the tens place number followed by the ones place number and separated by a dash.</span>
 <span id="cb1-139"><a href="#cb1-139" aria-hidden="true" tabindex="-1"></a></span>
@@ -2035,9 +2071,9 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-241"><a href="#cb1-241" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-242"><a href="#cb1-242" aria-hidden="true" tabindex="-1"></a>:::</span>
 <span id="cb1-243"><a href="#cb1-243" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-244"><a href="#cb1-244" aria-hidden="true" tabindex="-1"></a><span class="fu"># Counting from 100 and beyond</span></span>
+<span id="cb1-244"><a href="#cb1-244" aria-hidden="true" tabindex="-1"></a><span class="fu">## Counting from 100 and beyond</span></span>
 <span id="cb1-245"><a href="#cb1-245" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-246"><a href="#cb1-246" aria-hidden="true" tabindex="-1"></a><span class="fu">## Counting by hundreds</span></span>
+<span id="cb1-246"><a href="#cb1-246" aria-hidden="true" tabindex="-1"></a><span class="fu">### Counting by hundreds</span></span>
 <span id="cb1-247"><a href="#cb1-247" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-248"><a href="#cb1-248" aria-hidden="true" tabindex="-1"></a>In order to learn how to count in the hundreds, let's first talk about counting by hundreds. To count by hundreds, it is just the base number followed by **-hundert** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/hundreds/hundert.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span>. </span>
 <span id="cb1-249"><a href="#cb1-249" aria-hidden="true" tabindex="-1"></a></span>
@@ -2060,11 +2096,11 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-266"><a href="#cb1-266" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 800 <span class="pp">|</span> **achthundert** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/hundreds/achthundert.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-267"><a href="#cb1-267" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 900 <span class="pp">|</span> **neunhundert** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/hundreds/neunhundert.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-268"><a href="#cb1-268" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-269"><a href="#cb1-269" aria-hidden="true" tabindex="-1"></a><span class="fu">## Counting numbers in the hundreds</span></span>
+<span id="cb1-269"><a href="#cb1-269" aria-hidden="true" tabindex="-1"></a><span class="fu">### Counting numbers in the hundreds</span></span>
 <span id="cb1-270"><a href="#cb1-270" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-271"><a href="#cb1-271" aria-hidden="true" tabindex="-1"></a>With our knowledge of the hundreds, tens and ones, we can put them all together. First, we state our hundreds number, followed by the number as it would be formed in 1-99. So 281, would be **zweihunderteinundachtzig**. As you can imagine, this can start to make some very long words!</span>
 <span id="cb1-272"><a href="#cb1-272" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-273"><a href="#cb1-273" aria-hidden="true" tabindex="-1"></a><span class="fu">## Counting the thousands and beyond</span></span>
+<span id="cb1-273"><a href="#cb1-273" aria-hidden="true" tabindex="-1"></a><span class="fu">### Counting the thousands and beyond</span></span>
 <span id="cb1-274"><a href="#cb1-274" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-275"><a href="#cb1-275" aria-hidden="true" tabindex="-1"></a>Counting in the thousands is just like the counting we have done previously, but we just append **-tausend** &lt;span class="pron" data-src="../audio/numbers/thousands/tausend.ogg"&gt;🔊&lt;/span&gt; to the end of the number. Otherwise, the counting follows the same structure as counting in English. Note that similarly to hundreds, that one thousand is either **eintausend** &lt;span class="pron" data-src="../audio/numbers/thousands/eintausend.ogg"&gt;🔊&lt;/span&gt; (without the "s") or just **tausend** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/thousands/tausend.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span>. The first ten thousands are listed in the table below:</span>
 <span id="cb1-276"><a href="#cb1-276" aria-hidden="true" tabindex="-1"></a></span>
@@ -2081,13 +2117,13 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-287"><a href="#cb1-287" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 9.000 <span class="pp">|</span> **neuntausend** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/thousands/neuntausend.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-288"><a href="#cb1-288" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 10.000 <span class="pp">|</span> **zehntausend** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/ten_thousand_and_higher/zehntausend.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-289"><a href="#cb1-289" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-290"><a href="#cb1-290" aria-hidden="true" tabindex="-1"></a><span class="fu">### Separators</span></span>
+<span id="cb1-290"><a href="#cb1-290" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Separators</span></span>
 <span id="cb1-291"><a href="#cb1-291" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-292"><a href="#cb1-292" aria-hidden="true" tabindex="-1"></a>In the table above, you likely noticed that I have used a "." rather than a "," as the thousands separator. That is because, in much of Europe and other places, the "." is used as the group separator (thousands, millions, billions, etc.) and the "," is the decimal separator. </span>
 <span id="cb1-293"><a href="#cb1-293" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-294"><a href="#cb1-294" aria-hidden="true" tabindex="-1"></a>When saying a number, Germans will not pronounce that "." in the same way we don't pronounce commas in numbers. For decimals, instead of saying "point" like we would say in English, they say **Komma** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/Komma.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span>.</span>
 <span id="cb1-295"><a href="#cb1-295" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-296"><a href="#cb1-296" aria-hidden="true" tabindex="-1"></a><span class="fu">### One-hundred thousand and beyond</span></span>
+<span id="cb1-296"><a href="#cb1-296" aria-hidden="true" tabindex="-1"></a><span class="fu">#### One-hundred thousand and beyond</span></span>
 <span id="cb1-297"><a href="#cb1-297" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-298"><a href="#cb1-298" aria-hidden="true" tabindex="-1"></a>The numbers one-hundred thousand and beyond follow the same conventions that you would expect from English. The table below outlines some numbers beyond ten-thousand. </span>
 <span id="cb1-299"><a href="#cb1-299" aria-hidden="true" tabindex="-1"></a></span>
@@ -2100,19 +2136,19 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-306"><a href="#cb1-306" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-307"><a href="#cb1-307" aria-hidden="true" tabindex="-1"></a>One common mistake of note is to point out here is that a billion in English is **Milliarde** &lt;span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/Milliarde.ogg"&gt;🔊&lt;/span&gt; in German and a trillion in English is **Billion** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/ten_thousand_and_higher/Billion.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> in German. This is a very common mistake for beginners to get tripped up on.</span>
 <span id="cb1-308"><a href="#cb1-308" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-309"><a href="#cb1-309" aria-hidden="true" tabindex="-1"></a><span class="fu"># Fractions</span></span>
+<span id="cb1-309"><a href="#cb1-309" aria-hidden="true" tabindex="-1"></a><span class="fu">## Fractions</span></span>
 <span id="cb1-310"><a href="#cb1-310" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-311"><a href="#cb1-311" aria-hidden="true" tabindex="-1"></a>So far this lesson has discussed whole numbers (one, two, three, etc.), but we haven't discussed fractions yet (one half, two thirds, three sevenths, etc.). I will separate this discussion into a discussion on numerators (number on the top of the fraction) and denominators (number on the bottom of the fraction), then we will put them together.</span>
 <span id="cb1-312"><a href="#cb1-312" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-313"><a href="#cb1-313" aria-hidden="true" tabindex="-1"></a><span class="fu">## Numerators</span></span>
+<span id="cb1-313"><a href="#cb1-313" aria-hidden="true" tabindex="-1"></a><span class="fu">### Numerators</span></span>
 <span id="cb1-314"><a href="#cb1-314" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-315"><a href="#cb1-315" aria-hidden="true" tabindex="-1"></a>The numerator is the same as the whole numbers that we have already discussed, except for **eins**, which changes to **ein**. No further work is needed for them. </span>
 <span id="cb1-316"><a href="#cb1-316" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-317"><a href="#cb1-317" aria-hidden="true" tabindex="-1"></a><span class="fu">## Denominators</span></span>
+<span id="cb1-317"><a href="#cb1-317" aria-hidden="true" tabindex="-1"></a><span class="fu">### Denominators</span></span>
 <span id="cb1-318"><a href="#cb1-318" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-319"><a href="#cb1-319" aria-hidden="true" tabindex="-1"></a>Below we will discuss the two major patterns we see for denominators.</span>
 <span id="cb1-320"><a href="#cb1-320" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-321"><a href="#cb1-321" aria-hidden="true" tabindex="-1"></a><span class="fu">## Denominators between two and nineteen</span></span>
+<span id="cb1-321"><a href="#cb1-321" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Denominators between two and nineteen</span></span>
 <span id="cb1-322"><a href="#cb1-322" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-323"><a href="#cb1-323" aria-hidden="true" tabindex="-1"></a>Fractions whose denominators fall between two and nineteen mostly follow the pattern of having *-tel* added to the end of them and they become capitalized because now they are nouns. However, there are several exceptions (**Halb**, **Drittel**, **Siebtel** and **Achtel**) that don’t follow the simple “whole number + *-tel*” pattern. I have listed the most common denominators between two and nineteen in the table below:</span>
 <span id="cb1-324"><a href="#cb1-324" aria-hidden="true" tabindex="-1"></a></span>
@@ -2125,7 +2161,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-331"><a href="#cb1-331" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 6 <span class="pp">|</span> **Sechstel** &lt;span class="pron" data-src="../audio/numbers/fractions/Sechstel.ogg"&gt;🔊&lt;/span&gt; | 12 | **Zwölftel** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/fractions/Zwölftel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-332"><a href="#cb1-332" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 7 <span class="pp">|</span> **Siebtel** &lt;span class="pron" data-src="../audio/numbers/fractions/Siebtel.ogg"&gt;🔊&lt;/span&gt; | 16 | **Sechzehntel** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/fractions/Sechzehntel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-333"><a href="#cb1-333" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-334"><a href="#cb1-334" aria-hidden="true" tabindex="-1"></a><span class="fu">## Denominators twenty or greater</span></span>
+<span id="cb1-334"><a href="#cb1-334" aria-hidden="true" tabindex="-1"></a><span class="fu">#### Denominators twenty or greater</span></span>
 <span id="cb1-335"><a href="#cb1-335" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-336"><a href="#cb1-336" aria-hidden="true" tabindex="-1"></a>Denominators twenty or greater have a slightly different pattern. They all just add *-stel* to the end of the whole number and they also become capitalized. In the table below, I have summarized some of the most common ones:</span>
 <span id="cb1-337"><a href="#cb1-337" aria-hidden="true" tabindex="-1"></a></span>
@@ -2137,7 +2173,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <span id="cb1-343"><a href="#cb1-343" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 1000 <span class="pp">|</span> **Tausendstel** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/fractions/Tausendstel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-344"><a href="#cb1-344" aria-hidden="true" tabindex="-1"></a><span class="pp">|</span> 1000000 <span class="pp">|</span> **Millionstel** <span class="dt">&lt;</span><span class="kw">span</span><span class="ot"> class</span><span class="op">=</span><span class="st">"pron"</span><span class="ot"> data-src</span><span class="op">=</span><span class="st">"../audio/numbers/fractions/Millionstel.ogg"</span><span class="dt">&gt;</span>🔊<span class="dt">&lt;/</span><span class="kw">span</span><span class="dt">&gt;</span> <span class="pp">|</span></span>
 <span id="cb1-345"><a href="#cb1-345" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-346"><a href="#cb1-346" aria-hidden="true" tabindex="-1"></a><span class="fu">## Combining the numerator and denominator</span></span>
+<span id="cb1-346"><a href="#cb1-346" aria-hidden="true" tabindex="-1"></a><span class="fu">### Combining the numerator and denominator</span></span>
 <span id="cb1-347"><a href="#cb1-347" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-348"><a href="#cb1-348" aria-hidden="true" tabindex="-1"></a>Put the numerator and denominator parts of the fraction together separated by a space and you have a fraction. A few examples of this are found in the table below:</span>
 <span id="cb1-349"><a href="#cb1-349" aria-hidden="true" tabindex="-1"></a></span>

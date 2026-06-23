@@ -21,22 +21,22 @@ editor_options:
 
 Approximate time: 30 minutes
 
-# Learning Objectives
+## Learning Objectives
 
 In this lesson, the learner will:
 
   - Identify time
   - Use **um**, **ab**, **von** and **bis** in basic time expressions
 
-# 12-hour and 24-hour clocks
+## 12-hour and 24-hour clocks
 
 In many English speaking countries, people tend to either use a 12-hour (AM and PM) or 24-hour system for telling time. But in German it is more of a mix and we will try to highlight the context of when each might be used in this lesson. When writing times as numbers, like 05:15, 13:30 and 17:35, they are almost always written in a 24‑hour format. However, how one might say those times or write them out in words could have some variety that we will explore in this lesson. First, you’ll learn how to write full hours, then add minutes, then learn the special shortcuts Germans use and finally how to use some common time prepositions.
 
-# Wie spät ist es?
+## Wie spät ist es?
 
 A common way to ask for the time in German is with the expression, **Wie spät ist es?** <span class="tts-de" data-text="Wie spät ist es?">🔊</span>, which would literally translate to "How late is it?". We will be using this in our exercises to ask you for the time, so it will be a good expression to get yourself acquainted with.
 
-# Hours
+## Hours
 
 Let's start by discussing how hours are described. In English, we sometimes describe time by saying the hour followed by "o'clock", which is a contraction for "of the clock". This principle carries over nicely to German, because they will say the hour followed by **Uhr** <span class="pron" data-src="../audio/numbers/time/Uhr.ogg">🔊</span>, which in other contexts can mean "clock" or "watch", but in this context is most similar to English's "o'clock". The table below lays out the hourly times in German:
 
@@ -93,7 +93,7 @@ Use the app below to practice telling time by the hour
 
 :::
 
-# Minutes
+## Minutes
 
 The most straightforward way of stating the time including minutes in German is to use *hour* + **Uhr** + *minutes*. When doing this, you can use 12-hour or 24-hour time. Below are a few examples of how various times may occur:
 
@@ -123,7 +123,7 @@ Use the app below to practice telling time to the closest five minute mark. Do n
 
 :::
 
-# Special cases
+## Special cases
 
 In English, we have special names for certain times. For example, the half-hour mark is sometimes colloquially called "half past" some hour. Or the :15 and :45 marks are sometimes called "quarter past" or "quarter of" some hour, respectively. These special cases exist in German.  We will discuss each in the subsections below:
 
@@ -132,19 +132,19 @@ In English, we have special names for certain times. For example, the half-hour 
 It is important to note that these "special cases" ONLY use the 12-hour time and are not used with 24-hour time. You can append **morgens** <span class="pron" data-src="../audio/numbers/time/morgens.ogg">🔊</span>, **vormittags** <span class="pron" data-src="../audio/numbers/time/vormittags.ogg">🔊</span>, **nachmittags** <span class="pron" data-src="../audio/numbers/time/nachmittags.ogg">🔊</span>, **abends** <span class="pron" data-src="../audio/numbers/time/abends.ogg">🔊</span> and **nachts** <span class="pron" data-src="../audio/numbers/time/nachts.ogg">🔊</span> in order to add specificity if you would like. In the examples in the following subsections, I will intentionally not be providing AM and PM to emphasize this point. You don’t have to use these to be understood, but you will hear them often from native speakers, so it’s important to recognize them.
 :::
 
-## Half-hour
+### Half-hour
 
 The half-hour mark is likely the most difficult of these special cases because it doesn't behave the same way in German as it does English. A time like 5:30 would be called "half past five" but in German the nuance is that the "half past" turns into "half before" and so in German it is "half before six", or **halb sechs** <span class="tts-de" data-text="halb sechs">🔊</span>. Recall from our fractions that **halb** <span class="pron" data-src="../audio/numbers/fractions/Halb.ogg">🔊</span>, means 1/2. So 6:30 is halb sieben and 8:30 is halb neun and so on.
 
-## Quarter-hour
+### Quarter-hour
 
 The quarter-hour marks function exactly the same in German as they do in English and armed with our knowledge of **vor** <span class="pron" data-src="../audio/prepositions/vor.ogg">🔊</span> and **nach** <span class="pron" data-src="../audio/prepositions/nach.ogg">🔊</span> from earlier along with **Viertel** <span class="pron" data-src="../audio/numbers/fractions/Viertel.ogg">🔊</span> being a "quarter" or "1/4", we can describe these quarter hour marks. The time 5:45 can be described as **Viertel vor sechs** <span class="tts-de" data-text="Viertel vor sechs">🔊</span>, or "quarter before six", and 6:15 can be described as **Viertel nach sechs** <span class="tts-de" data-text="Viertel nach sechs">🔊</span>, or "quarter past six".
 
-## Five or ten minutes prior to and after the hour
+### Five or ten minutes prior to and after the hour
 
 Just like the quarter-hour marks, we can use **vor** <span class="pron" data-src="../audio/prepositions/vor.ogg">🔊</span> and **nach** <span class="pron" data-src="../audio/prepositions/nach.ogg">🔊</span> along with **fünf** <span class="pron" data-src="../audio/numbers/0_9/fünf.ogg">🔊</span> and **zehn** <span class="pron" data-src="../audio/numbers/10_19/zehn.ogg">🔊</span> to describe five or ten minutes prior to and after the hour. For example, 5:55 could be **fünf vor sechs** <span class="tts-de" data-text="fünf vor sechs">🔊</span> and 6:05 could be **fünf nach sechs** <span class="tts-de" data-text="fünf nach sechs">🔊</span>, while 5:50 could be **zehn vor sechs** <span class="tts-de" data-text="zehn vor sechs">🔊</span> and 6:10 could be **zehn nach sechs** <span class="tts-de" data-text="zehn nach sechs">🔊</span>.
 
-## Five or ten minutes prior to and after the half-hour
+### Five or ten minutes prior to and after the half-hour
 
 The same principles for describing five or ten minutes prior to and after the hour can also be applied to the half-hour mark. For example, 5:20 could be **zehn vor halb sechs** <span class="tts-de" data-text="zehn vor halb sechs">🔊</span>, 5:25 could be **fünf vor halb sechs** <span class="tts-de" data-text="fünf vor halb sechs">🔊</span>, 5:35 could be **fünf nach halb sechs** <span class="tts-de" data-text="fünf nach halb sechs">🔊</span> and 5:40 could be **zehn nach halb sechs** <span class="tts-de" data-text="zehn nach halb sechs">🔊</span>.
 
@@ -163,7 +163,7 @@ Use the app below to practice telling time to the closest five minute mark. Do n
 
 :::
 
-# Um, Von, Ab and Bis 
+## Um, Von, Ab and Bis 
 
 There are four prepositions that are quite helpful with time: **um** <span class="pron" data-src="../audio/prepositions/um.ogg">🔊</span>, **ab** <span class="pron" data-src="../audio/prepositions/ab.ogg">🔊</span>, **von** <span class="pron" data-src="../audio/prepositions/von.ogg">🔊</span> and **bis** <span class="pron" data-src="../audio/prepositions/bis.ogg">🔊</span>. All four of these prepositions have other non-time uses contexts that we will discuss when we discuss prepositions. But in the context of time, **um** <span class="pron" data-src="../audio/prepositions/um.ogg">🔊</span> means "at", **ab** <span class="pron" data-src="../audio/prepositions/ab.ogg">🔊</span> means 'from' in the sense of 'starting at and continuing from then on', **von** <span class="pron" data-src="../audio/prepositions/von.ogg">🔊</span> means 'from' and is almost always paired with **bis** <span class="pron" data-src="../audio/prepositions/bis.ogg">🔊</span> to define a time range and **bis** <span class="pron" data-src="../audio/prepositions/bis.ogg">🔊</span> means "until". Some examples of using these prepositions in sentences could look like:
 

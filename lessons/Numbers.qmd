@@ -20,16 +20,16 @@ editor_options:
 
 Approximate time: 30 minutes
 
-# Learning Objectives
+## Learning Objectives
 
 In this lesson, the learner will:
 
   - Practice counting
   - Construct fractions
   
-# Counting from 0 to 99
+## Counting from 0 to 99
 
-## Counting from zero to twelve
+### Counting from zero to twelve
 
 Similarly to English, the most difficult part of counting in German is learning the numbers zero through twelve. Once you have those down, most of the numbers that follow are trivial, so let's focus on counting to twelve first. Unfortunately, there aren't any tricks that I know of, so it just requires some memorization.
 
@@ -92,7 +92,7 @@ Click on the speaker to hear a number between zero and twelve and then enter the
 
 :::
 
-## Counting from 13 to 19
+### Counting from 13 to 19
 
 Now that we have mastered one through twelve, let's briefly discuss the "teens". With our knowledge of three through nine, we can now "add zehn" to those numbers to make our teens. To do this, we are going to append **-zehn** (10) to the end of the numbers to make our "teens". For example, 13 would turn into **dreizehn**, or literally translated to "three ten". 
 
@@ -115,7 +115,7 @@ Below is a table of the -teen numbers:
 | 18 | **achtzehn** <span class="pron" data-src="../audio/numbers/10_19/achtzehn.ogg">🔊</span> |
 | 19 | **neunzehn** <span class="pron" data-src="../audio/numbers/10_19/neunzehn.ogg">🔊</span> |
 
-## Counting by tens
+### Counting by tens
 
 The next step is to learn the tens. In English, we often add *-ty* to the base number to denote it's in the tens place (*four*ty, *six*ty, *seven*ty, *nine*ty). This same idea happens in German but it is with *-zig*. 
 
@@ -133,7 +133,7 @@ English has three exceptions to this pattern (twenty, thirty and fifty are not c
 | 80 | **achtzig** <span class="pron" data-src="../audio/numbers/80_89/achtzig.ogg">🔊</span> |
 | 90 | **neunzig** <span class="pron" data-src="../audio/numbers/90_99/neunzig.ogg">🔊</span> |
 
-## Counting from 20 to 99
+### Counting from 20 to 99
 
 Armed with how to count by ones and tens, we can count from 20 to 99 with no issues. In English, we say twenty-one, twenty-two, twenty-three, etc., where there is the tens place number followed by the ones place number and separated by a dash.
 
@@ -241,9 +241,9 @@ Click on the speaker to hear a number between 0 and 99 and then enter the numera
 
 :::
 
-# Counting from 100 and beyond
+## Counting from 100 and beyond
 
-## Counting by hundreds
+### Counting by hundreds
 
 In order to learn how to count in the hundreds, let's first talk about counting by hundreds. To count by hundreds, it is just the base number followed by **-hundert** <span class="pron" data-src="../audio/numbers/hundreds/hundert.ogg">🔊</span>. 
 
@@ -266,11 +266,11 @@ The table below outlines the hundreds:
 | 800 | **achthundert** <span class="pron" data-src="../audio/numbers/hundreds/achthundert.ogg">🔊</span> |
 | 900 | **neunhundert** <span class="pron" data-src="../audio/numbers/hundreds/neunhundert.ogg">🔊</span> |
 
-## Counting numbers in the hundreds
+### Counting numbers in the hundreds
 
 With our knowledge of the hundreds, tens and ones, we can put them all together. First, we state our hundreds number, followed by the number as it would be formed in 1-99. So 281, would be **zweihunderteinundachtzig**. As you can imagine, this can start to make some very long words!
 
-## Counting the thousands and beyond
+### Counting the thousands and beyond
 
 Counting in the thousands is just like the counting we have done previously, but we just append **-tausend** <span class="pron" data-src="../audio/numbers/thousands/tausend.ogg">🔊</span> to the end of the number. Otherwise, the counting follows the same structure as counting in English. Note that similarly to hundreds, that one thousand is either **eintausend** <span class="pron" data-src="../audio/numbers/thousands/eintausend.ogg">🔊</span> (without the "s") or just **tausend** <span class="pron" data-src="../audio/numbers/thousands/tausend.ogg">🔊</span>. The first ten thousands are listed in the table below:
 
@@ -287,13 +287,13 @@ Counting in the thousands is just like the counting we have done previously, but
 | 9.000 | **neuntausend** <span class="pron" data-src="../audio/numbers/thousands/neuntausend.ogg">🔊</span> |
 | 10.000 | **zehntausend** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/zehntausend.ogg">🔊</span> |
 
-### Separators
+#### Separators
 
 In the table above, you likely noticed that I have used a "." rather than a "," as the thousands separator. That is because, in much of Europe and other places, the "." is used as the group separator (thousands, millions, billions, etc.) and the "," is the decimal separator. 
 
 When saying a number, Germans will not pronounce that "." in the same way we don't pronounce commas in numbers. For decimals, instead of saying "point" like we would say in English, they say **Komma** <span class="pron" data-src="../audio/numbers/Komma.ogg">🔊</span>.
 
-### One-hundred thousand and beyond
+#### One-hundred thousand and beyond
 
 The numbers one-hundred thousand and beyond follow the same conventions that you would expect from English. The table below outlines some numbers beyond ten-thousand. 
 
@@ -306,19 +306,19 @@ The numbers one-hundred thousand and beyond follow the same conventions that you
 
 One common mistake of note is to point out here is that a billion in English is **Milliarde** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/Milliarde.ogg">🔊</span> in German and a trillion in English is **Billion** <span class="pron" data-src="../audio/numbers/ten_thousand_and_higher/Billion.ogg">🔊</span> in German. This is a very common mistake for beginners to get tripped up on.
 
-# Fractions
+## Fractions
 
 So far this lesson has discussed whole numbers (one, two, three, etc.), but we haven't discussed fractions yet (one half, two thirds, three sevenths, etc.). I will separate this discussion into a discussion on numerators (number on the top of the fraction) and denominators (number on the bottom of the fraction), then we will put them together.
 
-## Numerators
+### Numerators
 
 The numerator is the same as the whole numbers that we have already discussed, except for **eins**, which changes to **ein**. No further work is needed for them. 
 
-## Denominators
+### Denominators
 
 Below we will discuss the two major patterns we see for denominators.
 
-## Denominators between two and nineteen
+#### Denominators between two and nineteen
 
 Fractions whose denominators fall between two and nineteen mostly follow the pattern of having *-tel* added to the end of them and they become capitalized because now they are nouns. However, there are several exceptions (**Halb**, **Drittel**, **Siebtel** and **Achtel**) that don’t follow the simple “whole number + *-tel*” pattern. I have listed the most common denominators between two and nineteen in the table below:
 
@@ -331,7 +331,7 @@ Fractions whose denominators fall between two and nineteen mostly follow the pat
 | 6 | **Sechstel** <span class="pron" data-src="../audio/numbers/fractions/Sechstel.ogg">🔊</span> | 12 | **Zwölftel** <span class="pron" data-src="../audio/numbers/fractions/Zwölftel.ogg">🔊</span> |
 | 7 | **Siebtel** <span class="pron" data-src="../audio/numbers/fractions/Siebtel.ogg">🔊</span> | 16 | **Sechzehntel** <span class="pron" data-src="../audio/numbers/fractions/Sechzehntel.ogg">🔊</span> |
 
-## Denominators twenty or greater
+#### Denominators twenty or greater
 
 Denominators twenty or greater have a slightly different pattern. They all just add *-stel* to the end of the whole number and they also become capitalized. In the table below, I have summarized some of the most common ones:
 
@@ -343,7 +343,7 @@ Denominators twenty or greater have a slightly different pattern. They all just 
 | 1000 | **Tausendstel** <span class="pron" data-src="../audio/numbers/fractions/Tausendstel.ogg">🔊</span> |
 | 1000000 | **Millionstel** <span class="pron" data-src="../audio/numbers/fractions/Millionstel.ogg">🔊</span> |
 
-## Combining the numerator and denominator
+### Combining the numerator and denominator
 
 Put the numerator and denominator parts of the fraction together separated by a space and you have a fraction. A few examples of this are found in the table below:
 

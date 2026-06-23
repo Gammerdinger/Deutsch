@@ -20,15 +20,15 @@ editor_options:
 
 Approximate time: 30 minutes
 
-# Learning Objectives
+## Learning Objectives
 
 In this lesson, the learner will:
 
   - Identify 2-D and 3-D shapes
 
-# 2-dimensional shapes
+## 2-dimensional shapes
 
-## Polygons
+### Polygons
 
   Polygons in German are a little easier than in English, but it generally follows a similar pattern to English. As you increase the number of sides in English after a quadrilateral, you simply have a numerical prefix (penta-, hexa-, etc.) followed by *-gon*. The etymology of *-gon* in reference to shapes traces back to the Greek suffix -gōnia (-γωνο), which means angles. So something like *pentagon* can be broken down into "five angles"/"five corners".
 
@@ -42,7 +42,7 @@ In this lesson, the learner will:
 
   We can see that it is simply the number of corners in the polygon, followed by the **-eck** suffix. In fact, polygon translates directly to **das Vieleck** <span class="pron" data-src="../audio/shapes/2d/Vieleck.ogg">🔊</span> (**viel** <span class="pron" data-src="../audio/shapes/2d/viel.ogg">🔊</span> is the German word for "many"), so the connections between German and English for polygons are pretty strong.
 
-## Special quadrilaterals
+### Special quadrilaterals
 
   While this pattern works for generally describing polygons, there are also some special quadrilaterals in German as well. In the same way that squares, rectangles and parallelograms are all special quadrilaterals in English, there are special names for different quadrilaterals, which can be found in the table below:
 
@@ -54,7 +54,7 @@ In this lesson, the learner will:
 | rhombus / diamond | **die Raute** <span class="pron" data-src="../audio/shapes/2d/Raute.ogg">🔊</span> |
 | trapezoid | **das Trapez** <span class="pron" data-src="../audio/shapes/2d/Trapez.ogg">🔊</span> |
 
-## Curved Shapes
+### Curved Shapes
 
 The table below outlines the curved shapes:
 
@@ -81,9 +81,9 @@ Use the app below to practice identifying 2-dimensional shapes in German.
 
 :::
 
-# 3-dimensional shapes
+## 3-dimensional shapes
 
-## Prisms
+### Prisms
 
   Let's start discussing three-dimensional shapes with the prisms, because they follow a simple pattern. In English, we take the name of the face for the prism and often add "-al prism" (pentagonal prism, hexagonal prism, etc.). Notably triangular and rectangular prisms don't fit that pattern in English. The good news is that in German the pattern is actually easier than English. In German, you take the name of the face of the prism and simply add **-ig Prisma**. So let's see how German constructs prism shapes in the table below:
 
@@ -97,10 +97,11 @@ Use the app below to practice identifying 2-dimensional shapes in German.
   You will notice that **-e** is appended to the end of **number + eckig**. This has to do with "three-cornered", "four-cornered", etc. are adjectives and this is the behavior for adjectives in this context. We are going to talk more about adjectives at a later point, so for now you can just remember to add **-e**.
 
 :::{.callout-note}
+# Counting sides instead of corners
 The German word for "side" in relation to shapes is **die Seite** <span class="pron" data-src="../audio/shapes/3d/Seite.ogg">🔊</span> (notably also means page). Sometimes, instead of **-eckige**, you will see it referred to as "-sided", **-seitige**. So, triangular prisms might be referred to as **das dreiseitige** <span class="pron" data-src="../audio/shapes/3d/dreiseitige.ogg">🔊</span> **Prisma** <span class="pron" data-src="../audio/shapes/3d/Prisma.ogg">🔊</span>.
 :::
 
-## Special shapes
+### Special shapes
 
   Unfortunately like cube, cone and sphere in English, German has some unique names for some three-dimensional shapes that just need to be memorized. There is no pattern that you can rely on.
 
@@ -122,6 +123,7 @@ The German word for "side" in relation to shapes is **die Seite** <span class="p
 \*\*\* Once again, like **Halbkreis** <span class="pron" data-src="../audio/shapes/2d/Halbkreis.ogg">🔊</span>, it is useful to know fractions since **Halbkugel** <span class="pron" data-src="../audio/shapes/3d/Halbkugel.ogg">🔊</span> literally translates to "half sphere".
 
 :::{.callout-note}
+# Counting sides with pyramids
 Similarly to the prisms, you will sometimes see pyramids be referred to using the number of sides on the base, like **die dreiseitige Pyramide** and **die vierseitige Pyramide** for triangular pyramids and square pyramid, respectively, rather than the number of corners like provided in the table above.
 :::
 
