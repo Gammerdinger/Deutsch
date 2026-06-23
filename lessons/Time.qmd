@@ -40,7 +40,10 @@ A common way to ask for the time in German is with the expression, **Wie spät i
 
 Let's start by discussing how hours are described. In English, we sometimes describe time by saying the hour followed by "o'clock", which is a contraction for "of the clock". This principle carries over nicely to German, because they will say the hour followed by **Uhr** <span class="pron" data-src="../audio/numbers/time/Uhr.ogg">🔊</span>, which in other contexts can mean "clock" or "watch", but in this context is most similar to English's "o'clock". The table below lays out the hourly times in German:
 
-::: {.vcenter-table}
+:::{.vcenter-table}
+
+: Hours in German (12‑hour and 24‑hour forms) {#tbl-hours}
+
 | Time | German | Time | German |
 |:---:|:------:|:---:|:------:|
 | 12:00 AM | **zwölf Uhr** <span class="tts-de" data-text="zwölf Uhr">🔊</span><br>**die Mitternacht** <span class="pron" data-src="../audio/numbers/time/Mitternacht.ogg">🔊</span> | 12:00 PM | **zwölf Uhr** <span class="tts-de" data-text="zwölf Uhr">🔊</span><br>**der Mittag** <span class="pron" data-src="../audio/numbers/time/Mittag.ogg">🔊</span> |
@@ -63,6 +66,9 @@ A few things will likely stand out to you from this table:
 - PM times can be described both by their 12-hour time and their 24-hour time. Both are used often enough.
 - Because PM times can sometimes use 12-hour times, you might think that leaves some ambiguity, but in reality you can usually piece it together from context. If you tell your friend that you will meet them for coffee at 3 o'clock in English, most people would assume PM over AM. The same idea exists in German as well. That being said, you can make it more explicit if it feels warranted. In the same way that you might tell your friend that you are meeting them at 7 o'clock "in the morning" or "at night" to remove that ambiguity. The table below gives loose guidelines on what phrase to append to the time to remove that ambiguity, such that 7 AM would be **sieben Uhr morgens** <span class="tts-de" data-text="sieben Uhr morgens">🔊</span>, while 7 PM would be **sieben Uhr abends** <span class="tts-de" data-text="sieben Uhr abends">🔊</span>:
 
+:::{.vcenter-table}
+: Common German time-of-day adverbs {#tbl-timeofday}
+
 | Time of Day | German | English |
 |:---:|:------:|:---:|
 | 5 AM - 10 AM | **morgens** <span class="pron" data-src="../audio/numbers/time/morgens.ogg">🔊</span> | morning |
@@ -70,16 +76,17 @@ A few things will likely stand out to you from this table:
 | 12 PM - 5 PM | **nachmittags** <span class="pron" data-src="../audio/numbers/time/nachmittags.ogg">🔊</span> | afternoon |
 | 5 PM - 10 PM | **abends** <span class="pron" data-src="../audio/numbers/time/abends.ogg">🔊</span> | evening |
 | 10 PM - 4 AM | **nachts** <span class="pron" data-src="../audio/numbers/time/nachts.ogg">🔊</span> | night |
+:::
 
 You can notice in the table that we describe late morning with **vormittags** <span class="pron" data-src="../audio/numbers/time/vormittags.ogg">🔊</span> and afternoon with **nachmittags** <span class="pron" data-src="../audio/numbers/time/nachmittags.ogg">🔊</span>, while in the early table noon was translated as **der Mittag** <span class="pron" data-src="../audio/numbers/time/Mittag.ogg">🔊</span>. You may be able to guess, correctly, that **vor** <span class="pron" data-src="../audio/prepositions/vor.ogg">🔊</span> can mean "before" and **nach** <span class="pron" data-src="../audio/prepositions/nach.ogg">🔊</span> can mean "after". So **vormittags** <span class="pron" data-src="../audio/numbers/time/vormittags.ogg">🔊</span> literally translates to "before noon" and **nachmittags** <span class="pron" data-src="../audio/numbers/time/nachmittags.ogg">🔊</span> literally translates to "after noon", or "afternoon". The words **vor** <span class="pron" data-src="../audio/prepositions/vor.ogg">🔊</span> and **nach** <span class="pron" data-src="../audio/prepositions/nach.ogg">🔊</span> can have other uses as prepositions that we will explore in later lessons. 
 
 :::{.callout-note}
-# Don't confuse Uhr and Stunde!
+### Don't confuse Uhr and Stunde!
 It is really important to note that it can be tempting to think of **Uhr** <span class="pron" data-src="../audio/numbers/time/Uhr.ogg">🔊</span> as "hour", because it sort of sounds like a cognate for "hour" and you might think of it standing in the place for "hour" when talking about time. However, it isn't and I can assure you that it's only going to confuse you later. The word for "hour" is **die Stunde** <span class="pron" data-src="../audio/numbers/time/Stunde.ogg">🔊</span> and if you think about **Uhr** <span class="pron" data-src="../audio/numbers/time/Uhr.ogg">🔊</span> being "hour" rather than "o'clock", then you will almost certainly misuse **Uhr** <span class="pron" data-src="../audio/numbers/time/Uhr.ogg">🔊</span> when you mean to use **Stunde** <span class="pron" data-src="../audio/numbers/time/Stunde.ogg">🔊</span>. So think about **Uhr** <span class="pron" data-src="../audio/numbers/time/Uhr.ogg">🔊</span> being more like "o'clock", but also "clock" or "watch" as well.
 :::
 
 :::{.callout-tip}
-# Exercise 1
+### Exercise 1
 
 Use the app below to practice telling time by the hour
 
@@ -97,7 +104,9 @@ Use the app below to practice telling time by the hour
 
 The most straightforward way of stating the time including minutes in German is to use *hour* + **Uhr** + *minutes*. When doing this, you can use 12-hour or 24-hour time. Below are a few examples of how various times may occur:
 
-::: {.vcenter-table}
+:::{.vcenter-table}
+: Examples of German time expressions with minutes {#tbl-minutes_example}
+
 | Time | German |
 |:---:|:---:|
 | 5:20 AM | **fünf Uhr zwanzig** <span class="tts-de" data-text="fünf Uhr zwanzig">🔊</span><br>**fünf Uhr zwanzig morgens** <span class="tts-de" data-text="fünf Uhr zwanzig morgens">🔊</span> |
@@ -109,7 +118,7 @@ The most straightforward way of stating the time including minutes in German is 
 You can see that in the table, there are several ways to describe a given time and all are valid ways to do so.
 
 :::{.callout-tip}
-# Exercise 2
+### Exercise 2
 
 Use the app below to practice telling time to the closest five minute mark. Do not provide **morgens**, **vormittags**, etc. in this exercise.
 
@@ -128,7 +137,7 @@ Use the app below to practice telling time to the closest five minute mark. Do n
 In English, we have special names for certain times. For example, the half-hour mark is sometimes colloquially called "half past" some hour. Or the :15 and :45 marks are sometimes called "quarter past" or "quarter of" some hour, respectively. These special cases exist in German.  We will discuss each in the subsections below:
 
 :::{.callout-note}
-# Special cases only use 12-hour time!
+### Special cases only use 12-hour time!
 It is important to note that these "special cases" ONLY use the 12-hour time and are not used with 24-hour time. You can append **morgens** <span class="pron" data-src="../audio/numbers/time/morgens.ogg">🔊</span>, **vormittags** <span class="pron" data-src="../audio/numbers/time/vormittags.ogg">🔊</span>, **nachmittags** <span class="pron" data-src="../audio/numbers/time/nachmittags.ogg">🔊</span>, **abends** <span class="pron" data-src="../audio/numbers/time/abends.ogg">🔊</span> and **nachts** <span class="pron" data-src="../audio/numbers/time/nachts.ogg">🔊</span> in order to add specificity if you would like. In the examples in the following subsections, I will intentionally not be providing AM and PM to emphasize this point. You don’t have to use these to be understood, but you will hear them often from native speakers, so it’s important to recognize them.
 :::
 
@@ -149,7 +158,7 @@ Just like the quarter-hour marks, we can use **vor** <span class="pron" data-src
 The same principles for describing five or ten minutes prior to and after the hour can also be applied to the half-hour mark. For example, 5:20 could be **zehn vor halb sechs** <span class="tts-de" data-text="zehn vor halb sechs">🔊</span>, 5:25 could be **fünf vor halb sechs** <span class="tts-de" data-text="fünf vor halb sechs">🔊</span>, 5:35 could be **fünf nach halb sechs** <span class="tts-de" data-text="fünf nach halb sechs">🔊</span> and 5:40 could be **zehn nach halb sechs** <span class="tts-de" data-text="zehn nach halb sechs">🔊</span>.
 
 :::{.callout-tip}
-# Exercise 3
+### Exercise 3
 
 Use the app below to practice telling time to the closest five minute mark. Do not provide **morgens**, **vormittags**, etc. in this exercise.
 
@@ -173,7 +182,7 @@ There are four prepositions that are quite helpful with time: **um** <span class
 - *Die Party ist von fünf Uhr bis acht Uhr.* <span class="tts-de" data-text="Die Party ist von fünf Uhr bis acht Uhr.">🔊</span> "The party is from five o'clock until eight o'clock."
 
 :::{.callout-note}
-# Using Uhr once with von..bis...
+### Using Uhr once with von..bis...
 In the last example sentence, **Die Party ist von fünf Uhr bis acht Uhr** <span class="tts-de" data-text="Die Party ist von fünf Uhr bis acht Uhr.">🔊</span>, you can see that we used **Uhr** <span class="pron" data-src="../audio/numbers/time/Uhr.ogg">🔊</span> twice in this sentence. You can also say **Die Party ist von fünf bis acht Uhr** <span class="tts-de" data-text="Die Party ist von fünf bis acht Uhr.">🔊</span> and a literal translation would be "The party is from five until eight o'clock." Both ways of structuring the sentence are fine and used commonly enough.
 :::
 
